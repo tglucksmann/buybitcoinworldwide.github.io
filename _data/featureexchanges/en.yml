@@ -1,0 +1,10 @@
+# Coinbase
+
+exchange: Coinbase
+	title: Buy bitcoin on Coinbase
+	desc: Buy bitcoin using your bank account in 23 countires. 
+
+# LocalBitcoins
+exchange: Local Bitcoins
+	title: Buy bitcoin on Local Bitcoins
+	desc: Buy bitcoin from brokers near you, online or in person.

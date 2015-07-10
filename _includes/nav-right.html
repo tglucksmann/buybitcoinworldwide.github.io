@@ -1,3 +1,12 @@
-<li class="hidden-xs"><iframe src="http://ghbtns.com/github-btn.html?user=ellekasai&repo=shiori&type=watch&count=true&size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30" style="margin-top: 14px;"></iframe>
-</li>
+<div class="featured-exchanges">
+	{% for exchange in site.data.featuredexchanges.en %}
+	<div class="coinbase exchange-box">
+		<h4></h4>
+		<p>{{ exchange.desc }}</p>
+	</div>
+	<div class="localbitcoins exchange-box">
+		<h4></h4>
+		<p>{{ exchange.desc }}</p>
+	</div>
+	{% endfor %}
+</div>
