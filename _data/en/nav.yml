@@ -1,0 +1,9 @@
+ - name: Coinbase
+   desc: Buy bitcoin quickly with your bank account in 23 countires. 
+   url: https://coinbase.com/
+   icon: https://coinbase.com/favicon.ico
+
+ - name: Local Bitcoins
+   desc: Buy bitcoin from brokers near you, online or in person.
+   url: https://localbitcoins.com/
+   icon: https://localbitcoins.com/favicon.ico

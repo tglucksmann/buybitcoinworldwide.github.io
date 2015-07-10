@@ -1,0 +1,15 @@
+---
+title: Where to Buy Bitcoin in the United States
+permalink: "/en/country/usa/"
+layout: country
+---
+
+{% for name in site.data.en.buy %}
+{% if name.greece == true %}
+<div class="col-sm-6 buy-info">
+		<h4><a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> <a type="button" href="{{ name.url }}" class="btn btn-success pull-right"><i class="fa fa-external-link"></i> Go to {{ name.name }}</a></h4>
+		<p>{{ name.desc }}
+		</p>
+</div>
+{% endif %}
+{% endfor %}

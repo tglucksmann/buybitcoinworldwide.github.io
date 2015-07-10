@@ -12,3 +12,78 @@
   @extend .table;
   @extend .table-bordered;
 }
+
+.featured-exchanges .exchange-box {
+    color: #ffffff;
+}
+
+.featured-exchanges .exchange-box:hover {
+    text-decoration: none;
+}
+
+.featured-exchanges .coinbase {
+	margin-left: 10px;
+}
+
+.featured-exchanges h4 {
+	margin: 0;
+	color: #ffffff;
+}
+
+.featured-exchanges p {
+    font-size: 14px;
+    line-height: 1.2;
+    margin: 0;
+}
+
+@media (max-width: 767px) { 
+	.buy-info {
+    margin: 15px 0;
+}
+}
+
+@media (min-width: 767px) { 
+	.buy-info {
+	margin: 10px 0.5% !important;
+    width: 49% !important;
+    }
+    
+    .featured-exchanges {
+	max-width: 185px;
+}
+.navbar-header {
+    width: 110px;
+}
+.navbar-brand {
+    padding: 9.5px 15px;
+}
+}
+
+.buy-info {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.buy-info p {
+    font-size: 16px;
+    line-height: 1.55;
+}
+
+.buy-info h4 {
+    font-size: 18px;
+}
+
+.buy-info img {
+    float: left;
+    height: auto;
+    margin: 4px 5px 0 0;
+    width: 16px;
+}
+
+.buy-info .btn {
+	padding: 0 9px;
+}
+
+.navbar-header {
+    text-align: center;
+}
