@@ -76,6 +76,7 @@ body {
 .buy-info p {
     font-size: 16px;
     line-height: 1.55;
+    margin: 16px 0 14px;
 }
 
 .buy-info h4 {
@@ -97,7 +98,6 @@ body {
     text-align: center;
 }
 
-
 .continent {
 	margin: 15px 0px;
 }
@@ -115,4 +115,27 @@ body {
 .continent .flag-icon {
 	font-size: 30px;
 	position: absolute;
+}
+
+.country-single-index {
+	text-align: center;
+}
+
+.country-single-index .flag-icon {
+	margin-right: 5px;
+}
+
+@media (max-width: 497px) { 
+.large-screen-buy {
+	display: none;
+}
+.small-screen-buy {
+	margin-bottom: 10px;
+}
+}
+
+@media (min-width: 498px) { 
+.small-screen-buy {
+	display: none;
+}
 }

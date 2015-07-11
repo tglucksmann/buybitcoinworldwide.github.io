@@ -1,0 +1,455 @@
+# North America 
+
+ag:
+  short: ag
+  
+bs:
+  short: bs
+  
+bb:
+  short: bb
+  
+ca:
+  short: ca
+  
+cu: 
+  short: cu
+  
+dm:
+  short: dm
+  
+do:
+  short: do
+  
+gd:
+  short: gd
+  
+ht:
+  short: ht
+  
+jm:
+  short: jm
+  
+mx:
+  short: mx
+  
+kn:
+  short: kn
+  
+lc:
+  short: lc
+  
+vc:
+  short: vc
+  
+tt:
+  short: tt
+  
+us:
+  short: us
+
+al:
+  short: al
+  
+ad:
+  short: ad
+  
+am:
+  short: am
+  
+at:
+  short: at
+  
+az:
+  short: az
+  
+by:
+  short: by
+  
+be:
+  short: be
+  
+bg:
+  short: bg
+  
+hr:
+  short: hr
+  
+cy:
+  short: cy
+  
+cz:
+  short: cz
+  
+dk:
+  short: dk
+  
+ee:
+  short: ee
+  
+fi:
+  short: fi
+  
+fr:
+  short: fr
+  
+ge:
+  short: ge
+  
+de:
+  short: de
+  
+gr:
+  short: gr
+  
+hu:
+  short: hu
+  
+is:
+  short: is
+  
+
+ie:
+  short: ie
+
+it:
+  short: it
+  
+kz:
+  short: kz
+
+lv:
+  short: lv
+  
+li:
+  short: li
+
+lt:
+  short: lt
+  
+lu:
+  short: lu
+
+mk:
+  short: mk
+  
+mt:
+  short: mt
+  
+md:
+  short: md
+    
+mc:
+  short: mc
+  
+me:
+  short: me
+    
+  
+nl:
+  short: nl
+    
+nor:
+  short: nor   
+  
+pl:
+  short: pl  
+  
+pt:
+  short: pt
+    
+  
+ro:
+  short: ro
+    
+  
+ru:
+  short: ru
+    
+sm:
+  short: sm
+    
+rs:
+  short: rs
+    
+sk:
+  short: sk
+    
+si:
+  short: si
+    
+es:
+  short: es
+    
+se:
+  short: se
+    
+ch:
+  short: ch
+    
+tr:
+  short: tr
+    
+ua:
+  short: ua
+    
+gb:
+  short: gb
+    
+va:
+  short: va
+      
+  
+
+  
+# South America  
+
+
+ar:
+  short: ar
+  
+  
+bo:
+  short: bo
+    
+  
+br:
+  short: br
+    
+  
+cl:
+  short: cl
+    
+  
+co:
+  short: co
+    
+  
+ec:
+  short: ec
+    
+  
+gy:
+  short: gy
+    
+  
+py:
+  short: py
+    
+  
+pe:
+  short: pe
+    
+  
+sr:
+  short: sr
+    
+  
+uy:
+  short: uy
+    
+  
+ve:
+  short: ve
+    
+  
+# Central America
+  
+bz:
+  short: bz
+  
+   
+cr:
+  short: cr
+  
+
+sv:
+  short: sv
+  
+  
+gt:
+  short: gt
+  
+  
+hn:
+  short: hn
+  
+  
+ni:
+  short: ni
+  
+  
+pa:
+  short: pa
+  
+    
+# Middle East
+
+
+bh:
+  short: bh
+  
+
+eg:
+  short: eg
+  
+
+ir:
+  short: ir
+  
+
+iq:
+  short: iq
+  
+
+il:
+  short: il
+  
+
+jo:
+  short: jo
+  
+
+kw:
+  short: kw
+  
+
+lb:
+  short: lb
+  
+
+om:
+  short: om
+  
+
+qa:
+  short: qa
+  
+
+sa:
+  short: sa
+  
+
+sy:
+  short: sy
+  
+ae:
+  short: ae
+  
+  
+# Asia 
+
+
+af:
+  short: af   
+
+bd:
+  short: bd
+    
+
+bt:
+  short: bt
+    
+
+bn:
+  short: bn
+    
+
+kh:
+  short: kh
+    
+
+ch:
+  short: ch
+    
+
+in:
+  short: in
+    
+
+id:
+  short: id
+    
+
+jp:
+  short: jp
+
+kg:
+  short: kg
+    
+
+la:
+  short: la
+    
+
+my:
+  short: my
+    
+
+mv:
+  short: mv
+    
+
+mn:
+  short: mn
+    
+
+mm:
+  short: mm
+    
+
+np:
+  short: np
+    
+
+kp:
+  short: kp
+    
+
+pk:
+  short: pk
+    
+
+ph:
+  short: ph
+    
+
+sg:
+  short: sg
+    
+
+kr:
+  short: kr
+    
+
+lk:
+  short: lk
+    
+
+tw:
+  short: tw
+    
+
+tj:
+  short: tj
+    
+
+th:
+  short: th
+    
+
+tl:
+  short: tl
+    
+
+tm:
+  short: tm
+    
+
+uz:
+  short: uz
+    
+vn:
+  short: vn
+
+  

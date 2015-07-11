@@ -1,16 +1,16 @@
 ---
-title: Buy Bitcoin in the United States
-permalink: "en/us/"
+title: Buy Bitcoin in Germany
+permalink: "en/de/"
 layout: country
 lang: en
-country: us
+country: de
 ---
 {% assign lang = site.data.buybitcoin[page.lang] %}
 {% assign cty = site.data.flags[page.country] %}
 {% include buy-list-header.html %}
 <div class="post-content">
 {% for name in site.data.buy %}
-{% if name.countries contains 'us' %}
+{% if name.countries contains 'de' %}
 {% include buy-list-en.html %}
 {% endif %}
 {% endfor %}

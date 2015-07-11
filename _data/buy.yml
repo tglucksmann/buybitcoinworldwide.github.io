@@ -1,20 +1,20 @@
  - name: Coinbase
-   desc: Easily buy bitcoin with your bank account in 23 countires. 1% fee.
+   desc: Buy bitcoin with your bank account. Easy, fast, convenient. 
    url: https://coinbase.com/
    icon: https://coinbase.com/favicon.ico
-   countries: gr, us
+   countries: gr, us, it, fr, de, at, be, bg, hr, cy, cz, dk, fi, hu, ie, lv, mt, nl, nor, pl, pt, sk, es, se, ch, gb
 
  - name: Local Bitcoins
    desc: Buy bitcoin from local dealers, online or in person. Private and quick. 1% fee.
    url: https://localbitcoins.com/
    icon: https://localbitcoins.com/favicon.ico
-   countries: us
+   countries: gr, us, it, fr, de, at, be, bg, hr, cy, cz, dk, fi, hu, ie, lv, mt, nl, nor, pl, pt, sk, es, se, ch, gb, il, ar, mx, cu, bs, ru, br
     
  - name: Circle
    desc: Buy bitcoin instantly with a bank account or credit card. No fees.
    url: https://circle.com/
    icon: https://circle.com/favicon.ico
-   countries: gr, us
+   countries: us
 
  - name: Purse.io
    desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
@@ -26,16 +26,46 @@
    desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
    url: https://bitstamp.net/
    icon: http://buybitcoinworldwide.com/img/stamp.png
-   countries: it, fr
+   countries: it, fr, de, at, nl
    
  - name: CEX.io
    desc: Buy bitcoin with a credit card or SEPA/ACH bank transfer. 
    url: https://cex.io/
    icon: http://cex.io/favicon.ico
-   countries: it, fr, us
+   countries: us
    
  - name: Bitcoin.de
    desc: Buy bitcoin online from other users with SEPA bank transfers.
    url: http://bitcoin.de/
    icon: http://bitcoin.de/favicon.ico
-   countries: it, fr
+   countries: de, nl
+   
+ - name: bit2c
+   desc: Largest Bitcoin exchange in Israel. Buy with bank wire or credit card. 
+   url: https://bit2c.co.il/
+   icon: https://bit2c.co.il/favicon.ico
+   countries: il
+   
+ - name: Ripio
+   desc: Buy bitcoin at over 8,000 convenience stores across Argentina. Local, quick, secure. 
+   url: https://ripio.com/
+   icon: https://ripio.com/favicon.ico
+   countries: ar
+   
+ - name: Bitso
+   desc: Mexican Bitcoin exchange. Deposit locally or with bank wire or SPEI.
+   url: https://bitso.com/
+   icon: https://bitso.com/favicon.ico
+   countries: mx
+
+ - name: Volabit
+   desc: Buy bitcoin in Mexico with cash at 7-Eleven, Banamex, OXXO, or with a bank transfer. 
+   url: https://volabit.com/
+   icon: https://volabit.com/favicon.ico
+   countries: mx
+   
+ - name: meXBT
+   desc: Mexican Bitcoin exchange. Deposit with bank transfer or locally at over 130,000 stores.
+   url: https://mexbt.com/
+   icon: https://mexbt.com/favicon.ico
+   countries: mx
