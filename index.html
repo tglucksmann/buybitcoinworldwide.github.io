@@ -1,11 +1,22 @@
 ---
 hide_sidebar: true
+lang: en
 ---
 
-<h2>Buy Bitcoin in North America</h2>
+{% assign lang = site.data.translations[page.lang] %}
+<ul class="index-continent-menu">
+<li>{{ lang.namerica }}</li>
+<li>{{ lang.europe }}</li> 
+<li>{{ lang.samerica }}</li> 
+<li>{{ lang.camerica }}</li> 
+<li>{{ lang.meast }}</li>
+<li>{{ lang.asia }}</li>
+</ul>
+
+<h2>{{ lang.buy }} {{ lang.in }} {{ lang.namerica }}</h2>
 <div class="container">
 <div class="row">
-{% for country in site.data.countries %}
+{% for country {{ lang.in }} site.data.countries %}
 {% if country.na == true %}
 {% include index-list.html %}
 {% endif %}
@@ -14,10 +25,10 @@ hide_sidebar: true
 </div>
 <hr>
 
-<h2>Buy Bitcoin in Europe</h2>
+<h2>{{ lang.buy }} {{ lang.in }} {{ lang.europe }}</h2>
 <div class="container">
 <div class="row">
-{% for country in site.data.countries %}
+{% for country {{ lang.in }} site.data.countries %}
 {% if country.eu == true %}
 {% include index-list.html %}
 {% endif %}
@@ -26,10 +37,10 @@ hide_sidebar: true
 </div>
 <hr>
 
-<h2>Buy Bitcoin in South America</h2>
+<h2>{{ lang.buy }} {{ lang.in }} {{ lang.samerica }}</h2>
 <div class="container">
 <div class="row">
-{% for country in site.data.countries %}
+{% for country {{ lang.in }} site.data.countries %}
 {% if country.sa == true %}
 {% include index-list.html %}
 {% endif %}
@@ -38,10 +49,10 @@ hide_sidebar: true
 </div>
 <hr>
 
-<h2>Buy Bitcoin in Central America</h2>
+<h2>{{ lang.buy }} {{ lang.in }} {{ lang.camerica }}</h2>
 <div class="container">
 <div class="row">
-{% for country in site.data.countries %}
+{% for country {{ lang.in }} site.data.countries %}
 {% if country.ca == true %}
 {% include index-list.html %}
 {% endif %}
@@ -50,10 +61,10 @@ hide_sidebar: true
 </div>
 <hr>
 
-<h2>Buy Bitcoin in the Middle East</h2>
+<h2>{{ lang.buy }} {{ lang.in }} {{ lang.the }} {{ lang.meast }}</h2>
 <div class="container">
 <div class="row">
-{% for country in site.data.countries %}
+{% for country {{ lang.in }} site.data.countries %}
 {% if country.me == true %}
 {% include index-list.html %}
 {% endif %}
@@ -62,10 +73,10 @@ hide_sidebar: true
 </div>
 <hr>
 
-<h2>Buy Bitcoin in Asia</h2>
+<h2>{{ lang.buy }} {{ lang.in }} {{ lang.asia }}</h2>
 <div class="container">
 <div class="row">
-{% for country in site.data.countries %}
+{% for country {{ lang.in }} site.data.countries %}
 {% if country.as == true %}
 {% include index-list.html %}
 {% endif %}
@@ -74,10 +85,10 @@ hide_sidebar: true
 </div>
 <hr>
 
-<h2>Buy Bitcoin in Africa</h2>
+<h2>{{ lang.buy }} {{ lang.in }} {{ lang.africa }}</h2>
 <div class="container">
 <div class="row">
-{% for country in site.data.countries %}
+{% for country {{ lang.in }} site.data.countries %}
 {% if country.af == true %}
 {% include index-list.html %}
 {% endif %}

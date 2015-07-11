@@ -6390,8 +6390,10 @@ body {
   margin: 15px 0px; }
 
 .country-link {
-  display: inline-block;
-  margin: 3px 0 0 40px; }
+  display: inline-block; }
+
+.country-link .country-name {
+  margin: 2px 0 0 40px; }
 
 .continent .country-link a {
   text-transform: none;
@@ -6405,17 +6407,32 @@ body {
   text-align: center; }
 
 .country-single-index .flag-icon {
-  margin-right: 5px; }
+  margin-right: 10px; }
+
+.country-single-index a {
+  color: #555; }
+
+.country-single-index a:hover {
+  color: #5b7fa4; }
 
 @media (max-width: 497px) {
   .large-screen-buy {
     display: none; }
 
   .small-screen-buy {
-    margin-bottom: 10px; } }
+    margin-bottom: 10px;
+    width: 100%; } }
 @media (min-width: 498px) {
   .small-screen-buy {
     display: none; } }
+.index-continent-menu {
+  margin: 0;
+  text-align: center;
+  list-style: none; }
+
+.index-continent-menu li {
+  margin: 0; }
+
 .flag-icon {
   background-size: contain;
   background-position: 50%;

@@ -8,7 +8,7 @@
    desc: Buy bitcoin from local dealers, online or in person. Private and quick. 1% fee.
    url: https://localbitcoins.com/
    icon: https://localbitcoins.com/favicon.ico
-   countries: gr, us, it, fr, de, at, be, bg, hr, cy, cz, dk, fi, hu, ie, lv, mt, nl, nor, pl, pt, sk, es, se, ch, gb, il, ar, mx, cu, bs, ru, br
+   countries: gr, us, it, fr, de, at, be, bg, hr, cy, cz, dk, fi, hu, ie, lv, mt, nl, nor, pl, pt, sk, es, se, ch, gb, il, ar, mx, cu, bs, ru, br, ca
     
  - name: Circle
    desc: Buy bitcoin instantly with a bank account or credit card. No fees.

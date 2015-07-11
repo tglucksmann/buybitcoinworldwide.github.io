@@ -5,13 +5,10 @@ layout: country
 lang: en
 country: us
 ---
-{% assign lang = site.data.buybitcoin[page.lang] %}
-{% assign cty = site.data.flags[page.country] %}
+{% include country-loops.html %}
 {% include buy-list-header.html %}
-<div class="post-content">
 {% for name in site.data.buy %}
 {% if name.countries contains 'us' %}
 {% include buy-list-en.html %}
 {% endif %}
 {% endfor %}
-</div>
