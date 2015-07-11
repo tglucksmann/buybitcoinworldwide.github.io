@@ -6415,6 +6415,16 @@ body {
 .country-single-index a:hover {
   color: #5b7fa4; }
 
+.index-continent-menu {
+  list-style: outside none none;
+  margin: 0;
+  padding: 0;
+  text-align: center; }
+
+.index-continent-menu li {
+  display: inline-block;
+  margin: 5px 9px; }
+
 @media (max-width: 497px) {
   .large-screen-buy {
     display: none; }
@@ -6425,14 +6435,6 @@ body {
 @media (min-width: 498px) {
   .small-screen-buy {
     display: none; } }
-.index-continent-menu {
-  margin: 0;
-  text-align: center;
-  list-style: none; }
-
-.index-continent-menu li {
-  margin: 0; }
-
 .flag-icon {
   background-size: contain;
   background-position: 50%;
