@@ -1,0 +1,552 @@
+# North America 
+ 
+ - country: Antigua and Barbuda
+   short: ag
+   na: yes
+   
+ - country: Bahamas
+   short: bs
+   na: yes
+   
+ - country: Barbados
+   short: bb
+   na: yes
+   
+ - country: Canada
+   short: ca
+   na: yes
+   
+ - country: Cuba
+   short: cu
+   na: yes
+
+ - country: Dominica
+   short: dm
+   na: yes
+
+ - country: Dominican Republic
+   short: do
+   na: yes
+
+ - country: Grenada
+   short: gd
+   na: yes
+
+ - country: Haita
+   short: ht
+   na: yes
+
+ - country: Jamaica
+   short: jm
+   na: yes
+
+ - country: Mexico
+   short: mx
+   na: yes
+
+ - country: St. Kitts and Nevis
+   short: kn
+   na: yes
+
+ - country: St. Lucia
+   short: lc
+   na: yes
+
+ - country: St. Vincent and the Grenadines
+   short: vc
+   na: yes
+
+ - country: Trinidad and Tobago
+   short: tt
+   na: yes
+
+ - country: United States 
+   short: us
+   na: yes
+
+ - country: 
+   short: 
+   na: yes
+   
+# Europe  
+
+
+ - country: Albania
+   short: al
+   eu: yes
+
+ - country: Andorra
+   short: ad
+   eu: yes  
+
+ - country: Armenia
+   short: am
+   eu: yes  
+
+ - country: Austria
+   short: at
+   eu: yes  
+
+ - country: Azerbaijan
+   short: az
+   eu: yes  
+
+ - country: Belarus
+   short: by
+   eu: yes  
+
+ - country: Belgium
+   short: be
+   eu: yes  
+
+# - country: Bosnia and Herzegovina
+#   short: ba
+#   eu: yes  
+
+ - country: Bulgaria
+   short: bg
+   eu: yes  
+
+ - country: Croatia
+   short: hr
+   eu: yes  
+
+ - country: Cyprus
+   short: cy
+   eu: yes  
+
+ - country: Czech Republic
+   short: cz
+   eu: yes  
+
+ - country: Denmark
+   short: dk
+   eu: yes  
+
+ - country: Estonia
+   short: ee
+   eu: yes  
+
+ - country: Finland
+   short: fi
+   eu: yes  
+
+ - country: France
+   short: fr
+   eu: yes  
+
+ - country: Georgia
+   short: ge
+   eu: yes  
+
+ - country: Germany
+   short: de
+   eu: yes  
+
+ - country: Greece
+   short: gr
+   eu: yes  
+
+ - country: Hungary
+   short: hu
+   eu: yes  
+
+ - country: Iceland
+   short: is
+   eu: yes  
+
+ - country: Ireland
+   short: ie
+   eu: yes  
+
+ - country: Italy
+   short: it
+   eu: yes  
+
+ - country: Kazakhstan
+   short: kz
+   eu: yes  
+   
+# - country: Kosovo
+#   short: xk
+#   eu: yes  
+
+ - country: Latvia
+   short: lv
+   eu: yes  
+
+ - country: Liechtenstein
+   short: li
+   eu: yes  
+
+ - country: Lithuania
+   short: lt
+   eu: yes  
+
+ - country: Luxembourg
+   short: lu
+   eu: yes  
+
+ - country: Macedonia
+   short: mk
+   eu: yes 
+   
+ - country: Malta
+   short: mt
+   eu: yes   
+   
+ - country: Moldova
+   short: md
+   eu: yes     
+   
+ - country: Monaco
+   short: mc
+   eu: yes     
+   
+ - country: Montenegro
+   short: me
+   eu: yes     
+   
+ - country: Netherlands
+   short: nl
+   eu: yes     
+   
+ - country: Norway
+   short: nor
+   eu: yes     
+   
+ - country: Poland
+   short: pl
+   eu: yes     
+   
+ - country: Portugal
+   short: pt
+   eu: yes     
+   
+ - country: Romania
+   short: ro
+   eu: yes     
+   
+ - country: Russia
+   short: ru
+   eu: yes     
+   
+ - country: San Marino
+   short: sm
+   eu: yes     
+   
+ - country: Serbia
+   short: rs
+   eu: yes     
+   
+ - country: Slovakia
+   short: sk
+   eu: yes     
+   
+ - country: Slovenia
+   short: si
+   eu: yes     
+   
+ - country: Spain
+   short: es
+   eu: yes     
+   
+ - country: Sweden
+   short: se
+   eu: yes     
+   
+ - country: Switzerland
+   short: ch
+   eu: yes     
+   
+ - country: Turkey
+   short: tr
+   eu: yes     
+   
+ - country: Ukraine
+   short: ua
+   eu: yes     
+   
+ - country: United Kingdom
+   short: gb
+   eu: yes     
+   
+ - country: Vatican City
+   short: va
+   eu: yes        
+   
+
+   
+# South America   
+
+
+ - country: Argentina
+   short: ar
+   sa: yes
+  
+  
+ - country: Bolivia
+   short: bo
+   sa: yes  
+  
+ - country: Brazil
+   short: br
+   sa: yes  
+  
+ - country: Chile
+   short: cl
+   sa: yes  
+  
+ - country: Colombia
+   short: co
+   sa: yes  
+  
+ - country: Ecuador
+   short: ec
+   sa: yes  
+  
+ - country: Guyana
+   short: gy
+   sa: yes  
+  
+ - country: Paraguay
+   short: py
+   sa: yes  
+  
+ - country: Peru
+   short: pe
+   sa: yes  
+  
+ - country: Suriname
+   short: sr
+   sa: yes  
+  
+ - country: Uruguay
+   short: uy
+   sa: yes  
+  
+ - country: Venezuela
+   short: ve
+   sa: yes  
+   
+# Central America
+   
+ - country: Belize
+   short: bz
+   ca: yes
+    
+ - country: Costa Rica
+   short: cr
+   ca: yes
+
+ - country: El Salvador
+   short: sv
+   ca: yes
+   
+ - country: Guatemala
+   short: gt
+   ca: yes
+   
+ - country: Honduras
+   short: hn
+   ca: yes
+   
+ - country: Nicaragua
+   short: ni
+   ca: yes
+   
+ - country: Panama
+   short: pa
+   ca: yes
+      
+# Middle East
+
+
+ - country: Bahrain
+   short: bh
+   me: yes
+
+ - country: Egypt
+   short: eg
+   me: yes
+
+ - country: Iran
+   short: ir
+   me: yes
+
+ - country: Iraq
+   short: iq
+   me: yes
+
+ - country: Israel
+   short: il
+   me: yes
+
+ - country: Jordan
+   short: jo
+   me: yes
+
+ - country: Kuwait
+   short: kw
+   me: yes
+
+ - country: Lebanon
+   short: lb
+   me: yes
+
+ - country: Oman
+   short: om
+   me: yes
+
+ - country: Qatar
+   short: qa
+   me: yes
+
+ - country: Saudi Arabia
+   short: sa
+   me: yes
+
+ - country: Syria
+   short: sy
+   me: yes
+
+# - country: Turkey
+#   short: tk
+#   me: yes
+
+ - country: United Arab Emirates
+   short: ae
+   me: yes
+   
+# Asia 
+
+
+ - country: Afghanistan
+   short: af
+   as: yes
+
+# - country: Armenia
+#   short:
+#   as: yes
+
+# - country: Azerbaijan
+#   short:
+#   as: yes
+
+ - country: Bangladesh
+   short: bd
+   as: yes
+
+ - country: Bhutan
+   short: bt
+   as: yes
+
+ - country: Brunei
+   short: bn
+   as: yes
+
+ - country: Cambodia
+   short: kh
+   as: yes
+
+ - country: China
+   short: ch
+   as: yes
+
+ - country: India
+   short: in
+   as: yes
+
+ - country: Indonesia
+   short: id
+   as: yes
+
+ - country: Japan
+   short: jp
+   as: yes
+
+# - country: Kazakhstan
+#   short:
+#   as: yes
+
+ - country: Kyrgyzstan
+   short: kg
+   as: yes
+
+ - country: Laos
+   short: la
+   as: yes
+
+ - country: Malaysia
+   short: my
+   as: yes
+
+ - country: Maldives
+   short: mv
+   as: yes
+
+ - country: Mongolia
+   short: mn
+   as: yes
+
+ - country: Myanmar (Burma)
+   short: mm
+   as: yes
+
+ - country: Nepal
+   short: np
+   as: yes
+
+ - country: North Korea
+   short: kp
+   as: yes
+
+ - country: Pakistan
+   short: pk
+   as: yes
+
+ - country: Philippines
+   short: ph
+   as: yes
+
+ - country: Singapore
+   short: sg
+   as: yes
+
+ - country: South Korea
+   short: kr
+   as: yes
+
+ - country: Sri Lanka
+   short: lk
+   as: yes
+
+ - country: Taiwan
+   short: tw
+   as: yes
+
+ - country: Tajikistan
+   short: tj
+   as: yes
+
+ - country: Thailand
+   short: th
+   as: yes
+
+ - country: Timor-Leste
+   short: tl
+   as: yes
+
+ - country: Turkmenistan
+   short: tm
+   as: yes
+
+ - country: Uzbekistan
+   short: uz
+   as: yes
+
+ - country: Vietnam
+   short: vn
+   as: yes
+
+  

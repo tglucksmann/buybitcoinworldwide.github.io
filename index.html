@@ -1,19 +1,86 @@
 ---
+hide_sidebar: true
 ---
 
-{% for post in site.posts limit:site.data.theme.num_home_posts %}
-<div class="post-header-home">
-  <h1 class="post-title-home">
-    <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>
-  </h1>
-  {% include post-header-home.html %}
-</div>
-<div class="post-excerpt-home">
-  {{ post.excerpt }}
-  <p class="text-right"><a href="{{ post.url | prepend:site.baseurl }}">Continue Reading &rarr;</a></p>
-</div>
+<h2>Buy Bitcoin in North America</h2>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.na == true %}
+{% include index-list.html %}
+{% endif %}
 {% endfor %}
+</div>
+</div>
 <hr>
-<div class="home-read-more">
-  <a href="{{ "/archive" | prepend:site.baseurl }}" class="btn btn-primary btn-block btn-lg">View All {{ site.posts | size }} Articles →</a>
+
+<h2>Buy Bitcoin in Europe</h2>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.eu == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+<hr>
+
+<h2>Buy Bitcoin in South America</h2>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.sa == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+<hr>
+
+<h2>Buy Bitcoin in Central America</h2>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.ca == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+<hr>
+
+<h2>Buy Bitcoin in the Middle East</h2>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.me == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+<hr>
+
+<h2>Buy Bitcoin in Asia</h2>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.as == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+<hr>
+
+<h2>Buy Bitcoin in Africa</h2>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.af == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
 </div>

@@ -1,0 +1,41 @@
+ - name: Coinbase
+   desc: Easily buy bitcoin with your bank account in 23 countires. 1% fee.
+   url: https://coinbase.com/
+   icon: https://coinbase.com/favicon.ico
+   countries: gr, us
+
+ - name: Local Bitcoins
+   desc: Buy bitcoin from local dealers, online or in person. Private and quick. 1% fee.
+   url: https://localbitcoins.com/
+   icon: https://localbitcoins.com/favicon.ico
+   countries: us
+    
+ - name: Circle
+   desc: Buy bitcoin instantly with a bank account or credit card. No fees.
+   url: https://circle.com/
+   icon: https://circle.com/favicon.ico
+   countries: gr, us
+
+ - name: Purse.io
+   desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
+   url: https://purse.io/
+   icon: https://purse.io/images/favicon.ico
+   countries: gr
+   
+ - name: Bitstamp
+   desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
+   url: https://bitstamp.net/
+   icon: http://buybitcoinworldwide.com/img/stamp.png
+   countries: it, fr
+   
+ - name: CEX.io
+   desc: Buy bitcoin with a credit card or SEPA/ACH bank transfer. 
+   url: https://cex.io/
+   icon: http://cex.io/favicon.ico
+   countries: it, fr, us
+   
+ - name: Bitcoin.de
+   desc: Buy bitcoin online from other users with SEPA bank transfers.
+   url: http://bitcoin.de/
+   icon: http://bitcoin.de/favicon.ico
+   countries: it, fr
