@@ -37,7 +37,7 @@
  - name: Bitcoin.de
    desc: Buy bitcoin online from other users with SEPA bank transfers.
    url: http://bitcoin.de/
-   icon: http://bitcoin.de/favicon.ico
+   icon: https://buybitcoinworldwide.com/img/buy/bitcoinde.png
    countries: de, nl
  
 ##### Israel #####
