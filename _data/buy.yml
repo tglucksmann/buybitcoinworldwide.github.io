@@ -1,37 +1,37 @@
  - name: Coinbase
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 
    url: https://coinbase.com/
-   icon: http://buybitcoinworldwide.com/img/buy/coinbase.png
+   icon: https://buybitcoinworldwide.com/img/buy/coinbase.png
    countries: gr, us, it, fr, de, at, be, bg, hr, cy, cz, dk, fi, hu, ie, lv, mt, nl, nor, pl, pt, sk, es, se, ch, gb
 
  - name: Local Bitcoins
    desc: Buy bitcoin from local dealers, online or in person. Private and quick. 1% fee.
    url: https://localbitcoins.com/
-   icon: http://buybitcoinworldwide.com/img/buy/localbitcoins.png
+   icon: https://buybitcoinworldwide.com/img/buy/localbitcoins.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, ch, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn
     
  - name: Circle
    desc: Buy bitcoin instantly with a bank account or credit card. No fees.
    url: https://circle.com/
-   icon: http://buybitcoinworldwide.com/img/buy/circle.png
+   icon: https://buybitcoinworldwide.com/img/buy/circle.png
    countries: us
 
  - name: Purse.io
    desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
    url: https://purse.io/
-   icon: http://buybitcoinworldwide.com/img/buy/purse.png
+   icon: https://buybitcoinworldwide.com/img/buy/purse.png
    countries: gr, us, ca, jp
    
  - name: Bitstamp
    desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
    url: https://bitstamp.net/
-   icon: http://buybitcoinworldwide.com/img/buy/stamp.png
+   icon: https://buybitcoinworldwide.com/img/buy/stamp.png
    countries: it, fr, de, at, nl, us
    
  - name: CEX.io
    desc: Buy bitcoin with a credit card or SEPA/ACH bank transfer. 
    url: https://cex.io/
-   icon: http://buybitcoinworldwide.com/img/buy/cex.png
+   icon: https://buybitcoinworldwide.com/img/buy/cex.png
    countries: us
    
  - name: Bitcoin.de
@@ -45,13 +45,13 @@
  - name: bit2c
    desc: Largest Bitcoin exchange in Israel. Buy with bank wire or credit card. 
    url: https://bit2c.co.il/
-   icon: https://bit2c.co.il/favicon.ico
+   icon: https://buybitcoinworldwide.com/img/buy/bit2c.png
    countries: il
    
  - name: Bits of Gold
    desc: Buy Bitcoin directly from Bits of Gold, the largest Bitcoin broker in Israel. 
    url: https://bitsofgold.co.il
-   icon: https://bitsofgold.co.il/favicon.ico
+   icon: https://buybitcoinworldwide.com/img/buy/bitsofgold.png
    countries: il 
    
 ##### Argentina #####   
@@ -67,7 +67,7 @@
  - name: Bitso
    desc: Mexican Bitcoin exchange. Deposit locally or with bank wire or SPEI.
    url: https://bitso.com/
-   icon: https://bitso.com/favicon.ico
+   icon: https://buybitcoinworldwide.com/img/buy/bitso.png
    countries: mx
 
  - name: Volabit
@@ -87,5 +87,5 @@
  - name: Mycelium Local Trader
    desc: Buy from local traders through Mycelium Bitcoin wallet. Availibility depends on location.
    url: https://mycelium.com/
-   icon: http://buybitcoinworldwide.com/img/buy/mycelium.png
+   icon: https://buybitcoinworldwide.com/img/buy/mycelium.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, ch, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn   
