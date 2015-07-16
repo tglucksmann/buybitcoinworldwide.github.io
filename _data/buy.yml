@@ -73,13 +73,13 @@
  - name: Volabit
    desc: Buy bitcoin in Mexico with cash at 7-Eleven, Banamex, OXXO, or with a bank transfer. 
    url: https://volabit.com/
-   icon: https://volabit.com/favicon.ico
+   icon: https://buybitcoinworldwide.com/img/buy/volabit.png
    countries: mx
    
  - name: meXBT
    desc: Mexican Bitcoin exchange. Deposit with bank transfer or locally at over 130,000 stores.
    url: https://mexbt.com/
-   icon: https://mexbt.com/favicon.ico
+   icon: https://buybitcoinworldwide.com/img/buy/mexbt.png
    countries: mx
    
 ##### Mycelium #####
