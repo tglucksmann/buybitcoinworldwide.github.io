@@ -2,18 +2,23 @@
 hide_sidebar: true
 lang: en
 ---
-
 {% assign lang = site.data.translations[page.lang] %}
-<ul class="index-continent-menu">
-<li>{{ lang.namerica }}</li>
-<li>{{ lang.europe }}</li> 
-<li>{{ lang.samerica }}</li> 
-<li>{{ lang.camerica }}</li> 
-<li>{{ lang.meast }}</li>
-<li>{{ lang.asia }}</li>
-</ul>
 
-<h2>{{ lang.buy }} {{ lang.in }} {{ lang.namerica }}</h2>
+<div class="well well-home">
+<div class="well-message">{{ lang.sitedesc }}</div>
+
+<ul class="index-continent-menu">
+<li><a class="btn btn-sm btn-primary" href="#na" type="button">{{ lang.namerica }}</a></li>
+<li><a class="btn btn-sm btn-primary" href="#eu" type="button">{{ lang.europe }}</a></li> 
+<li><a class="btn btn-sm btn-primary" href="#sa" type="button">{{ lang.samerica }}</a></li> 
+<li><a class="btn btn-sm btn-primary" href="#ca" type="button">{{ lang.camerica }}</a></li> 
+<li><a class="btn btn-sm btn-primary" href="#me" type="button">{{ lang.meast }}</a></li>
+<li><a class="btn btn-sm btn-primary" href="#as" type="button">{{ lang.asia }}</a></li>
+<li><a class="btn btn-sm btn-primary" href="#af" type="button">{{ lang.africa }}</a></li>
+</ul>
+</div>
+
+<h2 class="home-header"><a href="#na" id="na">{{ lang.buy }} {{ lang.in }} {{ lang.namerica }}</a></h2>
 <div class="container">
 <div class="row">
 {% for country in site.data.countries %}
@@ -25,7 +30,7 @@ lang: en
 </div>
 <hr>
 
-<h2>{{ lang.buy }} {{ lang.in }} {{ lang.europe }}</h2>
+<h2 class="home-header"><a href="#eu" id="eu">{{ lang.buy }} {{ lang.in }} {{ lang.europe }}</a></h2>
 <div class="container">
 <div class="row">
 {% for country in site.data.countries %}
@@ -37,7 +42,7 @@ lang: en
 </div>
 <hr>
 
-<h2>{{ lang.buy }} {{ lang.in }} {{ lang.samerica }}</h2>
+<h2 class="home-header"><a href="#sa" id="sa">{{ lang.buy }} {{ lang.in }} {{ lang.samerica }}</a></h2>
 <div class="container">
 <div class="row">
 {% for country in site.data.countries %}
@@ -49,7 +54,7 @@ lang: en
 </div>
 <hr>
 
-<h2>{{ lang.buy }} {{ lang.in }} {{ lang.camerica }}</h2>
+<h2 class="home-header"><a href="#ca" id="ca">{{ lang.buy }} {{ lang.in }} {{ lang.camerica }}</a></h2>
 <div class="container">
 <div class="row">
 {% for country in site.data.countries %}
@@ -61,7 +66,7 @@ lang: en
 </div>
 <hr>
 
-<h2>{{ lang.buy }} {{ lang.in }} {{ lang.the }} {{ lang.meast }}</h2>
+<h2 class="home-header"><a href="#me" id="me">{{ lang.buy }} {{ lang.in }} {{ lang.the }} {{ lang.meast }}</a></h2>
 <div class="container">
 <div class="row">
 {% for country in site.data.countries %}
@@ -73,7 +78,7 @@ lang: en
 </div>
 <hr>
 
-<h2>{{ lang.buy }} {{ lang.in }} {{ lang.asia }}</h2>
+<h2 class="home-header"><a href="#as" id="as">{{ lang.buy }} {{ lang.in }} {{ lang.asia }}</a></h2>
 <div class="container">
 <div class="row">
 {% for country in site.data.countries %}
@@ -85,7 +90,7 @@ lang: en
 </div>
 <hr>
 
-<h2>{{ lang.buy }} {{ lang.in }} {{ lang.africa }}</h2>
+<h2 class="home-header"><a href="#af" id="af">{{ lang.buy }} {{ lang.in }} {{ lang.africa }}</a></h2>
 <div class="container">
 <div class="row">
 {% for country in site.data.countries %}

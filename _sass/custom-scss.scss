@@ -139,14 +139,44 @@ body {
 
 .index-continent-menu {
     list-style: outside none none;
-    margin: 0;
+    margin: 20px 0 0;
     padding: 0;
     text-align: center;
 }
 
 .index-continent-menu li {
     display: inline-block;
-    margin: 5px 9px;
+    margin: 5px 5px 0;
+}
+
+@media (max-width: 745px) { 
+.index-continent-menu li {
+    margin: 7px 5px !important;
+}
+}
+
+.well-home {
+	text-align: center;
+}
+
+.well-message {
+	font-weight: bold;
+}
+
+.home-header a {
+	color: #555;
+}
+
+.buy-info i {
+	margin-top: -1px;
+}
+
+.black-link {
+	color: #555;
+}
+
+.black-link:hover {
+	color: #555;
 }
 
 @media (max-width: 497px) { 

@@ -7,8 +7,8 @@
  - name: Local Bitcoins
    desc: Buy bitcoin from local dealers, online or in person. Private and quick. 1% fee.
    url: https://localbitcoins.com/
-   icon: https://localbitcoins.com/favicon.ico
-   countries: gr, us, it, fr, de, at, be, bg, hr, cy, cz, dk, fi, hu, ie, lv, mt, nl, nor, pl, pt, sk, es, se, ch, gb, il, ar, mx, cu, bs, ru, br, ca
+   icon: http://buybitcoinworldwide.com/img/buy/localbitcoins.png
+   countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, ch, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn
     
  - name: Circle
    desc: Buy bitcoin instantly with a bank account or credit card. No fees.
@@ -20,13 +20,13 @@
    desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
    url: https://purse.io/
    icon: https://purse.io/images/favicon.ico
-   countries: gr
+   countries: gr, us, ca, jp
    
  - name: Bitstamp
    desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
    url: https://bitstamp.net/
-   icon: http://buybitcoinworldwide.com/img/stamp.png
-   countries: it, fr, de, at, nl
+   icon: http://buybitcoinworldwide.com/img/buy/stamp.png
+   countries: it, fr, de, at, nl, us
    
  - name: CEX.io
    desc: Buy bitcoin with a credit card or SEPA/ACH bank transfer. 
@@ -39,6 +39,8 @@
    url: http://bitcoin.de/
    icon: http://bitcoin.de/favicon.ico
    countries: de, nl
+ 
+##### Israel #####
    
  - name: bit2c
    desc: Largest Bitcoin exchange in Israel. Buy with bank wire or credit card. 
@@ -46,12 +48,22 @@
    icon: https://bit2c.co.il/favicon.ico
    countries: il
    
+ - name: Bits of Gold
+   desc: Buy Bitcoin directly from Bits of Gold, the largest Bitcoin broker in Israel. 
+   url: https://bitsofgold.co.il
+   icon: https://bitsofgold.co.il/favicon.ico
+   countries: il 
+   
+##### Argentina #####   
+   
  - name: Ripio
    desc: Buy bitcoin at over 8,000 convenience stores across Argentina. Local, quick, secure. 
    url: https://ripio.com/
    icon: https://ripio.com/favicon.ico
    countries: ar
-   
+
+##### Mexico #####   
+
  - name: Bitso
    desc: Mexican Bitcoin exchange. Deposit locally or with bank wire or SPEI.
    url: https://bitso.com/
@@ -69,3 +81,11 @@
    url: https://mexbt.com/
    icon: https://mexbt.com/favicon.ico
    countries: mx
+   
+##### Mycelium #####
+
+ - name: Mycelium Local Trader
+   desc: Buy from local traders through Mycelium Bitcoin wallet. Availibility depends on location.
+   url: https://mycelium.com/
+   icon: http://buybitcoinworldwide.com/img/buy/mycelium.png
+   countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, ch, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn   
