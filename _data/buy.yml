@@ -13,13 +13,13 @@
  - name: Circle
    desc: Buy bitcoin instantly with a bank account or credit card. No fees.
    url: https://circle.com/
-   icon: https://circle.com/favicon.ico
+   icon: http://buybitcoinworldwide.com/img/buy/circle.png
    countries: us
 
  - name: Purse.io
    desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
    url: https://purse.io/
-   icon: https://purse.io/images/favicon.ico
+   icon: http://buybitcoinworldwide.com/img/buy/purse.png
    countries: gr, us, ca, jp
    
  - name: Bitstamp
@@ -31,7 +31,7 @@
  - name: CEX.io
    desc: Buy bitcoin with a credit card or SEPA/ACH bank transfer. 
    url: https://cex.io/
-   icon: http://cex.io/favicon.ico
+   icon: http://buybitcoinworldwide.com/img/buy/cex.png
    countries: us
    
  - name: Bitcoin.de
