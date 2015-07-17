@@ -27,6 +27,18 @@
    url: https://bitstamp.net/
    icon: https://buybitcoinworldwide.com/img/buy/stamp.png
    countries: it, fr, de, at, nl, us
+
+ - name: BitQuick
+   desc: Buy bitcoin quickly wit cash deposits or SEPA transfers in the EU. 2% fee.
+   url: https://www.bitquick.co/
+   icon: https://buybitcoinworldwide.com/img/buy/bitquick.png
+   countries: us, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, ie, it, lv, lt, lu, mt, nl, pl, pt, ro, sk, si, es, se, gb
+
+ - name: Trucoin
+   desc: Buy bitcoin with a credit card instantly in over 30 US states.
+   url: https://trucoin.com/
+   icon: https://buybitcoinworldwide.com/img/buy/trucoin.png
+   countries: us
    
  - name: CEX.io
    desc: Buy bitcoin with a credit card or SEPA/ACH bank transfer. 
