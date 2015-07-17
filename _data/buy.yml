@@ -20,7 +20,7 @@
    desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
    url: https://purse.io/
    icon: https://buybitcoinworldwide.com/img/buy/purse.png
-   countries: gr, us, ca, jp
+   countries: us, ca, jp
    
  - name: Bitstamp
    desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
