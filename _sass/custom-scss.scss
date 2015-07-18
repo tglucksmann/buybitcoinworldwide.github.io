@@ -145,9 +145,12 @@ body {
     margin: 5px 5px 0;
 }
 
-@media (max-width: 745px) { 
+@media (max-width: 767px) { 
 .index-continent-menu li {
     margin: 7px 5px !important;
+}
+.navbar-nav {
+    float: left !important;
 }
 }
 
@@ -209,6 +212,7 @@ body {
 
 .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-brand {
     color: #fff;
+    font-weight: 400;
 }
 
 .navbar-nav {
