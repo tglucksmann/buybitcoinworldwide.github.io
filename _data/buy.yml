@@ -1,3 +1,5 @@
+# Need to add: Bitfinex, BTCe, Xapo, itBit, LakeBtc, paxful, unocoin, coinjar, bittylicious, quickbt
+
  - name: Coinbase
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 
    url: https://coinbase.com/
@@ -54,20 +56,26 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/expresscoin.png
    countries: us
    
+ - name: Bitfinex
+   desc: Deposit funds with an internantional wire transfer and buy bitcoin on the exchange.
+   url: https://www.bitfinex.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/finex.png
+   countries: at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, ie, it, lv, lt, lu, mt, nl, pl, pt, ro, sk, si, es, se, gb, us, jp, cn
+   
+##### Europe #####   
+   
  - name: CEX.io
    desc: Buy bitcoin with a credit card or SEPA/ACH bank transfer. 
    url: https://cex.io/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/cex.png
-   countries: us
+   countries: us  
    
  - name: Bitcoin.de
    desc: Buy bitcoin online from other users with SEPA bank transfers.
    url: http://bitcoin.de/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcoinde.png
    countries: de, nl
-   
-# Need to add: Bitfinex, BTCe, Xapo, itBit, LakeBtc, paxful, unocoin, coinjar, bittylicious, quickb,
- 
+  
 ##### Israel #####
    
  - name: bit2c
