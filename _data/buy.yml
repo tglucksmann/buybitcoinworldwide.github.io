@@ -40,6 +40,12 @@
    icon: https://buybitcoinworldwide.com/img/buy/trucoin.png
    countries: us
    
+ - name: expresscoin
+   desc: Buy bitcoin with money orders or personal checks. Good for those without a bank account.
+   url: https://www.expresscoin.com/
+   icon: https://buybitcoinworldwide.com/img/buy/expresscoin.png
+   countries: us
+   
  - name: CEX.io
    desc: Buy bitcoin with a credit card or SEPA/ACH bank transfer. 
    url: https://cex.io/
@@ -75,6 +81,14 @@
    url: https://ripio.com/
    icon: https://buybitcoinworldwide.com/img/buy/ripio.png
    countries: ar
+   
+##### England #####
+
+ - name: CoinCorner
+   desc: Buy using GBP bank transfer or with credit/debit card. 
+   url: https://www.coincorner.com/
+   icon: https://buybitcoinworldwide.com/img/buy/ccoiner.png
+   countries: gb
 
 ##### Mexico #####   
 
