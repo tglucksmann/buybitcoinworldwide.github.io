@@ -1,0 +1,16 @@
+---
+title: קניית ביטקוין בישראל
+permalink: "he/il/"
+layout: country
+lang: he
+country: il
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+<div class="post-content">
+{% for name in site.data.buy %}
+{% if name.countries contains 'il' %}
+{% include buy-list-he.html %}
+{% endif %}
+{% endfor %}
+</div>

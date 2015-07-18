@@ -58,7 +58,7 @@
    icon: https://buybitcoinworldwide.com/img/buy/bitcoinde.png
    countries: de, nl
    
-# Need to add: Bitfinex, BTCe, Xapo, itBit, LakeBtc, Shapeshift, expresscoin, paxful
+# Need to add: Bitfinex, BTCe, Xapo, itBit, LakeBtc, Shapeshift, expresscoin, paxful, unocoin, coinjar, bittylicious, quickbt,
  
 ##### Israel #####
    
@@ -67,6 +67,8 @@
    url: https://bit2c.co.il/
    icon: https://buybitcoinworldwide.com/img/buy/bit2c.png
    countries: il
+   name_he: bit2c
+   desc_he: קניית ביטקוין בישראל.
    
  - name: Bits of Gold
    desc: Buy Bitcoin directly from Bits of Gold, the largest Bitcoin broker in Israel. 
