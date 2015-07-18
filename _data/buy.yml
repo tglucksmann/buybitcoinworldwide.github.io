@@ -1,7 +1,7 @@
  - name: Coinbase
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 
    url: https://coinbase.com/
-   icon: https://buybitcoinworldwide.com/img/buy/coinbase.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinbase.png
    countries: gr, us, it, fr, de, at, be, bg, hr, cy, cz, dk, fi, hu, ie, lv, mt, nl, nor, pl, pt, sk, es, se, ch, gb
 
  - name: Local Bitcoins
@@ -15,49 +15,49 @@
  - name: Circle
    desc: Buy bitcoin instantly with a bank account or credit card. No fees.
    url: https://circle.com/
-   icon: https://buybitcoinworldwide.com/img/buy/circle.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/circle.png
    countries: us
 
  - name: Purse.io
    desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
    url: https://purse.io/
-   icon: https://buybitcoinworldwide.com/img/buy/purse.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/purse.png
    countries: us, ca, jp
    
  - name: Bitstamp
    desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
    url: https://bitstamp.net/
-   icon: https://buybitcoinworldwide.com/img/buy/stamp.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/stamp.png
    countries: it, fr, de, at, nl, us
 
  - name: BitQuick
    desc: Buy bitcoin quickly wit cash deposits or SEPA transfers in the EU. 2% fee.
    url: https://www.bitquick.co/
-   icon: https://buybitcoinworldwide.com/img/buy/bitquick.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitquick.png
    countries: us, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, ie, it, lv, lt, lu, mt, nl, pl, pt, ro, sk, si, es, se, gb
 
  - name: Trucoin
    desc: Buy bitcoin with a credit card instantly in over 30 US states.
    url: https://trucoin.com/
-   icon: https://buybitcoinworldwide.com/img/buy/trucoin.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/trucoin.png
    countries: us
    
  - name: expresscoin
    desc: Buy bitcoin with money orders or personal checks. Good for those without a bank account.
    url: https://www.expresscoin.com/
-   icon: https://buybitcoinworldwide.com/img/buy/expresscoin.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/expresscoin.png
    countries: us
    
  - name: CEX.io
    desc: Buy bitcoin with a credit card or SEPA/ACH bank transfer. 
    url: https://cex.io/
-   icon: https://buybitcoinworldwide.com/img/buy/cex.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/cex.png
    countries: us
    
  - name: Bitcoin.de
    desc: Buy bitcoin online from other users with SEPA bank transfers.
    url: http://bitcoin.de/
-   icon: https://buybitcoinworldwide.com/img/buy/bitcoinde.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcoinde.png
    countries: de, nl
    
 # Need to add: Bitfinex, BTCe, Xapo, itBit, LakeBtc, Shapeshift, expresscoin, paxful, unocoin, coinjar, bittylicious, quickbt,
@@ -85,7 +85,7 @@
  - name: Ripio
    desc: Buy bitcoin at over 8,000 convenience stores across Argentina. Local, quick, secure. 
    url: https://ripio.com/
-   icon: https://buybitcoinworldwide.com/img/buy/ripio.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/ripio.png
    countries: ar
    
 ##### England #####
@@ -93,7 +93,7 @@
  - name: CoinCorner
    desc: Buy using GBP bank transfer or with credit/debit card. 
    url: https://www.coincorner.com/
-   icon: https://buybitcoinworldwide.com/img/buy/ccoiner.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/ccoiner.png
    countries: gb
 
 ##### Mexico #####   
@@ -101,19 +101,19 @@
  - name: Bitso
    desc: Mexican Bitcoin exchange. Deposit locally or with bank wire or SPEI.
    url: https://bitso.com/
-   icon: https://buybitcoinworldwide.com/img/buy/bitso.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitso.png
    countries: mx
 
  - name: Volabit
    desc: Buy bitcoin in Mexico with cash at 7-Eleven, Banamex, OXXO, or with a bank transfer. 
    url: https://volabit.com/
-   icon: https://buybitcoinworldwide.com/img/buy/volabit.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/volabit.png
    countries: mx
    
  - name: meXBT
    desc: Mexican Bitcoin exchange. Deposit with bank transfer or locally at over 130,000 stores.
    url: https://mexbt.com/
-   icon: https://buybitcoinworldwide.com/img/buy/mexbt.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/mexbt.png
    countries: mx
    
 ##### Mycelium #####
