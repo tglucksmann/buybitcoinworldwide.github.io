@@ -17,18 +17,24 @@
    url: https://circle.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/circle.png
    countries: us
-
- - name: Purse.io
-   desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
-   url: https://purse.io/
-   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/purse.png
-   countries: us, ca, jp
    
  - name: Bitstamp
    desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
    url: https://bitstamp.net/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/stamp.png
    countries: it, fr, de, at, nl, us
+   
+ - name: Kraken
+   desc: Bitcoin exchange supporting SEPA deposits, bank wires, SWIFT, and JPY bank deposit. 
+   url: https://www.kraken.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/kraken.png
+   countries: at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, ie, it, lv, lt, lu, mt, nl, pl, pt, ro, sk, si, es, se, gb, us, jp
+   
+ - name: Purse.io
+   desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
+   url: https://purse.io/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/purse.png
+   countries: us, ca, jp
 
  - name: BitQuick
    desc: Buy bitcoin quickly wit cash deposits or SEPA transfers in the EU. 2% fee.
@@ -60,7 +66,7 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcoinde.png
    countries: de, nl
    
-# Need to add: Bitfinex, BTCe, Xapo, itBit, LakeBtc, Shapeshift, expresscoin, paxful, unocoin, coinjar, bittylicious, quickbt,
+# Need to add: Bitfinex, BTCe, Xapo, itBit, LakeBtc, paxful, unocoin, coinjar, bittylicious, quickb,
  
 ##### Israel #####
    
@@ -118,7 +124,11 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/mexbt.png
    countries: mx
    
-##### Mycelium #####
+ - name: ShapeShift
+   desc: Buy bitcoin with Litecoin, Dogecoin, altcoins and other digital tokens.
+   url: https://shapeshift.io/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/shapeshift.png
+   countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, ch, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn
 
  - name: Mycelium Local Trader
    desc: Buy from local traders through Mycelium Bitcoin wallet. Availibility depends on location.
