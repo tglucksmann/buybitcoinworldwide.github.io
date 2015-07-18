@@ -438,6 +438,7 @@
  - country: Israel
    short: il
    me: yes
+   languages: en, he
 
  - country: Jordan
    short: jo

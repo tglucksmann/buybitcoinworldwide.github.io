@@ -6454,8 +6454,7 @@ body {
     width: 100%; }
 
   .navbar-brand {
-    background-image: none !important;
-    padding: 0 !important; } }
+    background-image: none !important; } }
 @media (min-width: 498px) {
   .small-screen-buy {
     display: none; } }
