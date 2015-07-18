@@ -11,10 +11,11 @@ lang: en
 <li><a class="btn btn-sm btn-primary" href="#na" type="button">{{ lang.namerica }}</a></li>
 <li><a class="btn btn-sm btn-primary" href="#eu" type="button">{{ lang.europe }}</a></li> 
 <li><a class="btn btn-sm btn-primary" href="#sa" type="button">{{ lang.samerica }}</a></li> 
-<li><a class="btn btn-sm btn-primary" href="#ca" type="button">{{ lang.camerica }}</a></li> 
+<li><a class="btn btn-sm btn-primary" href="#ca" type="button">{{ lang.camerica }}</a></li>
+<li><a class="btn btn-sm btn-primary" href="#oc" type="button">{{ lang.oceania }}</a></li>  
 <li><a class="btn btn-sm btn-primary" href="#me" type="button">{{ lang.meast }}</a></li>
 <li><a class="btn btn-sm btn-primary" href="#as" type="button">{{ lang.asia }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="#af" type="button">{{ lang.africa }}</a></li>
+<!--<li><a class="btn btn-sm btn-primary" href="#af" type="button">{{ lang.africa }}</a></li> -->
 </ul>
 </div>
 
@@ -66,6 +67,18 @@ lang: en
 </div>
 <hr>
 
+<h2 class="home-header"><a href="#oc" id="oc">{{ lang.buy }} {{ lang.in }} {{ lang.oceania }}</a></h2>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.oc == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+<hr>
+
 <h2 class="home-header"><a href="#me" id="me">{{ lang.buy }} {{ lang.in }} {{ lang.the }} {{ lang.meast }}</a></h2>
 <div class="container">
 <div class="row">
@@ -90,7 +103,7 @@ lang: en
 </div>
 <hr>
 
-<h2 class="home-header"><a href="#af" id="af">{{ lang.buy }} {{ lang.in }} {{ lang.africa }}</a></h2>
+<!-- <h2 class="home-header"><a href="#af" id="af">{{ lang.buy }} {{ lang.in }} {{ lang.africa }}</a></h2>
 <div class="container">
 <div class="row">
 {% for country in site.data.countries %}
@@ -99,4 +112,4 @@ lang: en
 {% endif %}
 {% endfor %}
 </div>
-</div>
+</div> -->

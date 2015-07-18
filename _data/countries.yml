@@ -354,6 +354,67 @@
  - country: Panama
    short: pa
    ca: yes
+   
+#Oceania 
+
+
+ - country: Australia
+   short: au
+   oc: yes
+
+ - country: Fiji
+   short: fj
+   oc: yes
+
+ - country: Kiribati
+   short: ki
+   oc: yes
+
+ - country: Samoa
+   short: ws
+   oc: yes
+
+ - country: Papua New Guinea
+   short: pg
+   oc: yes
+
+ - country: New Zealand
+   short: nz
+   oc: yes
+
+ - country: Solomon Islands
+   short: sb
+   oc: yes
+
+ - country: Vanuatu
+   short: vu
+   oc: yes
+
+ - country: Tonga
+   short: to
+   oc: yes
+
+ - country: Micronesia
+   short: fm
+   oc: yes
+
+ - country: Palau 
+   short: pw
+   oc: yes
+
+ - country: Marshall Islands
+   short: mh
+   oc: yes
+
+ - country: Tuvalu
+   short: tv
+   oc: yes
+
+ - country: Nauru
+   short: nr
+   oc: yes
+   
+   
       
 # Middle East
 

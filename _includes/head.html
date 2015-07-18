@@ -1,1 +1,6 @@
 <!-- Additions to <head> tags go here. -->
+{% if page.desc %}
+<meta name="description" content="{{ page.desc }}" />
+{% else %}
+
+{% endif %}

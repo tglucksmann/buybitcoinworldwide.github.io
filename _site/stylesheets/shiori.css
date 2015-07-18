@@ -6357,8 +6357,8 @@ body {
   .featured-exchanges {
     max-width: 185px; }
 
-  .navbar-header {
-    width: 110px; }
+  .navbar-brand {
+    line-height: 39px; }
 
   .navbar-brand {
     padding: 9.5px 15px; } }
@@ -6457,6 +6457,13 @@ body {
 @media (min-width: 498px) {
   .small-screen-buy {
     display: none; } }
+.navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-brand {
+  color: #777; }
+
+.navbar-inverse {
+  background-color: #f8f8f8;
+  border-color: #e7e7e7; }
+
 .flag-icon {
   background-size: contain;
   background-position: 50%;
