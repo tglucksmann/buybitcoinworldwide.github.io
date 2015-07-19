@@ -8,10 +8,8 @@ desc: Learn where and how to buy bitcoin in the Bahamas. Complete directory of e
 ---
 {% include country-loops.html %}
 {% include buy-list-header.html %}
-<div class="post-content">
 {% for name in site.data.buy %}
 {% if name.countries contains 'bs' %}
 {% include buy-list-en.html %}
 {% endif %}
 {% endfor %}
-</div>

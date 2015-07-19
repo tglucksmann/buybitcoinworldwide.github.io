@@ -6353,6 +6353,9 @@ body {
   .buy-info {
     margin: 10px 0.5% !important;
     width: 49% !important; } }
+@media (min-width: 767px) {
+  .footer-right {
+    text-align: right; } }
 .navbar-brand {
   line-height: 39px;
   padding: 9.5px 15px; }
@@ -6426,7 +6429,10 @@ body {
     margin: 7px 5px !important; }
 
   .navbar-nav {
-    float: left !important; } }
+    float: left !important; }
+
+  .footer-right {
+    margin: 15px 0 0; } }
 .well-home {
   text-align: center; }
 
@@ -6479,14 +6485,29 @@ body {
   background: #f8f8f8;
   margin: 50px 0 0;
   border-top: 1px solid #e7e7e7;
-  color: #777; }
+  color: #777;
+  font-family: "Helvetica Neue",Arial,sans-serif; }
 
 .footer-main {
   width: 100%;
   max-width: 970px;
   margin: 0 auto;
-  padding-bottom: 15px;
-  padding-top: 15px; }
+  padding-bottom: 20px;
+  padding-top: 20px; }
+
+.footer a {
+  color: #777;
+  text-decoration: none; }
+
+.footer a:hover {
+  color: #000;
+  text-decoration: none; }
+
+.wallet-nav {
+  padding-right: 20px; }
+
+.footer-social {
+  font-size: 25px; }
 
 .flag-icon {
   background-size: contain;

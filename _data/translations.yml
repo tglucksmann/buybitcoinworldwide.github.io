@@ -1,3 +1,4 @@
+##################### English #####################
 en:
   buy: Buy Bitcoin
   atms: ATMs
@@ -20,7 +21,10 @@ en:
   home_url: https://buybitcoinworldwide.com/
   find_country: Find Country
   by_jordan: Site by Jordan Tuwiner
-  
+  disclaimer: Disclaimer
+  disclaimer_url: /disclaimer/
+ 
+##################### Hebrew #####################
 he:
   buy: קנה ביטקוין
   atms: ATMs

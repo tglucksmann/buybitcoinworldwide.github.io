@@ -452,4 +452,47 @@ uz:
 vn:
   short: vn
 
-  
+# Oceania
+
+
+au:
+  short: au
+
+fj:
+  short: fj
+
+ki:
+  short: ki
+
+ws:
+  short: ws
+
+pg:
+  short: pg
+
+nz:
+  short: nz
+
+sb:
+  short: sb
+
+vu:
+  short: vu
+
+to:
+  short: to
+
+fm:
+  short: fm
+
+pw:
+  short: pw
+
+mh:
+  short: mh
+
+tv:
+  short: tv
+
+nr:
+  short: nr  
