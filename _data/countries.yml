@@ -413,11 +413,8 @@
  - country: Nauru
    short: nr
    oc: yes
-   
-   
       
 # Middle East
-
 
  - country: Bahrain
    short: bh
@@ -477,7 +474,6 @@
    me: yes
    
 # Asia 
-
 
  - country: Afghanistan
    short: af
