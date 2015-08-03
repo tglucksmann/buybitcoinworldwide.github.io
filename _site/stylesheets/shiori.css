@@ -6500,6 +6500,9 @@ body {
   color: #777;
   text-decoration: none; }
 
+.footer h4 {
+  margin: 0; }
+
 .footer a:hover {
   color: #000;
   text-decoration: none; }
