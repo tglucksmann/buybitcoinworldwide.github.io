@@ -1,0 +1,15 @@
+---
+title: Buy Bitcoin in Tuvalu
+permalink: /en/tv/
+layout: country
+lang: en
+country: tv
+desc: Learn where and how to buy bitcoin in Tuvalu. Complete directory of exchanges, brokers, and ATMs accepting a number of payment methods.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'tv' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

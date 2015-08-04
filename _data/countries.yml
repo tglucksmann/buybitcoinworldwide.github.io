@@ -369,50 +369,51 @@
  - country: Kiribati
    short: ki
    oc: yes
-
- - country: Samoa
-   short: ws
+   
+ - country: Marshall Islands
+   short: mh
    oc: yes
-
- - country: Papua New Guinea
-   short: pg
+   
+ - country: Micronesia
+   short: fm
+   oc: yes
+   
+ - country: Nauru
+   short: nr
    oc: yes
 
  - country: New Zealand
    short: nz
+   oc: yes
+   
+ - country: Palau 
+   short: pw
+   oc: yes
+   
+ - country: Papua New Guinea
+   short: pg
+   oc: yes
+   
+ - country: Samoa
+   short: ws
    oc: yes
 
  - country: Solomon Islands
    short: sb
    oc: yes
 
- - country: Vanuatu
-   short: vu
-   oc: yes
-
  - country: Tonga
    short: to
    oc: yes
-
- - country: Micronesia
-   short: fm
-   oc: yes
-
- - country: Palau 
-   short: pw
-   oc: yes
-
- - country: Marshall Islands
-   short: mh
-   oc: yes
-
+   
  - country: Tuvalu
    short: tv
    oc: yes
 
- - country: Nauru
-   short: nr
+ - country: Vanuatu
+   short: vu
    oc: yes
+
       
 # Middle East
 
