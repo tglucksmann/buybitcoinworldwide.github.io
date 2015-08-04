@@ -111,7 +111,7 @@
  - name: BTCe
    desc: Bitcoin exchange supporting bank wires, SEPA, credit cards, webmoney.ru and many other options. 
    url: https://btc-e.com/
-   icon: # add picture
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btce.png
    countries: us, ru, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
 
  - name: Trucoin
@@ -123,7 +123,7 @@
  - name: itBit
    desc: New York based Bitcoin exchange. Deposit with ACH transfter, SEPA, or international wire transfer.
    url: https://trucoin.com/
-   icon: # add image
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/itbit.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg
    
  - name: expresscoin
