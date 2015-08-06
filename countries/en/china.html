@@ -1,0 +1,15 @@
+---
+title: Buy Bitcoin in China
+permalink: /en/cn/
+layout: country
+lang: en
+country: cn
+desc: Learn where and how to buy bitcoin in China. Complete directory of exchanges, brokers, and ATMs accepting a number of payment methods.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'cn' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

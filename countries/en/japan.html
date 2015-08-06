@@ -1,0 +1,15 @@
+---
+title: Buy Bitcoin in Japan
+permalink: /en/jp/
+layout: country
+lang: en
+country: jp
+desc: Learn where and how to buy bitcoin in Japan. Complete directory of exchanges, brokers, and ATMs accepting a number of payment methods.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'jp' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}
