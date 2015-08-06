@@ -1,0 +1,15 @@
+---
+title: Buy Bitcoin in Iraq
+permalink: /en/iq/
+layout: country
+lang: en
+country: iq
+desc: Learn where and how to buy bitcoin in Iraq. Complete directory of exchanges, brokers, and ATMs accepting a number of payment methods.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'iq' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

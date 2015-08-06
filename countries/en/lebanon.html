@@ -1,0 +1,15 @@
+---
+title: Buy Bitcoin in Lebanon
+permalink: /en/lb/
+layout: country
+lang: en
+country: lb
+desc: Learn where and how to buy bitcoin in Lebanon. Complete directory of exchanges, brokers, and ATMs accepting a number of payment methods.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'lb' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}
