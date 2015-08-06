@@ -2,8 +2,8 @@ baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the r
 url: "https://buybitcoinworldwide.com" # the base hostname & protocol for your site
 title: "Buy Bitcoin Worldwide"
 
-# This is used by feed.xml. Uncomment if you want to use it.
-# description: "..."
+gems:
+  - jekyll-sitemap
 
 exclude:
   - "README.md"
