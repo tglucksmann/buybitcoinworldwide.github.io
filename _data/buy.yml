@@ -51,6 +51,12 @@
    url: http://satoshicounter.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/satoshicounter.png
    countries: ca   
+   
+ - name: Harborly
+   desc: Buy bitcoin fast in the USA or Canada. Buy with credit card, bank transfer, and more.
+   url: https://harbor.ly
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/harborly.png
+   countries: ca, us
 
 ##### Israel ####################################################  
    
