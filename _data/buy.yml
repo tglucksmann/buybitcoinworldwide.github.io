@@ -48,7 +48,7 @@
    
  - name: bit2c
    desc: Largest Bitcoin exchange in Israel. Buy with bank wire or credit card. 
-   url: https://bit2c.co.il/
+   url: http://buybitcoinww.co/bit2c
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bit2c.png
    countries: il
    langs: en, he
@@ -100,11 +100,19 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/mexbt.png
    countries: mx
    
+##### Caribbean ####################################################   
+
+ - name: bitt
+   desc: Caribbean Bitcoin exchange. Trade BBD, TTD, JMD, USD, EUR, and GBP. 
+   url: https://www.bitt.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitt.png
+   countries: jm, bb, tt
+   
 ####################################################   
    
  - name: Purse.io
    desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
-   url: https://purse.io/
+   url: http://buybitcoinww.co/purse_io
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/purse.png
    countries: us, ca, jp
    
