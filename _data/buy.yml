@@ -43,6 +43,14 @@
    url: https://www.bitquick.co/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitquick.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
+   
+##### Canada ####################################################   
+
+ - name: Satoshi Counter
+   desc: Buy in person in Montreal or online in the rest of Canada. Fast, private, and convenient. 
+   url: http://satoshicounter.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/satoshicounter.png
+   countries: ca   
 
 ##### Israel ####################################################  
    
