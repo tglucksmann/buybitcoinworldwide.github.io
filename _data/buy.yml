@@ -42,7 +42,15 @@
    desc: Buy bitcoin quickly wit cash deposits or SEPA transfers in the EU. 2% fee.
    url: https://www.bitquick.co/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitquick.png
-   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
+   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb  
+   
+##### USA ####################################################    
+   
+ - name: Coinsetter
+   desc: New York based Bitcoin exchange. Deposit money with ACH transfer or SWIFT. 
+   url: https://www.coinsetter.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinsetter.png
+   countries: us     
    
 ##### Canada ####################################################   
 
