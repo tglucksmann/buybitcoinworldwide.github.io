@@ -172,7 +172,13 @@
    desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
    url: http://buybitcoinww.co/purse_io
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/purse.png
-   countries: us, ca, jp
+   countries: us, ca, jp   
+   
+ - name: Changetip
+   desc: Buy small amounts of bitcoin with a Visa or Mastercard debit/credit card. 
+   url: https://www.changetip.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/changetip.png
+   countries: us
    
  - name: BTCe
    desc: Bitcoin exchange supporting bank wires, SEPA, credit cards, webmoney.ru and many other options. 
