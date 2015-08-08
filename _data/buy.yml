@@ -79,9 +79,15 @@
    countries: ca, us
    
  - name: ANXBTC
-   desc: Canadia Bitcoin company. Buy bitcoin with cash deposit, bank transfer, SEPA, and more.
+   desc: Canadian Bitcoin company. Buy bitcoin with cash deposit, bank transfer, SEPA, and more.
    url: https://anxbtc.com
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/anxbtc.png
+   countries: ca
+   
+ - name: QuadrigaCX
+   desc: Bitcoin exchange. Fund account with INTERAC Online and many other payment options.
+   url: https://www.quadrigacx.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/quadrigacx.png
    countries: ca
 
 ##### Israel ####################################################  
