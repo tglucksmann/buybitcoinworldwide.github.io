@@ -63,13 +63,13 @@
  - name: Satoshi Counter
    desc: Buy in person in Montreal or online in the rest of Canada. Fast, private, and convenient. 
    url: http://satoshicounter.com/
-   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/quickbt.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/satoshicounter.png
    countries: ca
    
  - name: QuickBT
    desc: Buy small amounts of bitcoin in minutes (up to 0.2 BTC) with INTERAC Online. 
    url: https://quickbt.com
-   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/satoshicounter.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/quickbt.png
    countries: ca   
    
  - name: Harborly
