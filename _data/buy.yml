@@ -26,17 +26,17 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcoinde.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    
- - name: Bitstamp
-   desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
-   url: https://bitstamp.net/
-   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/stamp.png
-   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
-   
  - name: Coinbase Exchange
    desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or ACH bank transfer.
    url: https://exchange.coinbase.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinbaseexchange.png
    countries: us, gb     
+
+ - name: Bitstamp
+   desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
+   url: https://bitstamp.net/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/stamp.png
+   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
    
  - name: Kraken
    desc: Bitcoin exchange supporting SEPA deposits, bank wires, SWIFT, and JPY bank deposit. 
@@ -282,6 +282,12 @@
    desc: Buy bitcoin with a credit card instantly in over 30 US states.
    url: https://trucoin.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/trucoin.png
+   countries: us
+   
+ - name: Wall of Coins
+   desc: Buy bitcoin via cash deposits at a number of US banks nationwide. 
+   url: https://wallofcoins.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/wallofcoins.png
    countries: us
    
  - name: Celery
