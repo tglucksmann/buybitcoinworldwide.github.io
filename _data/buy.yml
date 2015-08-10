@@ -96,6 +96,12 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/quadrigacx.png
    countries: ca
    
+ - name: Safello
+   desc: Buy bitcoin via SEPA, Swish, International Bank Transfer, Bankgiro, and more. 
+   url: https://safello.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/safello.png
+   countries: se, es, pl, hu, be, nl, gb, it, ch, de, fr, at, bg, cy, hr, cz, dk, ee, fi, gr, ie, li, lt, lu, mc, mt, pt, ro, sm, sk
+   
  - name: Canadian Bitcoins
    desc: Buy bitcoin with cash in office, cash through express mail, online banking, & Interac Online.
    url: https://www.quadrigacx.com/
@@ -161,11 +167,10 @@
 ##### Brazil ####################################################      
 
  - name: Mercado Bitcoin
-   desc: Bitcoin exhange. Buy bitcoin online in Brazil with bank transfers. 0.3% fee.  
+   desc: Bitcoin exhange. Buy bitcoin online in Brazil with bank transfers. Fee varies.   
    url: https://www.bitinvest.com.br/
-   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitinvest.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/mercado.png
    countries: br
-
 
  - name: bitinvest
    desc: Bitcoin exhange. Buy bitcoin online in Brazil with bank transfers. 0.3% fee.  
