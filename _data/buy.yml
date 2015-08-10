@@ -1,4 +1,4 @@
-# Need to add: Xapo, LakeBtc, paxful, unocoin, coinjar, bittylicious, quickbt, celery, safello, OTC, OKCoin, Huobi, BTCCHina, fastcoin, libertyx
+# Need to add: Xapo, LakeBtc, paxful, coinjar, OTC, OKCoin, Huobi, BTCCHina, fastcoin
 
  - name: Coinbase
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 1% fee.
@@ -193,6 +193,14 @@
    url: https://www.bitt.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitt.png
    countries: jm, bb, tt
+   
+##### United Kingdom, UK, Britain ####################################################      
+   
+ - name: Bittylicious
+   desc: Buy very small amounts of bitcoin via Barclays Pingit, bank transfer, or credit/debit card.
+   url: https://bittylicious.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bittylicious.png
+   countries: gb   
    
 ##### Thailand ####################################################      
 
