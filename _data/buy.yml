@@ -45,7 +45,7 @@
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp
  
  - name: BitQuick
-   desc: Buy bitcoin quickly wit cash deposits or SEPA transfers in the EU. 2% fee.
+   desc: Buy bitcoin quickly with cash deposits or SEPA transfers in the EU. 2% fee.
    url: https://www.bitquick.co/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitquick.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb  
@@ -173,6 +173,20 @@
    url: https://www.bitt.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitt.png
    countries: jm, bb, tt
+   
+##### India ####################################################      
+   
+ - name: BitQuick.in
+   desc: Buy bitcoin quickly via an NEFT/RTGS tranfer, IMPS transfer or cash deposit.
+   url: https://www.bitquick.in/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitquick.png
+   countries: in  
+   
+ - name: coinsecure
+   desc: Indian Bitcoin exchange and trading platform. 0.3% fee and a number of deposit options. 
+   url: https://coinsecure.in/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinsecure.png
+   countries: in  
    
 ####################################################   
 
