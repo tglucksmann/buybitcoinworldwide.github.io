@@ -167,6 +167,12 @@
    countries: jm, bb, tt
    
 ####################################################   
+
+ - name: LibertyX
+   desc: Buy bitcoin with cash at a number of retail stores across the US.  
+   url: https://libertyx.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/libertyx.png
+   countries: us
    
  - name: Purse.io
    desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
@@ -179,17 +185,17 @@
    url: https://www.changetip.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/changetip.png
    countries: us
-   
- - name: BTCe
-   desc: Bitcoin exchange supporting bank wires, SEPA, credit cards, webmoney.ru and many other options. 
-   url: https://btc-e.com/
-   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btce.png
-   countries: us, ru, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
 
  - name: Trucoin
    desc: Buy bitcoin with a credit card instantly in over 30 US states.
    url: https://trucoin.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/trucoin.png
+   countries: us
+   
+ - name: Celery
+   desc: Buy bitcoin with a connected US bank account or credit/debit card.  
+   url: https://www.gocelery.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/celery.png
    countries: us
    
  - name: itBit
@@ -215,6 +221,12 @@
    url: https://cex.io/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/cex.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
+   
+ - name: BTCe
+   desc: Bitcoin exchange supporting bank wires, SEPA, credit cards, webmoney.ru and many other options. 
+   url: https://btc-e.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btce.png
+   countries: us, ru, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    
  - name: ShapeShift
    desc: Buy bitcoin with Litecoin, Dogecoin, altcoins and other digital tokens.
