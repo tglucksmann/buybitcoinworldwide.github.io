@@ -158,6 +158,14 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/mexbt.png
    countries: mx
    
+##### Brazil ####################################################      
+
+ - name: bitinvest
+   desc: Bitcoin exhange. Buy bitcoin online in Brazil with bank transfers. 0.3% fee.  
+   url: https://www.bitinvest.com.br/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitinvest.png
+   countries: br
+   
 ##### Philippines #################################################### 
 
  - name: coins.ph
