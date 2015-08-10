@@ -1,4 +1,4 @@
-# Need to add: Xapo, LakeBtc, paxful, coinjar, OTC, Huobi, BTCCHina, fastcoin
+# Need to add: Xapo, LakeBtc, paxful, OTC, Huobi, BTCCHina, fastcoin
 
  - name: Coinbase
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 1% fee.
@@ -185,6 +185,14 @@
    url: https://www.okcoin.cn/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/okcoin.png
    countries: cn  
+   
+##### Australia #################################################### 
+ 
+ - name: CoinJar
+   desc: Australian Bitcoin platform. Buy bitcoin via BPAY. 1% fee.  
+   url: https://www.coinjar.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinjar.png
+   countries: au  
    
 ##### Philippines #################################################### 
 
