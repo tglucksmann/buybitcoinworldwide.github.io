@@ -160,6 +160,13 @@
    
 ##### Brazil ####################################################      
 
+ - name: Mercado Bitcoin
+   desc: Bitcoin exhange. Buy bitcoin online in Brazil with bank transfers. 0.3% fee.  
+   url: https://www.bitinvest.com.br/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitinvest.png
+   countries: br
+
+
  - name: bitinvest
    desc: Bitcoin exhange. Buy bitcoin online in Brazil with bank transfers. 0.3% fee.  
    url: https://www.bitinvest.com.br/
@@ -261,10 +268,10 @@
    countries: at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, ie, it, lv, lt, lu, mt, nl, pl, pt, ro, sk, si, es, se, gb, us, jp, cn  
    
  - name: CEX.io
-   desc: Buy bitcoin with a credit card or SEPA/ACH bank transfer. 
+   desc: Buy bitcoin via credit card, SEPA/ACH bank transfer, cash, or AstroPay. 
    url: https://cex.io/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/cex.png
-   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
+   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, tr, cn, ar, br, cl, mx, co, pe, uy
    
  - name: BTCe
    desc: Bitcoin exchange supporting bank wires, SEPA, credit cards, webmoney.ru and many other options. 
