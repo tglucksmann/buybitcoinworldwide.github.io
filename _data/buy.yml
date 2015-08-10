@@ -176,6 +176,12 @@
    
 ##### India ####################################################      
    
+ - name: Unocoin
+   desc: Leading Indian Bitcoin platform. Buy bitcoin with any Indian bank account. 
+   url: https://www.unocoin.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/unocoin.png
+   countries: in    
+  
  - name: BitQuick.in
    desc: Buy bitcoin quickly via an NEFT/RTGS tranfer, IMPS transfer or cash deposit.
    url: https://www.bitquick.in/
