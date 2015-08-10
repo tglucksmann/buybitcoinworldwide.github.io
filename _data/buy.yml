@@ -107,6 +107,14 @@
    url: https://www.quadrigacx.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/canadianbitcoins.png
    countries: ca
+   
+##### Venezuela ####################################################  
+
+ - name: Bitcoin Venezuela
+   desc: Find a trade partner in the Bitcoin Venezuela Facebook group. 
+   url: https://www.facebook.com/groups/btcven
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcoinve.png
+   countries: ve
 
 ##### Israel ####################################################  
    
@@ -285,7 +293,7 @@
    countries: us
    
  - name: Wall of Coins
-   desc: Buy bitcoin via cash deposits at a number of US banks nationwide. 
+   desc: Buy bitcoin via cash deposit at a number of US banks nationwide. 
    url: https://wallofcoins.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/wallofcoins.png
    countries: us
