@@ -115,6 +115,12 @@
    url: https://www.facebook.com/groups/btcven
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcoinve.png
    countries: ve
+   
+ - name: SurBitcoin
+   desc: First Bitcoin exchange in Venezuela. Buy via bank transfer. 
+   url: https://surbitcoin.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/surbitcoin.png
+   countries: ve
 
 ##### Israel ####################################################  
    
