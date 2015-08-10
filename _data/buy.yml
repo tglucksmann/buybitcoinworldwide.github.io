@@ -158,6 +158,14 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/mexbt.png
    countries: mx
    
+##### Philippines #################################################### 
+
+ - name: coins.ph
+   desc: Buy bitcoin via bank deposit, online transfer, padala centers and other stores. 
+   url: https://coins.ph/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinph.png
+   countries: ph
+   
 ##### Caribbean ####################################################   
 
  - name: bitt
