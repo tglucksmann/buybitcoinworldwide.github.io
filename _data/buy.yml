@@ -1,4 +1,4 @@
-# Need to add: Xapo, LakeBtc, paxful, coinjar, OTC, OKCoin, Huobi, BTCCHina, fastcoin
+# Need to add: Xapo, LakeBtc, paxful, coinjar, OTC, Huobi, BTCCHina, fastcoin
 
  - name: Coinbase
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 1% fee.
@@ -177,6 +177,14 @@
    url: https://www.bitinvest.com.br/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitinvest.png
    countries: br
+   
+##### China #################################################### 
+ 
+ - name: OKCoin
+   desc: Largest Bitcoin exchange in China. No trading fees. Deposit via OKPAY or PerfectMoney.  
+   url: https://www.okcoin.cn/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/okcoin.png
+   countries: cn  
    
 ##### Philippines #################################################### 
 
