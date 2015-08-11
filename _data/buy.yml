@@ -255,6 +255,14 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinsth.png
    countries: th 
 
+##### Taiwain ####################################################   
+
+ - name: BitQuick.tw
+   desc: Buy bitcoin fast via cash deposit at a number of banks nationwide.
+   url: https://www.bitquick.tw/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitquick.png
+   countries: tw    
+
 ##### India ####################################################      
    
  - name: Unocoin
