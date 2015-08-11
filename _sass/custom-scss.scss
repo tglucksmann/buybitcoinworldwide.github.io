@@ -68,9 +68,9 @@
 }
 
 .buy-info p {
-    font-size: 16px;
-    line-height: 1.55;
+    line-height: 1.5;
     margin: 16px 0 14px;
+    font-size: 16px;
 }
 
 .buy-info h4 {
@@ -86,7 +86,9 @@
 }
 
 .buy-info .btn {
-	padding: 0 9px;
+    font-size: 14px;
+    padding: 1px 9px;
+    font-weight: 400;
 }
 
 .navbar-header {
@@ -216,6 +218,12 @@
     font-weight: 400;
 }
 
+.navbar-nav > li > a {
+    padding-bottom: 17px;
+    padding-top: 17px;
+    font-size: 15px;
+}
+
 .navbar-nav {
     float: right;
 }
@@ -267,7 +275,7 @@
 	color: #333;
 }
 
-.help-article .post-title-main {
+.post-title-main {
 	text-align: center;
 }
 
@@ -285,4 +293,19 @@ h3 {
     float: left;
     margin: 0 15px 0 0;
     width: 130px;
+}
+
+@media (max-width: 580px) { 
+	.help-article-index img {
+    margin: 0 15px 0 0;
+    width: 90px;
+}
+}
+
+.navbar-static-top {
+    border-width: 0 1px !important;
+}
+
+.index-continent-menu a {
+	font-size: 13px;
 }
