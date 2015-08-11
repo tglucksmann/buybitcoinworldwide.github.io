@@ -6513,6 +6513,20 @@ h3 {
 .footer-social {
   font-size: 25px; }
 
+.post-title-main a {
+  color: #333; }
+
+.help-article .post-title-main {
+  text-align: center; }
+
+.nav-container {
+  padding: 0 3% !important;
+  width: 100% !important; }
+
+h3 {
+  font-size: 17px;
+  text-transform: none; }
+
 .flag-icon {
   background-size: contain;
   background-position: 50%;

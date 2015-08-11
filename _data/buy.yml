@@ -5,6 +5,7 @@
    url: http://buybitcoinww.co/buycoinbase
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinbase.png
    countries: gr, us, it, fr, de, at, be, bg, hr, cy, cz, dk, fi, hu, ie, lv, mt, nl, nor, pl, pt, sk, es, se, ch, gb, ro
+   po: sepa, usbt
 
  - name: Local Bitcoins
    desc: Buy bitcoin from local dealers, online or in person. Private and quick. 1% fee.
@@ -20,6 +21,7 @@
    url: https://circle.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/circle.png
    countries: us
+   po: ccus, usbt
    
  - name: Bitcoin.de
    desc: Buy bitcoin online from other users with SEPA bank transfers.
@@ -32,25 +34,29 @@
    desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or ACH bank transfer.
    url: https://exchange.coinbase.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinbaseexchange.png
-   countries: us, gb     
+   countries: us, gb   
+   po: sepa  
 
  - name: Bitstamp
    desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
    url: https://bitstamp.net/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/stamp.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
+   po: sepa
    
  - name: Kraken
    desc: Bitcoin exchange supporting SEPA deposits, bank wires, SWIFT, and JPY bank deposit. 
    url: https://www.kraken.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/kraken.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp
+   po: sepa
  
  - name: BitQuick
    desc: Buy bitcoin quickly with cash deposits or SEPA transfers in the EU. 2% fee.
    url: https://www.bitquick.co/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitquick.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
+   po: sepa
    
 ##### USA ####################################################    
    
@@ -58,7 +64,8 @@
    desc: New York based Bitcoin exchange. Deposit money with ACH transfer or SWIFT. 
    url: https://www.coinsetter.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinsetter.png
-   countries: us     
+   countries: us
+   po: usbt
    
 ##### Canada ####################################################   
 
@@ -78,37 +85,43 @@
    desc: Buy small amounts of bitcoin in minutes (up to 0.2 BTC) with INTERAC Online. 
    url: https://quickbt.com
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/quickbt.png
-   countries: ca   
+   countries: ca
+   po: io
    
  - name: Harborly
    desc: Buy bitcoin fast in the USA or Canada. Buy with credit card, bank transfer, and more.
    url: https://harbor.ly
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/harborly.png
    countries: ca, us
+   po: usbt, ccus
    
  - name: ANXBTC
    desc: Canadian Bitcoin company. Buy bitcoin with cash deposit, bank transfer, SEPA, and more.
    url: https://anxbtc.com
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/anxbtc.png
    countries: ca
+   po: sepa, cdca
    
  - name: QuadrigaCX
    desc: Bitcoin exchange. Fund account with INTERAC Online and many other payment options.
    url: https://www.quadrigacx.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/quadrigacx.png
    countries: ca
+   po: io
    
  - name: Safello
    desc: Buy bitcoin via SEPA, Swish, International Bank Transfer, Bankgiro, and more. 
    url: https://safello.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/safello.png
    countries: se, es, pl, hu, be, nl, gb, it, ch, de, fr, at, bg, cy, hr, cz, dk, ee, fi, gr, ie, li, lt, lu, mc, mt, pt, ro, sm, sk
+   po: sepa
    
  - name: Canadian Bitcoins
    desc: Buy bitcoin with cash in office, cash through express mail, online banking, & Interac Online.
-   url: https://www.quadrigacx.com/
+   url: https://www.canadianbitcoins.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/canadianbitcoins.png
    countries: ca
+   po: io
    
 ##### Venezuela ####################################################  
 
@@ -269,12 +282,14 @@
    url: https://www.changetip.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/changetip.png
    countries: us
+   po: ccus
      
  - name: CEX.io
    desc: Buy bitcoin via credit card, SEPA/ACH bank transfer, cash, or AstroPay. 
    url: https://cex.io/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/cex.png
-   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, tr, cn, ar, br, cl, mx, co, pe, uy   
+   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, tr, cn, ar, br, cl, mx, co, pe, uy  
+   po: sepa, ccus, btus
    
  - name: LibertyX
    desc: Buy bitcoin with cash at a number of retail stores across the US.  
@@ -292,13 +307,15 @@
    desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
    url: http://buybitcoinww.co/purse_io
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/purse.png
-   countries: us, ca, jp      
+   countries: us, ca, jp   
+   po: ccus   
 
  - name: Trucoin
    desc: Buy bitcoin with a credit card instantly in over 30 US states.
    url: https://trucoin.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/trucoin.png
    countries: us
+   po: ccus
    
  - name: Wall of Coins
    desc: Buy bitcoin via cash deposit at a number of US banks nationwide. 
@@ -311,12 +328,14 @@
    url: https://www.gocelery.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/celery.png
    countries: us
+   po: btus, ccus
    
  - name: itBit
    desc: New York based Bitcoin exchange. Deposit with ACH transfter, SEPA, or international wire transfer.
    url: https://trucoin.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/itbit.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg
+   po: sepa, btus
    
  - name: expresscoin
    desc: Buy bitcoin with money orders or personal checks. Good for those without a bank account.
@@ -341,6 +360,7 @@
    url: https://btc-e.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btce.png
    countries: us, ru, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
+   po: sepa
    
  - name: ShapeShift
    desc: Buy bitcoin with Litecoin, Dogecoin, altcoins and other digital tokens.
