@@ -6527,6 +6527,10 @@ h3 {
   font-size: 17px;
   text-transform: none; }
 
+.help-article img {
+  width: 300px;
+  float: left; }
+
 .flag-icon {
   background-size: contain;
   background-position: 50%;
