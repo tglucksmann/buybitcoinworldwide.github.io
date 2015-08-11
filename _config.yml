@@ -28,9 +28,3 @@ defaults:
       type: "countries"
     values:
       layout: "country"
-  -   
-      scope:
-      path: "/posts"
-      type: "helpposts"
-    values:
-      layout: "page"
