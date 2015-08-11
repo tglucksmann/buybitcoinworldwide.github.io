@@ -6529,7 +6529,11 @@ h3 {
 
 .help-article-index img {
   float: left;
+  margin: 0 15px 0 0;
   width: 130px; }
+
+.ccus img {
+  margin: 0 15px 0 3px; }
 
 .flag-icon {
   background-size: contain;
