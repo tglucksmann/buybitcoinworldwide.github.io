@@ -6533,7 +6533,8 @@ h3 {
   width: 130px; }
 
 .ccus img {
-  margin: 0 15px 0 3px; }
+  margin: 0 17px 0 0 !important;
+  width: 128px !important; }
 
 .flag-icon {
   background-size: contain;
