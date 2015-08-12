@@ -6498,15 +6498,23 @@ h3 {
   max-width: 970px;
   margin: 0 auto;
   padding-bottom: 20px;
-  padding-top: 20px; }
+  padding-top: 20px;
+  padding-left: 30px; }
 
 .footer a {
   color: #777;
   text-decoration: none; }
 
 .footer h4 {
-  margin: 0 !important; }
+  display: inline-block;
+  margin: 0 20px 0 0 !important; }
 
+@media (max-width: 880px) {
+  .footer h4 {
+    display: none !important; }
+
+  .footer-main {
+    text-align: center !important; } }
 .footer a:hover {
   color: #000;
   text-decoration: none; }
