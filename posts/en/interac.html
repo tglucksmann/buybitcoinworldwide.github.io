@@ -1,0 +1,16 @@
+---
+layout: help
+title: "How to Buy Bitcoin with Interac® Online"
+permalink: "/en/buy-bitcoin-interac-online/"
+sitemap:
+    priority: 0.7
+desc: Learn where to buy bitcoin with Interac® Online. Complete list of exchanges and brokers accepting Interac® Online for bitcoin. 
+lang: en
+---
+<p>Using Interac® Online can help you buy bitcoin quickly in Canada. The list below contains bitcoin exchanges and brokers that allow you to buy bitcoin with Interac® Online.</p> 
+{% include country-loops.html %}
+{% for name in site.data.buy %}
+{% if name.po contains 'io' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}
