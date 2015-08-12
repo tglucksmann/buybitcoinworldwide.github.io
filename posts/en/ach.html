@@ -1,0 +1,16 @@
+---
+layout: help
+title: "Buy Bitcoin with ACH Bank Transfer in the United States"
+permalink: "/en/buy-bitcoin-ach-bank-transfer-united-states/"
+sitemap:
+    priority: 0.7
+desc: Learn where to buy bitcoin with Interac® Online. Complete list of exchanges and brokers accepting Interac® Online for bitcoin. 
+lang: en
+---
+<p>Using ACH bank transfers help you buy bitcoin online and in larger quantities than other methods. The list below contains U.S. Bitcoin exchanges and brokers that allow you to buy bitcoin with ACH bank transfers.  </p> 
+{% include country-loops.html %}
+{% for name in site.data.buy %}
+{% if name.po contains 'usbt' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}
