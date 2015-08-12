@@ -1,4 +1,4 @@
-# Need to add: LakeBtc, paxful, Huobi, BTCCHina, fastcoin
+# Need to add: LakeBtc, Huobi, BTCCHina
 
  - name: Coinbase
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 1% fee.
@@ -195,6 +195,12 @@
    
 ##### Brazil ####################################################      
 
+ - name: Satoshi Tango
+   desc: Bitcoin platform. Supports a growing number of countries in South America and Europe. 
+   url: https://www.satoshitango.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/satoshitango.png
+   countries: br, tr, cl, co, pe, uy, ar
+
  - name: Mercado Bitcoin
    desc: Bitcoin exhange. Buy bitcoin online in Brazil with bank transfers. Fee varies.   
    url: https://www.bitinvest.com.br/
@@ -370,7 +376,7 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btce.png
    countries: us, ru, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    po: sepa
-   
+
  - name: ShapeShift
    desc: Buy bitcoin with Litecoin, Dogecoin, altcoins and other digital tokens.
    url: https://shapeshift.io/
