@@ -22,11 +22,13 @@ en:
   find_country: Find Country
   by_jordan: Site by Jordan Tuwiner
   disclaimer: Disclaimer
-  disclaimer_url: /disclaimer/
+  disclaimer_url: /en/disclaimer/
   contact: Contact
   contact_url: /contact/
   info: Help
   info_url: /en/help/
+  about: About
+  about_url: /en/about/
  
 ##################### Hebrew #####################
 he:

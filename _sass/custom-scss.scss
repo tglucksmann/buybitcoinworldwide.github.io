@@ -42,6 +42,16 @@
 	.buy-info {
     margin: 15px 0;
 }
+
+.bottom-footer .right, .bottom-footer .left {
+    text-align: center !important;
+}
+
+.bottom-footer .left {
+    margin-bottom: 20px !important;
+}
+
+
 }
 
 @media (min-width: 992px) { 
@@ -273,6 +283,7 @@
 .bottom-footer img {
 	width: 50px;
 	height: auto;
+	 margin: 0 0 4px;
 }
 
 .post-title-main a {
