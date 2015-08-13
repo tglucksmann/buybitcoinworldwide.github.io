@@ -234,7 +234,7 @@
 	border-top: 1px solid #e7e7e7;
 	border-bottom: 1px solid #e7e7e7;
 	color: #777;
-	font-family: "Helvetica Neue",Arial,sans-serif;
+	font-family: "Open Sans",Arial,sans-serif;
 }
 
 .footer-main {
@@ -251,19 +251,14 @@
     text-decoration: none;
 }
 
-.footer h4 {
-    display: inline-block;
-    margin: 0 20px 0 0 !important;
+.link-section a {
+    display: block;
+    margin: 6px 0;
 }
 
-@media (max-width: 880px) { 
-	.footer h4 {
-		display: none !important;
-	}
-	
-	.footer-main {
-		text-align: center !important;
-	}
+.footer h4 {
+    display: inline-block;
+    margin: 0 0 0 10px !important;
 }
 
 .footer a:hover {
@@ -271,16 +266,13 @@
     text-decoration: none;
 }
 
-.wallet-nav {
-	padding-right: 20px;
+.bottom-footer .right {
+	text-align: right;
 }
 
-.wallet-nav-right {
-	padding: 0 !important;
-}
-
-.footer-social {
-	font-size: 25px;
+.bottom-footer img {
+	width: 50px;
+	height: auto;
 }
 
 .post-title-main a {

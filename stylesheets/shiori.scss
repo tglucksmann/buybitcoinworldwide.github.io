@@ -5,12 +5,12 @@ sitemap:
 
 $container-large-desktop: 970px;
 
-$font-family-base: "Merriweather", "Helvetica Neue", Arial, sans-serif;
+$font-family-base: "Merriweather", Arial, sans-serif;
 $headings-font-family: "Open Sans", Arial, sans-serif;
 $headings-font-weight: 600;
 
 $font-size-base: 15px;
-$font-size-h1: floor(($font-size-base * 1.9));
+$font-size-h1: floor(($font-size-base * 1.95));
 $font-size-h2: floor(($font-size-base * 1.4));
 $font-size-h3: floor(($font-size-base * 1.2));
 $font-size-h4: floor(($font-size-base * 1.1));
@@ -44,7 +44,7 @@ $dark: #3d566e;
 $dark-brand-primary: #5b7fa4; // Set saturation to 50
 $turquoise: #1abc9c;
 $green: #2ecc71;
-$blue: #3498db;
+$blue: #2579c6;
 $purple: #9b59b6;
 $orange: #e67e22;
 $red: #e74c3c;
