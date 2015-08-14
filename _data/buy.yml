@@ -92,7 +92,7 @@
    desc: Buy bitcoin fast in the USA or Canada. Buy with credit card, bank transfer, and more.
    url: https://harbor.ly
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/harborly.png
-   countries: ca, us
+   countries: ca, us, sg
    po: usbt, ccus
    
  - name: ANXBTC
@@ -179,6 +179,38 @@
    url: https://www.coincorner.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/ccoiner.png
    countries: gb
+   
+##### Singapore ####################################################   
+
+ - name: CoinHako
+   desc: Bitcoin broker. Buy bitcoin via bank transfer. 1.9% fee.  
+   url: https://www.coinhako.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinhako.png
+   countries: sg	
+
+ - name: Coin Supermart
+   desc: Bitcoin exchange. Fund account via inter-bank transfers. Convenient and fast.
+   url: https://www.coinsupermart.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinsupermart.png
+   countries: sg
+   
+ - name: Coin Republic
+   desc: Bitcoin broker. Buy bitcoin quickly via bank transfer. 1.9% fee.  
+   url: https://coinrepublic.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinrepublic.png
+   countries: sg
+   
+ - name: CRXzone
+   desc: Buy bitcoin via OKPAY, Perfect Money, bank transfer, or Egopay.  
+   url: https://www.crxzone.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/crxzone.png
+   countries: sg
+   
+ - name: FYB-SG
+   desc: Bitcoin exchange. Fund account via inter-bank transfers. 0.6% fee.
+   url: https://www.fybsg.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/fybsg.png
+   countries: sg   
 
 ##### Mexico ####################################################     
 
