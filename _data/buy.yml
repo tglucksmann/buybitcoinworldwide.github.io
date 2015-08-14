@@ -288,6 +288,12 @@
    desc: Buy bitcoin fast via cash deposit at a number of banks nationwide.
    url: https://www.bitquick.tw/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitquick.png
+   countries: tw 
+   
+ - name: BitoEX
+   desc: Buy bitcoin at over 5,000 convenience stores across Taiwain. Simple and fast.
+   url: https://www.bitoex.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitoex.png
    countries: tw    
 
 ##### India ####################################################      
