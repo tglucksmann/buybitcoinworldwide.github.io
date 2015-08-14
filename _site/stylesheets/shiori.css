@@ -6364,6 +6364,9 @@ body {
   -webkit-font-smoothing: grayscale;
   font-weight: 400; }
 
+html, body {
+  overflow-x: hidden !important; }
+
 .navbar-brand {
   line-height: 39px;
   padding: 9.5px 15px; }
