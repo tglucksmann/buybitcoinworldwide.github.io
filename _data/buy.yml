@@ -281,6 +281,14 @@
    url: https://bx.in.th/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bxth.png
    countries: th 
+   
+##### South Korea ####################################################   
+   
+ - name: KorBit
+   desc: Largest Bitcoin exchange in South Korea. Deposit via bank transfer.
+   url: https://korbit.co.kr/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/korbit.png
+   countries: kr 
 
 ##### Taiwan ####################################################   
 
