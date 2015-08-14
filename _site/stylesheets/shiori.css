@@ -6465,7 +6465,7 @@ body {
 
 @media (max-width: 497px) {
   .large-screen-buy {
-    display: none; }
+    display: none !important; }
 
   .small-screen-buy {
     margin-bottom: 10px;
