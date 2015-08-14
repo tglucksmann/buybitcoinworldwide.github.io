@@ -6582,6 +6582,16 @@ h3 {
   font-size: 18px;
   margin-bottom: 20px; }
 
+.home-featured {
+  text-align: center; }
+
+.home-featured h4 {
+  margin-top: -40px; }
+
+.home-featured img {
+  width: 250px;
+  height: auto; }
+
 .flag-icon {
   background-size: contain;
   background-position: 50%;
