@@ -230,7 +230,7 @@
    
 ##### Vietnam #################################################### 
    
- - name: Bitcoin Vietnam.com
+ - name: Bitcoin Vietnam
    desc: Largest Bitcoin exchange in Vietnam. Easy and convenient way to buy bitcoin. 
    url: https://www.bitcoinvietnam.com.vn/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcoinvietnam.png
@@ -274,6 +274,12 @@
    desc: Buy bitcoin via bank or cash deposit, bank transfer, or ATMs across the country.
    url: https://coins.co.th
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinsth.png
+   countries: th 
+   
+ - name: bx.in.th
+   desc: Buy bitcoin online in Thailand via online bank transfer. Available at many banks.
+   url: https://bx.in.th/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bxth.png
    countries: th 
 
 ##### Taiwain ####################################################   
