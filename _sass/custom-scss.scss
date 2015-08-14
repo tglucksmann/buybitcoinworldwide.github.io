@@ -67,6 +67,12 @@
 	}
 }
 
+body {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: grayscale;
+    font-weight: 400;
+}
+
 .navbar-brand {
     line-height: 39px;
     padding: 9.5px 15px;
@@ -98,7 +104,9 @@
 .buy-info .btn {
     font-size: 14px;
     padding: 1px 9px;
-    font-weight: 400;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: -3px;
 }
 
 .navbar-header {
@@ -207,7 +215,8 @@
 
 @media (min-width: 498px) { 
 .small-screen-buy {
-	display: none;
+	display: none !important;
+    margin-top: 0 !important;
 }
 }
 

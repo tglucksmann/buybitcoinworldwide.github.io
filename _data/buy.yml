@@ -123,6 +123,13 @@
    countries: ca
    po: io
    
+ - name: InstaBT
+   desc: Buy bitcoin online in Canada with INTERAC Online. Conventient and quick. 
+   url: https://instabt.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/instabt.png
+   countries: ca
+   po: io
+   
 ##### Venezuela ####################################################  
 
  - name: Bitcoin Venezuela
