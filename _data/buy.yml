@@ -88,13 +88,6 @@
    countries: ca
    po: io
    
- - name: Harborly
-   desc: Buy bitcoin fast in the USA or Canada. Buy with credit card, bank transfer, and more.
-   url: https://harbor.ly
-   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/harborly.png
-   countries: ca, us, sg
-   po: usbt, ccus
-   
  - name: ANXBTC
    desc: Canadian Bitcoin company. Buy bitcoin with cash deposit, bank transfer, SEPA, and more.
    url: https://anxbtc.com
