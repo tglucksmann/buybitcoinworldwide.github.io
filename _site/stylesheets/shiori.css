@@ -6568,6 +6568,20 @@ h3 {
 .index-continent-menu a {
   font-size: 13px; }
 
+.home-featured-header {
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 10px; }
+
+.home-featured-header a {
+  color: #000; }
+
+.all-countries {
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 20px; }
+
 .flag-icon {
   background-size: contain;
   background-position: 50%;

@@ -15,6 +15,7 @@
  - country: Canada
    short: ca
    na: yes
+   pop: yes
    
  - country: Cuba
    short: cu
@@ -43,6 +44,7 @@
  - country: Mexico
    short: mx
    na: yes
+   pop: yes
 
  - country: St. Kitts and Nevis
    short: kn
@@ -63,6 +65,7 @@
  - country: United States 
    short: us
    na: yes
+   pop: yes
    
 # Europe  
 
@@ -130,6 +133,7 @@
  - country: France
    short: fr
    eu: yes  
+   pop: yes
 
  - country: Georgia
    short: ge
@@ -138,10 +142,12 @@
  - country: Germany
    short: de
    eu: yes  
+   pop: yes
 
  - country: Greece
    short: gr
    eu: yes  
+   pop: yes
 
  - country: Hungary
    short: hu
@@ -158,6 +164,7 @@
  - country: Italy
    short: it
    eu: yes  
+   pop: yes
 
  - country: Kazakhstan
    short: kz
@@ -205,7 +212,8 @@
    
  - country: Netherlands
    short: nl
-   eu: yes     
+   eu: yes    
+   pop: yes 
    
  - country: Norway
    short: nor
@@ -226,6 +234,7 @@
  - country: Russia
    short: ru
    eu: yes     
+   pop: yes
    
  - country: San Marino
    short: sm
@@ -246,14 +255,17 @@
  - country: Spain
    short: es
    eu: yes     
+   pop: yes
    
  - country: Sweden
    short: se
-   eu: yes     
+   eu: yes    
+   pop: yes 
    
  - country: Switzerland
    short: ch
-   eu: yes     
+   eu: yes  
+   pop: yes   
    
  - country: Turkey
    short: tr
@@ -279,6 +291,7 @@
  - country: Argentina
    short: ar
    sa: yes
+   pop: yes
   
   
  - country: Bolivia
@@ -288,6 +301,7 @@
  - country: Brazil
    short: br
    sa: yes  
+   pop: yes
   
  - country: Chile
    short: cl
@@ -361,6 +375,7 @@
  - country: Australia
    short: au
    oc: yes
+   pop: yes
 
  - country: Fiji
    short: fj
@@ -437,6 +452,7 @@
    short: il
    me: yes
    languages: en, he
+   pop: yes
 
  - country: Jordan
    short: jo
@@ -507,10 +523,12 @@
  - country: China
    short: cn
    as: yes
+   pop: yes
 
  - country: India
    short: in
    as: yes
+   pop: yes
 
  - country: Indonesia
    short: id
@@ -563,6 +581,7 @@
  - country: Philippines
    short: ph
    as: yes
+   pop: yes
 
  - country: Singapore
    short: sg
@@ -587,6 +606,7 @@
  - country: Thailand
    short: th
    as: yes
+   pop: yes
 
  - country: Timor-Leste
    short: tl
