@@ -58,6 +58,13 @@
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
    po: sepa, fast, cdus
    
+ - name: Cubits
+   desc: Buy bitcoin in a number of countries via SEPA, OKPAY, SOFORT and Skrill. 
+   url: https://cubits.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/cubits.png
+   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
+   po: sepa, okpay, skrill, swift
+   
 ##### USA ####################################################    
    
  - name: Coinsetter
