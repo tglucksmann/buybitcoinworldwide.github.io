@@ -331,7 +331,7 @@ h3 {
 }
 
 .navbar-static-top {
-    border-width: 0 1px !important;
+    border-width: 0;
 }
 
 .index-continent-menu a {
@@ -366,4 +366,16 @@ h3 {
 .home-featured img {
 	width: 250px;
 	height: auto;
+}
+
+.home-mapimg {
+	background-image: url(http://y7kim.github.io/agency-jekyll-theme/img/map-image.png);
+	background-position: center center;
+	background-color: #2579c6;
+	background-repeat: no-repeat;
+	height: 275px;
+}
+
+.home-page-cont {
+	margin-top: -56px;
 }

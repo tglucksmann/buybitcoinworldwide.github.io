@@ -48,22 +48,21 @@ hide_sidebar: true
         </div>
       </div>
     </div>
+    {% if page.home == true %}
+    <div class="container-fluid home-page-cont">
+      <div class="row">
+            {{ content }}
+      </div>
+    </div>
+    {% else %}
     <div class="container">
       <div class="row">
-        {% if page.hide_sidebar or site.data.theme.hide_sidebar %}
           <div class="col-sm-12">
             {{ content }}
           </div>
-        {% else %}
-          <div class="col-sm-8">
-            {{ content }}
-          </div>
-          <div class="col-sm-4">
-            {% include sidebar.html %}
-          </div>
-        {% endif %}
       </div>
     </div>
+    {% endif %}
     <div class="row footer">
           {% include footer.html %}
      </div>
