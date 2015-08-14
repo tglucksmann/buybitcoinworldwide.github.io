@@ -1,0 +1,38 @@
+---
+layout: home
+permalink: "/home/"
+title: Home
+sitemap:
+  exclude: 'yes'
+seotitle: Home
+lang: en
+desc: 
+published: true
+---
+{% assign lang = site.data.translations[page.lang] %}
+
+<div class="container home-featured"> 
+	<div class="row">
+		<div class="col-md-4">
+			<img src="https://www.buybitcoinworldwide.com/img/icons/bitcoinworld.png">
+			<h4>Find your Country</h4>
+		</div>
+		<div class="col-md-4">
+			<img src="https://www.buybitcoinworldwide.com/img/icons/bitcoins.png">
+			<h4>Select Payment Method</h4>
+		</div>
+	</div>
+</div>
+
+<h2 class="home-featured-header"><a href="#pop">{{ lang.buy }} {{ lang.in }} these Popular Countries</a></h2>
+<h4 class="all-countries">View All Countires &#155;</h4>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.pop == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+<hr>
