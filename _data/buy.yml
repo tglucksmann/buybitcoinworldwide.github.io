@@ -284,10 +284,16 @@
    
 ##### South Korea ####################################################   
    
- - name: KorBit
+ - name: Korbit
    desc: Largest Bitcoin exchange in South Korea. Deposit via bank transfer.
    url: https://korbit.co.kr/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/korbit.png
+   countries: kr 
+   
+ - name: Coinplug
+   desc: Buy bitcoin with a credit card or cash deposit at many ATMs nationwide.
+   url: https://www.coinplug.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinplug.png
    countries: kr 
 
 ##### Taiwan ####################################################   
