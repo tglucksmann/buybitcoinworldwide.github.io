@@ -292,13 +292,13 @@
  - name: Coinage
    desc: Bitcoin exchange. Fund your account via bank transfer or cash deposit. 
    url: https://coinage.ph/
-   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/prepaidbtc.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinage.png
    countries: ph 
 
  - name: prepaidbitcoin.ph
    desc: Buy prepaid bitcoin cards at three locations across the Phillipines. 
    url: http://prepaidbitcoin.ph/
-   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/prepaidbtc.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/prepaidbitcoin.png
    countries: ph 
    
 ##### Caribbean ####################################################   
