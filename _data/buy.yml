@@ -269,6 +269,14 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinjar.png
    countries: au  
    
+##### Pakistan #################################################### 
+   
+ - name: Urdubit
+   desc: First bitcoin exchange in Pakistan. Buy bitcoin via bank transfer. 
+   url: https://urdubit.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/urdubit.png
+   countries: pk
+   
 ##### Philippines #################################################### 
 
  - name: coins.ph
