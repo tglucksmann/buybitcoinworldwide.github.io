@@ -277,6 +277,30 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinph.png
    countries: ph
    
+ - name: BuyBitcoin.ph
+   desc: Bitcoin broker. Fund your account via bank transfer or cash deposit. 
+   url: https://buybitcoin.ph/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/buybitcoinph.png
+   countries: ph    
+
+ - name: BTCExchange
+   desc: Bitcoin exchange. Fund your account via bank transfer or cash deposit. 
+   url: https://www.btcexchange.ph/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btcexchange.png
+   countries: ph 
+   
+ - name: Coinage
+   desc: Bitcoin exchange. Fund your account via bank transfer or cash deposit. 
+   url: https://coinage.ph/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/prepaidbtc.png
+   countries: ph 
+
+ - name: prepaidbitcoin.ph
+   desc: Buy prepaid bitcoin cards at three locations across the Phillipines. 
+   url: http://prepaidbitcoin.ph/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/prepaidbtc.png
+   countries: ph 
+   
 ##### Caribbean ####################################################   
 
  - name: bitt
