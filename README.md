@@ -2,12 +2,12 @@ Find your country. Buy Bitcoin.
 
 # How Can You Help? 
 
-* ###Translate exchange/company data to other languages.
+### Translate exchange/company data to other languages.
 
    Find an exchange or company in [buy.yml][buy]. Get the two character code for your selected language. Add two new items to the list for the exchange or company you're translating: `name_(language_code):` (name of exchange/company) in selected language) and `desc_(language_code):` (brief description of exchange/company in selected language). For Spanish (es) you'd add `name_es:` and `desc_es:`.  
 
 
-* ###Add new Bitcoin exchanges, brokers, and companies.
+### Add new Bitcoin exchanges, brokers, and companies.
 
    Add a new Bitcoin exchange or company in [buy.yml][buy].  
    
