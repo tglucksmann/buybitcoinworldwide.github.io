@@ -58,6 +58,13 @@
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
    po: sepa, fast, cdus
    
+ - name: BitX
+   desc: Buy bitcoin exchange and broker. Easy way to buy bitcoin in five supported countries. 
+   url: https://bitx.co/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitx.png
+   countries: id, ke, my, ng, za
+   po: mpesa
+   
 ##### USA ####################################################    
    
  - name: Coinsetter
@@ -268,6 +275,14 @@
    url: https://www.coinjar.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinjar.png
    countries: au  
+   
+##### Malaysia #################################################### 
+
+ - name: Bitcoin Exchange Malaysia
+   desc: Bitcoin exchange. Easy and convenient way to buy Bitcoin in Malaysia.  
+   url: http://btc.my/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btcmy.png
+   countries: my   
    
 ##### Pakistan #################################################### 
    
