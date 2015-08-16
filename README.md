@@ -1,4 +1,4 @@
-Find your country. Buy Bitcoin.
+Find your country. [Buy Bitcoin][bbww].
 
 # How Can You Help? 
 
@@ -23,3 +23,4 @@ Find your country. Buy Bitcoin.
 
 [countries]: https://github.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/blob/master/_data/countries.yml
 [buy]: https://github.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/blob/master/_data/buy.yml
+[bbww]: https://www.buybitcoinworldwide.com/
