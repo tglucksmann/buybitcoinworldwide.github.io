@@ -490,7 +490,7 @@
    short: ae
    me: yes
    
-# Asia 
+################################## Asia 
 
  - country: Afghanistan
    short: af
@@ -624,4 +624,217 @@
    short: vn
    as: yes
 
-  
+################################## Africa
+
+
+ - country: Algeria
+   short: dz
+   af: yes  
+
+ - country: Angola
+   short: ao
+   af: yes  
+
+ - country: Benin
+   short: bj
+   af: yes  
+
+ - country: Botswana
+   short: bw
+   af: yes  
+
+ - country: Burkina Faso
+   short: bf
+   af: yes  
+
+ - country: Burundi
+   short: bi
+   af: yes  
+
+ - country: Cape Verde
+   short: cv
+   af: yes  
+
+ - country: Cameroon
+   short: cm
+   af: yes   
+
+ - country: Chad
+   short: td
+   af: yes  
+
+ - country: Comoros
+   short: km
+   af: yes  
+
+ - country: Cote dlvoire
+   short: ci
+   af: yes  
+
+ - country: Djibouti
+   short: dj
+   af: yes  
+
+ - country: Egypt
+   short: eg
+   af: yes  
+
+ - country: Equatorial Guinea
+   short: gq
+   af: yes  
+
+ - country: Eritrea
+   short: er
+   af: yes  
+
+ - country: Ethiopia
+   short: et
+   af: yes  
+
+ - country: Gabon
+   short: ga
+   af: yes  
+
+ - country: Gambia
+   short: gm
+   af: yes  
+
+ - country: Ghana
+   short: gh
+   af: yes  
+
+ - country: Guinea
+   short: gn
+   af: yes  
+
+ - country: Guinea-Bissau
+   short: gw
+   af: yes  
+
+ - country: Kenya
+   short: ke
+   af: yes  
+
+ - country: Lesotho
+   short: ls
+   af: yes  
+
+ - country: Liberia
+   short: lr
+   af: yes  
+
+ - country: Libya
+   short: ly
+   af: yes  
+
+ - country: Madagascar
+   short: mg
+   af: yes  
+
+ - country: Malawi
+   short: mw
+   af: yes  
+
+ - country: Mali
+   short: ml
+   af: yes  
+
+ - country: Mauritania
+   short: mr
+   af: yes  
+
+ - country: Morocco
+   short: ma
+   af: yes  
+
+ - country: Mozambique
+   short: mz
+   af: yes  
+
+ - country: Namibia
+   short: na
+   af: yes  
+
+ - country: Niger
+   short: ne
+   af: yes  
+
+ - country: Nigeria
+   short: ng
+   af: yes  
+
+ - country: Rwanda
+   short: rw
+   af: yes  
+
+ - country: Senegal
+   short: sn
+   af: yes  
+
+ - country: Seychelles
+   short: sc
+   af: yes  
+
+ - country: Sierra Leone
+   short: sl
+   af: yes  
+
+ - country: Somalia
+   short: so
+   af: yes  
+
+ - country: South Africa
+   short: za
+   af: yes  
+
+ - country: South Sudan
+   short: ss
+   af: yes  
+
+ - country: Sudan
+   short: sd
+   af: yes
+
+ - country: Swaziland
+   short: sz
+   af: yes  
+
+ - country: Tanzania
+   short: tz
+   af: yes  
+
+ - country: Togo
+   short: tg
+   af: yes  
+
+ - country: Tunisia
+   short: tn
+   af: yes  
+
+ - country: Uganda
+   short: ug
+   af: yes  
+
+ - country: Zambia
+   short: zm
+   af: yes  
+
+ - country: Zimbabwe
+   short: zw
+   af: yes 
+   
+ - country: Central African Republic
+   short: cf
+   af: yes    
+   
+ - country: Congo, Republic of
+   short: cg
+   af: yes  
+
+ - country: Congo, Democratic Republic
+   short: cd
+   af: yes     
+   
+ - country: Sao Tome and Principe
+   short: st
+   af: yes     

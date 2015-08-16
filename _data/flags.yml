@@ -496,3 +496,164 @@ tv:
 
 nr:
   short: nr  
+  
+# Africa
+
+dz:
+  short: nr 
+
+ao:
+  short: ao
+
+bj:
+  short: bj
+
+bw:
+  short: bw
+
+bf:
+  short: bf 
+
+bi:
+  short: bi 
+
+cv:
+  short: cv 
+
+cm:
+  short: cm 
+
+td:
+  short: td 
+
+km:
+  short: km 
+
+ci:
+  short: ci 
+
+dj:
+  short: dj
+
+eg:
+  short: eg 
+
+gq:
+  short: gq
+
+er:
+  short: er 
+
+et:
+  short: et 
+
+ga:
+  short: ga 
+
+gm:
+  short: gm 
+
+gh:
+  short: gh 
+
+gn:
+  short: gn 
+
+gw:
+  short: gw 
+
+ke:
+  short: ke 
+
+ls:
+  short: ls
+
+lr:
+  short: lr 
+
+ly:
+  short: ly 
+
+mg:
+  short: mg 
+
+mw:
+  short: mw
+
+ml:
+  short: ml
+
+mr:
+  short: mr 
+
+ma:
+  short: ma 
+
+mz:
+  short: mz 
+
+na:
+  short: na
+
+ne:
+  short: ne
+
+ng:
+  short: ng
+
+rw:
+  short: rw 
+
+sn:
+  short: sn
+
+sc:
+  short: sc
+
+sl:
+  short: sl
+
+so:
+  short: so
+
+za:
+  short: za 
+
+ss:
+  short: ss 
+
+sd:
+  short: sd 
+
+sz:
+  short: sz
+
+tz:
+  short: tz 
+
+tg:
+  short: tg 
+
+tn:
+  short: tn 
+
+ug:
+  short: ug 
+
+zm:
+  short: zm 
+
+zw:
+  short: zw 
+
+cf:
+  short: cf 
+
+cg:
+  short: cg
+
+cd:
+  short: cd 
+
+st:
+  short: st 
