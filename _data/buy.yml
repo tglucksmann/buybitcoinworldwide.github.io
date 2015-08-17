@@ -339,6 +339,32 @@
    url: https://bittylicious.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bittylicious.png
    countries: gb   
+
+##### Indonesia ####################################################     
+
+ - name: bitcoin.co.id
+   desc: Trusted Indonesian Bitcoin exchange. Fund your account via bank transfer.  
+   url: https://www.bitcoin.co.id/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcoincoid.png
+   countries: id  
+   
+ - name: BestBit
+   desc: Bitcoin exchange and platform. Fund your account via bank transfer.  
+   url: https://bestbit.co.id/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bestbit.png
+   countries: id
+   
+ - name: ArtaBit
+   desc: Bitcoin broker and platform. Fund your account via bank transfer.  
+   url: https://artabit.com/en/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/artabit.png
+   countries: id
+   
+ - name: Bitdoku
+   desc: Indonesia Bitcoin exchange. Fund your account via bank transfer.  
+   url: https://bitdoku.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitdoku.png
+   countries: id 
    
 ##### Japan ####################################################      
 
@@ -352,7 +378,7 @@
    desc: Bitcoin exchange. Buy bitcoin via bank transfer in a number of countries.  
    url: https://www.quoine.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/quoine.png
-   countries: jp, sg, hk
+   countries: jp, sg, hk, id
    
 ##### Thailand ####################################################      
 
