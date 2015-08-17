@@ -6380,6 +6380,9 @@ html, body {
   margin: 16px 0 14px;
   font-size: 16px; }
 
+.buy-info .hebrew {
+  direction: rtl; }
+
 .buy-info h4 {
   font-size: 19px; }
 
