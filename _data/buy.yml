@@ -340,6 +340,20 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bittylicious.png
    countries: gb   
    
+##### Japan ####################################################      
+
+ - name: bitFlyer
+   desc: Bitcoin exchange and platform. Fund your account via bank transfer.  
+   url: https://bitflyer.jp/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitflyer.png
+   countries: jp
+   
+ - name: QuoinExchange
+   desc: Bitcoin exchange. Buy bitcoin via bank transfer in a number of countries.  
+   url: https://www.quoine.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/quoine.png
+   countries: jp, sg, hk
+   
 ##### Thailand ####################################################      
 
  - name: coins.co.th
