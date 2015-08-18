@@ -1,4 +1,4 @@
-# Need to add: LakeBtc, Huobi, BTCCHina
+# Need to add: LakeBtc
 
  - name: Coinbase
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 1% fee.
@@ -255,9 +255,33 @@
 ##### China #################################################### 
  
  - name: OKCoin
-   desc: Largest Bitcoin exchange in China. No trading fees. Deposit via OKPAY or PerfectMoney.  
+   desc: Largest Bitcoin exchange in China. No trading fees. Deposit via bank transfer.  
    url: https://www.okcoin.cn/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/okcoin.png
+   countries: cn 
+   
+ - name: Huobi
+   desc: Second largest Bitcoin exchange in China with no trading fees. Deposit via bank transfer.  
+   url: https://www.huobi.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/huobi.png
+   countries: cn
+   
+ - name: BTCChina
+   desc: Bitcoin exchange in China with no trading fees. Deposit via bank transfer.  
+   url: https://www.btcchina.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btcchina.png
+   countries: cn 
+   
+ - name: LakeBTC
+   desc: Bitcoin exchange in China. Fee varies. Deposit via bank transfer.  
+   url: https://www.btcchina.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btcchina.png
+   countries: cn
+   
+ - name: BtcTrade
+   desc: Bitcoin exchange in China. Fee varies. Trade in USD and CNY. 
+   url: https://www.btctrade.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btctrade.png
    countries: cn  
    
 ##### Vietnam #################################################### 
