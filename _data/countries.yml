@@ -666,18 +666,18 @@
  - country: Comoros
    short: km
    af: yes  
-
- - country: Cote dlvoire
-   short: ci
+   
+ - country: Congo
+   short: cg
    af: yes  
+
+ - country: DR Congo
+   short: cd
+   af: yes    
 
  - country: Djibouti
    short: dj
-   af: yes  
-
- - country: Egypt
-   short: eg
-   af: yes  
+   af: yes   
 
  - country: Equatorial Guinea
    short: gq
@@ -710,6 +710,10 @@
  - country: Guinea-Bissau
    short: gw
    af: yes  
+   
+ - country: Ivory Coast
+   short: ci
+   af: yes 
 
  - country: Kenya
    short: ke
@@ -825,15 +829,7 @@
    
  - country: Central African Republic
    short: cf
-   af: yes    
-   
- - country: Congo, Republic of
-   short: cg
-   af: yes  
-
- - country: Congo, Democratic Republic
-   short: cd
-   af: yes     
+   af: yes        
    
  - country: Sao Tome and Principe
    short: st
