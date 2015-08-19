@@ -151,6 +151,14 @@
    url: https://www.guaranibitcoin.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/guaranibitcoin.png
    countries: py 
+   
+##### Peru ####################################################  
+ 
+ - name: Bitcoin Peru
+   desc: Bitcoin broker. Buy via local bank transfer. Get bitcoin within 24 hours.  
+   url: http://www.bitcoinperu.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcoinperu.png
+   countries: pe   
 
 ##### Israel ####################################################  
    
