@@ -29,6 +29,10 @@ en:
   paymentmethods_url: /en/payment-methods/
   about: About
   about_url: /en/about/
+  
+##################### Spanish #####################
+es:   
+  about: Sobre
  
 ##################### Hebrew #####################
 he:

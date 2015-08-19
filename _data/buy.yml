@@ -59,7 +59,7 @@
    po: sepa, fast, cdus
    
  - name: BitX
-   desc: Buy bitcoin exchange and broker. Easy way to buy bitcoin in five supported countries. 
+   desc: Bitcoin exchange and broker. Easy way to buy bitcoin in five supported countries. 
    url: https://bitx.co/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitx.png
    countries: id, ke, my, ng, za
@@ -139,7 +139,7 @@
    countries: ve
    
  - name: SurBitcoin
-   desc: First Bitcoin exchange in Venezuela. Buy via bank transfer. 
+   desc: First Bitcoin exchange in Venezuela. Buy bitcoin via bank transfer. 
    url: https://surbitcoin.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/surbitcoin.png
    countries: ve
@@ -165,6 +165,12 @@
    desc_he: קנה ביטקוין ישירות מBits of Gold דרך העברה בנקאית. ברוקר הביטקוין הגדול בישראל.
    
 ##### Argentina ####################################################     
+
+ - name: Bitex.la
+   desc: Bitcoin exchange with service in many South American countries. Deposit with cash or AstroPay.  
+   url: https://bitex.la/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitexla.png
+   countries: ar, cl, bo, br 
    
  - name: Ripio
    desc: Buy bitcoin at over 8,000 convenience stores across Argentina. Local, quick, secure. 
@@ -247,7 +253,7 @@
    countries: br
 
  - name: bitinvest
-   desc: Bitcoin exhange. Buy bitcoin online in Brazil with bank transfers. 0.3% fee.  
+   desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers. 0.3% fee.  
    url: https://www.bitinvest.com.br/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitinvest.png
    countries: br
@@ -471,6 +477,14 @@
    url: https://coinsecure.in/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinsecure.png
    countries: in  
+   
+##### Kenya ####################################################      
+   
+ - name: BitPesa
+   desc: BitPesa is a Bitcoin remittance company but also sells Bitcoin in Kenya.  
+   url: https://www.bitpesa.co/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitpesa.png
+   countries: ke  
    
 ####################################################   
 
