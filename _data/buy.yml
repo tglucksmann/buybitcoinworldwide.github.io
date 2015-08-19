@@ -257,6 +257,18 @@
    url: https://www.bitinvest.com.br/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitinvest.png
    countries: br
+
+ - name: FlowBTC
+   desc: Bitcoin exchange. Deposit online via bank transfer. Fee varies. 
+   url: https://trader.flowbtc.com
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/flowbitcoin.png
+   countries: br
+   
+ - name: Bitcoin To You
+   desc: Bitcoin exchange. Deposit online via bank transfer. Fee varies. 
+   url: https://www.bitcointoyou.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcointoyou.png
+   countries: br
    
 ##### China #################################################### 
  
