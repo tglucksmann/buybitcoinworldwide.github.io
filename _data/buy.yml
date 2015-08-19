@@ -290,6 +290,12 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/mercado.png
    countries: br
 
+ - name: FOXBIT
+   desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers and 0 fee deposit.
+   url: http://www.foxbit.com.br
+   icon: http://www.foxbit.com.br/favicon.png
+   countries: br
+
  - name: bitinvest
    desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers. 0.3% fee.  
    url: https://www.bitinvest.com.br/
