@@ -158,7 +158,21 @@
    desc: Bitcoin broker. Buy via local bank transfer. Get bitcoin within 24 hours.  
    url: http://www.bitcoinperu.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcoinperu.png
-   countries: pe   
+   countries: pe
+   
+ - name: CambistaBitcoin
+   desc: Bitcoin broker in Peru. Buy bitcoin online via bank transfer.   
+   url: http://www.cambistabitcoin.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/cambistabtc.png
+   countries: pe      
+   
+##### Panama ####################################################      
+
+ - name: Panama Bitcoins
+   desc: Panama Bitcoins connects you with bitcoin brokers across the country.  
+   url: https://www.ptycoin.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/panamabtc.png
+   countries: pa   
 
 ##### Israel ####################################################  
    
