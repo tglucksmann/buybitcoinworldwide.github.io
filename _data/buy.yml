@@ -300,7 +300,7 @@
    desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers. 0.3% fee.  
    url: https://www.bitinvest.com.br/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitinvest.png
-   countries: br
+   countries: br   
 
  - name: FlowBTC
    desc: Bitcoin exchange. Deposit online via bank transfer. Fee varies. 
