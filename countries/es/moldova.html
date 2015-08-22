@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Moldavia
+seotitle: Comprar Bitcoin en Moldavia | Intercambios y Corredores
+permalink: /es/md/
+layout: country
+lang: es
+country: md
+desc: Dónde y cómo comprar Bitcoin en Moldavia. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'md' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

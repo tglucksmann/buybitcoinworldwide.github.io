@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Colombia
+seotitle: Comprar Bitcoin en Colombia | Intercambios y Corredores
+permalink: /es/co/
+layout: country
+lang: es
+country: co
+desc: Dónde y cómo comprar Bitcoin en Colombia. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'co' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

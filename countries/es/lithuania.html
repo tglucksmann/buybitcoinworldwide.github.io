@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Lituania
+seotitle: Comprar Bitcoin en Lituania | Intercambios y Corredores
+permalink: /es/lt/
+layout: country
+lang: es
+country: lt
+desc: Dónde y cómo comprar Bitcoin en Lituania. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'lt' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

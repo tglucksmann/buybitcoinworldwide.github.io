@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Armenia
+seotitle: Comprar Bitcoin en Armenia | Intercambios y Corredores
+permalink: /es/am/
+layout: country
+lang: es
+country: am
+desc: Dónde y cómo comprar Bitcoin en Armenia. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago. 
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'am' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

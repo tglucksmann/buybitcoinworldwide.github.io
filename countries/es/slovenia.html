@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Eslovenia
+seotitle: Comprar Bitcoin en Eslovenia | Intercambios y Corredores
+permalink: /es/si/
+layout: country
+lang: es
+country: si
+desc: Dónde y cómo comprar Bitcoin en Eslovenia. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'si' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

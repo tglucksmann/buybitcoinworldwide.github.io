@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Guatemala
+seotitle: Comprar Bitcoin en Guatemala | Intercambios y Corredores
+permalink: /es/gt/
+layout: country
+lang: es
+country: gt
+desc: Dónde y cómo comprar Bitcoin en Guatemala. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'gt' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

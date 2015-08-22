@@ -34,3 +34,9 @@ defaults:
       type: "pmethod"
     values:
       layout: "help"
+  -
+    scope:
+      path: "/indexes"
+      type: "index"
+    values:
+      layout: "home"

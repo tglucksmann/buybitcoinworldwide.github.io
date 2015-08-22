@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Bolivia
+seotitle: Comprar Bitcoin en Bolivia | Intercambios y Corredores
+permalink: /es/bo/
+layout: country
+lang: es
+country: bo
+desc: Dónde y cómo comprar Bitcoin en Bolivia. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'bo' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

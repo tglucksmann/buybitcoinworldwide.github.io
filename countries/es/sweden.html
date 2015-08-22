@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Suecia
+seotitle: Comprar Bitcoin en Suecia | Intercambios y Corredores
+permalink: /es/se/
+layout: country
+lang: es
+country: se
+desc: Dónde y cómo comprar Bitcoin en Suecia. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'se' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

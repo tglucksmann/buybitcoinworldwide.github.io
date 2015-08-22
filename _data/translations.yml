@@ -32,22 +32,62 @@ en:
   
 ##################### Spanish #####################
 es:   
+  buy: Comprar Bitcoin
+  atms: ATMs
+  exchanges: Exchanges
+  namerica: Norteamérica
+  samerica: América del Sur
+  asia: Asia
+  camerica: América Central
+  oceania: Oceanía
+  africa: África
+  meast: Oriente Medio
+  europe: Europa
+  in: en
+  the: el
+  site_title: Buy Bitcoin Worldwide
+  sitedesc: Compre Bitcoin en cualquier lugar del mundo. Simplemente seleccione un país.
+  contribute: Contribuir
+  get_wallet: Obtener cartera de Bitcoin
+  short_lang: en
+  home_url: /es/
+  find_country: Encontrar País
+  by_jordan: Site by Jordan Tuwiner
+  disclaimer: Renuncia
+  disclaimer_url: /en/disclaimer/
+  contact: Contact
+  contact_url: /contact/
+  paymentmethods: Métodos de pago
+  paymentmethods_url: /es/metodos-de-pago/
   about: Sobre
+  about_url: /en/about/
  
 ##################### Hebrew #####################
 he:
   buy: קנה ביטקוין
   atms: ATMs
-  exchanges: Exchanges
-  namerica: North America
-  samerica: South America
-  asia: Asia
-  camerica: Central America
-  africa: Africa
-  meast: Middle East
-  europe: Europe
-  in: in
-  the: the
-  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
-  home_url: https://buybitcoinworldwide.com/he/
+  exchanges: בורסות
+  namerica: צפון אמריקה
+  samerica: דרום אמריקה
+  asia: אסיה
+  camerica: מרכז אמריקה
+  oceania: אוקיאניה
+  africa: אפריקה
+  meast: המזרח התיכון
+  europe: אירופה
+  site_title: Buy Bitcoin Worldwide
+  contribute: גיטהאב
+  get_wallet: ארנקי ביטקוין
+  short_lang: he
+  home_url: /
+  find_country: מדינות
+  by_jordan: Site by Jordan Tuwiner
+  disclaimer: הבהרה משפטית
+  disclaimer_url: /en/disclaimer/
+  contact: צור קשר
+  contact_url: /en/contact/
+  paymentmethods: שיטות תשלום
+  paymentmethods_url: /en/payment-methods/
+  about: על החברה
+  about_url: /en/about/
   

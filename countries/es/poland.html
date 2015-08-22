@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Polonia
+seotitle: Comprar Bitcoin en Polonia | Intercambios y Corredores
+permalink: /es/pl/
+layout: country
+lang: es
+country: pl
+desc: Dónde y cómo comprar Bitcoin en Polonia. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'pl' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

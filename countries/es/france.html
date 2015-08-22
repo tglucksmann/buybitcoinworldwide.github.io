@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Francia
+seotitle: Comprar Bitcoin en Francia | Intercambios y Corredores
+permalink: /es/fr/
+layout: country
+lang: es
+country: fr
+desc: Dónde y cómo comprar Bitcoin en Francia. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'fr' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

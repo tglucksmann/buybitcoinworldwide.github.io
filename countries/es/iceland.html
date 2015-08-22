@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Islandia
+seotitle: Comprar Bitcoin en Islandia | Intercambios y Corredores
+permalink: /es/is/
+layout: country
+lang: es
+country: is
+desc: Dónde y cómo comprar Bitcoin en Islandia. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'is' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

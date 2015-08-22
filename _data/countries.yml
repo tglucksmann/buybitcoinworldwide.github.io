@@ -7,6 +7,8 @@
  - country: Bahamas
    short: bs
    na: yes
+   es: yes
+   country_es: Bahamas
    
  - country: Barbados
    short: bb
@@ -16,18 +18,26 @@
    short: ca
    na: yes
    pop: yes
+   es: yes
+   country_es: Canadá
    
  - country: Cuba
    short: cu
    na: yes
+   es: yes
+   country_es: Cuba
 
  - country: Dominica
    short: dm
    na: yes
+   es: yes
+   country_es: Dominica
 
  - country: Dominican Republic
    short: do
    na: yes
+   es: yes
+   country_es: República Dominicana
 
  - country: Grenada
    short: gd
@@ -45,6 +55,8 @@
    short: mx
    na: yes
    pop: yes
+   es: yes
+   country_es: México
 
  - country: St. Kitts and Nevis
    short: kn
@@ -66,6 +78,8 @@
    short: us
    na: yes
    pop: yes
+   es: yes
+   country_es: Estados Unidos
    
 # Europe  
 
@@ -73,30 +87,44 @@
  - country: Albania
    short: al
    eu: yes
+   es: yes
+   country_es: Albania
 
  - country: Andorra
    short: ad
-   eu: yes  
+   eu: yes 
+   es: yes
+   country_es: Andorra
 
  - country: Armenia
    short: am
    eu: yes  
+   es: yes
+   country_es: Armenia
 
  - country: Austria
    short: at
    eu: yes  
+   es: yes
+   country_es: Austria
 
  - country: Azerbaijan
    short: az
-   eu: yes  
+   eu: yes
+   es: yes
+   country_es: Azerbaiyán  
 
  - country: Belarus
    short: by
    eu: yes  
+   es: yes
+   country_es: Bielorrusia
 
  - country: Belgium
    short: be
    eu: yes  
+   es: yes
+   country_es: Bélgica
 
 # - country: Bosnia and Herzegovina
 #   short: ba
@@ -105,70 +133,96 @@
  - country: Bulgaria
    short: bg
    eu: yes  
+   es: yes
+   country_es: Bulgaria
 
  - country: Croatia
    short: hr
    eu: yes  
+   es: yes
+   country_es: Croacia
 
  - country: Cyprus
    short: cy
    eu: yes  
+   es: yes
+   country_es: Chipre
 
  - country: Czech Republic
    short: cz
    eu: yes  
+   es: yes
+   country_es: República Checa
 
  - country: Denmark
    short: dk
    eu: yes  
+   es: yes
+   country_es: Dinamarca
 
  - country: Estonia
    short: ee
    eu: yes  
+   es: yes
+   country_es: Estonia
 
  - country: Finland
    short: fi
    eu: yes  
+   es: yes
+   country_es: Finlandia
 
  - country: France
    short: fr
    eu: yes  
    pop: yes
+   es: yes
+   country_es: Francia 
 
  - country: Georgia
    short: ge
    eu: yes  
+   es: yes
+   country_es:  Georgia
 
  - country: Germany
    short: de
    eu: yes  
    pop: yes
+   es: yes
+   country_es: Alemania
 
  - country: Greece
    short: gr
    eu: yes  
    pop: yes
+   es: yes
+   country_es: Grecia
 
  - country: Hungary
    short: hu
    eu: yes  
+   es: yes
+   country_es: Hungría
 
  - country: Iceland
    short: is
    eu: yes  
+   es: yes
+   country_es: Islandia
 
  - country: Ireland
    short: ie
    eu: yes  
+   es: yes
+   country_es: Irlanda
 
  - country: Italy
    short: it
    eu: yes  
    pop: yes
-
- - country: Kazakhstan
-   short: kz
-   eu: yes  
+   es: yes
+   country_es: Italia
    
 # - country: Kosovo
 #   short: xk
@@ -177,111 +231,162 @@
  - country: Latvia
    short: lv
    eu: yes  
+   es: yes
+   country_es: Letonia
 
  - country: Liechtenstein
    short: li
    eu: yes  
+   es: yes
+   country_es: Liechtenstein
 
  - country: Lithuania
    short: lt
    eu: yes  
+   es: yes
+   country_es: Lituania
 
  - country: Luxembourg
    short: lu
    eu: yes  
+   es: yes
+   country_es: Luxemburgo
 
  - country: Macedonia
    short: mk
    eu: yes 
+   es: yes
+   country_es: Macedonia 
    
  - country: Malta
    short: mt
    eu: yes   
+   es: yes
+   country_es: Malta
    
  - country: Moldova
    short: md
-   eu: yes     
+   eu: yes  
+   es: yes
+   country_es: Moldavia 
    
  - country: Monaco
    short: mc
    eu: yes     
+   es: yes
+   country_es: Mónaco 
    
  - country: Montenegro
    short: me
-   eu: yes     
+   eu: yes   
+   es: yes
+   country_es: Montenegro 
    
  - country: Netherlands
    short: nl
    eu: yes    
    pop: yes 
+   es: yes
+   country_es: Países Bajos
    
  - country: Norway
    short: nor
-   eu: yes     
+   eu: yes 
+   es: yes
+   country_es: Noruega   
    
  - country: Poland
    short: pl
-   eu: yes     
+   eu: yes  
+   es: yes
+   country_es: Polonia   
    
  - country: Portugal
    short: pt
-   eu: yes     
+   eu: yes    
+   es: yes
+   country_es: Portugal
    
  - country: Romania
    short: ro
-   eu: yes     
+   eu: yes    
+   es: yes
+   country_es:  Rumania
    
  - country: Russia
    short: ru
    eu: yes     
    pop: yes
+   es: yes
+   country_es: Rusia
    
  - country: San Marino
    short: sm
-   eu: yes     
+   eu: yes   
+   es: yes
+   country_es: San Marino
    
  - country: Serbia
    short: rs
-   eu: yes     
+   eu: yes   
+   es: yes
+   country_es: Serbia
    
  - country: Slovakia
    short: sk
-   eu: yes     
+   eu: yes 
+   es: yes
+   country_es: Eslovaquia   
    
  - country: Slovenia
    short: si
-   eu: yes     
+   eu: yes  
+   es: yes
+   country_es: Eslovenia   
    
  - country: Spain
    short: es
    eu: yes     
    pop: yes
+   es: yes
+   country_es: España
    
  - country: Sweden
    short: se
    eu: yes    
    pop: yes 
+   es: yes
+   country_es: Suecia
    
  - country: Switzerland
    short: ch
    eu: yes  
-   pop: yes   
+   pop: yes  
+   es: yes
+   country_es: Suiza 
    
  - country: Turkey
    short: tr
-   eu: yes     
+   eu: yes 
+   es: yes
+   country_es: Turquía    
    
  - country: Ukraine
    short: ua
-   eu: yes     
+   eu: yes
+   es: yes
+   country_es: Ucrania     
    
  - country: United Kingdom
    short: gb
-   eu: yes     
+   eu: yes   
+   es: no 
    
  - country: Vatican City
    short: va
-   eu: yes        
+   eu: yes
+   es: yes
+   country_es: Vaticano        
    
 
    
@@ -292,82 +397,120 @@
    short: ar
    sa: yes
    pop: yes
+   es: yes
+   country_es: Argentina
   
   
  - country: Bolivia
    short: bo
-   sa: yes  
+   sa: yes
+   es: yes 
+   country_es: Bolivia 
   
  - country: Brazil
    short: br
    sa: yes  
    pop: yes
+   es: yes
+   country_es: Brasil
   
  - country: Chile
    short: cl
-   sa: yes  
+   sa: yes 
+   es: yes 
+   country_es: Chile
   
  - country: Colombia
    short: co
    sa: yes  
+   es: yes
+   country_es: Colombia
   
  - country: Ecuador
    short: ec
    sa: yes  
+   es: yes
+   country_es: Ecuador
   
  - country: Guyana
    short: gy
    sa: yes  
+   es: yes
+   country_es: Guyana
   
  - country: Paraguay
    short: py
    sa: yes  
+   es: yes
+   country_es: Paraguay
   
  - country: Peru
    short: pe
    sa: yes  
+   es: yes
+   country_es: Perú
   
  - country: Suriname
    short: sr
    sa: yes  
+   es: yes
+   country_es: Surinam
   
  - country: Uruguay
    short: uy
    sa: yes  
+   es: yes
+   country_es: Uruguay
   
  - country: Venezuela
    short: ve
    sa: yes  
+   es: yes
+   country_es: Venezuela
    
 # Central America
    
  - country: Belize
    short: bz
    ca: yes
+   es: yes
+   country_es: Belice
     
  - country: Costa Rica
    short: cr
    ca: yes
+   es: yes
+   country_es: Costa Rica
 
  - country: El Salvador
    short: sv
    ca: yes
+   es: yes
+   country_es: El Salvador
    
  - country: Guatemala
    short: gt
    ca: yes
+   es: yes
+   country_es: Guatemala
    
  - country: Honduras
    short: hn
    ca: yes
+   es: yes
+   country_es: Honduras
    
  - country: Nicaragua
    short: ni
    ca: yes
+   es: yes
+   country_es: Nicaragua
    
  - country: Panama
    short: pa
    ca: yes
+   es: yes
+   country_es: Panamá
    
 #Oceania 
 
@@ -538,9 +681,9 @@
    short: jp
    as: yes
 
-# - country: Kazakhstan
-#   short:
-#   as: yes
+ - country: Kazakhstan
+   short: kz
+   as: yes
 
  - country: Kyrgyzstan
    short: kg
@@ -682,6 +825,9 @@
  - country: Equatorial Guinea
    short: gq
    af: yes  
+   es: yes
+   country_es: Guinea Ecuatorial
+   
 
  - country: Eritrea
    short: er
@@ -718,6 +864,8 @@
  - country: Kenya
    short: ke
    af: yes  
+   es: yes
+   country_es: Kenia
 
  - country: Lesotho
    short: ls

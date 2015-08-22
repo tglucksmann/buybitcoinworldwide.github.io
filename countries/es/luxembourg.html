@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Luxemburgo
+seotitle: Comprar Bitcoin en Luxemburgo | Intercambios y Corredores
+permalink: /es/lu/
+layout: country
+lang: es
+country: lu
+desc: Dónde y cómo comprar Bitcoin en Luxemburgo. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'lu' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

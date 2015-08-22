@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Irlanda
+seotitle: Comprar Bitcoin en Irlanda | Intercambios y Corredores
+permalink: /es/ie/
+layout: country
+lang: es
+country: ie
+desc: Dónde y cómo comprar Bitcoin en Irlanda. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'ie' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

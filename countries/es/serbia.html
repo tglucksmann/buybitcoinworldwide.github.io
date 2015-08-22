@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Serbia
+seotitle: Comprar Bitcoin en Serbia | Intercambios y Corredores
+permalink: /es/rs/
+layout: country
+lang: es
+country: rs
+desc: Dónde y cómo comprar Bitcoin en Serbia. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'rs' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

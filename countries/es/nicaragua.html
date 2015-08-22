@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Nicaragua
+seotitle: Comprar Bitcoin en Nicaragua | Intercambios y Corredores
+permalink: /es/ni/
+layout: country
+lang: es
+country: ni
+desc: Dónde y cómo comprar Bitcoin en Nicaragua. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'ni' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

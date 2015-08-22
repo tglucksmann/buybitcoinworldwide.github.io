@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Portugal
+seotitle: Comprar Bitcoin en Portugal | Intercambios y Corredores
+permalink: /es/pt/
+layout: country
+lang: es
+country: pt
+desc: Dónde y cómo comprar Bitcoin en Portugal. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'pt' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

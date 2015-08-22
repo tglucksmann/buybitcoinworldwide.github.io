@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en España
+seotitle: Comprar Bitcoin en España | Intercambios y Corredores
+permalink: /es/es/
+layout: country
+lang: es
+country: es
+desc: Dónde y cómo comprar Bitcoin en España. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'es' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

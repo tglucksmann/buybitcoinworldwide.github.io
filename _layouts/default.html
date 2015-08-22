@@ -1,74 +1,23 @@
 ---
-lang: en
 hide_sidebar: true
 ---
 <!DOCTYPE html>
 {% assign lang = site.data.translations[page.lang] %}
-<html lang="{{ lang.short_lang }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ "/stylesheets/shiori.css" | prepend:site.baseurl }}">
-    <link href='//fonts.googleapis.com/css?family=Open+Sans:600,400' rel='stylesheet' type='text/css'>
-    <link href='//fonts.googleapis.com/css?family=Merriweather:700,400' rel='stylesheet' type='text/css'>
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="canonical" href="https://www.buybitcoinworldwide.com{{ page.url | replace:'index.html',''}}">
-    
-    <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend:site.baseurl }}">
-    <title>{{ page.seotitle }}</title>
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-    {% include head.html %}
-  </head>
+
+{% if page.lang == 'en' %}
+<html lang="en">
+{% endif %}
+{% if page.lang == 'es' %}
+<html lang="es">
+{% endif %}
+{% if page.lang == 'he' %}
+<html lang="he">
+{% endif %}
+
+  {% include head.html %} 
   <body>
-  {% if site.data.theme.color == "default" %}
-    <div class="navbar navbar-default navbar-static-top">
-  {% else %}
-    <div class="navbar navbar-inverse navbar-static-top">
-  {% endif %}
-      <div class="container nav-container">
-        <div class="navbar-header">
-          <div class="navbar-toggle-wrapper visible-xs">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".js-navbar-collapse">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-          </div>
-          <a href="{{ "/" | prepend:site.baseurl }}" class="navbar-brand">{{ lang.site_title }}</a>
-        </div>
-        <div class="collapse navbar-collapse js-navbar-collapse">
-          <ul class="navbar-nav nav" data-purplecoat="shiori" data-purplecoat-label="nav.html">
-            {% include nav.html %}
-            {% include nav-right.html %}
-          </ul> 
-        </div>
-      </div>
-    </div>
-    {% if page.home == true %}
-    <div class="container-fluid home-page-cont">
-      <div class="row">
-            {{ content }}
-      </div>
-    </div>
-    {% else %}
-    <div class="container">
-      <div class="row">
-          <div class="col-sm-12">
-            {{ content }}
-          </div>
-      </div>
-    </div>
-    {% endif %}
-    <div class="row footer">
-          {% include footer.html %}
-     </div>
-    <script src="{{ "/javascripts/jquery.min.js" | prepend:site.baseurl }}"></script>
-    <script src="{{ "/javascripts/bootstrap.min.js" | prepend:site.baseurl }}"></script>
-    <script src="{{ "/javascripts/purplecoat-min.js" | prepend:site.baseurl }}"></script>
-    {% include scripts.html %}
+  {% include navbarmain.html %}
+  {% include content.html %}
+  {% include scripts.html %}
   </body>
 </html>

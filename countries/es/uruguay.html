@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Uruguay
+seotitle: Comprar Bitcoin en Uruguay | Intercambios y Corredores
+permalink: /es/uy/
+layout: country
+lang: es
+country: uy
+desc: Dónde y cómo comprar Bitcoin en Uruguay. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'uy' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

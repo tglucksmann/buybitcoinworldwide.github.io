@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Vaticano
+seotitle: Comprar Bitcoin en Vaticano | Intercambios y Corredores
+permalink: /es/va/
+layout: country
+lang: es
+country: va
+desc: Dónde y cómo comprar Bitcoin en Vaticano. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'va' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

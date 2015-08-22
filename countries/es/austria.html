@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Austria
+seotitle: Comprar Bitcoin en Austria | Intercambios y Corredores
+permalink: /es/at/
+layout: country
+lang: es
+country: at
+desc: Dónde y cómo comprar Bitcoin en Austria. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'at' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

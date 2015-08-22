@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Turquía
+seotitle: Comprar Bitcoin en Turquía | Intercambios y Corredores
+permalink: /es/tr/
+layout: country
+lang: es
+country: tr
+desc: Dónde y cómo comprar Bitcoin en Turquía. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'tr' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

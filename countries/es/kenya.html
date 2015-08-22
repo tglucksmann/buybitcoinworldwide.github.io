@@ -1,0 +1,14 @@
+---
+title: Comprar Bitcoin en Kenia
+seotitle: Comprar Bitcoin en Kenia | Intercambios y Corredores
+permalink: /es/ke/
+layout: country
+lang: es
+country: ke
+desc: Dónde y cómo comprar Bitcoin en Kenia. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'ke' %}{% include buy-list-en.html %}{% endif %}
+{% endfor %}

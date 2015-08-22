@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Brasil
+seotitle: Comprar Bitcoin en Brasil | Intercambios y Corredores
+permalink: /es/br/
+layout: country
+lang: es
+country: br
+desc: Dónde y cómo comprar Bitcoin en Brasil. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'br' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

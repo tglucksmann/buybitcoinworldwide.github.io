@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Costa Rica
+seotitle: Comprar Bitcoin en Costa Rica | Intercambios y Corredores
+permalink: /es/cr/
+layout: country
+lang: es
+country: cr
+desc: Dónde y cómo comprar Bitcoin en Costa Rica. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago. 
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'cr' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

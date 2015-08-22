@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Alemania
+seotitle: Comprar Bitcoin en Alemania | Intercambios y Corredores
+permalink: /es/de/
+layout: country
+lang: es
+country: de
+desc: Dónde y cómo comprar Bitcoin en Alemania. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'de' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

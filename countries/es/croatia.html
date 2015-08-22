@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Croacia
+seotitle: Comprar Bitcoin en Croacia | Intercambios y Corredores
+permalink: /es/hr/
+layout: country
+lang: es
+country: hr
+desc: Dónde y cómo comprar Bitcoin en Croacia. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago. 
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'hr' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

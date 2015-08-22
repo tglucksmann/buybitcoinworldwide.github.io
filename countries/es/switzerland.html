@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Suiza
+seotitle: Comprar Bitcoin en Suiza | Intercambios y Corredores
+permalink: /es/ch/
+layout: country
+lang: es
+country: ch
+desc: Dónde y cómo comprar Bitcoin en Suiza. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'ch' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

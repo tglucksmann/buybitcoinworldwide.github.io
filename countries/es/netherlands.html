@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Países Bajos
+seotitle: Comprar Bitcoin en Países Bajos | Intercambios y Corredores
+permalink: /es/nl/
+layout: country
+lang: es
+country: nl
+desc: Dónde y cómo comprar Bitcoin en Países Bajos. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'nl' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

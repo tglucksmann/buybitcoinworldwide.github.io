@@ -1,0 +1,16 @@
+---
+title: Comprar Bitcoin en Grecia
+seotitle: Comprar Bitcoin en Grecia | Intercambios y Corredores
+permalink: /es/gr/
+layout: country
+lang: es
+country: gr
+desc: Dónde y cómo comprar Bitcoin en Grecia. Completo directorio de intercambios, corredores, y cajeros automáticos que aceptan un número de métodos de pago.
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'gr' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}
