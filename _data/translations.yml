@@ -35,7 +35,7 @@ es:
   buy: Comprar Bitcoin
   atms: ATMs
   exchanges: Exchanges
-  namerica: Norteamérica
+  namerica: América del Norte
   samerica: América del Sur
   asia: Asia
   camerica: América Central
@@ -46,12 +46,12 @@ es:
   in: en
   the: el
   site_title: Buy Bitcoin Worldwide
-  sitedesc: Compre Bitcoin en cualquier lugar del mundo. Simplemente seleccione un país.
+  sitedesc: Compre Bitcoin en cualquier lugar del mundo. Sólo tiene que seleccionar un país.
   contribute: Contribuir
   get_wallet: Obtener cartera de Bitcoin
   short_lang: en
   home_url: /es/
-  find_country: Encontrar País
+  find_country: Encontrar país
   by_jordan: Site by Jordan Tuwiner
   disclaimer: Renuncia
   disclaimer_url: /en/disclaimer/

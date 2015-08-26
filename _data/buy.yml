@@ -8,7 +8,7 @@
    po: sepa, usbt, fast
    es: yes
    name_es: Coinbase
-   desc_es: Comprar Bitcoin con su cuenta bancaria, fácil, rápido, conveniente. Tarifa del 1%.
+   desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable. 1% de comision.
 
  - name: Local Bitcoins
    desc: Buy bitcoin from local dealers, online or in person. Private and quick. 1% fee.
@@ -20,7 +20,7 @@
    po: sepa, fast, cdus
    es: yes
    name_es: Local Bitcoins
-   desc_es: Comprar Bitcoin de vendedores locales, online o en persona. Privado y rápido.
+   desc_es: Comprar Bitcoin a distribuidores locales, online o en persona. Privado y rápido. 1% de comision.
     
  - name: Circle
    desc: Buy bitcoin instantly with a bank account or credit card. No fees.
@@ -30,7 +30,7 @@
    po: ccus, usbt, fast
    es: yes
    name_es: Circle
-   desc_es: Comprar Bitcoin de forma instantánea con una cuenta bancaria o tarjeta de crédito. Sin tarifas.
+   desc_es: Comprar Bitcoin de forma instantánea con una cuenta bancaria o tarjeta de crédito. Sin comisiones.
    
  - name: Bitcoin.de
    desc: Buy bitcoin online from other users with SEPA bank transfers.
@@ -40,7 +40,7 @@
    po: sepa, ach, cash
    es: yes
    name_es: Bitcoin.de
-   desc_es: Comprar Bitcoin online de otros usuarios con transferencias bancarias SEPA.
+   desc_es: Comprar bitcoin en Bitcoin.de a través de SEPA o transferencia bancaria. Comisiones varias.
    
  - name: Coinbase Exchange
    desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or ACH bank transfer.
@@ -50,7 +50,7 @@
    po: sepa  
    es: yes
    name_es: Coinbase Exchange
-   desc_es: Intercambio de Bitcoin. Fondos con transferencia SEPA o transferencia bancaria ACH.
+   desc_es: Fondos con transferencia SEPA o transferencia bancaria ACH.
 
  - name: Bitstamp
    desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
@@ -60,7 +60,7 @@
    po: sepa
    es: yes
    name_es: Bitstamp
-   desc_es: Comprar Bitcoin en Bitstamp a través de SEPA o transferencia bancaria. Las tarifas varían.
+   desc_es: Comprar bitcoin en Bitstamp a través de SEPA o transferencia bancaria. Comisiones varias.
    
  - name: Kraken
    desc: Bitcoin exchange supporting SEPA deposits, bank wires, SWIFT, and JPY bank deposit. 
@@ -70,7 +70,7 @@
    po: sepa
    es: yes
    name_es: Kraken
-   desc_es: Intercambio de Bitcoin soportando el intercambio de depósitos SEPA, transferencias bancarias, y SWIFT.
+   desc_es: El intercambio de Bitcoin soporta depósitos SEPA, transferencias bancarias, y SWIFT.
  
  - name: BitQuick
    desc: Buy bitcoin quickly with cash deposits or SEPA transfers in the EU. 2% fee.
@@ -80,7 +80,7 @@
    po: sepa, fast, cdus
    es: yes
    name_es: BitQuick
-   desc_es: Comprar Bitcoin rápidamente con depósitos de efectivo o transferencias SEPA en la UE. 
+   desc_es: Comprar Bitcoin rápidamente con depósitos en efectivo o transferencias SEPA en la UE.  
    
  - name: BitX
    desc: Bitcoin exchange and broker. Easy way to buy bitcoin in five supported countries. 
@@ -102,7 +102,7 @@
    po: usbt
    es: yes
    name_es: Coinsetter
-   desc_es: Intercambio de Bitcoin con base en Nueva York. Depósito de dinero con transferencia ACH o SWIFT.
+   desc_es: Intercambio de Bitcoin con sede en Nueva York. Deposite dinero con transferencia ACH o SWIFT.
    
 ##### Canada ####################################################   
 
@@ -671,7 +671,7 @@
    po: sepa, ccus, usbt, fast
    es: yes
    name_es: CEX.io
-   desc_es: Comprar Bitcoin mediante tarjeta de crédito, transferencia bancaria SEPA/ACH, o efectivo.
+   desc_es: Comprar Bitcoin a través de tarjeta de crédito, transferencia bancaria SEPA/ACH, o efectivo.
    
  - name: LibertyX
    desc: Buy bitcoin with cash at a number of retail stores across the US.  
@@ -680,7 +680,7 @@
    countries: us, fast, cdus
    es: yes
    name_es: LibertyX
-   desc_es: Comprar Bitcoin con efectivo a un número de tiendas por todos los EEUU.
+   desc_es: Comprar bitcoin con dinero en efectivo en numerosas tiendas minoristas en los EE.UU.
    
  - name: Purse.io
    desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
@@ -690,7 +690,7 @@
    po: ccus  
    es: yes
    name_es: Purse.io
-   desc_es: Comprar Bitcoin con una tarjeta de crédito o tarjetas de regalo de Amazon.
+   desc_es: Comprar Bitcoin con una tarjeta de crédito o tarjetas regalo de Amazon.
    
  - name: bitcoin-otc
    desc: Over-the-counter marketplace for P2P exchanging of bitcoin.
@@ -700,7 +700,7 @@
    po: fast, cdus
    es: yes
    name_es: bitcoin-otc
-   desc_es: Intercambio de Bitcoin. Mercado limpio para el intercambio P2P de Bitcoin.
+   desc_es: Mercado OTC para intercambio P2P de Bitcoin. Comisiones varias. 
    name_he: bitcoin-otc
    desc_he: קנייה של ביטקוין דרך האינטרנט. בורסת ה-P2P עם אופציות תשלום שונות.
    
@@ -722,7 +722,7 @@
    po: ccus, fast
    es: yes
    name_es: Trucoin
-   desc_es: Comprar Bitcoin con una tarjeta de crédito de forma instantánea en más de 30 estados de EEUU.
+   desc_es: Comprar Bitcoin con una tarjeta de crédito de forma instantánea en más de 30 estados de los EEUU.
    
  - name: Wall of Coins
    desc: Buy bitcoin via cash deposit at a number of US banks nationwide. 
@@ -732,7 +732,7 @@
    po: fast, cdus
    es: yes
    name_es: Wall of Coins
-   desc_es: Comprar Bitcoin mediante depósito de efectivo a un número de bancos de los EEUU en toda la nación.
+   desc_es: Comprar bitcoin a través de depósito en efectivo en numerosos bancos de EE.UU.
    
  - name: Celery
    desc: Buy bitcoin with a connected US bank account or credit/debit card.  
@@ -742,7 +742,7 @@
    po: usbt, ccus
    es: yes
    name_es: Celery
-   desc_es: Comprar Bitcoin con una cuenta bancaria conectada con los EEUU o tarjeta de débito/crédito.
+   desc_es: Comprar bitcoin con una cuenta conectada a un banco de EEUU o tarjeta de crédito/débito.
    
  - name: itBit
    desc: New York based Bitcoin exchange. Deposit with ACH transfer, SEPA, or international wire transfer.
@@ -752,7 +752,7 @@
    po: sepa, usbt
    es: yes
    name_es: itBit
-   desc_es: Intercambio de Bitcoin. Depósito con transferencia ACH, SEPA, o transferencia bancaria internacional. 
+   desc_es: Deposite con transferencia ACH, SEPA o transferencia bancaria internacional. 
    
  - name: expresscoin
    desc: Buy bitcoin with money orders or personal checks. Good for those without a bank account.
@@ -761,7 +761,7 @@
    countries: us
    es: yes
    name_es: expresscoin
-   desc_es: Comprar Bitcoin con órdenes de dinero o cheques personales. 
+   desc_es: Comprar con giros postales o cheques personales. Ideal para los que no tienen una cuenta bancaria. 
    
  - name: Bitfinex
    desc: Deposit funds with an international wire transfer and buy bitcoin on the exchange.
@@ -770,7 +770,7 @@
    countries: at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, ie, it, lv, lt, lu, mt, nl, pl, pt, ro, sk, si, es, se, gb, us, jp, cn   
    es: yes
    name_es: Bitfinex
-   desc_es: Deposite fondos con una transferencia bancaria internacional y comprar Bitcoin en el intercambio.
+   desc_es: Deposite fondos con una transferencia bancaria internacional y compre bitcoin en la bolsa.
 
  - name: Xapo
    desc: Global Bitcoin platform. Buy bitcoin with Euros via international wire transfer.
@@ -789,7 +789,7 @@
    po: sepa
    es: yes
    name_es: BTCe
-   desc_es: El intercambio de Bitcoins soporta transferencias bancarias, SEPA, tarjetas de crédito, y webmoney.ru.
+   desc_es: El intercambio de Bitcoins soporta transferencias bancarias, SEPA, y muchas otras opciones. 
 
  - name: ShapeShift
    desc: Buy bitcoin with Litecoin, Dogecoin, altcoins and other digital tokens.
@@ -810,7 +810,7 @@
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st 
    es: yes
    name_es: Mycelium
-   desc_es: Comprar de comerciantes locales a través de la cartera Mycelium Bitcoin.
+   desc_es: Comprar a comerciantes locales a través del monedero Mycelium Bitcoin.
    name_he: Mycelium
    desc_he: קנייה מסוחרים מקומיים דרך Mycelium הארנק הביטקוין. זמינות תלויה על בסיס מיקום. 
    po: fast
