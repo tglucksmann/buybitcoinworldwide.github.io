@@ -690,6 +690,14 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinsecure.png
    countries: in  
    
+##### Serbia ####################################################      
+
+ - name: Bitcoin ATM Budapest
+   desc: Buy bitcoin from the Skyhook Bitcoin ATM in Belgrade, Serbia.    
+   url: http://coinatmradar.com/bitcoin_atm/248/bitcoin-atm-skyhook-belgrade-appetite-restaurant/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/lamassu.png
+   countries: rs   
+   
 ##### Hungary ####################################################      
 
  - name: Bitcoin ATM Budapest
@@ -703,7 +711,6 @@
    url: http://coinatmradar.com/bitcoin_atm/456/bitcoin-atm-bitaccess-budapest-stop-shop-mall/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitaccess.png
    countries: hu   
-   
    
 ##### Romania ####################################################      
 
