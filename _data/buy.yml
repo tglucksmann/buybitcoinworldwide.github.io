@@ -734,6 +734,13 @@
    name_es: Purse.io
    desc_es: Comprar Bitcoin con una tarjeta de crédito o tarjetas regalo de Amazon. 
    
+ - name: Coinimal
+   desc: Buy bitcoin with SOFORT, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
+   url: https://www.coinimal.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinimal.png
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
+   po: sofort, giro, sepa, obt
+   
  - name: bitcoin-otc
    desc: Over-the-counter marketplace for P2P exchanging of bitcoin.
    url: https://bitcoin-otc.com/
@@ -804,6 +811,13 @@
    es: yes
    name_es: expresscoin
    desc_es: Comprar con giros postales o cheques personales. Ideal para los que no tienen una cuenta bancaria.   
+   
+ - name: Fastcoin.ch
+   desc: Buy with SEPA transfer or bank transfer in Switzerland.  Fast and convenient. 
+   url: https://fastcoin.ch/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/sbex.png
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
+   po: sepa, sofort, obt, fast
    
  - name: CryptoPay
    desc: Bitcoin broker. Buy bitcoin with SEPA or bank transfers in the UK. 
