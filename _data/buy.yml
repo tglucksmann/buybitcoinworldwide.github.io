@@ -591,6 +591,20 @@
    url: https://indacoin.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/indacoin.png
    countries: ru
+   
+##### Ukraine ####################################################      
+   
+ - name: btcu.biz
+   desc: Bitcoin broker. Buy with credit card or cash deposit at thousands of ATMs across Ukraine.  
+   url: https://btcu.biz/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btcubiz.png
+   countries: ua
+   
+ - name: Kuna
+   desc: Bitcoin broker. Buy bitcoin directly from the Kuna Bitcoin agency.
+   url: http://kuna.com.ua/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/kuna.png
+   countries: ua
 
 ##### Thailand ####################################################      
 
