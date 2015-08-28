@@ -712,6 +712,14 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitaccess.png
    countries: hu   
    
+##### Croatia ####################################################      
+
+ - name: BitKonan
+   desc: Bitcoin exchange in Croatia. Deposit via Croatian bank transfer or SEPA.      
+   url: https://bitkonan.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitkonan.png
+   countries: hr
+   
 ##### Poland ####################################################      
    
  - name: Bitcurex
