@@ -572,6 +572,26 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/quoine.png
    countries: jp, sg, hk, id
    
+##### Russia ####################################################      
+
+ - name: Matbea
+   desc: Russian Bitcoin exchange. Deposit funds via bank transfer or cash deposit. 
+   url: https://matbea.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/matbea.png
+   countries: ru
+   
+ - name: ALFAcashier
+   desc: Bitcoin exchange. Deposit funds via bank transfer, OKPay, and Perfect Money. 
+   url: https://www.alfacashier.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/alfa.png
+   countries: ru
+   
+ - name: Indacoin
+   desc: Bitcoin broker. Buy with credit or debit card, QIWI Wallet, Yandex.Money.  
+   url: https://indacoin.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/indacoin.png
+   countries: ru
+
 ##### Thailand ####################################################      
 
  - name: coins.co.th
