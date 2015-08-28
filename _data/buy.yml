@@ -1,4 +1,4 @@
-# Need to add: LakeBtc
+# Need to add: LakeBtc, https://bitonic.nl/faq#ideal, 
 
  - name: Coinbase
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 1% fee.
@@ -732,7 +732,7 @@
    po: ccus  
    es: yes
    name_es: Purse.io
-   desc_es: Comprar Bitcoin con una tarjeta de crédito o tarjetas regalo de Amazon.
+   desc_es: Comprar Bitcoin con una tarjeta de crédito o tarjetas regalo de Amazon. 
    
  - name: bitcoin-otc
    desc: Over-the-counter marketplace for P2P exchanging of bitcoin.
@@ -803,7 +803,13 @@
    countries: us
    es: yes
    name_es: expresscoin
-   desc_es: Comprar con giros postales o cheques personales. Ideal para los que no tienen una cuenta bancaria. 
+   desc_es: Comprar con giros postales o cheques personales. Ideal para los que no tienen una cuenta bancaria.   
+   
+ - name: CryptoPay
+   desc: Bitcoin broker. Buy bitcoin with SEPA or bank transfers in the UK. 
+   url: https://cryptopay.me/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/cryptopay.png
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb     
    
  - name: Bitfinex
    desc: Deposit funds with an international wire transfer and buy bitcoin on the exchange.
@@ -831,7 +837,20 @@
    po: sepa
    es: yes
    name_es: BTCe
-   desc_es: El intercambio de Bitcoins soporta transferencias bancarias, SEPA, y muchas otras opciones. 
+   desc_es: El intercambio de Bitcoins soporta transferencias bancarias, SEPA, y muchas otras opciones.
+   
+ - name: HappyCoins
+   desc: Bitcoin broker. Buy with SEPA bank transfer, iDEAL, and other payment methods.
+   url: https://www.happycoins.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/happy.png
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb     
+   po: sepa    
+   
+ - name: Paymium
+   desc: Bitcoin exchange. Buy bitcoin with bank transfers in France. 
+   url: https://paymium.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/paymium.png
+   countries: fr     
 
  - name: ShapeShift
    desc: Buy bitcoin with Litecoin, Dogecoin, altcoins and other digital tokens.
