@@ -477,7 +477,6 @@
    countries: md
 
 ##### Australia #################################################### 
-
  
  - name: CoinJar
    desc: Australian Bitcoin platform. Buy bitcoin via BPAY. 1% fee.  
@@ -690,6 +689,20 @@
    url: https://coinsecure.in/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinsecure.png
    countries: in  
+   
+##### Romania ####################################################      
+
+ - name: Bitcoin Romania
+   desc: Buy bitcoin at more than 800 ZebraPay terminals across Romania.   
+   url: http://bitcoinromania.ro/bancomat/cumparati-bitcoin-prin-zebra-pay-si-bitcoinromania-peste-800-de-locatii-din-tara/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btcromania.png
+   countries: ro
+   
+ - name: BitcoinXRomania
+   desc: Bitcoin exchange. Deposit via bank transfer. 0.5% fee on all trades.    
+   url: https://bitcoinxromania.com/en/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btcxromania.png
+   countries: ro     
    
 ##### Kenya ####################################################      
    
