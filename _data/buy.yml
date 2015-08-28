@@ -1,4 +1,4 @@
-# Need to add: LakeBtc, https://bitonic.nl/faq#ideal, https://coinfloor.co.uk/
+# Need to add: LakeBtc, https://bitonic.nl/faq#ideal, https://coinfloor.co.uk/, https://www.snapcard.io/buy-bitcoin
 
  - name: Coinbase
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 1% fee.
@@ -468,7 +468,16 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcoinvietnam.png
    countries: vn    
    
+##### Moldova #################################################### 
+
+ - name: Buyer.md
+   desc: Bitcoin broker. Buyer.md buys bitcoin on BTC-e and then sells to you. 7% fee.   
+   url: http://buyer.md/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/buyermd.png
+   countries: md
+
 ##### Australia #################################################### 
+
  
  - name: CoinJar
    desc: Australian Bitcoin platform. Buy bitcoin via BPAY. 1% fee.  
