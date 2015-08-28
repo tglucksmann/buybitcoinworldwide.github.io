@@ -695,7 +695,7 @@
  - name: Bitcoin ATM Budapest
    desc: Buy bitcoin from the Skyhook Bitcoin ATM in Belgrade, Serbia.    
    url: http://coinatmradar.com/bitcoin_atm/248/bitcoin-atm-skyhook-belgrade-appetite-restaurant/
-   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/lamassu.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/skyhook.png
    countries: rs   
    
 ##### Hungary ####################################################      
@@ -711,6 +711,21 @@
    url: http://coinatmradar.com/bitcoin_atm/456/bitcoin-atm-bitaccess-budapest-stop-shop-mall/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitaccess.png
    countries: hu   
+   
+##### Poland ####################################################      
+   
+ - name: Bitcurex
+   desc: Largest Bitcoin exchange in Poland. Deposit via bank transfer or SEPA.     
+   url: https://bitcurex.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcurex.png
+   countries: pl
+   po: sepa
+   
+ - name: BitMarket
+   desc: Bitcoin exchange. Deposit PLN via local bank transfer.
+   url: https://www.bitmarket.pl/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitmarket.png
+   countries: pl 
    
 ##### Romania ####################################################      
 
