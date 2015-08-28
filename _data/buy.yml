@@ -1,4 +1,4 @@
-# Need to add: LakeBtc, https://bitonic.nl/faq#ideal, https://coinfloor.co.uk/, https://www.snapcard.io/buy-bitcoin
+# Need to add: LakeBtc, https://bitonic.nl/faq#ideal, https://coinfloor.co.uk/, https://www.snapcard.io/buy-bitcoin, https://bit4coin.net/en
 
  - name: Coinbase
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 1% fee.
@@ -689,6 +689,21 @@
    url: https://coinsecure.in/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinsecure.png
    countries: in  
+   
+##### Hungary ####################################################      
+
+ - name: Bitcoin ATM Budapest
+   desc: Buy bitcoin from the Lamassu Bitcoin ATM in Budapest, Hungary.    
+   url: http://coinatmradar.com/bitcoin_atm/214/bitcoin-atm-lamassu-budapest-club-anker/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/lamassu.png
+   countries: hu
+   
+ - name: Bitcoin ATM Budapest
+   desc: Buy bitcoin from the BitAccess Bitcoin ATM in Budapest, Hungary.    
+   url: http://coinatmradar.com/bitcoin_atm/456/bitcoin-atm-bitaccess-budapest-stop-shop-mall/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitaccess.png
+   countries: hu   
+   
    
 ##### Romania ####################################################      
 
