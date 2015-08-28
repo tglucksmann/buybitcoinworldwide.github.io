@@ -605,6 +605,14 @@
    url: http://kuna.com.ua/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/kuna.png
    countries: ua
+   
+##### Kyrgyzstan ####################################################      
+ 
+ - name: Bitcoin ATM
+   desc: Buy bitcoin from the Lamassu Bitcoin ATM in Bishkek, Kyrgyzstan. 
+   url: http://coinatmradar.com/bitcoin_atm/132/bitcoin-atm-lamassu-bishkek-dolce-vita-pizzeria/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/lamassu.png
+   countries: kg   
 
 ##### Thailand ####################################################      
 
