@@ -6484,10 +6484,10 @@ html, body {
     display: none !important;
     margin-top: 0 !important; } }
 .navbar-brand {
-  background-image: url("https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/icons/bbww.png");
-  background-position: 0 50%;
+  background-image: url("https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/icons/logo.png");
+  background-position: 5% 58%;
   background-repeat: no-repeat;
-  background-size: 50px auto;
+  background-size: 35px auto;
   padding: 9.5px 15px 9.5px 60px; }
 
 .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-nav > li > a:hover {
