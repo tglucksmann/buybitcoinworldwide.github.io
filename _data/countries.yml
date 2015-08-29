@@ -57,6 +57,13 @@
    pop: yes
    es: yes
    country_es: México
+   
+ - country: Puerto Rico
+   short: pr
+   na: yes
+   pop: yes
+   es: yes
+   country_es: Puerto Rico  
 
  - country: St. Kitts and Nevis
    short: kn
@@ -64,10 +71,6 @@
 
  - country: St. Lucia
    short: lc
-   na: yes
-
- - country: St. Vincent and the Grenadines
-   short: vc
    na: yes
 
  - country: Trinidad and Tobago
@@ -80,6 +83,10 @@
    pop: yes
    es: yes
    country_es: Estados Unidos
+   
+ - country: St. Vincent and the Grenadines
+   short: vc
+   na: yes   
    
 # Europe  
 

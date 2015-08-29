@@ -45,6 +45,9 @@ vc:
 tt:
   short: tt
   
+pr:
+  short: pr 
+  
 us:
   short: us
 
