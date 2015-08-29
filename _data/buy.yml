@@ -66,8 +66,8 @@
    desc: Bitcoin exchange supporting SEPA deposits, bank wires, SWIFT, and JPY bank deposit. 
    url: https://www.kraken.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/kraken.png
-   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp
-   po: sepa
+   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, ca
+   po: sepa, io
    es: yes
    name_es: Kraken
    desc_es: El intercambio de Bitcoin soporta depósitos SEPA, transferencias bancarias, y SWIFT.
@@ -213,7 +213,18 @@
    es: yes
    name_es: SurBitcoin
    desc_es: Primer intercambio de Bitcoin en Venezuela. Comprar Bitcoin mediante transferencia bancaria.
-   
+
+##### Chile ####################################################  
+
+ - name: Yaykuy
+   desc: Bitcoin broker. Buy via local bank transfer. Get bitcoin within 24 hours.  
+   url: http://www.yaykuy.cl/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/yaykuy.png
+   countries: cl
+   es: yes
+   name_es: Yaykuy
+   desc_es: Corredor de Bitcoin en Chile. Comprar mediante transferencia bancaria local. 
+
 ##### Paraguay ####################################################  
 
  - name: GuaraniBitcoin

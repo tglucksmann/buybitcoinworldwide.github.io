@@ -6362,6 +6362,7 @@ h3 {
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: grayscale;
+  text-rendering: optimizelegibility;
   font-weight: 400; }
 
 html, body {
