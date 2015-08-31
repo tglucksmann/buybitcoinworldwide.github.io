@@ -145,7 +145,7 @@
    desc_es: Comprar pequeñas cantidades de Bitcoin en minutos (hasta 0.2 BTC) con INTERAC Online.
    
  - name: ANXBTC
-   desc: Canadian Bitcoin company. Buy bitcoin with cash deposit, bank transfer, SEPA, and more.
+   desc: Buy bitcoin with cash deposit, bank transfer, SEPA, and more.
    url: https://anxbtc.com
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/anxbtc.png
    countries: ca
