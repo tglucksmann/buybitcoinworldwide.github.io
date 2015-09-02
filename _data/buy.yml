@@ -84,7 +84,7 @@
  
  - name: BitQuick
    desc: Buy bitcoin quickly with cash deposits or SEPA transfers in the EU. 2% fee.
-   url: https://www.bitquick.co/
+   url: http://buybitcoinww.co/buybitquick
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitquick.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
    po: sepa, fast, cdus
