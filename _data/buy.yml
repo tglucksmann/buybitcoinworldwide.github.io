@@ -626,7 +626,7 @@
  - name: BTCmb
    desc: Bitcoin broker. Buy bitcoin via bank transfer or cash deposit.  
    url: http://btcmb.pt/
-   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/btcmb.png
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/mb.png
    countries: pt 
    es: yes
    name_es: BTCmb
