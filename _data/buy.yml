@@ -449,6 +449,26 @@
    name_es: Bitcoin To You
    desc_es: Intercambio de Bitcoin. Comprar Bitcoin online en Brasil con transferencias bancarias.
    
+   
+ - name: BitCambio
+   desc: Bitcoin exchange. Deposit online via bank transfer. Fee varies. 
+   url: https://bitcambio.com.br/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcambio.png
+   countries: br
+   es: yes
+   name_es: BitCambio
+   desc_es: Corredor de Bitcoin. Comprar Bitcoin online en Brasil con transferencias bancarias.
+   
+ - name: Basebit
+   desc: Bitcoin exchange. Deposit online via bank transfer or cash deposit. 
+   url: http://basebit.com.br/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/basebit.png
+   countries: br
+   es: yes
+   name_es: Basebit
+   desc_es: Comprar bitcoin a través de depósito en efectivo o con transferencias bancarias. 
+      
+   
 ##### China #################################################### 
  
  - name: OKCoin
