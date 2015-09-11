@@ -621,6 +621,23 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/quoine.png
    countries: jp, sg, hk, id
    
+##### Portugal ####################################################      
+
+ - name: BTCmb
+   desc: Bitcoin broker. Buy bitcoin via bank transfer or cash deposit.  
+   url: http://btcmb.pt/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/btcmb.png
+   countries: pt 
+   es: yes
+   name_es: BTCmb
+   desc_es: Comprar bitcoin a través de depósito en efectivo o con transferencias bancarias.
+
+ - name: Bitcoin ATM Lisbon
+   desc: Buy bitcoin at the Bitcoin Ja ATM in Lisbon, Portugal. 3% fee.  
+   url: http://coinatmradar.com/bitcoin_atm/273/bitcoin-atm-bitcoin-ja-lisbon-cinema-in-saldanha-residence/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitcoinja.png
+   countries: pt  
+   
 ##### Russia ####################################################      
 
  - name: Matbea
