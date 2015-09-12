@@ -339,6 +339,9 @@ sy:
 ae:
   short: ae
   
+ps:
+  short: ps  
+  
   
 # Asia 
 

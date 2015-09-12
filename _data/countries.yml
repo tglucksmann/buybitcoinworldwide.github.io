@@ -619,6 +619,10 @@
  - country: Oman
    short: om
    me: yes
+   
+ - country: Palestine
+   short: ps
+   me: yes   
 
  - country: Qatar
    short: qa
