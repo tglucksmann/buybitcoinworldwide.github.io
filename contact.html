@@ -9,9 +9,11 @@ desc: Contact us with problems, suggestions, and feedback. Use the form or our e
 hide_sidebar: true
 lang: en
 ---
-<div class="post-header">
-  <h1 class="post-title-main">{{ page.title }}</h1>
-</div>
-<div class="post-content">
-	
+<div class="post-content contact">
+	<form action="//formspree.io/jordan@jordantuwiner.com" method="POST">
+		    <input type="text" class="contact-email contact-field" placeholder="Your name" name="name">
+		    <input type="email" class="contact-replyto contact-field" placeholder="Your email" name="_replyto">
+		    <textarea type="message" class="contact-message contact-field" placeholder="Your message" name="message"></textarea>
+		    <input type="submit" value="Send Message">
+	</form> 
 </div>

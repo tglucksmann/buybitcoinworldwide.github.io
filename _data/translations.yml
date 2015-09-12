@@ -24,7 +24,7 @@ en:
   disclaimer: Disclaimer
   disclaimer_url: /en/disclaimer/
   contact: Contact
-  contact_url: /contact/
+  contact_url: /en/contact/
   paymentmethods: Payment Methods
   paymentmethods_url: /en/payment-methods/
   about: About
@@ -56,8 +56,8 @@ es:
   by_jordan: Site by Jordan Tuwiner
   disclaimer: Renuncia
   disclaimer_url: /en/disclaimer/
-  contact: Contact
-  contact_url: /contact/
+  contact: Contacto
+  contact_url: /en/contact/
   paymentmethods: Métodos de pago
   paymentmethods_url: /es/metodos-de-pago/
   about: Sobre
@@ -90,7 +90,7 @@ pt:
   disclaimer: Renuncia
   disclaimer_url: /en/disclaimer/
   contact: Contact
-  contact_url: /contact/
+  contact_url: /en/contact/
   paymentmethods: Métodos de pago
   paymentmethods_url: /es/metodos-de-pago/
   about: Sobre
@@ -153,7 +153,7 @@ ar:
   disclaimer: Disclaimer
   disclaimer_url: /en/disclaimer/
   contact: Contact
-  contact_url: /contact/
+  contact_url: /en/contact/
   paymentmethods: Payment Methods
   paymentmethods_url: /en/payment-methods/
   about: About
@@ -186,7 +186,7 @@ ru:
   disclaimer: Disclaimer
   disclaimer_url: /en/disclaimer/
   contact: Contact
-  contact_url: /contact/
+  contact_url: /en/contact/
   paymentmethods: Payment Methods
   paymentmethods_url: /en/payment-methods/
   about: About
@@ -219,9 +219,42 @@ uk:
   disclaimer: Disclaimer
   disclaimer_url: /en/disclaimer/
   contact: Contact
-  contact_url: /contact/
+  contact_url: /en/contact/
   paymentmethods: Payment Methods
   paymentmethods_url: /en/payment-methods/
   about: About
   about_url: /en/about/
-  change_lang: Language      
+  change_lang: Language 
+  
+##################### Ukrainian #####################
+fr:
+  buy: Buy Bitcoin
+  atms: ATMs
+  exchanges: Exchanges
+  namerica: North America
+  samerica: South America
+  asia: Asia
+  camerica: Central America
+  oceania: Oceania
+  africa: Africa
+  meast: Middle East
+  europe: Europe
+  in: in
+  the: the
+  site_title: Buy Bitcoin Worldwide
+  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
+  contribute: Contribute
+  get_wallet: Get Bitcoin Wallet
+  short_lang: uk
+  home_url: /
+  find_country: Find Country
+  by_jordan: Site by Jordan Tuwiner
+  disclaimer: Disclaimer
+  disclaimer_url: /en/disclaimer/
+  contact: Contact
+  contact_url: /en/contact/
+  paymentmethods: Payment Methods
+  paymentmethods_url: /en/payment-methods/
+  about: A propos
+  about_url: /en/about/
+  change_lang: Language          

@@ -6522,8 +6522,8 @@ html, body {
   padding-top: 20px;
   padding-left: 30px; }
 
-#foo {
-  margin-left: 15px; }
+.footer-link {
+  margin-right: 15px; }
 
 .footer a {
   color: #777;
@@ -6621,6 +6621,34 @@ h3 {
 .home-page-cont {
   margin-top: -56px; }
 
+.contact input {
+  display: block; }
+
+.contact input {
+  margin-bottom: 10px;
+  padding: 4px 7px;
+  width: 50%; }
+
+.contact input[type="submit"] {
+  border-radius: 3px;
+  background: #2579c6;
+  border: 1px solid #2579c6;
+  color: #fff;
+  width: 50px;
+  width: 100%; }
+
+.contact input[type="submit"]:hover {
+  background: #fff;
+  color: #2579c6; }
+
+.contact .contact-message {
+  width: 100%;
+  padding: 10px;
+  height: 120px; }
+
+@media (max-width: 600px) {
+  .contact input {
+    width: 100%; } }
 .flag-icon {
   background-size: contain;
   background-position: 50%;

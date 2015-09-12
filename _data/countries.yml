@@ -826,10 +826,6 @@
 #   short:
 #   as: yes
 
-# - country: Azerbaijan
-#   short:
-#   as: yes
-
  - country: Bangladesh
    short: bd
    as: yes
