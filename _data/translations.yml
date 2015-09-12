@@ -63,6 +63,39 @@ es:
   about: Sobre
   about_url: /en/about/
   change_lang: Idioma
+  
+##################### Portuguese #####################
+pt:   
+  buy: Comprar Bitcoin
+  atms: ATMs
+  exchanges: Exchanges
+  namerica: América del Norte
+  samerica: América del Sur
+  asia: Asia
+  camerica: América Central
+  oceania: Oceanía
+  africa: África
+  meast: Oriente Medio
+  europe: Europa
+  in: en
+  the: el
+  site_title: Buy Bitcoin Worldwide
+  sitedesc: Compre Bitcoin en cualquier lugar del mundo. Sólo tiene que seleccionar un país.
+  contribute: Contribuir
+  get_wallet: Obtener cartera de Bitcoin
+  short_lang: pt
+  home_url: /pt/
+  find_country: Encontrar país
+  by_jordan: Site by Jordan Tuwiner
+  disclaimer: Renuncia
+  disclaimer_url: /en/disclaimer/
+  contact: Contact
+  contact_url: /contact/
+  paymentmethods: Métodos de pago
+  paymentmethods_url: /es/metodos-de-pago/
+  about: Sobre
+  about_url: /en/about/
+  change_lang: Idioma  
  
 ##################### Hebrew #####################
 he:
@@ -126,3 +159,69 @@ ar:
   about: About
   about_url: /en/about/
   change_lang: Language  
+  
+##################### Russian #####################
+ru:
+  buy: Buy Bitcoin
+  atms: ATMs
+  exchanges: Exchanges
+  namerica: North America
+  samerica: South America
+  asia: Asia
+  camerica: Central America
+  oceania: Oceania
+  africa: Africa
+  meast: Middle East
+  europe: Europe
+  in: in
+  the: the
+  site_title: Buy Bitcoin Worldwide
+  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
+  contribute: Contribute
+  get_wallet: Get Bitcoin Wallet
+  short_lang: ru
+  home_url: /
+  find_country: Find Country
+  by_jordan: Site by Jordan Tuwiner
+  disclaimer: Disclaimer
+  disclaimer_url: /en/disclaimer/
+  contact: Contact
+  contact_url: /contact/
+  paymentmethods: Payment Methods
+  paymentmethods_url: /en/payment-methods/
+  about: About
+  about_url: /en/about/
+  change_lang: Language 
+  
+##################### Ukrainian #####################
+uk:
+  buy: Buy Bitcoin
+  atms: ATMs
+  exchanges: Exchanges
+  namerica: North America
+  samerica: South America
+  asia: Asia
+  camerica: Central America
+  oceania: Oceania
+  africa: Africa
+  meast: Middle East
+  europe: Europe
+  in: in
+  the: the
+  site_title: Buy Bitcoin Worldwide
+  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
+  contribute: Contribute
+  get_wallet: Get Bitcoin Wallet
+  short_lang: uk
+  home_url: /
+  find_country: Find Country
+  by_jordan: Site by Jordan Tuwiner
+  disclaimer: Disclaimer
+  disclaimer_url: /en/disclaimer/
+  contact: Contact
+  contact_url: /contact/
+  paymentmethods: Payment Methods
+  paymentmethods_url: /en/payment-methods/
+  about: About
+  about_url: /en/about/
+  change_lang: Language      

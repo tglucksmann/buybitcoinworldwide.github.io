@@ -1,6 +1,21 @@
 <div class="continent col-md-3 col-sm-4">
   	<div class="country-link {% if page.lang == 'ar' %}arabic-country-link{% endif %}">
+  		
+  		{% if page.lang == 'ru' and country.url_ru == true %}
+	  	<a href="/{{ page.lang }}/{{ country.url_ru_c }}/" class="black-link">
+	  	{% elsif page.lang == 'ru'  %}
+	  	<a href="/{{ page.lang }}/{{ country.country_ru }}/" class="black-link">
+	  	{% elsif page.lang == 'uk' and country.url_uk == true %}
+	  	<a href="/{{ page.lang }}/{{ country.url_uk_c }}/" class="black-link">
+	  	{% elsif page.lang == 'uk'  %}
+	  	<a href="/{{ page.lang }}/{{ country.country_uk }}/" class="black-link">
+	  	{% elsif page.lang == 'ar' and country.url_ar == true %}
+	  	<a href="/{{ page.lang }}/{{ country.url_ar_c }}/" class="black-link">
+	  	{% elsif page.lang == 'ar'  %}
+	  	<a href="/{{ page.lang }}/{{ country.country_ar }}/" class="black-link">
+	  	{% else %}
 	  	<a href="/{{ page.lang }}/{{ country.short }}/" class="black-link">
+	  	{% endif %}
 		  	<span class="flag-icon flag-icon-squared flag-icon-{{ country.short }}"></span>
 		  	{% if page.lang == 'en' %}
 		  	<div class="country-name">{{ country.country }}</div>
@@ -10,6 +25,15 @@
 		  	{% endif %}
 		  	{% if page.lang == 'ar' %}
 		  	<div class="country-name">{{ country.country_ar }}</div>
+		  	{% endif %}
+		  	{% if page.lang == 'ru' %}
+		  	<div class="country-name">{{ country.country_ru }}</div>
+		  	{% endif %}
+		  	{% if page.lang == 'uk' %}
+		  	<div class="country-name">{{ country.country_uk }}</div>
+		  	{% endif %}
+		  	{% if page.lang == 'pt' %}
+		  	<div class="country-name">{{ country.country_pt }}</div>
 		  	{% endif %}
 		  	{% if page.lang == 'he' %}
 		  	<div class="country-name">{{ country.country_he }}</div>
