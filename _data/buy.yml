@@ -309,7 +309,15 @@
    desc: Buy bitcoin via bank deposit, Paypal, PerfectMoney, and cash in person.  
    url: https://www.nouqood.biz/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/nouqood.png
-   countries: tn    
+   countries: tn  
+   
+##### United Arab Emirates ####################################################  
+
+ - name: BitOasis
+   desc: Buy bitcoin quickly with AED Dirhams via bank transfers.  
+   url: https://bitoasis.net/en/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitoasis.png
+   countries: ae     
    
 ##### Argentina ####################################################     
 
