@@ -909,7 +909,8 @@
    desc: Buy bitcoin with cash at a number of retail stores across the US.  
    url: https://libertyx.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/libertyx.png
-   countries: us, fast, cdus
+   countries: us
+   po: fast, cdus
    es: yes
    name_es: LibertyX
    desc_es: Comprar bitcoin con dinero en efectivo en numerosas tiendas minoristas en los EE.UU.

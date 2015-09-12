@@ -20,6 +20,8 @@
    pop: yes
    es: yes
    country_es: Canadá
+   ar: yes
+   country_ar: كندا
    
  - country: Cuba
    short: cu
@@ -57,6 +59,8 @@
    pop: yes
    es: yes
    country_es: México
+   ar: yes
+   country_ar: المكسيك
    
  - country: Puerto Rico
    short: pr
@@ -83,6 +87,8 @@
    pop: yes
    es: yes
    country_es: Estados Unidos
+   ar: yes
+   country_ar: الولايات المتحدة
    
  - country: St. Vincent and the Grenadines
    short: vc
@@ -185,6 +191,8 @@
    pop: yes
    es: yes
    country_es: Francia 
+   ar: yes
+   country_ar: فرنسا
 
  - country: Georgia
    short: ge
@@ -198,6 +206,8 @@
    pop: yes
    es: yes
    country_es: Alemania
+   ar: yes
+   country_ar: ألمانيا
 
  - country: Greece
    short: gr
@@ -295,6 +305,8 @@
    pop: yes 
    es: yes
    country_es: Países Bajos
+   ar: yes
+   country_ar: هولندا
    
  - country: Norway
    short: nor
@@ -364,6 +376,8 @@
    pop: yes 
    es: yes
    country_es: Suecia
+   ar: yes
+   country_ar: السويد
    
  - country: Switzerland
    short: ch
@@ -388,6 +402,8 @@
    short: gb
    eu: yes   
    es: no 
+   ar: yes
+   country_ar: المملكة المتحدة
    
  - country: Vatican City
    short: va
@@ -406,7 +422,8 @@
    pop: yes
    es: yes
    country_es: Argentina
-  
+   ar: yes
+   country_ar: الأرجنتين
   
  - country: Bolivia
    short: bo
@@ -420,18 +437,24 @@
    pop: yes
    es: yes
    country_es: Brasil
+   ar: yes
+   country_ar: البرازيل
   
  - country: Chile
    short: cl
    sa: yes 
    es: yes 
    country_es: Chile
+   ar: yes
+   country_ar: تشيلي
   
  - country: Colombia
    short: co
    sa: yes  
    es: yes
    country_es: Colombia
+   ar: yes
+   country_ar: كولومبيا
   
  - country: Ecuador
    short: ec
@@ -474,6 +497,8 @@
    sa: yes  
    es: yes
    country_es: Venezuela
+   ar: yes
+   country_ar: فنزويلا
    
 # Central America
    
@@ -506,6 +531,8 @@
    ca: yes
    es: yes
    country_es: Honduras
+   ar: yes
+   country_ar: هندوراس
    
  - country: Nicaragua
    short: ni
@@ -585,64 +612,94 @@
  - country: Bahrain
    short: bh
    me: yes
+   ar: yes
+   country_ar: البحرين
 
  - country: Egypt
    short: eg
    me: yes
+   ar: yes
+   country_ar: مصر
 
  - country: Iran
    short: ir
    me: yes
+   ar: yes
+   country_ar: إيران
 
  - country: Iraq
    short: iq
    me: yes
+   ar: yes
+   country_ar: العراق
 
  - country: Israel
    short: il
    me: yes
    languages: en, he
    pop: yes
+   ar: yes
+   country_ar: إسرائيل
 
  - country: Jordan
    short: jo
    me: yes
+   ar: yes
+   country_ar: الأردن
 
  - country: Kuwait
    short: kw
    me: yes
+   ar: yes
+   country_ar: الكويت
 
  - country: Lebanon
    short: lb
    me: yes
+   ar: yes
+   country_ar: لبنان
 
  - country: Oman
    short: om
    me: yes
+   ar: yes
+   country_ar: سلطنة عمان
    
  - country: Palestine
    short: ps
-   me: yes   
+   me: yes
+   ar: yes
+   country_ar: دولة فلسطين 
 
  - country: Qatar
    short: qa
    me: yes
+   ar: yes
+   country_ar: قطر
 
  - country: Saudi Arabia
    short: sa
    me: yes
+   ar: yes
+   country_ar: السعودية
 
  - country: Syria
    short: sy
    me: yes
+   ar: yes
+   country_ar: سوريا
 
  - country: United Arab Emirates
    short: ae
    me: yes
+   ar: yes
+   country_ar: الإمارات العربية المتحدة
    
  - country: Yemen
    short: ye
    me: yes
+   ar: yes
+   country_ar: اليمن
    
 ################################## Asia 
 
@@ -784,6 +841,8 @@
  - country: Algeria
    short: dz
    af: yes  
+   ar: yes
+   country_ar: الجزائر
 
  - country: Angola
    short: ao
@@ -816,6 +875,8 @@
  - country: Chad
    short: td
    af: yes  
+   ar: yes
+   country_ar: تشاد
 
  - country: Comoros
    short: km
@@ -832,17 +893,20 @@
  - country: Djibouti
    short: dj
    af: yes   
+   ar: yes
+   country_ar: جيبوتي
 
  - country: Equatorial Guinea
    short: gq
    af: yes  
    es: yes
    country_es: Guinea Ecuatorial
-   
 
  - country: Eritrea
    short: er
    af: yes  
+   ar: yes
+   country_ar: إريتريا
 
  - country: Ethiopia
    short: et
@@ -889,6 +953,8 @@
  - country: Libya
    short: ly
    af: yes  
+   ar: yes
+   country_ar: ليبيا
 
  - country: Madagascar
    short: mg
@@ -904,11 +970,15 @@
 
  - country: Mauritania
    short: mr
-   af: yes  
+   af: yes
+   ar: yes
+   country_ar: موريتانيا  
 
  - country: Morocco
    short: ma
    af: yes  
+   ar: yes
+   country_ar: المغرب
 
  - country: Mozambique
    short: mz
@@ -945,6 +1015,8 @@
  - country: Somalia
    short: so
    af: yes  
+   ar: yes
+   country_ar: الصومال
 
  - country: South Africa
    short: za
@@ -957,6 +1029,8 @@
  - country: Sudan
    short: sd
    af: yes
+   ar: yes
+   country_ar: السودان
 
  - country: Swaziland
    short: sz
@@ -973,6 +1047,8 @@
  - country: Tunisia
    short: tn
    af: yes  
+   ar: yes
+   country_ar: تونس
 
  - country: Uganda
    short: ug

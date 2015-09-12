@@ -1,5 +1,5 @@
 <div class="continent col-md-3 col-sm-4">
-  	<div class="country-link">
+  	<div class="country-link {% if page.lang == 'ar' %}arabic-country-link{% endif %}">
 	  	<a href="/{{ page.lang }}/{{ country.short }}/" class="black-link">
 		  	<span class="flag-icon flag-icon-squared flag-icon-{{ country.short }}"></span>
 		  	{% if page.lang == 'en' %}
@@ -7,6 +7,9 @@
 		  	{% endif %}
 		  	{% if page.lang == 'es' %}
 		  	<div class="country-name">{{ country.country_es }}</div>
+		  	{% endif %}
+		  	{% if page.lang == 'ar' %}
+		  	<div class="country-name">{{ country.country_ar }}</div>
 		  	{% endif %}
 		  	{% if page.lang == 'he' %}
 		  	<div class="country-name">{{ country.country_he }}</div>

@@ -6518,9 +6518,12 @@ html, body {
   width: 100%;
   max-width: 970px;
   margin: 0 auto;
-  padding-bottom: 20px;
+  padding-bottom: 14px;
   padding-top: 20px;
   padding-left: 30px; }
+
+#foo {
+  margin-left: 15px; }
 
 .footer a {
   color: #777;
@@ -6541,9 +6544,13 @@ html, body {
 .bottom-footer .right {
   text-align: right; }
 
+.bottom-footer {
+  line-height: 2; }
+
 .bottom-footer img {
   width: 27px;
-  height: auto; }
+  height: auto;
+  margin-top: -1px; }
 
 .post-title-main a {
   color: #333; }
@@ -6590,6 +6597,12 @@ h3 {
 
 .home-featured {
   text-align: center; }
+
+.arabic-country-link {
+  font-size: 20px; }
+
+.arabic-country-link .country-name {
+  margin: -1px 0 0 40px; }
 
 .home-featured h4 {
   margin-top: -40px; }

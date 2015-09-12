@@ -29,6 +29,7 @@ en:
   paymentmethods_url: /en/payment-methods/
   about: About
   about_url: /en/about/
+  change_lang: Language
   
 ##################### Spanish #####################
 es:   
@@ -61,6 +62,7 @@ es:
   paymentmethods_url: /es/metodos-de-pago/
   about: Sobre
   about_url: /en/about/
+  change_lang: Idioma
  
 ##################### Hebrew #####################
 he:
@@ -90,4 +92,37 @@ he:
   paymentmethods_url: /en/payment-methods/
   about: על החברה
   about_url: /en/about/
-  
+  change_lang: שפה
+
+##################### Arabic #####################
+ar:
+  buy: Buy Bitcoin
+  atms: ATMs
+  exchanges: Exchanges
+  namerica: North America
+  samerica: South America
+  asia: Asia
+  camerica: Central America
+  oceania: Oceania
+  africa: Africa
+  meast: Middle East
+  europe: Europe
+  in: in
+  the: the
+  site_title: Buy Bitcoin Worldwide
+  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
+  contribute: Contribute
+  get_wallet: Get Bitcoin Wallet
+  short_lang: ar
+  home_url: /
+  find_country: Find Country
+  by_jordan: Site by Jordan Tuwiner
+  disclaimer: Disclaimer
+  disclaimer_url: /en/disclaimer/
+  contact: Contact
+  contact_url: /contact/
+  paymentmethods: Payment Methods
+  paymentmethods_url: /en/payment-methods/
+  about: About
+  about_url: /en/about/
+  change_lang: Language  
