@@ -636,12 +636,12 @@
    short: sy
    me: yes
 
-# - country: Turkey
-#   short: tk
-#   me: yes
-
  - country: United Arab Emirates
    short: ae
+   me: yes
+   
+ - country: Yemen
+   short: ye
    me: yes
    
 ################################## Asia 

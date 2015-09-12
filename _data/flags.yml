@@ -340,7 +340,10 @@ ae:
   short: ae
   
 ps:
-  short: ps  
+  short: ps 
+
+ye:
+  short: ye 
   
   
 # Asia 
