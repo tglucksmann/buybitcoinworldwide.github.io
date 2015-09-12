@@ -287,14 +287,29 @@
    name_he: ביטס אוף גולד
    desc_he: קנה ביטקוין ישירות מBits of Gold דרך העברה בנקאית. ברוקר הביטקוין הגדול בישראל.
    
-   
 ##### Egypt ####################################################  
 
  - name: YellowPay
    desc: Buy bitcoin vouchers at a number of locations across the country. 
    url: http://yellowpay.co/en/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/yellowpay.png
-   countries: eg   
+   countries: eg  
+   
+##### Saudi Arabia ####################################################  
+
+ - name: Bitcoin ATM Jubail
+   desc: Buy bitcoin at the Lamassu Bitcoin ATM in Jubail, Saudi Arabia. 
+   url: http://coinatmradar.com/bitcoin_atm/303/bitcoin-atm-lamassu-jubail-ticket-computer-center/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/lamassu.png
+   countries: sa  
+   
+##### Tunisia ####################################################  
+
+ - name: Nouqood
+   desc: Buy bitcoin via bank deposit, Paypal, PerfectMoney, and cash in person.  
+   url: https://www.nouqood.biz/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/nouqood.png
+   countries: tn    
    
 ##### Argentina ####################################################     
 
