@@ -6649,6 +6649,13 @@ h3 {
 @media (max-width: 600px) {
   .contact input {
     width: 100%; } }
+.open-sans-font-b {
+  font-family: "Open Sans",Arial,sans-serif;
+  font-weight: 600; }
+
+open-sans-font {
+  font-family: "Open Sans",Arial,sans-serif; }
+
 .flag-icon {
   background-size: contain;
   background-position: 50%;
