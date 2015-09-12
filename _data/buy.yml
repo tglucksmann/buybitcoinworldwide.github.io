@@ -1,7 +1,7 @@
 # Need to add: LakeBtc, https://bitonic.nl/faq#ideal, https://coinfloor.co.uk/, https://www.snapcard.io/buy-bitcoin, https://bit4coin.net/en
 
  - name: Coinbase
-   desc: Buy bitcoin with your bank account. Easy, fast, convenient. 1% fee.
+   desc: Buy bitcoin with your bank account. Easy, fast, convenient. 
    url: http://buybitcoinww.co/buycoinbase
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinbase.png
    countries: gr, us, it, fr, de, at, be, bg, hr, cy, cz, dk, fi, hu, ie, lv, mt, nl, nor, pl, pt, sk, es, se, ch, gb, ro, pr, ca, sg
@@ -23,8 +23,8 @@
    desc_es: Comprar Bitcoin a distribuidores locales, online o en persona. Privado y rápido. 1% de comision.
     
  - name: Circle
-   desc: Buy bitcoin instantly with a bank account or credit card. No fees.
-   url: https://circle.com/
+   desc: Buy bitcoin with a bank account or credit card. Fast and easy.
+   url: http://buybitcoinww.co/buy_circle
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/circle.png
    countries: us
    po: ccus, usbt, fast
@@ -286,6 +286,15 @@
    langs: en, he
    name_he: ביטס אוף גולד
    desc_he: קנה ביטקוין ישירות מBits of Gold דרך העברה בנקאית. ברוקר הביטקוין הגדול בישראל.
+   
+   
+##### Egypt ####################################################  
+
+ - name: YellowPay
+   desc: Buy bitcoin vouchers at a number of locations across the country. 
+   url: http://yellowpay.co/en/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/yellowpay.png
+   countries: eg   
    
 ##### Argentina ####################################################     
 
