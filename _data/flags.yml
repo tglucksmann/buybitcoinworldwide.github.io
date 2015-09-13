@@ -365,12 +365,13 @@ bn:
     
 
 kh:
-  short: kh
-    
+  short: kh 
 
 cn:
   short: cn
-    
+  
+hk:
+  short: hk    
 
 in:
   short: in

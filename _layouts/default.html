@@ -4,14 +4,30 @@ hide_sidebar: true
 <!DOCTYPE html>
 {% assign lang = site.data.translations[page.lang] %}
 
-{% if page.lang == 'en' %}
-<html lang="en">
-{% endif %}
 {% if page.lang == 'es' %}
 <html lang="es">
-{% endif %}
-{% if page.lang == 'he' %}
+{% elsif page.lang == 'he' %}
 <html lang="he">
+{% elsif page.lang == 'pt-br' %}
+<html lang="pt">
+{% elsif page.lang == 'it' %}
+<html lang="it">
+{% elsif page.lang == 'ar' %}
+<html lang="ar">
+{% elsif page.lang == 'de' %}
+<html lang="de">
+{% elsif page.lang == 'fr' %}
+<html lang="fr">
+{% elsif page.lang == 'uk' %}
+<html lang="uk">
+{% elsif page.lang == 'ru' %}
+<html lang="ru">
+{% elsif page.lang == 'nl' %}
+<html lang="nl">
+{% elsif page.lang == 'en' %}
+<html lang="en">
+{% else %}
+<html lang="en">
 {% endif %}
 
   {% include head.html %} 

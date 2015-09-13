@@ -17,27 +17,32 @@
 	  	<a href="/{{ page.lang }}/{{ country.short }}/" class="black-link">
 	  	{% endif %}
 		  	<span class="flag-icon flag-icon-squared flag-icon-{{ country.short }}"></span>
-		  	{% if page.lang == 'en' %}
-		  	<div class="country-name">{{ country.country }}</div>
-		  	{% endif %}
+		  	
+		  	
 		  	{% if page.lang == 'es' %}
 		  	<div class="country-name">{{ country.country_es }}</div>
-		  	{% endif %}
-		  	{% if page.lang == 'ar' %}
+		  	{% elsif page.lang == 'ar'  %}
 		  	<div class="country-name">{{ country.country_ar }}</div>
-		  	{% endif %}
-		  	{% if page.lang == 'ru' %}
+		  	{% elsif page.lang == 'ru'  %}
 		  	<div class="country-name">{{ country.country_ru }}</div>
-		  	{% endif %}
-		  	{% if page.lang == 'uk' %}
+		  	{% elsif page.lang == 'uk'  %}
 		  	<div class="country-name">{{ country.country_uk }}</div>
-		  	{% endif %}
-		  	{% if page.lang == 'pt' %}
-		  	<div class="country-name">{{ country.country_pt }}</div>
-		  	{% endif %}
-		  	{% if page.lang == 'he' %}
+		  	{% elsif page.lang == 'pt-br'  %}
+		  	<div class="country-name">{{ country.country_pt_br }}</div>
+		  	{% elsif page.lang == 'he'  %}
 		  	<div class="country-name">{{ country.country_he }}</div>
+		  	{% elsif page.lang == 'nl'  %}
+		  	<div class="country-name">{{ country.country_nl }}</div>
+		  	{% elsif page.lang == 'de'  %}
+		  	<div class="country-name">{{ country.country_de }}</div>
+		  	{% elsif page.lang == 'fr'  %}
+		  	<div class="country-name">{{ country.country_fr }}</div>
+		  	{% elsif page.lang == 'it'  %}
+		  	<div class="country-name">{{ country.country_it }}</div>
+		  	{% else %}
+		  	<div class="country-name">{{ country.country }}</div>
 		  	{% endif %}
+		  	
 	  	</a>
   	</div>
 </div>

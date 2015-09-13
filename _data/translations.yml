@@ -65,37 +65,37 @@ es:
   change_lang: Idioma
   
 ##################### Portuguese #####################
-pt:   
-  buy: Comprar Bitcoin
+pt-br:   
+  buy: Buy Bitcoin
   atms: ATMs
   exchanges: Exchanges
-  namerica: América del Norte
-  samerica: América del Sur
-  asia: Asia
+  namerica: América do Norte
+  samerica: América do Sul
+  asia: Ásia
   camerica: América Central
-  oceania: Oceanía
+  oceania: Oceania
   africa: África
-  meast: Oriente Medio
+  meast: Oriente Médio
   europe: Europa
-  in: en
-  the: el
+  in: in
+  the: the
   site_title: Buy Bitcoin Worldwide
-  sitedesc: Compre Bitcoin en cualquier lugar del mundo. Sólo tiene que seleccionar un país.
-  contribute: Contribuir
-  get_wallet: Obtener cartera de Bitcoin
-  short_lang: pt
-  home_url: /pt/
-  find_country: Encontrar país
+  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
+  contribute: Contribute
+  get_wallet: Get Bitcoin Wallet
+  short_lang: en
+  home_url: /
+  find_country: Find Country
   by_jordan: Site by Jordan Tuwiner
-  disclaimer: Renuncia
+  disclaimer: Disclaimer
   disclaimer_url: /en/disclaimer/
   contact: Contact
   contact_url: /en/contact/
-  paymentmethods: Métodos de pago
-  paymentmethods_url: /es/metodos-de-pago/
-  about: Sobre
+  paymentmethods: Payment Methods
+  paymentmethods_url: /en/payment-methods/
+  about: About
   about_url: /en/about/
-  change_lang: Idioma  
+  change_lang: Language
  
 ##################### Hebrew #####################
 he:
@@ -132,14 +132,14 @@ ar:
   buy: Buy Bitcoin
   atms: ATMs
   exchanges: Exchanges
-  namerica: North America
-  samerica: South America
-  asia: Asia
-  camerica: Central America
-  oceania: Oceania
-  africa: Africa
-  meast: Middle East
-  europe: Europe
+  namerica: أمريكا الشمالية
+  samerica: أمريكا الجنوبية
+  asia: آسيا
+  camerica: أمريكا الوسطى
+  oceania: أوقيانوسيا
+  africa: أفريقيا
+  meast: الشرق الأوسط
+  europe: أوروبا
   in: in
   the: the
   site_title: Buy Bitcoin Worldwide
@@ -165,14 +165,14 @@ ru:
   buy: Buy Bitcoin
   atms: ATMs
   exchanges: Exchanges
-  namerica: North America
-  samerica: South America
-  asia: Asia
-  camerica: Central America
-  oceania: Oceania
-  africa: Africa
-  meast: Middle East
-  europe: Europe
+  namerica: Северная Америка
+  samerica: Южная Америка
+  asia: Азия
+  camerica: Центральная Америка
+  oceania: Океания
+  africa: Африка
+  meast: Средний Восток    
+  europe: Европа
   in: in
   the: the
   site_title: Buy Bitcoin Worldwide
@@ -198,14 +198,14 @@ uk:
   buy: Buy Bitcoin
   atms: ATMs
   exchanges: Exchanges
-  namerica: North America
-  samerica: South America
-  asia: Asia
-  camerica: Central America
-  oceania: Oceania
-  africa: Africa
-  meast: Middle East
-  europe: Europe
+  namerica: Північна Америка
+  samerica: Південна Америка
+  asia: Азія
+  camerica: Центральна Америка
+  oceania: Океанія
+  africa: Африка
+  meast: Середній Схід
+  europe: Європа
   in: in
   the: the
   site_title: Buy Bitcoin Worldwide
@@ -226,18 +226,18 @@ uk:
   about_url: /en/about/
   change_lang: Language 
   
-##################### Ukrainian #####################
+##################### French #####################
 fr:
   buy: Buy Bitcoin
   atms: ATMs
   exchanges: Exchanges
   namerica: North America
-  samerica: South America
-  asia: Asia
-  camerica: Central America
-  oceania: Oceania
-  africa: Africa
-  meast: Middle East
+  samerica: Amérique du Sud
+  asia: Asie
+  camerica: Amérique centrale
+  oceania: Océanie
+  africa: Afrique
+  meast: Moyen-Orient
   europe: Europe
   in: in
   the: the
@@ -257,4 +257,103 @@ fr:
   paymentmethods_url: /en/payment-methods/
   about: A propos
   about_url: /en/about/
-  change_lang: Language          
+  change_lang: Language 
+  
+##################### Italian #####################
+it:
+  buy: Buy Bitcoin
+  atms: ATMs
+  exchanges: Exchanges
+  namerica: North America
+  samerica: Amérique du Sud
+  asia: Asie
+  camerica: Amérique centrale
+  oceania: Océanie
+  africa: Afrique
+  meast: Moyen-Orient
+  europe: Europe
+  in: in
+  the: the
+  site_title: Buy Bitcoin Worldwide
+  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
+  contribute: Contribute
+  get_wallet: Get Bitcoin Wallet
+  short_lang: uk
+  home_url: /
+  find_country: Find Country
+  by_jordan: Site by Jordan Tuwiner
+  disclaimer: Disclaimer
+  disclaimer_url: /en/disclaimer/
+  contact: Contact
+  contact_url: /en/contact/
+  paymentmethods: Payment Methods
+  paymentmethods_url: /en/payment-methods/
+  about: A propos
+  about_url: /en/about/
+  change_lang: Language  
+  
+##################### German #####################
+de:
+  buy: Buy Bitcoin
+  atms: ATMs
+  exchanges: Exchanges
+  namerica: North America
+  samerica: Amérique du Sud
+  asia: Asie
+  camerica: Amérique centrale
+  oceania: Océanie
+  africa: Afrique
+  meast: Moyen-Orient
+  europe: Europe
+  in: in
+  the: the
+  site_title: Buy Bitcoin Worldwide
+  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
+  contribute: Contribute
+  get_wallet: Get Bitcoin Wallet
+  short_lang: uk
+  home_url: /
+  find_country: Find Country
+  by_jordan: Site by Jordan Tuwiner
+  disclaimer: Disclaimer
+  disclaimer_url: /en/disclaimer/
+  contact: Contact
+  contact_url: /en/contact/
+  paymentmethods: Payment Methods
+  paymentmethods_url: /en/payment-methods/
+  about: A propos
+  about_url: /en/about/
+  change_lang: Language 
+  
+##################### Dutch #####################
+nl:
+  buy: Buy Bitcoin
+  atms: ATMs
+  exchanges: Exchanges
+  namerica: North America
+  samerica: Amérique du Sud
+  asia: Asie
+  camerica: Amérique centrale
+  oceania: Océanie
+  africa: Afrique
+  meast: Moyen-Orient
+  europe: Europe
+  in: in
+  the: the
+  site_title: Buy Bitcoin Worldwide
+  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
+  contribute: Contribute
+  get_wallet: Get Bitcoin Wallet
+  short_lang: uk
+  home_url: /
+  find_country: Find Country
+  by_jordan: Site by Jordan Tuwiner
+  disclaimer: Disclaimer
+  disclaimer_url: /en/disclaimer/
+  contact: Contact
+  contact_url: /en/contact/
+  paymentmethods: Payment Methods
+  paymentmethods_url: /en/payment-methods/
+  about: A propos
+  about_url: /en/about/
+  change_lang: Language               

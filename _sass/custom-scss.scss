@@ -278,6 +278,10 @@ html, body {
 	margin-right: 15px;
 }
 
+.footer-link .fa {
+	margin-right: 3px;
+}
+
 .footer a {
     color: #777;
     text-decoration: none;
@@ -310,6 +314,13 @@ html, body {
 	width: 27px;
 	height: auto;
 	margin-top: -1px;
+}
+
+@media (max-width: 580px) { 
+#foo {
+	display: block;
+	margin: 15px auto 0;
+}
 }
 
 .post-title-main a {
