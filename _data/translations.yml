@@ -129,9 +129,9 @@ he:
 
 ##################### Arabic #####################
 ar:
-  buy: Buy Bitcoin
-  atms: ATMs
-  exchanges: Exchanges
+  buy: شراء بيتكوين
+  atms: ماكينات الصراف الآلي
+  exchanges: الصرافة
   namerica: أمريكا الشمالية
   samerica: أمريكا الجنوبية
   asia: آسيا
@@ -140,25 +140,23 @@ ar:
   africa: أفريقيا
   meast: الشرق الأوسط
   europe: أوروبا
-  in: in
-  the: the
   site_title: Buy Bitcoin Worldwide
-  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
-  contribute: Contribute
-  get_wallet: Get Bitcoin Wallet
+  sitedesc: شراء بيتكوين في أي مكان في العالم. ببساطة اختر البلد. 
+  contribute: المساهمة
+  get_wallet: الحصول على محفظة بيتكوين
   short_lang: ar
-  home_url: /
-  find_country: Find Country
-  by_jordan: Site by Jordan Tuwiner
-  disclaimer: Disclaimer
+  home_url: /ar/
+  find_country: البحث عن دولة
+  by_jordan: موقع الأردن
+  disclaimer: التنازل
   disclaimer_url: /en/disclaimer/
-  contact: Contact
+  contact: الاتصال
   contact_url: /en/contact/
-  paymentmethods: Payment Methods
+  paymentmethods: طرق الدفع
   paymentmethods_url: /en/payment-methods/
-  about: About
+  about: نبذة عن
   about_url: /en/about/
-  change_lang: Language  
+  change_lang: لغة  
   
 ##################### Russian #####################
 ru:

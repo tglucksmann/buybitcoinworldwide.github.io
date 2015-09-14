@@ -1,18 +1,4 @@
-{% if page.lang == 'en' %}
-<div class="col-md-6 buy-info">
-		<h4>
-		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
-		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
-		</h4>
-		<p>{{ name.desc }}</p>
-		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
-		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
-</div>
-{% endif %}
-
-
-{% if page.lang == 'es' and name.es == true %}
+{% if page.lang == 'es' and name.name_es != null %}
 <div class="col-md-6 buy-info">
 		<h4>
 		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name_es }}</a> 
@@ -23,9 +9,212 @@
 		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
-{% endif %}
 
-{% if page.lang == 'he' %}
+{% elsif page.lang == 'es' %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_es }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'pt' and name.name_pt != null %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name_pt }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_pt }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'pt' %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_pt }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'ar' and name.name_ar != null %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name_ar }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-left large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_ar }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'ar' %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-left large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_ar }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'de' and name.name_de != null %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name_de }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_de }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'de' %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_de }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'ru' and name.name_ru != null %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name_ru }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_ru }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'ru' %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_ru }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'uk' and name.name_uk != null %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name_uk }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_uk }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'uk' %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_uk }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'it' and name.name_it != null %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name_it }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_it }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'it' %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_it }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'fr' and name.name_fr != null %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name_fr }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_fr }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'fr' %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_fr }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'nl' and name.name_nl != null %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name_nl }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_nl }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'nl' %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_nl }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'he' %}
 <div class="col-md-6 buy-info">
 		<h4>
 		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name_he }}</a> 
@@ -34,6 +223,30 @@
 		</h4>
 		<p class="hebrew">{{ name.desc_he }}</p>
 		<a type="button" href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'en' %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% else %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 {% endif %}

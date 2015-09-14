@@ -6355,7 +6355,14 @@ h3 {
 @media (min-width: 992px) {
   .buy-info {
     margin: 8px 0.7% !important;
-    width: 48.6% !important; } }
+    width: 48.6% !important; }
+
+  .arabic .buy-info {
+    height: 117px !important; } }
+@media (max-width: 992px) {
+  .arabic .buy-info {
+    margin: 8px 0;
+    width: 100% !important; } }
 @media (min-width: 767px) {
   .footer-right {
     text-align: right; } }
@@ -6381,8 +6388,11 @@ html, body {
   margin: 16px 0 14px;
   font-size: 16px; }
 
-.buy-info .hebrew {
+.buy-info .hebrew, .arabic, .arabic h2 {
   direction: rtl; }
+
+.arabic .col-md-1, .arabic .col-md-2, .arabic .col-md-3, .arabic .col-md-4, .arabic .col-md-5, .arabic .col-md-6, .arabic .col-md-7, .arabic .col-md-8, .arabic .col-md-9, .arabic .col-md-10, .arabic .col-md-11, .arabic .col-md-12 {
+  float: right; }
 
 .buy-info h4 {
   font-size: 19px; }
@@ -6393,6 +6403,10 @@ html, body {
   margin: -4px 10px 0 0;
   width: auto;
   border-radius: 3px; }
+
+.arabic .buy-info img {
+  float: right;
+  margin: -4px 0 0 10px; }
 
 .buy-info .btn {
   font-size: 14px;
@@ -6426,6 +6440,9 @@ html, body {
 
 .country-single-index .flag-icon {
   margin-right: 10px; }
+
+.arabic .country-single-index .flag-icon {
+  margin-left: 10px; }
 
 .country-single-index a {
   color: #555; }
@@ -6525,8 +6542,14 @@ html, body {
 .footer-link {
   margin-right: 15px; }
 
+.arabic .footer-link {
+  margin-left: 15px; }
+
 .footer-link .fa {
   margin-right: 3px; }
+
+.arabic .footer-link .fa {
+  margin-left: 3px; }
 
 .footer a {
   color: #777;
@@ -6539,6 +6562,10 @@ html, body {
 .footer h4 {
   display: inline-block;
   margin: 0 0 0 10px !important; }
+
+.arabic .footer h4 {
+  display: inline-block;
+  margin: 0 10px 0 0px !important; }
 
 .footer a:hover {
   color: #000;
@@ -6609,7 +6636,7 @@ h3 {
   font-size: 20px; }
 
 .arabic-country-link .country-name {
-  margin: -1px 0 0 40px; }
+  margin: 0 45px 0 0; }
 
 .home-featured h4 {
   margin-top: -40px; }

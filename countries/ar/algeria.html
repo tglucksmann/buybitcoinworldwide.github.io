@@ -1,0 +1,17 @@
+---
+title: شراء بيتكوين في الجزائر 
+seotitle: شراء بيتكوين في الجزائر | شركات الصرافة والوسطاء
+permalink: /ar/الجزائر/
+layout: country
+lang: ar
+country: dz
+desc: معرفة أماكن شراء بيتكوين في الجزائر وكيفية ذلك. الدليل الكامل لمكاتب الصرافة، والسماسرة، وماكينات الصراف الآلي التي تقبل عددًا من وسائل الدفع.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'dz' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}
+

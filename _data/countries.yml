@@ -820,17 +820,13 @@
    short: om
    me: yes
    ar: yes
-   country_ar: سلطنة عمان
-   url_ar: yes 
-   url_ar_c: سلطنة_عمان
+   country_ar: عمان
    
  - country: Palestine
    short: ps
    me: yes
    ar: yes
-   country_ar: دولة فلسطين 
-   url_ar: yes 
-   url_ar_c: دولة_فلسطين 
+   country_ar: فلسطين
 
  - country: Qatar
    short: qa

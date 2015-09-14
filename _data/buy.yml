@@ -7,8 +7,9 @@
    countries: gr, us, it, fr, de, at, be, bg, hr, cy, cz, dk, fi, hu, ie, lv, mt, nl, nor, pl, pt, sk, es, se, ch, gb, ro, pr, ca, sg
    po: sepa, usbt, fast, io
    es: yes
-   name_es: Coinbase
    desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable. 1% de comision.
+   ar: yes
+   desc_ar:  شراء بيتكوين بحسابك المصرفي. سهلة وسريعة ومريحة. شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين INTERAC Online.
 
  - name: Local Bitcoins
    desc: Buy bitcoin from local dealers, online or in person. Private and quick. 1% fee.
@@ -19,8 +20,9 @@
    desc_he: קנייה של ביטקוין מסוחרים מקומיים ,דרך האינטרנט או פנים מול פנים. מהיר ופרטי. 1% עמלה.
    po: sepa, fast, cdus
    es: yes
-   name_es: Local Bitcoins
    desc_es: Comprar Bitcoin a distribuidores locales, online o en persona. Privado y rápido. 1% de comision.
+   ar: yes
+   desc_ar:  شراء بيتكوين من التجار المحليين، أو عبر الإنترنت أو بشخصك. بخصوصية وسرعة. برسوم 1٪.
    
  - name: Celery
    desc: Buy bitcoin with a connected US bank account or credit/debit card.  
@@ -29,8 +31,9 @@
    countries: us, ca
    po: usbt, ccus, io
    es: yes
-   name_es: Celery
-   desc_es: Comprar bitcoin con una cuenta conectada a un banco de EEUU o tarjeta de crédito/débito.     
+   desc_es: Comprar bitcoin con una cuenta conectada a un banco de EEUU o tarjeta de crédito/débito.   
+   ar: yes
+   desc_ar:  شراء بيتكوين بحساب مصرفي أمريكي مربوط أو ببطاقة الائتمان / الخصم. شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين INTERAC Online. 
 
  - name: Circle
    desc: Buy bitcoin with a bank account or credit card. Fast and easy.
@@ -39,8 +42,9 @@
    countries: us
    po: ccus, usbt, fast
    es: yes
-   name_es: Circle
    desc_es: Comprar Bitcoin de forma instantánea con una cuenta bancaria o tarjeta de crédito. Sin comisiones.
+   ar: yes
+   desc_ar:  شراء بيتكوين عبر حساب مصرفي أو بطاقة الائتمان. بسرعة ويسر.
    
  - name: Bitcoin.de
    desc: Buy bitcoin online from other users with SEPA bank transfers.
@@ -49,8 +53,9 @@
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    po: sepa, ach, cash
    es: yes
-   name_es: Bitcoin.de
    desc_es: Comprar bitcoin en Bitcoin.de a través de SEPA o transferencia bancaria. Comisiones varias.
+   ar: yes
+   desc_ar:  شراء بيتكوين عبر الانترنت من المستخدمين الآخرين بالتحويلات المصرفية SEPA.
    
  - name: Coinbase Exchange
    desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or ACH bank transfer.
@@ -61,6 +66,8 @@
    es: yes
    name_es: Coinbase Exchange
    desc_es: Fondos con transferencia SEPA o transferencia bancaria ACH.
+   ar: yes
+   desc_ar:  صرافة بيتكوين بالولايات المتحدة . التمويل عن طريق تحويل SEPA أو تحويل مصرفي بنظام المقاصة بين البنوك الأمريكية ACH
 
  - name: Bitstamp
    desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
@@ -71,6 +78,8 @@
    es: yes
    name_es: Bitstamp
    desc_es: Comprar bitcoin en Bitstamp a través de SEPA o transferencia bancaria. Comisiones varias.
+   ar: yes
+   desc_ar:  شراء بيتكوين على Bitstamp عبر SEPA أو حوالة مصرفية. تختلف الرسوم.
    
  - name: Kraken
    desc: Bitcoin exchange supporting SEPA deposits, bank wires, SWIFT, and JPY bank deposit. 
@@ -81,6 +90,8 @@
    es: yes
    name_es: Kraken
    desc_es: El intercambio de Bitcoin soporta depósitos SEPA, transferencias bancarias, y SWIFT.
+   ar: yes
+   desc_ar:  صرافة بيتكوين التي تدعم ودائع SEPA والتحويلات البنكية، والحوالات البنكية السريعة SWIFT، والإيداع المصرفي بالين الياباني JPY.
  
  - name: BitQuick
    desc: Buy bitcoin quickly with cash deposits or SEPA transfers in the EU. 2% fee.
@@ -91,6 +102,8 @@
    es: yes
    name_es: BitQuick
    desc_es: Comprar Bitcoin rápidamente con depósitos en efectivo o transferencias SEPA en la UE.  
+   ar: yes
+   desc_ar:  شراء بيتكوين بسرعة بالإيداعات النقدية أو بتحويلات SEPA في الاتحاد الأوروبي. الرسوم 2٪.
    
  - name: BitX
    desc: Bitcoin exchange and broker. Easy way to buy bitcoin in five supported countries. 
@@ -113,6 +126,8 @@
    es: yes
    name_es: Coinsetter
    desc_es: Intercambio de Bitcoin con sede en Nueva York. Deposite dinero con transferencia ACH o SWIFT.
+   ar: yes
+   desc_ar:  صرافة Bitcoin الموجود بنيويورك. إيداع الأموال بتحويل ACH أو SWIFT.
    
 ##### Canada ####################################################   
 
@@ -124,6 +139,8 @@
    es: yes
    name_es: Cavirtex
    desc_es: La manera más fácil de comprar Bitcoin en Canadá con un número de opciones de depósito. 
+   ar: yes
+   desc_ar:  أسهل طرق شراء بيتكوين في كندا بعد د من خيارات الإيداع. تمويل الحساب بنظام INTERAC على الانترنت وبالعديد من خيارات الدفع الأخرى.
 
  - name: Satoshi Counter
    desc: Buy in person in Montreal or online in the rest of Canada. Fast, private, and convenient. 
@@ -133,6 +150,8 @@
    es: yes
    name_es: Satoshi Counter
    desc_es: Comprar en persona en Montreal u online en el resto de Canadá. Rápido, privado y conveniente.
+   ar: yes
+   desc_ar:  الشراء بنفسك في مونتريال أو عبر الإنترنت في بقية نواحي كندا. بسرعة، وبخصوصية وبشكل مريح.
    
  - name: QuickBT
    desc: Buy small amounts of bitcoin in minutes (up to 0.2 BTC) with INTERAC Online. 
@@ -143,6 +162,8 @@
    es: yes
    name_es: QuickBT
    desc_es: Comprar pequeñas cantidades de Bitcoin en minutos (hasta 0.2 BTC) con INTERAC Online.
+   ar: yes
+   desc_ar:  شراء كميات صغيرة من بيتكوين في دقائق (حتى 0.2 بيتكوين) بنظام الدفع والسحب الإلكتروني الكندي INTERAC وذلك أون لاين.
    
  - name: ANXBTC
    desc: Buy bitcoin with cash deposit, bank transfer, SEPA, and more.
@@ -153,6 +174,8 @@
    es: yes
    name_es: ANXBTC
    desc_es: Comprar Bitcoin con un depósito de efectivo, transferencia bancaria, SEPA y más.
+   ar: yes
+   desc_ar:  شراء بيتكوين بالإيداع النقدي، أو بحوالة مصرفية، أو SEPA، وغير ذلك من الطرق الكثيرة.
    
  - name: QuadrigaCX
    desc: Bitcoin exchange. Fund account with INTERAC Online and many other payment options.
@@ -163,6 +186,8 @@
    es: yes
    name_es: QuadrigaCX
    desc_es: Intercambio de Bitcoin. Cuenta de fondos con INTERAC Online y muchos otros métodos de pago.
+   ar: yes
+   desc_ar:  صرافة بيتكوين . تمويل الحساب بنظام INTERAC على الانترنت وبالعديد من خيارات الدفع الأخرى.
    
  - name: Safello
    desc: Buy bitcoin via SEPA, Swish, International Bank Transfer, Bankgiro, and more. 
@@ -173,6 +198,8 @@
    es: yes
    name_es: Safello
    desc_es: Comprar Bitcoin mediante SEPA, transferencia bancaria internacional, giro postal y más.
+   ar: yes
+   desc_ar:  شراء بيتكوين بواسطة SEPA، سويش Swish، حوالة بنكية دولية، وBankgiro، وأكثر من ذلك.
    
  - name: Canadian Bitcoins
    desc: Buy bitcoin with cash in office, cash through express mail, online banking, & Interac Online.
@@ -183,6 +210,8 @@
    es: yes
    name_es: Canadian Bitcoins
    desc_es: Comprar Bitcoin con efectivo en la oficnia, banca online e INTERAC Online.
+   ar: yes
+   desc_ar:  شراء بيتكوين INTERAC نقدًا من خلال المكتب، ونقدًا بالبريد السريع، والخدمات المصرفية عبر الإنترنت، و Interac أون لاين.
    
  - name: InstaBT
    desc: Buy bitcoin online in Canada with INTERAC Online. Convenient and quick. 
@@ -193,6 +222,8 @@
    es: yes
    name_es: InstaBT
    desc_es: Comprar Bitcoin online en Canadá con INTERAC Online. Conveniente y rápido.
+   ar: yes
+   desc_ar:  شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين INTERAC Online. عملية مريحة وسريعة.
    
 ##### Venezuela ####################################################  
 
@@ -204,6 +235,8 @@
    es: yes
    name_es: Bitcoin Venezuela
    desc_es: Encuentre un socio para comerciar en el grupo de Facebook de Bitcoin Venezuela.
+   ar: yes
+   desc_ar:  البحث عن شريك تجاري في مجموعة (جروب) بيتكوين فنزويلا على الفيسبوك.
    
  - name: SurBitcoin
    desc: First Bitcoin exchange in Venezuela. Buy bitcoin via bank transfer. 
@@ -213,6 +246,8 @@
    es: yes
    name_es: SurBitcoin
    desc_es: Primer intercambio de Bitcoin en Venezuela. Comprar Bitcoin mediante transferencia bancaria.
+   ar: yes
+   desc_ar:  أول صرافة بيتكوين في فنزويلا. شراء بيتكوين عن طريق التحويل المصرفي.
 
 ##### Chile ####################################################  
 
@@ -223,7 +258,9 @@
    countries: cl
    es: yes
    name_es: Yaykuy
-   desc_es: Corredor de Bitcoin en Chile. Comprar mediante transferencia bancaria local. 
+   desc_es: Corredor de Bitcoin en Chile. Comprar mediante transferencia bancaria local.
+   ar: yes
+   desc_ar:  وسيط بيتكوين. الشراء عن طريق التحويل المصرفي المحلي. الحصول على بيتكوين في غضون 24 ساعة. 
 
 ##### Paraguay ####################################################  
 
@@ -277,6 +314,8 @@
    langs: en, he
    name_he: bit2c
    desc_he: בורסת הביטקוין הגדולה בישראל! קנייה דרך העברה בנקאית או כרטיס אשראי.
+   ar: yes
+   desc_ar:  أكبر صرافة بيتكوين في إسرائيل. الشراء بالتحويل المصرفي أو ببطاقة الائتمان.
    
  - name: Bits of Gold
    desc: Buy Bitcoin directly from Bits of Gold, the largest Bitcoin broker in Israel. 
@@ -286,6 +325,8 @@
    langs: en, he
    name_he: ביטס אוף גולד
    desc_he: קנה ביטקוין ישירות מBits of Gold דרך העברה בנקאית. ברוקר הביטקוין הגדול בישראל.
+   ar: yes
+   desc_ar:  شراء بيتكوين مباشرة من Bits of Gold، أكبر وسيط بيتكوين في إسرائيل.
    
 ##### Egypt ####################################################  
 
@@ -294,6 +335,8 @@
    url: http://yellowpay.co/en/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/yellow.png
    countries: eg  
+   ar: yes
+   desc_ar:  شراء قسائم بيتكوين في عدد من المواقع في جميع أنحاء الدولة.
    
 ##### Saudi Arabia ####################################################  
 
@@ -302,6 +345,8 @@
    url: http://coinatmradar.com/bitcoin_atm/303/bitcoin-atm-lamassu-jubail-ticket-computer-center/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/lamassu.png
    countries: sa  
+   ar: yes
+   desc_ar:  شراء بيتكوين في Lamassu Bitcoin ATM في "جبيل"، المملكة العربية السعودية.
    
 ##### Tunisia ####################################################  
 
@@ -310,6 +355,8 @@
    url: https://www.nouqood.biz/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/nouqood.png
    countries: tn  
+   ar: yes
+   desc_ar:  شراء بيتكوين عن طريق الإيداع المصرفي، باي بال Paypal، بيرفكت موني PerfectMoney، ونقدًا بشخصك.
    
 ##### United Arab Emirates ####################################################  
 
@@ -318,6 +365,8 @@
    url: https://bitoasis.net/en/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitoasis.png
    countries: ae 
+   ar: yes
+   desc_ar:  شراء بيتكوين بسرعة بالدرهم الإماراتي عن طريق التحويلات المصرفية.
    
 ##### Kuwait ####################################################  
 
@@ -325,7 +374,9 @@
    desc: Buy bitcoin quickly online in Kuwait with a debit card.    
    url: https://bitfils.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitfils.png
-   countries: kw      
+   countries: kw    
+   ar: yes
+   desc_ar:  شراء بيتكوين بسرعة عبر الانترنت في الكويت ببطاقة السحب الآلي.  
    
 ##### Argentina ####################################################     
 
@@ -336,7 +387,9 @@
    countries: ar, cl, bo, br
    es: yes
    name_es: Bitex.la
-   desc_es: Intercambio de Bitcoin con servicio en muchos países Sudamericanos. 
+   desc_es: Intercambio de Bitcoin con servicio en muchos países Sudamericanos.
+   ar: yes
+   desc_ar:  صرافة بيتكوين مع الخدمة في العديد من بلدان أمريكا الجنوبية. الإيداع نقدا أو باستخدام AstroPay. 
    
  - name: Ripio
    desc: Buy bitcoin at over 8,000 convenience stores across Argentina. Local, quick, secure. 
@@ -346,6 +399,9 @@
    es: yes
    name_es: Ripio
    desc_es: Comprar Bitcoin en más de 8.000 tiendas convenientes en Argentina. Local, rápido, seguro.
+   ar: yes
+   desc_ar:  شراء بيتكوين في أكثر من 8000 متجر في جميع أنحاء الأرجنتين. محليًا، وسريعة وآمنة.
+
 
 ##### Chile ####################################################     
 
@@ -357,6 +413,8 @@
    es: yes
    name_es: surBTC
    desc_es: Intercambio de Bitcoin. Deposite online mediante transferencia bancaria.
+   ar: yes
+   desc_ar:  صرافة بيتكوين. الإيداع عبر الإنترنت من خلال التحويل المصرفي. تختلف الرسوم.
    
 ##### England ####################################################  
 
@@ -365,12 +423,16 @@
    url: https://www.coincorner.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/ccoiner.png
    countries: gb
+   ar: yes
+   desc_ar:  الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.
    
  - name: Bittylicious
    desc: Buy very small amounts of bitcoin via Barclays Pingit, bank transfer, or credit/debit card.
    url: https://bittylicious.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bittylicious.png
    countries: gb
+   ar: yes
+   desc_ar:  شراء كميات صغيرة جدًا من بيتكوين عبر باركليز Pingit، أو عبر التحويل المصرفي أو ببطاقة الائتمان / الخصم.
    
  - name: Coinfloor
    desc: Bitcoin exchange and broker. Deposit via bank transfer, SEPA, and more.
@@ -378,24 +440,32 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinfloor.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
    po: sepa
+   ar: yes
+   desc_ar:  صرافة بيتكوين ووسطاؤه. الإيداع عن طريق التحويل المصرفي، أو SEPA، وغير ذلك الكثير.
    
  - name: BitBargain
    desc: P2P marketplace for buying and selling bitcoin. Multiple payment methods available.
    url: https://bitbargain.co.uk/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/bitbargain.png
    countries: gb 
+   ar: yes
+   desc_ar:  أسواق P2P لبيع بيتكوين وشرائه. طرق الدفع المتعددة المتاحة.
    
  - name: QuickBitcoin
    desc: Bitcoin broker. Buy bitcoin in under an hour via online bank transfer. 
    url: https://quickbitcoin.co.uk/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/quickuk.png
-   countries: gb    
+   countries: gb 
+   ar: yes
+   desc_ar:  وسيط بيتكوين. شراء بيتكوين في أقل من ساعة عن طريق التحويل المصرفي عبر الإنترنت.   
    
  - name: CryptoMate
    desc: Bitcoin broker. Buy bitcoin with UK online bank transfers. 
    url: https://cryptomate.co.uk
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/cryptomate.png
    countries: gb           
+   ar: yes
+   desc_ar:  وسيط بيتكوين. شراء بيتكوين بالتحويلات المصرفية عبر الإنترنت في المملكة المتحدة.
    
 ##### Singapore ####################################################   
 
@@ -439,6 +509,8 @@
    es: yes
    name_es: Bitso
    desc_es: Intercambio de Bitcoin mexicano. Deposite localmente o con transferencia bancaria o SPEI.
+   ar: yes
+   desc_ar:  صرافة بيتكوين المكسيكي. الإيداع محليا أو التحويل المصرفي أو SPEI.
 
  - name: Volabit
    desc: Buy bitcoin in Mexico with cash at 7-Eleven, Banamex, OXXO, or with a bank transfer. 
@@ -448,6 +520,8 @@
    es: yes
    name_es: Volabit
    desc_es: Comprar Bitcoin en México con efectivo en 7-Eleven, Banamex, OXXO  o con una transferencia bancaria.
+   ar: yes
+   desc_ar:  شراء بيتكوين في المكسيك نقدًا في 7-Eleven ، Banamex, OXXO، أو بالتحويل المصرفي.
    
  - name: meXBT
    desc: Mexican Bitcoin exchange. Deposit with bank transfer or locally at over 130,000 stores.
@@ -457,6 +531,8 @@
    es: yes
    name_es: meXBT
    desc_es: Deposite con transferencia bancaria o localmente en más de 130.000 tiendas.
+   ar: yes
+   desc_ar:  صرافة بيتكوين المكسيكي. الإيداع عن طريق التحويل المصرفي أو محليا في أكثر من 130،000 متجرًا.
    
 ##### Brazil ####################################################      
 
@@ -468,6 +544,8 @@
    es: yes
    name_es: Satoshi Tango
    desc_es: Plataforma de Bitcoin. Soporta un número creciente de países en Sudamérica y Europa.
+   ar: yes
+   desc_ar:  منصة بيتكوين. تدعم عددًا متزايدًا من بلدان أمريكا الجنوبية وأوروبا.
 
  - name: Mercado Bitcoin
    desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers. Fee varies.   
@@ -477,6 +555,8 @@
    es: yes
    name_es: Mercado Bitcoin
    desc_es: Intercambio de Bitcoin. Comprar Bitcoin online en Brasil con transferencias bancarias.
+   ar: yes
+   desc_ar:  صرافة بيتكوين. شراء بيتكوين عبر الانترنت في البرازيل بالتحويلات المصرفية. تختلف الرسوم.
 
  - name: FOXBIT
    desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers and 0 fee deposit.
@@ -486,6 +566,8 @@
    es: yes
    name_es: FOXBIT
    desc_es: Intercambio de Bitcoin. Comprar Bitcoin online en Brasil con transferencias bancarias.
+   ar: yes
+   desc_ar:  صرافة بيتكوين. شراء بيتكوين عبر الانترنت في البرازيل بالتحويلات المصرفية والودائع بلا رسوم.
 
  - name: bitinvest
    desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers. 0.3% fee.  
@@ -495,6 +577,8 @@
    es: yes
    name_es: bitinvest
    desc_es: Intercambio de Bitcoin. Comprar Bitcoin online en Brasil con transferencias bancarias.
+   ar: yes
+   desc_ar:  صرافة بيتكوين. شراء بيتكوين عبر الانترنت في البرازيل بالتحويلات المصرفية. رسوم 0.3٪.
 
  - name: FlowBTC
    desc: Bitcoin exchange. Deposit online via bank transfer. Fee varies. 
@@ -504,6 +588,8 @@
    es: yes
    name_es: FlowBTC
    desc_es: Intercambio de Bitcoin. Comprar Bitcoin online en Brasil con transferencias bancarias.
+   ar: yes
+   desc_ar:  صرافة بيتكوين. الإيداع عبر الإنترنت من خلال التحويل المصرفي. تختلف الرسوم.
    
  - name: Bitcoin To You
    desc: Bitcoin exchange. Deposit online via bank transfer. Fee varies. 
@@ -513,7 +599,8 @@
    es: yes
    name_es: Bitcoin To You
    desc_es: Intercambio de Bitcoin. Comprar Bitcoin online en Brasil con transferencias bancarias.
-   
+   ar: yes
+   desc_ar:  صرافة بيتكوين. الإيداع عبر الإنترنت من خلال التحويل المصرفي. تختلف الرسوم.
    
  - name: BitCambio
    desc: Bitcoin exchange. Deposit online via bank transfer. Fee varies. 
@@ -523,6 +610,8 @@
    es: yes
    name_es: BitCambio
    desc_es: Corredor de Bitcoin. Comprar Bitcoin online en Brasil con transferencias bancarias.
+   ar: yes
+   desc_ar:  صرافة بيتكوين. الإيداع عبر الإنترنت من خلال التحويل المصرفي. تختلف الرسوم.
    
  - name: Basebit
    desc: Bitcoin exchange. Deposit online via bank transfer or cash deposit. 
@@ -532,7 +621,8 @@
    es: yes
    name_es: Basebit
    desc_es: Comprar bitcoin a través de depósito en efectivo o con transferencias bancarias. 
-      
+   ar: yes
+   desc_ar:  صرافة بيتكوين. الإيداع عبر الإنترنت من خلال التحويل المصرفي أو بالإيداع النقدي.
    
 ##### China #################################################### 
  
@@ -908,6 +998,8 @@
    es: yes
    name_es: Changetip
    desc_es: Comprar pequeñas cantidades de Bitcoin con una tarjeta de débito/crédito Visa o Mastercard.
+   ar: yes
+   desc_ar:  شراء كميات صغيرة من بيتكوين ببطاقة الخصم / الائتمان الفيزا أو الماستر كارد.
      
  - name: CEX.io
    desc: Buy bitcoin via credit card, SEPA/ACH bank transfer, cash, or AstroPay. 
@@ -918,6 +1010,8 @@
    es: yes
    name_es: CEX.io
    desc_es: Comprar Bitcoin a través de tarjeta de crédito, transferencia bancaria SEPA/ACH, o efectivo.
+   ar: yes
+   desc_ar:  شراء بيتكوين عبر بطاقة الائتمان SEPA أو التحويل المصرفي ACH أو نقدًا، أو AstroPay.
    
  - name: LibertyX
    desc: Buy bitcoin with cash at a number of retail stores across the US.  
@@ -928,6 +1022,8 @@
    es: yes
    name_es: LibertyX
    desc_es: Comprar bitcoin con dinero en efectivo en numerosas tiendas minoristas en los EE.UU.
+   ar: yes
+   desc_ar:  شراء بيتكوين نقدًا من عدد من متاجر البيع بالتجزئة المنتشرة في جميع أنحاء الولايات المتحدة.
    
  - name: Purse.io
    desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
@@ -938,6 +1034,8 @@
    es: yes
    name_es: Purse.io
    desc_es: Comprar Bitcoin con una tarjeta de crédito o tarjetas regalo de Amazon. 
+   ar: yes
+   desc_ar:  شراء بيتكوين باستخدام بطاقة ائتمان أو بطاقات هدايا موقع أمازون. تختلف الرسوم.
 
  - name: Clevercoin
    desc: Buy bitcoin with SEPA bank transfer, credit card, or iDEAL.
@@ -945,6 +1043,8 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/clever.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
    po: sepa
+   ar: yes
+   desc_ar:  شراء بيتكوين بالتحويل المصرفي SEPA ، ووبطاقات الائتمان، أو iDEAL.
    
  - name: Coinimal
    desc: Buy bitcoin with SOFORT, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
@@ -952,6 +1052,8 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinimal.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
    po: sofort, giro, sepa, obt
+   ar: yes
+   desc_ar:  شراء بيتكوين بـ EPS وgiropay و NETELLER وSOFORT وSEPA و SEPA، والتحويل المصرفي عبر الإنترنت.
    
  - name: bitcoin-otc
    desc: Over-the-counter marketplace for P2P exchanging of bitcoin.
@@ -964,6 +1066,8 @@
    desc_es: Mercado OTC para intercambio P2P de Bitcoin. Comisiones varias. 
    name_he: bitcoin-otc
    desc_he: קנייה של ביטקוין דרך האינטרנט. בורסת ה-P2P עם אופציות תשלום שונות.
+   ar: yes
+   desc_ar:  أسواق البيع المباشر لصرافة بيتكوين P2P.
    
  - name: Cubits
    desc: Buy bitcoin in a number of countries via SEPA, OKPAY, SOFORT and Skrill. 
@@ -974,6 +1078,8 @@
    es: yes
    name_es: Cubits
    desc_es: Comprar Bitcoin en un número de países mediante SEPA, OKPAY, SOFORT y Skrill.
+   ar: yes
+   desc_ar:  شراء بيتكوين في عدد من البلدان عبر SEPA وOKPAY وSOFORT وسكريل Skrill.
 
  - name: Trucoin
    desc: Buy bitcoin with a credit card instantly in over 30 US states.
@@ -984,6 +1090,8 @@
    es: yes
    name_es: Trucoin
    desc_es: Comprar Bitcoin con una tarjeta de crédito de forma instantánea en más de 30 estados de los EEUU.
+   ar: yes
+   desc_ar:  شراء بيتكوين ببطاقة الائتمان على الفور في أكثر من 30 ولاية أمريكية.
    
  - name: Wall of Coins
    desc: Buy bitcoin via cash deposit at a number of US banks nationwide. 
@@ -994,16 +1102,20 @@
    es: yes
    name_es: Wall of Coins
    desc_es: Comprar bitcoin a través de depósito en efectivo en numerosos bancos de EE.UU.
+   ar: yes
+   desc_ar:  شراء بيتكوين عن طريق الإيداع النقدي في عدد من البنوك الأمريكية على الصعيد الوطني.
    
  - name: itBit
    desc: New York based Bitcoin exchange. Deposit with ACH transfer, SEPA, or international wire transfer.
-   url: https://trucoin.com/
+   url: https://www.itbit.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/itbit.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg
    po: sepa, usbt
    es: yes
    name_es: itBit
    desc_es: Deposite con transferencia ACH, SEPA o transferencia bancaria internacional. 
+   ar: yes
+   desc_ar:  صرافة بيتكوين الموجدود بنيويورك . الإيداع بتحويل ACH، أو SEPA، أو التحويل البنكي الدولي.
    
  - name: expresscoin
    desc: Buy bitcoin with money orders or personal checks. Good for those without a bank account.
@@ -1012,7 +1124,9 @@
    countries: us
    es: yes
    name_es: expresscoin
-   desc_es: Comprar con giros postales o cheques personales. Ideal para los que no tienen una cuenta bancaria.   
+   desc_es: Comprar con giros postales o cheques personales. Ideal para los que no tienen una cuenta bancaria.  
+   ar: yes
+   desc_ar:  شراء بيتكوين بالحوالات أو الشيكات الشخصية. جيد للذين لا يملكون حسابا مصرفيا. 
    
  - name: Fastcoin.ch
    desc: Buy with SEPA transfer or bank transfer in Switzerland.  Fast and convenient. 
@@ -1020,6 +1134,8 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/sbex.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
    po: sepa, sofort, obt, fast
+   ar: yes
+   desc_ar:  الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.
    
  - name: CryptoPay
    desc: Bitcoin broker. Buy bitcoin with SEPA or bank transfers in the UK. 
@@ -1027,6 +1143,8 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/cryptopay.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
    po: sepa
+   ar: yes
+   desc_ar:  وسيط بيتكوين. شراء بيتكوين بحوالة SEPA أو بحوالة بنكية في المملكة المتحدة.
    
  - name: Anycoin Direct
    desc: Bitcoin broker. Buy bitcoin with SEPA, INTERAC Online, and many more payment methods. 
@@ -1034,6 +1152,8 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/anycoin.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, ca
    po: sepa, io, fast
+   ar: yes
+   desc_ar:  وسيط بيتكوين . شراء بيتكوين بـSEPA وINTERAC Online والعديد من وسائل الدفع الأخرى.
    
  - name: Bitfinex
    desc: Deposit funds with an international wire transfer and buy bitcoin on the exchange.
@@ -1043,6 +1163,8 @@
    es: yes
    name_es: Bitfinex
    desc_es: Deposite fondos con una transferencia bancaria internacional y compre bitcoin en la bolsa.
+   ar: yes
+   desc_ar:  إيداع الأموال بحوالة مصرفية دولية وشراء بيتكوين في الصرافة.
 
  - name: Xapo
    desc: Global Bitcoin platform. Buy bitcoin with Euros via international wire transfer.
@@ -1052,6 +1174,8 @@
    es: yes
    name_es: Xapo
    desc_es: Plataforma global de Bitcoin. Comprar Bitcoin con euros mediante transferencia bancaria internacional.
+   ar: yes
+   desc_ar:  منصة بيتكوين العالمية. شراء بيتكوين مع يورو عن طريق التحويل البنكي الدولي.
    
  - name: BTCe
    desc: Bitcoin exchange supporting bank wires, SEPA, credit cards, webmoney.ru and many other options. 
@@ -1062,6 +1186,8 @@
    es: yes
    name_es: BTCe
    desc_es: El intercambio de Bitcoins soporta transferencias bancarias, SEPA, y muchas otras opciones.
+   ar: yes
+   desc_ar:  صرافة بيتكوين الداعم للتحويلات المصرفية، وSEPA، وبطاقات الائتمان، و webmoney.ru والعديد من الخيارات الأخرى.
    
  - name: HappyCoins
    desc: Bitcoin broker. Buy with SEPA bank transfer, iDEAL, and other payment methods.
@@ -1069,12 +1195,16 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/happy.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb     
    po: sepa    
+   ar: yes
+   desc_ar:  وسيط بيتكوين. الشراء بتحويل بنكي SEPA، و iDEAL، وغيرها من طرق الدفع الأخرى.
    
  - name: Paymium
    desc: Bitcoin exchange. Buy bitcoin with bank transfers in France. 
    url: https://paymium.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/paymium.png
-   countries: fr     
+   countries: fr    
+   ar: yes
+   desc_ar:  صرافة بيتكوين. شراء بيتكوين بالتحويلات المصرفية في فرنسا. 
 
  - name: ShapeShift
    desc: Buy bitcoin with Litecoin, Dogecoin, altcoins and other digital tokens.
@@ -1087,6 +1217,8 @@
    desc_es: Comprar Bitcoin con Litecoin, Dogecoin, Altcoins y otras monedas digitales.
    name_he: ShapeShift
    desc_he: קנייה של ביטקוין עם לייטקוין, דוגקוין או כל סוג מטבע אחר.
+   ar: yes
+   desc_ar:  شراء بيتكوين بـ Litecoin وDogecoin وكذلك ببطاقات الشراء الرقمية الأخرى.
 
  - name: Mycelium Local Trader
    desc: Buy from local traders through Mycelium Bitcoin wallet. Availability depends on location.
@@ -1099,6 +1231,8 @@
    name_he: Mycelium
    desc_he: קנייה מסוחרים מקומיים דרך Mycelium הארנק הביטקוין. זמינות תלויה על בסיס מיקום. 
    po: fast
+   ar: yes
+   desc_ar:  الشراء من التجار المحليين من خلال محفظة Mycelium Bitcoin . وتوافر ذلك يعتمد على الموقع.
    
 #####: All countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye
    
