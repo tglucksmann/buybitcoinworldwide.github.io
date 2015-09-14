@@ -1085,8 +1085,6 @@
    af: yes  
    ar: yes
    country_ar: تشاد
-   fr: yes
-   country_fr: Tchad
 
  - country: Comoros
    short: km
@@ -1099,6 +1097,12 @@
    af: yes 
    fr: yes
    country_fr: Congo
+   
+ - country: IvoryCoast_fr
+   short: ci
+   af: yes 
+   fr: yes
+   country_fr: Côte d’Ivoire   
 
  - country: DR Congo
    short: cd
@@ -1119,8 +1123,6 @@
    af: yes  
    es: yes
    country_es: Guinea Ecuatorial
-   fr: yes
-   country_fr: Guinée Équatoriale
 
  - country: Eritrea
    short: er
@@ -1151,6 +1153,12 @@
    af: yes 
    fr: yes
    country_fr: Guinée
+   
+ - country: EquatorialGuinea_fr
+   short: gq
+   af: yes  
+   fr: yes
+   country_fr: Guinée Équatoriale   
 
  - country: Guinea-Bissau
    short: gw
@@ -1161,8 +1169,6 @@
  - country: Ivory Coast
    short: ci
    af: yes 
-   fr: yes
-   country_fr: Côte d’Ivoire
 
  - country: Kenya
    short: ke
@@ -1288,6 +1294,12 @@
  - country: Tanzania
    short: tz
    af: yes  
+   
+ - country: Chad_fr
+   af: yes
+   short: td
+   fr: yes
+   country_fr: Tchad   
 
  - country: Togo
    short: tg
