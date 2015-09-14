@@ -6421,6 +6421,10 @@ html, body {
 .continent {
   margin: 16px 0px; }
 
+@media (max-width: 767px) {
+  .arabic .continent {
+    clear: both;
+    margin: 8px 0; } }
 .country-link {
   display: inline-block; }
 
