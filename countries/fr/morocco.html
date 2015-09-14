@@ -1,0 +1,16 @@
+---
+title: Acheter des Bitcoins au Maroc
+seotitle: Acheter des Bitcoins au Maroc | Bourses d'échange, Courtiers et GAB
+permalink: /fr/ma/
+layout: country
+lang: fr
+country: ma
+desc: Apprenez où et comment acheter des bitcoins au Maroc. Liste complète des bourses d'échange, courtiers et GAB acceptant de nombreux moyens de paiement.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'ma' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

@@ -226,8 +226,8 @@ uk:
   
 ##################### French #####################
 fr:
-  buy: Buy Bitcoin
-  atms: ATMs
+  buy: Acheter des Bitcoins
+  atms: GAB
   exchanges: Exchanges
   namerica: North America
   samerica: Amérique du Sud
@@ -240,22 +240,22 @@ fr:
   in: in
   the: the
   site_title: Buy Bitcoin Worldwide
-  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
-  contribute: Contribute
-  get_wallet: Get Bitcoin Wallet
-  short_lang: uk
-  home_url: /
-  find_country: Find Country
-  by_jordan: Site by Jordan Tuwiner
-  disclaimer: Disclaimer
+  sitedesc: Achetez des Bitcoins de partout dans le monde. Vous avez juste à choisir un pays.
+  contribute: Contribuer
+  get_wallet: Obtenir un portefeuille Bitcoin
+  short_lang: fr
+  home_url: /fr/
+  find_country: Trouver un pays
+  by_jordan: Site par Jordan Tuwiner
+  disclaimer: Clause de non-responsabilité
   disclaimer_url: /en/disclaimer/
   contact: Contact
   contact_url: /en/contact/
-  paymentmethods: Payment Methods
-  paymentmethods_url: /en/payment-methods/
+  paymentmethods: Moyens de paiement
+  paymentmethods_url: /fr/moyens-de-paiement/
   about: A propos
   about_url: /en/about/
-  change_lang: Language 
+  change_lang: Langue 
   
 ##################### Italian #####################
 it:

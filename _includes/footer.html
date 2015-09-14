@@ -5,13 +5,16 @@
 		 	 <h4><a href="{{ lang.home_url }}">{{ lang.site_title }}</a></h4>
 		</div>
 		<div class="col-sm-12 col-md-6 right">
+			{% if page.lang == 'en' %}
 			<a href="https://twitter.com/buybitcoinww" class="footer-link"><i class="fa fa-fw fa-twitter"></i>Twitter</a>
+			{% endif %}
 			<a href="{{ lang.contact_url }}" class="footer-link"><i class="fa fa-fw fa-envelope-o"></i>{{ lang.contact }}</a>
 			<a href="{{ lang.disclaimer_url }}" class="footer-link"><i class="fa fa-fw fa-info-circle"></i>{{ lang.disclaimer }}</a>
 			<select id="foo">
 				<option value="">{{ lang.change_lang }}</option>
 				<option value="/">English</option>
 				<option value="/es/">Español</option>
+				<option value="/fr/">Français</option>
 				<option value="/ar/">العربية</option>
 			</select>
 

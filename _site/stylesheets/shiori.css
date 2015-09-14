@@ -6578,6 +6578,9 @@ html, body {
 .bottom-footer .right {
   text-align: right; }
 
+.arabic .bottom-footer .right {
+  text-align: left; }
+
 .bottom-footer {
   line-height: 2; }
 

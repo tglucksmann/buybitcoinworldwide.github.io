@@ -27,6 +27,7 @@
    uk: yes
    country_uk: Канада
    fr: yes
+   country_fr: Canada
    
  - country: Cuba
    short: cu
@@ -54,6 +55,7 @@
    short: ht
    na: yes
    fr: yes
+   country_fr: Haïti
 
  - country: Jamaica
    short: jm
@@ -106,6 +108,7 @@
    url_uk: yes
    url_uk_c: Сполучені_Штати_Америки
    fr: yes
+   country_fr: États-Unis
    de: yes
    
  - country: St. Vincent and the Grenadines
@@ -168,6 +171,7 @@
    country_es: Bélgica
    nl: yes
    fr: yes
+   country_fr: Belgique
    de: yes
    it: yes
 
@@ -250,6 +254,7 @@
    country_uk: Франція
    nl: yes
    fr: yes
+   country_fr: France
    de: yes
    it: yes
 
@@ -317,6 +322,7 @@
    es: yes
    country_es: Italia
    fr: yes
+   country_fr: Italie
    de: yes
    it: yes
    
@@ -357,6 +363,7 @@
    es: yes
    country_es: Luxemburgo
    fr: yes
+   country_fr: Luxembourg
    de: yes
 
  - country: Macedonia
@@ -388,6 +395,7 @@
    es: yes
    country_es: Mónaco 
    fr: yes
+   country_fr: Monaco
    it: yes
    
  - country: Montenegro
@@ -516,6 +524,7 @@
    es: yes
    country_es: Suiza 
    fr: yes
+   country_fr: Suisse
    de: yes
    it: yes
    
@@ -587,6 +596,7 @@
    pt: yes
    country_pt_br: Brasil
    fr: yes
+   country_fr: Brésil
    de: yes
   
  - country: Chile
@@ -757,6 +767,7 @@
    short: vu
    oc: yes
    fr: yes
+   country_fr: Vanuatu
 
       
 # Middle East
@@ -815,6 +826,7 @@
    ar: yes
    country_ar: لبنان
    fr: yes
+   country_fr: Liban
 
  - country: Oman
    short: om
@@ -1026,6 +1038,7 @@
    ar: yes
    country_ar: الجزائر
    fr: yes
+   country_fr: Algérie
 
  - country: Angola
    short: ao
@@ -1037,6 +1050,7 @@
    short: bj
    af: yes  
    fr: yes
+   country_fr: Bénin
 
  - country: Botswana
    short: bw
@@ -1045,12 +1059,14 @@
  - country: Burkina Faso
    short: bf
    af: yes 
-   fr: yes 
+   fr: yes
+   country_fr: Burkina Faso
 
  - country: Burundi
    short: bi
    af: yes 
-   fr: yes 
+   fr: yes
+   country_fr: Burundi
 
  - country: Cape Verde
    short: cv
@@ -1062,6 +1078,7 @@
    short: cm
    af: yes   
    fr: yes
+   country_fr: Cameroun
 
  - country: Chad
    short: td
@@ -1069,21 +1086,25 @@
    ar: yes
    country_ar: تشاد
    fr: yes
+   country_fr: Tchad
 
  - country: Comoros
    short: km
    af: yes  
    fr: yes
+   country_fr: Comores
    
  - country: Congo
    short: cg
    af: yes 
-   fr: yes 
+   fr: yes
+   country_fr: Congo
 
  - country: DR Congo
    short: cd
    af: yes    
    fr: yes
+   country_fr: RD Congo
 
  - country: Djibouti
    short: dj
@@ -1091,6 +1112,7 @@
    ar: yes
    country_ar: جيبوتي
    fr: yes
+   country_fr: Djibouti
 
  - country: Equatorial Guinea
    short: gq
@@ -1098,6 +1120,7 @@
    es: yes
    country_es: Guinea Ecuatorial
    fr: yes
+   country_fr: Guinée Équatoriale
 
  - country: Eritrea
    short: er
@@ -1113,6 +1136,7 @@
    short: ga
    af: yes  
    fr: yes
+   country_fr: Gabon
 
  - country: Gambia
    short: gm
@@ -1125,7 +1149,8 @@
  - country: Guinea
    short: gn
    af: yes 
-   fr: yes 
+   fr: yes
+   country_fr: Guinée
 
  - country: Guinea-Bissau
    short: gw
@@ -1137,6 +1162,7 @@
    short: ci
    af: yes 
    fr: yes
+   country_fr: Côte d’Ivoire
 
  - country: Kenya
    short: ke
@@ -1144,6 +1170,7 @@
    es: yes
    country_es: Kenia
    fr: yes
+   country_fr: Kenya
 
  - country: Lesotho
    short: ls
@@ -1162,7 +1189,8 @@
  - country: Madagascar
    short: mg
    af: yes
-   fr: yes  
+   fr: yes
+   country_fr: Madagascar
 
  - country: Malawi
    short: mw
@@ -1171,14 +1199,16 @@
  - country: Mali
    short: ml
    af: yes 
-   fr: yes 
+   fr: yes
+   country_fr: Mali
 
  - country: Mauritania
    short: mr
    af: yes
    ar: yes
    country_ar: موريتانيا 
-   fr: yes 
+   fr: yes
+   country_fr: Mauritanie
 
  - country: Morocco
    short: ma
@@ -1186,6 +1216,7 @@
    ar: yes
    country_ar: المغرب
    fr: yes
+   country_fr: Maroc
 
  - country: Mozambique
    short: mz
@@ -1202,6 +1233,7 @@
    short: ne
    af: yes  
    fr: yes
+   country_fr: Niger
 
  - country: Nigeria
    short: ng
@@ -1210,17 +1242,20 @@
  - country: Rwanda
    short: rw
    af: yes
-   fr: yes  
+   fr: yes
+   country_fr: Rwanda
 
  - country: Senegal
    short: sn
    af: yes  
    fr: yes
+   country_fr: Sénégal
 
  - country: Seychelles
    short: sc
    af: yes 
-   fr: yes 
+   fr: yes
+   country_fr: Seychelles
 
  - country: Sierra Leone
    short: sl
@@ -1257,7 +1292,8 @@
  - country: Togo
    short: tg
    af: yes 
-   fr: yes 
+   fr: yes
+   country_fr: Togo
 
  - country: Tunisia
    short: tn
@@ -1265,6 +1301,7 @@
    ar: yes
    country_ar: تونس
    fr: yes
+   country_fr: Tunisie
 
  - country: Uganda
    short: ug
@@ -1281,7 +1318,8 @@
  - country: Central African Republic
    short: cf
    af: yes
-   fr: yes        
+   fr: yes
+   country_fr: République Centrafricaine       
    
  - country: Sao Tome and Principe
    short: st
