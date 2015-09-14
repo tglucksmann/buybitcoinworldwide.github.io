@@ -55,7 +55,18 @@
         </div>
         <div class="collapse navbar-collapse js-navbar-collapse">
           <ul class="navbar-nav nav" data-purplecoat="shiori" data-purplecoat-label="nav.html">
-            <li>
+            <li class="btn-group">
+  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <i class="fa fa-fw fa-globe"></i> العربية <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+    <li><a href="/">English</a></li>
+    <li><a href="/es/">Español</a></li>
+    <li><a href="/fr/">Français</a></li>
+    <li><a href="/ar/">العربية</a></li>
+  </ul>
+</li>
+<li>
 <a class="wallet-nav" href="/ar/"><i class="fa fa-fw fa-map-marker"></i> البحث عن دولة</a>
 </li>
 <li>
@@ -64,7 +75,6 @@
 <li>
 <a class="contribute-nav" href="https://github.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io"><i class="fa fa-fw fa-pencil-square-o"></i> المساهمة</a>
 </li>
-<!--  -->
             
           </ul> 
         </div>
@@ -719,21 +729,6 @@
 			
 			<a href="/en/contact/" class="footer-link"><i class="fa fa-fw fa-envelope-o"></i>الاتصال</a>
 			<a href="/en/disclaimer/" class="footer-link"><i class="fa fa-fw fa-info-circle"></i>التنازل</a>
-			<select id="foo">
-				<option value="">لغة</option>
-				<option value="/">English</option>
-				<option value="/es/">Español</option>
-				<option value="/fr/">Français</option>
-				<option value="/ar/">العربية</option>
-			</select>
-
-			<script>
-				document.getElementById("foo").onchange = function() {
-					if (this.selectedIndex!==0) {
-					window.location.href = this.value;
-					}        
-				};
-			</script>
 		</div>
 	 </div>
 </div>

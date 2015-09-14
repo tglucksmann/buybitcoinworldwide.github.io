@@ -18,6 +18,7 @@ en:
   contribute: Contribute
   get_wallet: Get Bitcoin Wallet
   short_lang: en
+  language: English
   home_url: /
   find_country: Find Country
   by_jordan: Site by Jordan Tuwiner
@@ -51,6 +52,7 @@ es:
   contribute: Contribuir
   get_wallet: Obtener cartera de Bitcoin
   short_lang: en
+  language: Español
   home_url: /es/
   find_country: Encontrar país
   by_jordan: Site by Jordan Tuwiner
@@ -84,6 +86,7 @@ pt-br:
   contribute: Contribute
   get_wallet: Get Bitcoin Wallet
   short_lang: en
+  language: Português
   home_url: /
   find_country: Find Country
   by_jordan: Site by Jordan Tuwiner
@@ -114,6 +117,7 @@ he:
   contribute: גיטהאב
   get_wallet: ארנקי ביטקוין
   short_lang: he
+  language: עברית
   home_url: /
   find_country: מדינות
   by_jordan: Site by Jordan Tuwiner
@@ -145,6 +149,7 @@ ar:
   contribute: المساهمة
   get_wallet: الحصول على محفظة بيتكوين
   short_lang: ar
+  language: العربية
   home_url: /ar/
   find_country: البحث عن دولة
   by_jordan: موقع الأردن
@@ -178,6 +183,7 @@ ru:
   contribute: Contribute
   get_wallet: Get Bitcoin Wallet
   short_lang: ru
+  language: Русский
   home_url: /
   find_country: Find Country
   by_jordan: Site by Jordan Tuwiner
@@ -211,7 +217,8 @@ uk:
   contribute: Contribute
   get_wallet: Get Bitcoin Wallet
   short_lang: uk
-  home_url: /
+  language: Українська
+  home_url: /uk/
   find_country: Find Country
   by_jordan: Site by Jordan Tuwiner
   disclaimer: Disclaimer
@@ -244,6 +251,7 @@ fr:
   contribute: Contribuer
   get_wallet: Obtenir un portefeuille Bitcoin
   short_lang: fr
+  language: Français
   home_url: /fr/
   find_country: Trouver un pays
   by_jordan: Site par Jordan Tuwiner
@@ -276,8 +284,9 @@ it:
   sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
   contribute: Contribute
   get_wallet: Get Bitcoin Wallet
-  short_lang: uk
-  home_url: /
+  short_lang: it
+  language: Italiano
+  home_url: /it/
   find_country: Find Country
   by_jordan: Site by Jordan Tuwiner
   disclaimer: Disclaimer
@@ -309,7 +318,8 @@ de:
   sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
   contribute: Contribute
   get_wallet: Get Bitcoin Wallet
-  short_lang: uk
+  short_lang: de
+  language: Deutsch
   home_url: /
   find_country: Find Country
   by_jordan: Site by Jordan Tuwiner
@@ -342,7 +352,8 @@ nl:
   sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
   contribute: Contribute
   get_wallet: Get Bitcoin Wallet
-  short_lang: uk
+  short_lang: nl
+  language: Nederlands
   home_url: /
   find_country: Find Country
   by_jordan: Site by Jordan Tuwiner
