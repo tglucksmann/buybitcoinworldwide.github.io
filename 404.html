@@ -7,19 +7,31 @@ title: 404 - Buy Bitcoin Worldwide
 layout: page
 desc: We can't find the page you're looking for. 
 ---
-We can't find that page. Select a continent or populat country below. 
+{% assign lang = site.data.translations[page.lang] %}
 
 <div class="well well-home">
-<div class="well-message">{{ lang.sitedesc }}</div>
+<div class="well-message">We can't find that page. Select a continent or popular country below. 
+</div>
 
 <ul class="index-continent-menu">
-<li><a class="btn btn-sm btn-primary" href="https://buybitcoinworldwide.com/#na" type="button">{{ lang.namerica }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="https://buybitcoinworldwide.com/#eu" type="button">{{ lang.europe }}</a></li> 
-<li><a class="btn btn-sm btn-primary" href="https://buybitcoinworldwide.com/#sa" type="button">{{ lang.samerica }}</a></li> 
-<li><a class="btn btn-sm btn-primary" href="https://buybitcoinworldwide.com/#ca" type="button">{{ lang.camerica }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="https://buybitcoinworldwide.com/#oc" type="button">{{ lang.oceania }}</a></li>  
-<li><a class="btn btn-sm btn-primary" href="https://buybitcoinworldwide.com/#me" type="button">{{ lang.meast }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="https://buybitcoinworldwide.com/#as" type="button">{{ lang.asia }}</a></li>
-<!--<li><a class="btn btn-sm btn-primary" href="#af" type="button">{{ lang.africa }}</a></li> -->
+<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/#na" type="button">{{ lang.namerica }}</a></li>
+<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/#eu" type="button">{{ lang.europe }}</a></li> 
+<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/#sa" type="button">{{ lang.samerica }}</a></li> 
+<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/#ca" type="button">{{ lang.camerica }}</a></li>
+<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/#oc" type="button">{{ lang.oceania }}</a></li>  
+<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/#me" type="button">{{ lang.meast }}</a></li>
+<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/#as" type="button">{{ lang.asia }}</a></li>
+<li><a class="btn btn-sm btn-primary" href="#af" type="button">{{ lang.africa }}</a></li> 
 </ul>
 </div>
+
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.pop == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+<hr>

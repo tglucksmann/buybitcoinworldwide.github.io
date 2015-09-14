@@ -32,6 +32,21 @@
   ga('send', 'pageview');
 
 </script>
+
+<script>
+/**
+* Function that tracks a click on an outbound link in Google Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label.
+*/
+var trackOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+     function () {
+     document.location = url;
+     }
+   });
+}
+</script> 
 </head>
  
   
@@ -87,22 +102,830 @@
             <div class="post-header">
   <h1 class="post-title-main"><a href="/404.html">404 - Buy Bitcoin Worldwide</a></h1>
 </div>
-  We can't find that page. Select a continent or populat country below. 
+  
 
 <div class="well well-home">
-<div class="well-message"></div>
+<div class="well-message">We can't find that page. Select a continent or popular country below. 
+</div>
 
 <ul class="index-continent-menu">
-<li><a class="btn btn-sm btn-primary" href="https://buybitcoinworldwide.com/#na" type="button"></a></li>
-<li><a class="btn btn-sm btn-primary" href="https://buybitcoinworldwide.com/#eu" type="button"></a></li> 
-<li><a class="btn btn-sm btn-primary" href="https://buybitcoinworldwide.com/#sa" type="button"></a></li> 
-<li><a class="btn btn-sm btn-primary" href="https://buybitcoinworldwide.com/#ca" type="button"></a></li>
-<li><a class="btn btn-sm btn-primary" href="https://buybitcoinworldwide.com/#oc" type="button"></a></li>  
-<li><a class="btn btn-sm btn-primary" href="https://buybitcoinworldwide.com/#me" type="button"></a></li>
-<li><a class="btn btn-sm btn-primary" href="https://buybitcoinworldwide.com/#as" type="button"></a></li>
-<!--<li><a class="btn btn-sm btn-primary" href="#af" type="button"></a></li> -->
+<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/#na" type="button">North America</a></li>
+<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/#eu" type="button">Europe</a></li> 
+<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/#sa" type="button">South America</a></li> 
+<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/#ca" type="button">Central America</a></li>
+<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/#oc" type="button">Oceania</a></li>  
+<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/#me" type="button">Middle East</a></li>
+<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/#as" type="button">Asia</a></li>
+<li><a class="btn btn-sm btn-primary" href="#af" type="button">Africa</a></li> 
 </ul>
 </div>
+
+<div class="container">
+<div class="row">
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/ca/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-ca"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Canada</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/mx/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-mx"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Mexico</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/pr/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-pr"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Puerto Rico</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/us/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-us"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">United States</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/fr/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-fr"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">France</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/de/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-de"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Germany</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/gr/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-gr"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Greece</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/it/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-it"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Italy</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/nl/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-nl"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Netherlands</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/ru/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-ru"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Russia</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/es/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-es"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Spain</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/se/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-se"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Sweden</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/ch/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-ch"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Switzerland</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/ar/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-ar"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Argentina</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/br/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-br"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Brazil</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/ve/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-ve"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Venezuela</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/au/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-au"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Australia</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/il/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-il"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Israel</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/ae/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-ae"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">United Arab Emirates</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/cn/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-cn"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">China</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/hk/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-hk"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Hong Kong</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/in/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-in"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">India</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/ph/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-ph"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Philippines</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="continent col-md-3 col-sm-4">
+  	<div class="country-link ">
+  		
+  		
+	  	<a href="/en/th/" class="black-link">
+	  	
+		  	<span class="flag-icon flag-icon-squared flag-icon-th"></span>
+		  	
+		  	
+		  	
+		  	<div class="country-name">Thailand</div>
+		  	
+		  	
+	  	</a>
+  	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+<hr>
 
           </div>
       </div>

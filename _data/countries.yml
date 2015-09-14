@@ -655,7 +655,8 @@
   
  - country: Venezuela
    short: ve
-   sa: yes  
+   sa: yes 
+   pop: yes 
    es: yes
    country_es: Venezuela
    ar: yes
@@ -861,6 +862,7 @@
  - country: United Arab Emirates
    short: ae
    me: yes
+   pop: yes
    ar: yes
    country_ar: الإمارات العربية المتحدة
    url_ar: yes
@@ -906,6 +908,7 @@
  - country: Hong Kong
    short: hk
    as: yes  
+   pop: yes
 
  - country: India
    short: in
