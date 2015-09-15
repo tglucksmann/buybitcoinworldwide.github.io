@@ -679,7 +679,7 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/huobi.png
    countries: cn, hk
    
- - name: BTCChina
+ - name: BTCC
    desc: Bitcoin exchange in China with no trading fees. Deposit via bank transfer.  
    url: https://www.btcchina.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btcchina.png
