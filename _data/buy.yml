@@ -976,14 +976,15 @@
    url: http://coinatmradar.com/bitcoin_atm/527/bitcoin-atm-genesis-coin-acharnes-orizontes-bookstore/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/genesiscoin.png
    countries: gr
-   name_el: ATM στην Αθήνα
-   desc_el: Αγοράστε bitcoin από το Genesis Coin Bitcoin ATM στην Αθήνα, Ελλάδα.
+   name_el: ATM στην Αχαρνές
+   desc_el: Αγοράστε bitcoin από το Genesis Coin Bitcoin ATM στις Αχαρνές, Ελλάδα.
    
  - name: Bitcoin ATM Athens
    desc: Buy bitcoin from the BTCPoint Bitcoin ATM in Athens, Greece.    
    url: http://coinatmradar.com/bitcoin_atm/618/bitcoin-atm-btcpoint-athens-hostel-of-erasmus-students/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btcpoint.png
    countries: gr  
+   name_el: ATM στην Αθήνα
    desc_el: Αγοράστε bitcoin από το BTCPoint Bitcoin ATM στην Αθήνα, Ελλάδα.   
    
 ##### Croatia ####################################################      
