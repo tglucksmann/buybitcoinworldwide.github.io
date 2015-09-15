@@ -102,6 +102,32 @@
 
 {% elsif page.lang == 'el' and name.desc_el == null %}
 
+{% elsif page.lang == 'nl' and name.desc_nl != null and name.name_nl != null %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name_nl }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_nl }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'nl' and name.desc_nl != null  and name.name_nl == null %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_nl }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'nl' and name.desc_nl == null %}
+
 {% elsif page.lang == 'he' %}
 <div class="col-md-6 buy-info">
 		<h4>

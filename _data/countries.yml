@@ -110,6 +110,8 @@
    fr: yes
    country_fr: États-Unis
    de: yes
+   nl: yes
+   country_nl: Verenigde Staten
    el: yes
    country_el: Ηνωμένες Πολιτείες
    url_el: yes
@@ -176,6 +178,7 @@
    es: yes
    country_es: Bélgica
    nl: yes
+   country_nl: België
    fr: yes
    country_fr: Belgique
    de: yes
@@ -261,6 +264,7 @@
    uk: yes
    country_uk: Франція
    nl: yes
+   country_nl: Frankrijk
    fr: yes
    country_fr: France
    de: yes
@@ -289,6 +293,7 @@
    uk: yes
    country_uk: Німеччина
    nl: yes
+   country_nl: Duitsland
    de: yes
    it: yes
 
@@ -423,6 +428,7 @@
    ar: yes
    country_ar: هولندا
    nl: yes
+   country_nl: Nederland
    de: yes
    
  - country: Norway
@@ -660,6 +666,7 @@
    es: yes
    country_es: Surinam
    nl: yes
+   country_nl: Suriname
   
  - country: Uruguay
    short: uy

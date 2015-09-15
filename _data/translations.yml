@@ -267,37 +267,35 @@ fr:
   
 ##################### Italian #####################
 it:
-  buy: Buy Bitcoin
-  atms: ATMs
-  exchanges: Exchanges
-  namerica: North America
-  samerica: Amérique du Sud
-  asia: Asie
-  camerica: Amérique centrale
-  oceania: Océanie
-  africa: Afrique
-  meast: Moyen-Orient
-  europe: Europe
-  in: in
-  the: the
+  buy: Acquista Bitcoin
+  atms: ATM
+  exchanges: Società di cambio
+  namerica: Nord America
+  samerica: Sud America
+  asia: Asia
+  camerica: America Centrale
+  oceania: Oceania
+  africa: Africa
+  meast: Medio Oriente
+  europe: Europa
   site_title: Buy Bitcoin Worldwide
-  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
-  contribute: Contribute
-  get_wallet: Get Bitcoin Wallet
+  sitedesc: Acquista Bitcoin in qualsiasi parte del mondo. Seleziona semplicemente un paese. 
+  contribute: Contribuisci
+  get_wallet: Ottieni il portafoglio Bitcoin
   short_lang: it
   language: Italiano
   home_url: /it/
-  find_country: Find Country
-  by_jordan: Site by Jordan Tuwiner
+  find_country: Trova il Paese
+  by_jordan: Sito di Jordan Tuwiner
   disclaimer: Disclaimer
   disclaimer_url: /en/disclaimer/
-  contact: Contact
+  contact: Contatto
   contact_url: /en/contact/
-  paymentmethods: Payment Methods
+  paymentmethods: Modalità di pagamento
   paymentmethods_url: /en/payment-methods/
-  about: A propos
+  about: Info
   about_url: /en/about/
-  change_lang: Language  
+  change_lang: Lingua 
   
 ##################### German #####################
 de:
@@ -335,37 +333,35 @@ de:
   
 ##################### Dutch #####################
 nl:
-  buy: Buy Bitcoin
-  atms: ATMs
+  buy: Koop Bitcoin
+  atms: Geldautomaten
   exchanges: Exchanges
-  namerica: North America
-  samerica: Amérique du Sud
-  asia: Asie
-  camerica: Amérique centrale
-  oceania: Océanie
-  africa: Afrique
-  meast: Moyen-Orient
-  europe: Europe
-  in: in
-  the: the
+  namerica: Noord-Amerika
+  samerica: Zuid-Amerika
+  asia: Azië
+  camerica: Centraal-Amerika
+  oceania: Oceanië 
+  africa: Afrika
+  meast: Midden-Oosten
+  europe: Europa
   site_title: Buy Bitcoin Worldwide
-  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
-  contribute: Contribute
-  get_wallet: Get Bitcoin Wallet
+  sitedesc: Koop Bitcoin overal ter wereld. Selecteer gewoon een land.
+  contribute: Draag bij
+  get_wallet: Vind een Bitcoin portomonee
   short_lang: nl
   language: Nederlands
-  home_url: /
-  find_country: Find Country
-  by_jordan: Site by Jordan Tuwiner
+  home_url: /nl/
+  find_country: Vind Land
+  by_jordan: Website door Jordan
   disclaimer: Disclaimer
   disclaimer_url: /en/disclaimer/
   contact: Contact
   contact_url: /en/contact/
-  paymentmethods: Payment Methods
-  paymentmethods_url: /en/payment-methods/
-  about: A propos
+  paymentmethods: Betalingsmethodes
+  paymentmethods_url: /nl/betalingsmethodes/
+  about: Over
   about_url: /en/about/
-  change_lang: Language  
+  change_lang: Taal  
   
 ##################### Greek #####################
 el:

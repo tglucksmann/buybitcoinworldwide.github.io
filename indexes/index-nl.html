@@ -1,0 +1,57 @@
+---
+hide_sidebar: true
+lang: nl
+title: Koop Bitcoin overal ter wereld - Buy Bitcoin Worldwide
+seotitle: Koop Bitcoin overal ter wereld - Buy Bitcoin Worldwide
+desc: Buy Bitcoin Woldwide helpt je bij het kopen van bitcoin, in ieder land en met een betalingsmethode naar voorkeur.  
+permalink: /nl/
+layout: default
+---
+{% assign lang = site.data.translations[page.lang] %}
+
+<div class="well well-home">
+<div class="well-message">{{ lang.sitedesc }}</div>
+
+<ul class="index-continent-menu">
+<li><a class="btn btn-sm btn-primary" href="#eu">{{ lang.europe }}</a></li> 
+<li><a class="btn btn-sm btn-primary" href="#sa">{{ lang.samerica }}</a></li> 
+<li><a class="btn btn-sm btn-primary" href="#na">{{ lang.namerica }}</a></li> 
+</ul>
+</div>
+
+
+<h2 class="home-header"><a href="#eu" id="eu">Koop Bitcoin in Europa</a></h2>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.eu == true and country.nl == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+<hr>
+
+<h2 class="home-header"><a href="#sa" id="sa">Koop Bitcoin in Zuid-Amerika</a></h2>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.sa == true and country.nl == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+<hr>
+
+<h2 class="home-header"><a href="#na" id="sa">Koop Bitcoin in {{ lang.namerica }}</a></h2>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.na == true and country.nl == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+<hr>
