@@ -6764,7 +6764,8 @@ open-sans-font {
   font-size: 14px; }
 
 .navbar-nav .dropdown-menu li a:hover {
-  background: #ccc; }
+  background: #ccc;
+  color: #000 !important; }
 
 .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
   color: #e6e6e6; }

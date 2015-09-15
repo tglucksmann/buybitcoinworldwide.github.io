@@ -110,6 +110,10 @@
    fr: yes
    country_fr: États-Unis
    de: yes
+   el: yes
+   country_el: Ηνωμένες Πολιτείες
+   url_el: yes
+   url_el_c: Ηνωμένες_Πολιτείες
    
  - country: St. Vincent and the Grenadines
    short: vc
@@ -124,6 +128,8 @@
    es: yes
    country_es: Albania
    it: yes
+   el: yes
+   country_el: Αλβανία
 
  - country: Andorra
    short: ad
@@ -201,6 +207,8 @@
    eu: yes  
    es: yes
    country_es: Chipre
+   el: yes
+   country_el: Κύπρος
 
  - country: Czech Republic
    short: cz
@@ -291,6 +299,8 @@
    es: yes
    country_es: Grecia
    it: yes
+   el: yes
+   country_el: Ελλάδα
 
  - country: Hungary
    short: hu
@@ -466,6 +476,8 @@
    uk: yes
    country_uk: Росія
    de: yes
+   el: yes
+   country_el: Ρωσία
    
  - country: San Marino
    short: sm
@@ -532,7 +544,9 @@
    short: tr
    eu: yes 
    es: yes
-   country_es: Turquía    
+   country_es: Turquía  
+   el: yes
+   country_el: Τουρκία  
    
  - country: Ukraine
    short: ua

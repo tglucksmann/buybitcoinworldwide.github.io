@@ -11,6 +11,7 @@
    ar: yes
    desc_ar:  شراء بيتكوين بحسابك المصرفي. سهلة وسريعة ومريحة. شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين INTERAC Online.
    desc_fr: Achetez des bitcoins avec votre compte en banque. Facile, rapide, pratique.
+   desc_el: Αγοράστε bitcoin με τον τραπεζικό σας λογαριασμό. Εύκολα, γρήγορα, βολικά.
 
  - name: Local Bitcoins
    desc: Buy bitcoin from local dealers, online or in person. Private and quick. 1% fee.
@@ -25,6 +26,7 @@
    ar: yes
    desc_ar:  شراء بيتكوين من التجار المحليين، أو عبر الإنترنت أو بشخصك. بخصوصية وسرعة. برسوم 1٪.
    desc_fr: Achetez des bitcoins à des vendeurs, en ligne ou en personne. Confidentiel et rapide. 1% de commission. 
+   desc_el: Αγοράστε bitcoin από τοπικούς εμπόρους, ηλεκτρονικά ή από κοντά. Ιδιωτικά και γρήγορα. Τέλος 1%.
    
  - name: Celery
    desc: Buy bitcoin with a connected US bank account or credit/debit card.  
@@ -37,6 +39,7 @@
    ar: yes
    desc_ar:  شراء بيتكوين بحساب مصرفي أمريكي مربوط أو ببطاقة الائتمان / الخصم. شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين INTERAC Online. 
    desc_fr: Achetez des bitcoins avec un compte en banque ou par carte de crédit, & INTERAC En Ligne.
+   desc_el: Αγοράστε bitcoin με συνδεδεμένο τραπεζικό λογαριασμό από τις ΗΠΑ ή χρεωστική/πιστωτική κάρτα.
 
  - name: Circle
    desc: Buy bitcoin with a bank account or credit card. Fast and easy.
@@ -49,6 +52,7 @@
    ar: yes
    desc_ar:  شراء بيتكوين عبر حساب مصرفي أو بطاقة الائتمان. بسرعة ويسر.
    desc_fr: Achetez des bitcoins avec un compte en banque ou par carte de crédit. Rapide et facile.
+   desc_el: Αγοράστε bitcoin με τραπεζικό λογαριασμό ή πιστωτική κάρτα. Εύκολα και γρήγορα.
    
  - name: Bitcoin.de
    desc: Buy bitcoin online from other users with SEPA bank transfers.
@@ -61,6 +65,7 @@
    ar: yes
    desc_ar:  شراء بيتكوين عبر الانترنت من المستخدمين الآخرين بالتحويلات المصرفية SEPA.
    desc_fr: Achetez des bitcoins à d'autres utilisateurs en ligne par virements SEPA.
+   desc_el: Αγοράστε bitcoin διαδικτυακά από άλλους χρήστες με εμβάσματα SEPA.
    
  - name: Coinbase Exchange
    desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or ACH bank transfer.
@@ -74,6 +79,7 @@
    ar: yes
    desc_ar:  صرافة بيتكوين بالولايات المتحدة . التمويل عن طريق تحويل SEPA أو تحويل مصرفي بنظام المقاصة بين البنوك الأمريكية ACH
    desc_fr: Bourse d'échange de bitcoins basée aux États-Unis. Alimentez par virement SEPA ou ACH.
+   desc_el: Ανταλλακτήριο bitcoin με έδρα στις ΗΠΑ. Χρηματοδότηση με έμβασμα SEPA ή τραπεζική μεταφορά ACH.
 
  - name: Bitstamp
    desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
@@ -87,6 +93,7 @@
    ar: yes
    desc_ar:  شراء بيتكوين على Bitstamp عبر SEPA أو حوالة مصرفية. تختلف الرسوم.
    desc_fr: Achetez des bitcoins sur Bitstamp avec un virement bancaire ou SEPA. Commission variable.
+   desc_el: Αγοράστε bitcoin στο Bitstamp μέσω SEPA ή εμβάσματος. Κυμαινόμενο τέλος.
    
  - name: Kraken
    desc: Bitcoin exchange supporting SEPA deposits, bank wires, SWIFT, and JPY bank deposit. 
@@ -113,6 +120,7 @@
    ar: yes
    desc_ar:  شراء بيتكوين بسرعة بالإيداعات النقدية أو بتحويلات SEPA في الاتحاد الأوروبي. الرسوم 2٪.
    desc_fr: Achetez rapidement des bitcoins dans l'UE par dépôts d'espèces ou virements SEPA.
+   desc_el: Αγοράστε bitcoin γρήγορα με κατάθεση μετρητών ή εμβάσματα SEPA εντός ΕΕ. Τέλος 2%.
    
  - name: BitX
    desc: Bitcoin exchange and broker. Easy way to buy bitcoin in five supported countries. 
@@ -139,6 +147,7 @@
    ar: yes
    desc_ar:  صرافة Bitcoin الموجود بنيويورك. إيداع الأموال بتحويل ACH أو SWIFT.
    desc_fr: Bourse d'échange de Bitcoins basée à New York. Faites des dépôts par virement ACH ou SWIFT.
+   desc_el: Ανταλλακτήριο Βitcoin με έδρα τη Νέα Υόρκη. Κατάθεση χρημάτων με μεταφορά ACH ή SWIFT.
    
 ##### Canada ####################################################   
 
@@ -217,6 +226,7 @@
    ar: yes
    desc_ar:  شراء بيتكوين بواسطة SEPA، سويش Swish، حوالة بنكية دولية، وBankgiro، وأكثر من ذلك.
    desc_fr: Achetez des bitcoins par SEPA, Swish, virement bancaire international, Bankgiro, et bien plus.
+   desc_el: Αγοράστε bitcoin με SEPA, Swish, διεθνών εμβασμάτων, Bankgiro και άλλα.
    
  - name: Canadian Bitcoins
    desc: Buy bitcoin with cash in office, cash through express mail, online banking, & Interac Online.
@@ -569,6 +579,7 @@
    ar: yes
    desc_ar:  منصة بيتكوين. تدعم عددًا متزايدًا من بلدان أمريكا الجنوبية وأوروبا.
    desc_fr: Plateforme Bitcoin. Supporte un nombre croissant de pays en Amérique du Sud et en Europe.
+   desc_el: Πλατφόρμα bitcoin. Υποστηρίζεται όλο και μεγαλύτερος αριθμός χωρών της Νότιας Αμερικής και της Ευρώπης.
 
  - name: Mercado Bitcoin
    desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers. Fee varies.   
@@ -830,18 +841,21 @@
    url: https://matbea.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/matbea.png
    countries: ru
+   desc_el: Ρωσικό ανταλλακτήριο Bitcoin. Καταθέστε χρήματα μέσω τραπεζικής μεταφοράς ή κατάθεσης μετρητών.
    
  - name: ALFAcashier
    desc: Bitcoin exchange. Deposit funds via bank transfer, OKPay, and Perfect Money. 
    url: https://www.alfacashier.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/alfa.png
    countries: ru
+   desc_el: Ανταλλακτήριο bitcoin. Καταθέστε χρήματα μέσω τραπεζικής μεταφοράς, OKPay και Perfect Money.
    
  - name: Indacoin
    desc: Bitcoin broker. Buy with credit or debit card, QIWI Wallet, Yandex.Money.  
    url: https://indacoin.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/indacoin.png
    countries: ru
+   desc_el: Μεσίτης bitcoin. Αγοράστε με πιστωτική ή χρεωστική κάρτα, QIWI Wallet, Yandex.Money.
    
 ##### Ukraine ####################################################      
    
@@ -962,12 +976,15 @@
    url: http://coinatmradar.com/bitcoin_atm/527/bitcoin-atm-genesis-coin-acharnes-orizontes-bookstore/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/genesiscoin.png
    countries: gr
+   name_el: ATM στην Αθήνα
+   desc_el: Αγοράστε bitcoin από το Genesis Coin Bitcoin ATM στην Αθήνα, Ελλάδα.
    
  - name: Bitcoin ATM Athens
    desc: Buy bitcoin from the BTCPoint Bitcoin ATM in Athens, Greece.    
    url: http://coinatmradar.com/bitcoin_atm/618/bitcoin-atm-btcpoint-athens-hostel-of-erasmus-students/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btcpoint.png
-   countries: gr     
+   countries: gr  
+   desc_el: Αγοράστε bitcoin από το BTCPoint Bitcoin ATM στην Αθήνα, Ελλάδα.   
    
 ##### Croatia ####################################################      
 
@@ -1032,6 +1049,7 @@
    ar: yes
    desc_ar:  شراء كميات صغيرة من بيتكوين ببطاقة الخصم / الائتمان الفيزا أو الماستر كارد.
    desc_fr: Achetez de petites quantités de bitcoins avec une carte de crédit/débit Visa ou Mastercard.  
+   desc_el: Αγοράστε μικρό αριθμό bitcoin με χρεωστική/πιστωτική κάρτα Visa ή Mastercard.
      
  - name: CEX.io
    desc: Buy bitcoin via credit card, SEPA/ACH bank transfer, cash, or AstroPay. 
@@ -1045,6 +1063,7 @@
    ar: yes
    desc_ar:  شراء بيتكوين عبر بطاقة الائتمان SEPA أو التحويل المصرفي ACH أو نقدًا، أو AstroPay.
    desc_fr: Achetez des bitcoins par carte de crédit, virement bancaire SEPA/ACH, espèces ou AstroPay.
+   desc_el: Αγοράστε bitcoin με πιστωτική κάρτα, τραπεζική μεταφορά SEPA/ACH, μετρητά ή μέσω AstroPay.
    
  - name: LibertyX
    desc: Buy bitcoin with cash at a number of retail stores across the US.  
@@ -1081,6 +1100,7 @@
    ar: yes
    desc_ar:  شراء بيتكوين بالتحويل المصرفي SEPA ، ووبطاقات الائتمان، أو iDEAL.
    desc_fr: Achetez des bitcoins avec un virement bancaire SEPA, une carte de crédit ou iDEAL.
+   desc_el: Αγοράστε bitcoin με εμβάσματα SEPA, πιστωτική κάρτα ή iDEAL.
    
  - name: Coinimal
    desc: Buy bitcoin with SOFORT, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
@@ -1091,6 +1111,7 @@
    ar: yes
    desc_ar:  شراء بيتكوين بـ EPS وgiropay و NETELLER وSOFORT وSEPA و SEPA، والتحويل المصرفي عبر الإنترنت.
    desc_fr: Achetez des bitcoins avec SOFORT, NETELLER, giropay, eps, SEPA et virement bancaire en ligne.
+   desc_el: Αγοράστε bitcoin με SOFORT, NETELLER, giropay, eps, SEPA και διαδικτυακή τραπεζική μεταφορά.
    
  - name: Cubits
    desc: Buy bitcoin in a number of countries via SEPA, OKPAY, SOFORT and Skrill. 
@@ -1143,6 +1164,7 @@
    ar: yes
    desc_ar:  صرافة بيتكوين الموجدود بنيويورك . الإيداع بتحويل ACH، أو SEPA، أو التحويل البنكي الدولي.
    desc_fr: Faites des dépôts par virement ACH, SEPA ou international.
+   desc_el: Ανταλλακτήριο Βitcoin με έδρα τη Νέα Υόρκη. Κατάθεση με μεταφορά ACH, SEPA ή διεθνές τραπεζικό έμβασμα. 
    
  - name: expresscoin
    desc: Buy bitcoin with money orders or personal checks. Good for those without a bank account.
@@ -1165,6 +1187,7 @@
    ar: yes
    desc_ar:  الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.
    desc_fr: Achetez avec un virement SEPA ou virement bancaire en Suisse. Rapide et pratique.
+   desc_el: Αγοράστε με εμβάσματα SEPA ή τραπεζική μεταφορά στην Ελβετία. Γρήγορα και βολικά.
    
  - name: CryptoPay
    desc: Bitcoin broker. Buy bitcoin with SEPA or bank transfers in the UK. 
@@ -1175,6 +1198,7 @@
    ar: yes
    desc_ar:  وسيط بيتكوين. شراء بيتكوين بحوالة SEPA أو بحوالة بنكية في المملكة المتحدة.
    desc_fr: Courtier bitcoin. Achetez des bitcoins avec des virements SEPA ou bancaires dans le Royaume-Uni.
+   desc_el: Μεσίτης bitcoin. Αγοράστε bitcoin με SEPA ή τραπεζική μεταφορά στο ΗΒ.
    
  - name: Anycoin Direct
    desc: Bitcoin broker. Buy bitcoin with SEPA, INTERAC Online, and many more payment methods. 
@@ -1197,6 +1221,7 @@
    ar: yes
    desc_ar:  إيداع الأموال بحوالة مصرفية دولية وشراء بيتكوين في الصرافة.
    desc_fr: Déposez des fonds avec un virement bancaire et achetez des bitcoins sur la bourse d'échange.
+   desc_el: Καταθέστε χρήματα με διεθνές τραπεζικό έμβασμα και αγοράστε bitcoin στο ανταλλακτήριο.
 
  - name: Xapo
    desc: Global Bitcoin platform. Buy bitcoin with Euros via international wire transfer.
@@ -1209,6 +1234,7 @@
    ar: yes
    desc_ar:  منصة بيتكوين العالمية. شراء بيتكوين مع يورو عن طريق التحويل البنكي الدولي.
    desc_fr: Plateforme Bitcoin internationale. Achetez des bitcoins en Euro par virement international.
+   desc_el: Παγκόσμια πλατφόρμα Βitcoin. Αγοράστε bitcoin με ευρώ μέσω διεθνούς τραπεζικού εμβάσματος.
    
  - name: BTCe
    desc: Bitcoin exchange supporting bank wires, SEPA, credit cards, webmoney.ru and many other options. 
@@ -1222,6 +1248,7 @@
    ar: yes
    desc_ar:  صرافة بيتكوين الداعم للتحويلات المصرفية، وSEPA، وبطاقات الائتمان، و webmoney.ru والعديد من الخيارات الأخرى.
    desc_fr: Bourse d'échange de bitcoins acceptant virements bancaires, SEPA, cartes de crédits, et bien d'autres.
+   desc_el: Ανταλλακτήριο bitcoin που υποστηρίζει τραπεζικά εμβάσματα, SEPA, πιστωτικές κάρτες, webmoney.ru. 
    
  - name: HappyCoins
    desc: Bitcoin broker. Buy with SEPA bank transfer, iDEAL, and other payment methods.
@@ -1232,6 +1259,7 @@
    ar: yes
    desc_ar:  وسيط بيتكوين. الشراء بتحويل بنكي SEPA، و iDEAL، وغيرها من طرق الدفع الأخرى.
    desc_fr: Courtier bitcoin. Achetez avec virements SEPA, iDEAL, et autres moyens de paiement.
+   desc_fr: Μεσίτης bitcoin. Αγοράστε με έμβασμα SEPA, iDEAL και άλλες μεθόδους πληρωμής.
    
  - name: Paymium
    desc: Bitcoin exchange. Buy bitcoin with bank transfers in France. 
@@ -1241,6 +1269,7 @@
    ar: yes
    desc_ar:  صرافة بيتكوين. شراء بيتكوين بالتحويلات المصرفية في فرنسا. 
    desc_fr: Bourse d'échange de bitcoins. Acheter des bitcoins par virements bancaires en France.
+   desc_el: Ανταλλακτήριο bitcoin. Αγοράστε bitcoin με τραπεζική μεταφορά στη Γαλλία.
 
  - name: ShapeShift
    desc: Buy bitcoin with Litecoin, Dogecoin, altcoins and other digital tokens.

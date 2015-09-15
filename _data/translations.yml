@@ -365,4 +365,32 @@ nl:
   paymentmethods_url: /en/payment-methods/
   about: A propos
   about_url: /en/about/
-  change_lang: Language               
+  change_lang: Language  
+  
+##################### Greek #####################
+el:
+  buy: Αγοράστε Bitcoin
+  atms: ATM
+  exchanges: Ανταλλακτήρια
+  namerica: Βόρεια Αμερική
+  samerica: Νότια Αμερική
+  asia: Ασία
+  europe: Ευρώπη
+  site_title: Buy Bitcoin Worldwide
+  sitedesc:  Αγοράστε Bitcoin από οπουδήποτε στην κόσμο. Επιλέξτε απλά τη χώρα. 
+  contribute: Συνεισφορά
+  get_wallet: Αποκτήστε πορτοφόλι Bitcoin
+  short_lang: nl
+  language: Ελληνικά
+  home_url: /el/
+  find_country: Εύρεση χώρας
+  by_jordan: Site by Jordan Tuwiner
+  disclaimer: Αποποίηση ευθύνης
+  disclaimer_url: /en/disclaimer/
+  contact: Επικοινωνία
+  contact_url: /en/contact/
+  paymentmethods: Μέθοδοι πληρωμής
+  paymentmethods_url: /el/Μέθοδοι-πληρωμής/
+  about: Σχετικά
+  about_url: /en/about/
+  change_lang: Γλώσσα               
