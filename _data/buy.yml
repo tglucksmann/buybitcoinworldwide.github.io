@@ -122,6 +122,8 @@
    desc_ar:  صرافة بيتكوين التي تدعم ودائع SEPA والتحويلات البنكية، والحوالات البنكية السريعة SWIFT، والإيداع المصرفي بالين الياباني JPY.
    desc_fr: Bourse d'échange de bitcoins acceptant dépôts SEPA, virements bancaires, SWIFT et dépôts bancaires JPY.
    desc_nl: Bitcoin exchange die SEPA storting, bankoverschrijvingen, SWIFT. 
+   desc_it: Società di cambio di Bitcoin che supporta depositi SEPA, bonifici bancari, SWIFT e depositi bancari JPY.
+   desc_el: Ανταλλακτήριο bitcoin που υποστηρίζει καταθέσεις SEPA, εμβάσματα, SWIFT και τραπεζικές καταθέσεις JPY.
  
  - name: BitQuick
    desc: Buy bitcoin quickly with cash deposits or SEPA transfers in the EU. 2% fee.
@@ -496,6 +498,8 @@
    desc_ar:  صرافة بيتكوين ووسطاؤه. الإيداع عن طريق التحويل المصرفي، أو SEPA، وغير ذلك الكثير.
    desc_fr: Bourse d'échange et courtier bitcoin. Faites des dépôts par virement bancaire, SEPA, et plus encore.
    desc_nl: Bitcoin exchange en dealer. Stort via bankoverschrijving, SEPA en meer.
+   desc_it: Società di cambio e broker di Bitcoin. Deposita tramite bonifico bancario, SEPA e altro.
+   desc_el: Ανταλλακτήριο bitcoin και μεσίτης. Καταθέσεις μέσω τραπεζικής μεταφοράς, SEPA και άλλα.
    
  - name: BitBargain
    desc: P2P marketplace for buying and selling bitcoin. Multiple payment methods available.
@@ -1000,6 +1004,7 @@
    countries: gr
    name_el: ATM στην Αχαρνές
    desc_el: Αγοράστε bitcoin από το Genesis Coin Bitcoin ATM στις Αχαρνές, Ελλάδα.
+   desc_it: Acquista Bitcoin da Genesis Coin Bitcoin ATM ad Acharnes, Grecia.
    
  - name: Bitcoin ATM Athens
    desc: Buy bitcoin from the BTCPoint Bitcoin ATM in Athens, Greece.    
@@ -1007,7 +1012,9 @@
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btcpoint.png
    countries: gr  
    name_el: ATM στην Αθήνα
-   desc_el: Αγοράστε bitcoin από το BTCPoint Bitcoin ATM στην Αθήνα, Ελλάδα.   
+   desc_el: Αγοράστε bitcoin από το BTCPoint Bitcoin ATM στην Αθήνα, Ελλάδα.  
+   name_it: Bitcoin ATM Atene
+   desc_it: Acquista Bitcoin dal BTCPoint Bitcoin ATM ad Atene, Grecia. 
    
 ##### Croatia ####################################################      
 
@@ -1159,6 +1166,8 @@
    desc_ar:  شراء بيتكوين في عدد من البلدان عبر SEPA وOKPAY وSOFORT وسكريل Skrill.
    desc_fr: Achetez des bitcoins dans un grand nombre de pays par SEPA, OKPAY, SOFORT et Skrill.
    desc_nl: Koop bitcoin in diverse landen via SEPA, OKPAY, SOFORT en Skrill.
+   desc_it: Acquista Bitcoin in vari paesi tramite SEPA, OKPAY, SOFORT e Skrill.
+   desc_el: Αγοράστε bitcoin σε πλήθος χωρών μέσω SEPA, OKPAY, SOFORT και  Skrill.
 
  - name: Trucoin
    desc: Buy bitcoin with a credit card instantly in over 30 US states.
@@ -1251,6 +1260,8 @@
    desc_ar:  وسيط بيتكوين . شراء بيتكوين بـSEPA وINTERAC Online والعديد من وسائل الدفع الأخرى.
    desc_fr: Achetez avec virements SEPA, INTERAC En Ligne et beaucoup d'autres options de paiement.
    desc_nl: Bitcoin dealer. Koop bitcoin met SEPA, INTERAC Online en vele andere betaalmethodes.
+   desc_it: Acquista Bitcoin tramite SEPA, INTERAC Online e molte altre modalità di pagamento.
+   desc_el: Μεσίτης bitcoin. Αγοράστε bitcoin με SEPA, INTERAC Online και άλλες πολλές μεθόδους πληρωμής.
    
  - name: Bitfinex
    desc: Deposit funds with an international wire transfer and buy bitcoin on the exchange.
@@ -1310,6 +1321,7 @@
    desc_fr: Μεσίτης bitcoin. Αγοράστε με έμβασμα SEPA, iDEAL και άλλες μεθόδους πληρωμής.
    desc_nl: Bitcoin dealer. Koop met SEPA bankoverschrijving, iDEAL en andere betalingsmethodes. 
    desc_it: Broker di Bitcoin. Acquista tramite bonifico bancario SEPA, iDEAL e altre modalità di pagamento.
+   desc_el: Μεσίτης bitcoin. Αγοράστε με έμβασμα SEPA, iDEAL και άλλες μεθόδους πληρωμής.
    
  - name: Paymium
    desc: Bitcoin exchange. Buy bitcoin with bank transfers in France. 
@@ -1338,6 +1350,8 @@
    desc_ar:  شراء بيتكوين بـ Litecoin وDogecoin وكذلك ببطاقات الشراء الرقمية الأخرى.
    desc_fr: Achetez des bitcoins avec Litecoin, Dogecoin, altcoins et autres jetons numériques.
    desc_nl: Koop bitcoin met Litecoin, Dogecoin, altcoins en andere digitale betaalmiddelen.
+   desc_it: Acquista Bitcoin tramite Litecoin, Dogecoin, altcoins e altri token digitali.
+   desc_el: Αγοράστε bitcoin με Litecoin, Dogecoin, altcoins και άλλα ψηφιακά νομίσματα.
 
  - name: Mycelium Local Trader
    desc: Buy from local traders through Mycelium Bitcoin wallet. Availability depends on location.
@@ -1355,6 +1369,8 @@
    name_fr: Mycelium
    desc_fr: Achetez à des vendeurs locaux avec le portefeuille Bitcoin Mycelium.
    desc_nl: Koop van lokale dealers via de Mycelium Bitcoin portomonee. 
+   desc_it: Acquista da trader locali attraverso il portafoglio di Bitcoin Mycelium. La disponibilità dipende dal luogo.
+   desc_el: Αγοράστε από τοπικούς εμπόρους με το πορτοφόλι bitcoin Mycelium. Η διαθεσιμότητα εξαρτάται από την τοποθεσία.
    
  - name: bitcoin-otc
    desc: Over-the-counter marketplace for P2P exchanging of bitcoin.
@@ -1370,7 +1386,9 @@
    ar: yes
    desc_ar:  أسواق البيع المباشر لصرافة بيتكوين P2P.
    desc_fr: Place libre pour l'échange de bitcoins par P2P. Disponibilité suivant emplacement. 
-   desc_nl: Over-de-toonbank marktplaats voor P2P uitwisseling van bitcoin.  
+   desc_nl: Over-de-toonbank marktplaats voor P2P uitwisseling van bitcoin. 
+   desc_el: Εξωχρηµατιστηριακή αγορά για P2P ανταλλαγή bitcoin. Η διαθεσιμότητα εξαρτάται από την τοποθεσία.
+   desc_it: Mercato non quotato per lo scambio P2P di Bitcoin. La disponibilità dipende dal luogo.
    
 #####: All countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye
    
