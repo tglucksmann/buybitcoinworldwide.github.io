@@ -1,0 +1,16 @@
+---
+title: Acquista Bitcoin in Svizzera
+seotitle: Acquista Bitcoin in Svizzera | Società di cambio, broker e ATM
+permalink: /it/svizzera/
+layout: country
+lang: it
+country: ch
+desc: Impara dove e come acquistare Bitcoin in Svizzera. Directory completa delle società di cambio, broker e ATM che accettano varie modalità di pagamento.  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'ch' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}
