@@ -2,7 +2,7 @@
 
  - name: Coinbase
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 
-   url: http://buybitcoinww.co/buycoinbase
+   url: http://buybitcoinww.co/coinbase_bitcoin
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/coinbase.png
    countries: gr, at, ro, be, hu, sg, bg, ie, sk, ca, it, es, hr, lv, se, cy, mt, ch, cz, nl, gb, dk, nor, us, fi, pl, fr, pt, pr
    po: sepa, usbt, fast, io
