@@ -120,6 +120,10 @@
    country_it: Stati Uniti d'America
    url_it: yes
    url_it_c: stati-uniti-damerica
+   pt_br: yes
+   country_pt_br: Estados Unidos
+   url_pt_br: yes
+   url_pt_br_c: estados-unidos
    
    
  - country: St. Vincent and the Grenadines

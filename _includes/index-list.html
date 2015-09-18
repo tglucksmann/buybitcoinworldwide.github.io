@@ -15,9 +15,8 @@
 	  	<a href="/{{ page.lang }}/{{ country.country_ar }}/" class="black-link">
 	  	{% elsif page.lang == 'el' and country.url_el == true %}
 	  	<a href="/{{ page.lang }}/{{ country.url_el_c }}/" class="black-link">
-	  	{% elsif page.lang == 'el'  %}
-	  	{% elsif page.lang == 'pt-br' and country.url_pt_br == true %}
-	  	<a href="/{{ page.lang }}/{{ country.url_pt_br_c }}/" class="black-link">
+	  	{% elsif page.lang == 'pt'  %}
+	  	<a href="/pt-br/{{ country.url_pt_br_c }}/" class="black-link">
 	  	{% elsif page.lang == 'it'  %}
 	  	<a href="/{{ page.lang }}/{{ country.url_it_c }}/" class="black-link">
 	  	{% else %}
@@ -34,7 +33,7 @@
 		  	<div class="country-name">{{ country.country_ru }}</div>
 		  	{% elsif page.lang == 'uk'  %}
 		  	<div class="country-name">{{ country.country_uk }}</div>
-		  	{% elsif page.lang == 'pt-br'  %}
+		  	{% elsif page.lang == 'pt'  %}
 		  	<div class="country-name">{{ country.country_pt_br }}</div>
 		  	{% elsif page.lang == 'he'  %}
 		  	<div class="country-name">{{ country.country_he }}</div>

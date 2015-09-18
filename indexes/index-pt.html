@@ -1,9 +1,9 @@
 ---
 hide_sidebar: true
 lang: pt
-title: Comprar Bitcoin en cualquier lugar - Buy Bitcoin Worldwide
-seotitle: Comprar Bitcoin en cualquier lugar - Buy Bitcoin Worldwide
-desc: Comprar Bitcoin en cualquier lugar del mundo. Simplemente seleccione un país. 
+title: Compre Bitcoins ao redor do mundo - Buy Bitcoin Worldwide
+seotitle: Compre Bitcoins ao redor do mundo - Buy Bitcoin Worldwide
+desc: Buy Bitcoin Worldwide ajuda você a comprar Bitcoins em todo o mundo através do método de pagamento desejado.  
 permalink: /pt-br/
 layout: default
 ---
@@ -14,7 +14,8 @@ layout: default
 
 <ul class="index-continent-menu">
 <li><a class="btn btn-sm btn-primary" href="#eu">{{ lang.europe }}</a></li> 
-<li><a class="btn btn-sm btn-primary" href="#sa">{{ lang.samerica }}</a></li> 
+<li><a class="btn btn-sm btn-primary" href="#sa">{{ lang.samerica }}</a></li>
+<li><a class="btn btn-sm btn-primary" href="#na">{{ lang.namerica }}</a></li> 
 <li><a class="btn btn-sm btn-primary" href="#as">{{ lang.asia }}</a></li>
 <li><a class="btn btn-sm btn-primary" href="#af">{{ lang.africa }}</a></li>
 </ul>
@@ -37,6 +38,18 @@ layout: default
 <div class="row">
 {% for country in site.data.countries %}
 {% if country.sa == true and country.pt_br == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+<hr>
+
+<h2 class="home-header"><a href="#na" id="na">Compre Bitcoins na América do Norte</a></h2>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.na == true and country.pt_br == true %}
 {% include index-list.html %}
 {% endif %}
 {% endfor %}

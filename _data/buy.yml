@@ -149,7 +149,7 @@
    desc_el: Αγοράστε bitcoin γρήγορα με κατάθεση μετρητών ή εμβάσματα SEPA εντός ΕΕ. Τέλος 2%.
    desc_nl: Koop bitcoin snel met contant geld of SEPA overschrijvingen in de EU. 2% toeslag.
    desc_it: Acquista rapidamente Bitcoin con depositi in contanti o trasferimenti SEPA nell’UE.
-   desc_pt_br: Compre Bitcoins rapidamente através de depósitos em dinheiro ou transferências bancárias SEPA dentro da União Europeia. Taxa de 2%. 
+   desc_pt_br: Compre Bitcoins através de depósito em dinheiro ou transferência bancária SEPA na União Europeia. 
    
  - name: BitX
    desc: Bitcoin exchange and broker. Easy way to buy bitcoin in five supported countries. 
@@ -262,7 +262,7 @@
    desc_el: Αγοράστε bitcoin με SEPA, Swish, διεθνών εμβασμάτων, Bankgiro και άλλα.
    desc_nl: Koop Bitcoin met SEPA, Swish, internationale bankoverschrijving, Bankgiro en meer.
    desc_it: Acquista Bitcoin tramite SEPA, Swish, Bonifici bancari internazionali, Bankgiro, e altro.
-   desc_pt_br: Compre Bitcons via SEPA, Swish, transferências bancárias internacionais, pagamentos Bankgiro e muito mais.
+   desc_pt_br: Compre Bitcons via SEPA, Swish, transferência bancária internacional, pagamentos Bankgiro e etc.
    
  - name: Canadian Bitcoins
    desc: Buy bitcoin with cash in office, cash through express mail, online banking, & Interac Online.
@@ -514,6 +514,7 @@
    desc_nl: Bitcoin exchange en dealer. Stort via bankoverschrijving, SEPA en meer.
    desc_it: Società di cambio e broker di Bitcoin. Deposita tramite bonifico bancario, SEPA e altro.
    desc_el: Ανταλλακτήριο bitcoin και μεσίτης. Καταθέσεις μέσω τραπεζικής μεταφοράς, SEPA και άλλα.
+   desc_pt_br: Casas de câmbio e negociantes de Bitcoins. Deposite via transferência bancária, SEPA e outros métodos.
    
  - name: BitBargain
    desc: P2P marketplace for buying and selling bitcoin. Multiple payment methods available.
@@ -875,7 +876,7 @@
    es: yes
    name_es: BTCmb
    desc_es: Comprar bitcoin a través de depósito en efectivo o con transferencias bancarias.
-   desc_pt_br: Casa de câmbio de moeda virtual de Bitcoin. Compre Bitcoins por transferência bancária ou depósito em dinheiro. 
+   desc_pt_br: Casa de câmbio de moeda virtual Bitcoin. Compre por transferência bancária ou depósito em dinheiro. 
 
  - name: Bitcoin ATM Lisbon
    desc: Buy bitcoin at the Bitcoin Ja ATM in Lisbon, Portugal. 3% fee.  
@@ -1215,7 +1216,7 @@
    ar: yes
    desc_ar:  شراء بيتكوين ببطاقة الائتمان على الفور في أكثر من 30 ولاية أمريكية.
    desc_fr: Achetez instantanément des bitcoins par carte de crédit dans plus de 30 états des États-Unis.
-   desc_pt_br: Compre Bitcoins instantaneamente usando seu cartão de crédito em mais de 30 estados norte-americanos.
+   desc_pt_br: Compre Bitcoins usando seu cartão de crédito em mais de 30 estados norte-americanos.
    
  - name: Wall of Coins
    desc: Buy bitcoin via cash deposit at a number of US banks nationwide. 
@@ -1246,7 +1247,7 @@
    desc_el: Ανταλλακτήριο Βitcoin με έδρα τη Νέα Υόρκη. Κατάθεση με μεταφορά ACH, SEPA ή διεθνές τραπεζικό έμβασμα.
    desc_nl: Bitcoin uitwisseling in New York. Stort met ACH, SEPA, of internationale overschrijving. 
    desc_it: Cambio di Bitcoin. Deposita con trasferimento ACH, SEPA o bonifico bancario internazionale.
-   desc_pt_br: Conversão de Bitcoins. Depósito por transferências ACH, SEPA ou transferências bancárias internacionais.
+   desc_pt_br: Conversão de BTC. Depósito por transferências ACH, SEPA ou transferências bancárias internacionais.
    
  - name: expresscoin
    desc: Buy bitcoin with money orders or personal checks. Good for those without a bank account.
@@ -1288,7 +1289,7 @@
    desc_el: Μεσίτης bitcoin. Αγοράστε bitcoin με SEPA ή τραπεζική μεταφορά στο ΗΒ.
    desc_nl: Bitcoin dealer. Koop bitcoin met SEPA of bankoverschrijvingen in Engeland. 
    desc_it: Broker di Bitcoin. Acquista Bitcoin tramite SEPA o bonifici bancari nel Regno Unito.
-   desc_pt_br: Casa de câmbio de moeda virtual de Bitcoin. Compre Bitcoins no Reino Unido através de transferência bancária ou SEPA.
+   desc_pt_br: Casa de câmbio de moeda Bitcoin. Compre Bitcoins no Reino Unido via transferência bancária ou SEPA.
    
  - name: Anycoin Direct
    desc: Bitcoin broker. Buy bitcoin with SEPA, INTERAC Online, and many more payment methods. 
@@ -1302,7 +1303,7 @@
    desc_nl: Bitcoin dealer. Koop bitcoin met SEPA, INTERAC Online en vele andere betaalmethodes.
    desc_it: Acquista Bitcoin tramite SEPA, INTERAC Online e molte altre modalità di pagamento.
    desc_el: Μεσίτης bitcoin. Αγοράστε bitcoin με SEPA, INTERAC Online και άλλες πολλές μεθόδους πληρωμής.
-   desc_pt_br: Casa de câmbio de moeda virtual Bitcoin. Compre Bitcoins através de transferências SEPA, INTERAC e muitas outras formas de pagamento. 
+   desc_pt_br: Casa de câmbio de moeda Bitcoin. Compre Bitcoins via transferência SEPA, INTERAC e outras formas.
    
  - name: Bitfinex
    desc: Deposit funds with an international wire transfer and buy bitcoin on the exchange.
@@ -1318,7 +1319,7 @@
    desc_el: Καταθέστε χρήματα με διεθνές τραπεζικό έμβασμα και αγοράστε bitcoin στο ανταλλακτήριο.
    desc_nl: Stort geld via een internationale overschrijving en koop bitcoin op de exchange.
    desc_it: Deposita fondi con un bonifico bancario internazionale e acquista Bitcoin su cambiavalute.
-   desc_pt_br: Deposite fundos por transferência bancária internacional e compre Bitcoins através da bolsa de valores. 
+   desc_pt_br: Deposite fundos por transferência bancária internacional e compre BTC via bolsa de valores. 
 
  - name: Xapo
    desc: Global Bitcoin platform. Buy bitcoin with Euros via international wire transfer.
@@ -1365,7 +1366,7 @@
    desc_nl: Bitcoin dealer. Koop met SEPA bankoverschrijving, iDEAL en andere betalingsmethodes. 
    desc_it: Broker di Bitcoin. Acquista tramite bonifico bancario SEPA, iDEAL e altre modalità di pagamento.
    desc_el: Μεσίτης bitcoin. Αγοράστε με έμβασμα SEPA, iDEAL και άλλες μεθόδους πληρωμής.
-   desc_pt_br: Casas de câmbio de moeda virtual Bitcoin. Compre através de transferência bancária SEPA, iDEAL e outras formas de pagamento.
+   desc_pt_br: Casas de câmbio de moeda Bitcoin. Compre por transferência bancária SEPA, iDEAL e outras formas.
    
  - name: Paymium
    desc: Bitcoin exchange. Buy bitcoin with bank transfers in France. 
