@@ -68,9 +68,9 @@ es:
   
 ##################### Portuguese #####################
 pt-br:   
-  buy: Buy Bitcoin
+  buy: Compre Bitcoins
   atms: ATMs
-  exchanges: Exchanges
+  exchanges: Casas de câmbio
   namerica: América do Norte
   samerica: América do Sul
   asia: Ásia
@@ -79,24 +79,22 @@ pt-br:
   africa: África
   meast: Oriente Médio
   europe: Europa
-  in: in
-  the: the
   site_title: Buy Bitcoin Worldwide
-  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
-  contribute: Contribute
-  get_wallet: Get Bitcoin Wallet
+  sitedesc: Compre Bitcoins ao redor do mundo. Basta selecionar um país.
+  contribute: Contribuir
+  get_wallet: Adquira uma carteira de Bitcoins
   short_lang: en
   language: Português
-  home_url: /
-  find_country: Find Country
-  by_jordan: Site by Jordan Tuwiner
+  home_url: /pt-br/
+  find_country: Selecionar país
+  by_jordan: Site por Jordan Tuwiner
   disclaimer: Disclaimer
   disclaimer_url: /en/disclaimer/
-  contact: Contact
+  contact: Contato
   contact_url: /en/contact/
-  paymentmethods: Payment Methods
+  paymentmethods: Formas de Pagamento
   paymentmethods_url: /en/payment-methods/
-  about: About
+  about: Sobre
   about_url: /en/about/
   change_lang: Language
  
