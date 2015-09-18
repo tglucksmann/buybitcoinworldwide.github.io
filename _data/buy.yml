@@ -1318,7 +1318,6 @@
    ar: yes
    desc_ar:  وسيط بيتكوين. الشراء بتحويل بنكي SEPA، و iDEAL، وغيرها من طرق الدفع الأخرى.
    desc_fr: Courtier bitcoin. Achetez avec virements SEPA, iDEAL, et autres moyens de paiement.
-   desc_fr: Μεσίτης bitcoin. Αγοράστε με έμβασμα SEPA, iDEAL και άλλες μεθόδους πληρωμής.
    desc_nl: Bitcoin dealer. Koop met SEPA bankoverschrijving, iDEAL en andere betalingsmethodes. 
    desc_it: Broker di Bitcoin. Acquista tramite bonifico bancario SEPA, iDEAL e altre modalità di pagamento.
    desc_el: Μεσίτης bitcoin. Αγοράστε με έμβασμα SEPA, iDEAL και άλλες μεθόδους πληρωμής.
