@@ -98,7 +98,7 @@
    desc_el: Ανταλλακτήριο bitcoin με έδρα στις ΗΠΑ. Χρηματοδότηση με έμβασμα SEPA ή τραπεζική μεταφορά ACH.
    desc_nl: Bitcoin uitwisseling in Amerika. Betaal met SEPA overschrijving of ACH overschrijving.
    desc_it: Società di cambio di Bitcoin con sede negli Stati Uniti d’America. Deposita con bancario ACH.
-   desc_pt_br: Conversão de Bitcoins baseada no Dólar americano. Depositar fundos por transferência bancária SEPA ou ACH.
+   desc_pt_br: Conversão de Bitcoins. Depositar fundos por transferência bancária SEPA ou ACH.
 
  - name: Bitstamp
    desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
@@ -179,7 +179,7 @@
    desc_el: Ανταλλακτήριο Βitcoin με έδρα τη Νέα Υόρκη. Κατάθεση χρημάτων με μεταφορά ACH ή SWIFT.
    desc_nl: Bitcoin uitwisseling in New York. Stort geld met ACH overschrijving of SWIFT.
    desc_it: Società di cambio di Bitcoin con sede a New York. Deposita Denaro con trasferimento ACH o SWIFT.
-   desc_pt_br: Conversão de Bitcoins em Nova Iorque. Deposite valores em dinheiro através de transferências ACH ou SWIFT.
+   desc_pt_br: Conversão de Bitcoins. Deposite valores em dinheiro através de transferências ACH ou SWIFT.
    
 ##### Canada ####################################################   
 
@@ -1260,7 +1260,7 @@
    desc_ar:  شراء بيتكوين بالحوالات أو الشيكات الشخصية. جيد للذين لا يملكون حسابا مصرفيا. 
    desc_fr: Acheter des bitcoins par mandats ou chèques personnels. 
    desc_it: Acquista Bitcoin con vaglia postali o assegni. Ottimo per coloro che non hanno un conto bancario.
-   desc_pt_br: Compre Bitcoins através de ordens de pagamento ou cheque pessoal. Perfeito para quem não dispõe de uma conta bancária. 
+   desc_pt_br: Compre Bitcoins através de ordens de pagamento ou cheque pessoal. 
    
  - name: Fastcoin.ch
    desc: Buy with SEPA transfer or bank transfer in Switzerland.  Fast and convenient. 
