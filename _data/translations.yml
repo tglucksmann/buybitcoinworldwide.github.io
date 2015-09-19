@@ -163,43 +163,41 @@ ar:
   
 ##################### Russian #####################
 ru:
-  buy: Buy Bitcoin
-  atms: ATMs
-  exchanges: Exchanges
+  buy: Купить Bitcoin
+  atms: Банкоматы
+  exchanges: Биржи
   namerica: Северная Америка
   samerica: Южная Америка
   asia: Азия
   camerica: Центральная Америка
   oceania: Океания
   africa: Африка
-  meast: Средний Восток    
+  meast: Ближний Восток    
   europe: Европа
-  in: in
-  the: the
   site_title: Buy Bitcoin Worldwide
-  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
-  contribute: Contribute
-  get_wallet: Get Bitcoin Wallet
+  sitedesc: Купить Bitcoin в любой точке мира. Просто выберите страну.
+  contribute: Сделать вклад
+  get_wallet: Получить Bitcoin-кошелек
   short_lang: ru
   language: Русский
-  home_url: /
-  find_country: Find Country
+  home_url: /ru/
+  find_country: Найти страну
   by_jordan: Site by Jordan Tuwiner
-  disclaimer: Disclaimer
+  disclaimer: Отказ от ответственности
   disclaimer_url: /en/disclaimer/
-  contact: Contact
+  contact: Обратная связь
   contact_url: /en/contact/
-  paymentmethods: Payment Methods
+  paymentmethods: Способи оплаты
   paymentmethods_url: /en/payment-methods/
-  about: About
+  about: О нас
   about_url: /en/about/
   change_lang: Language 
   
 ##################### Ukrainian #####################
 uk:
-  buy: Buy Bitcoin
-  atms: ATMs
-  exchanges: Exchanges
+  buy: Купити Bitcoin
+  atms: Банкомати
+  exchanges: Біржи
   namerica: Північна Америка
   samerica: Південна Америка
   asia: Азія
@@ -208,24 +206,22 @@ uk:
   africa: Африка
   meast: Середній Схід
   europe: Європа
-  in: in
-  the: the
   site_title: Buy Bitcoin Worldwide
-  sitedesc: Buy Bitcoin anywhere in the world. Simply select a country.
-  contribute: Contribute
-  get_wallet: Get Bitcoin Wallet
+  sitedesc: Купити Bitcoin в будь-якій точці світу. Просто виберіть країну.
+  contribute: Зробити внесок
+  get_wallet: Отримати Bitcoin-гаманець
   short_lang: uk
   language: Українська
   home_url: /uk/
-  find_country: Find Country
+  find_country: Знайти країну
   by_jordan: Site by Jordan Tuwiner
-  disclaimer: Disclaimer
+  disclaimer: Відмова від відповідальності
   disclaimer_url: /en/disclaimer/
-  contact: Contact
+  contact: Зворотній зв'язок
   contact_url: /en/contact/
-  paymentmethods: Payment Methods
+  paymentmethods: Способи сплати
   paymentmethods_url: /en/payment-methods/
-  about: About
+  about: Про компанію
   about_url: /en/about/
   change_lang: Language 
   
