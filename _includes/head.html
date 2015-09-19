@@ -16,4 +16,10 @@
 	{% if page.country != null  %}
 	{% include hreflang.html %}
 	{% endif %}
+	<style type="text/css">
+	    {% capture include_to_scssify %}
+	    {% include inlinecss.scss %}
+	    {% endcapture %}
+	    {{ include_to_scssify | scssify }}
+    </style>
 </head>
