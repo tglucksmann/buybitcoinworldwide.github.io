@@ -221,14 +221,13 @@
    desc_ar:  شراء كميات صغيرة من بيتكوين في دقائق (حتى 0.2 بيتكوين) بنظام الدفع والسحب الإلكتروني الكندي INTERAC وذلك أون لاين.
    desc_fr: Achetez en quelques minutes des petites quantités de bitcoins (jusqu'à 0.2 BTC) avec INTERAC En Ligne.
    
- - name: ANXBTC
+ - name: ANXPRO
    desc: Buy bitcoin with cash deposit, bank transfer, SEPA, and more.
-   url: https://anxbtc.com
+   url: https://anxpro.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/anxbtc.png
    countries: ca
-   po: sepa, cdca
+   po: sepa
    es: yes
-   name_es: ANXBTC
    desc_es: Comprar Bitcoin con un depósito de efectivo, transferencia bancaria, SEPA y más.
    ar: yes
    desc_ar:  شراء بيتكوين بالإيداع النقدي، أو بحوالة مصرفية، أو SEPA، وغير ذلك من الطرق الكثيرة.
@@ -745,6 +744,13 @@
    url: https://www.btctrade.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btctrade.png
    countries: cn, hk 
+   
+ - name: Gatecoin
+   desc: Bitcoin exchange in Hong Kong. Deposit with SEPA transfer, SWIFT, and OKPAY.  
+   url: https://gatecoin.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/gatecoin.png
+   countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
+   po: sepa
    
 ##### Vietnam #################################################### 
    
