@@ -1022,6 +1022,10 @@
    short: la
    as: yes
 
+ - country: Macau
+   short: mo
+   as: yes
+
  - country: Malaysia
    short: my
    as: yes

@@ -369,6 +369,9 @@ kh:
 
 cn:
   short: cn
+
+mo:
+  short: mo  
   
 hk:
   short: hk    
