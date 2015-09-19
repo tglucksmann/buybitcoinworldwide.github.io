@@ -1,4 +1,4 @@
-# Need to add: LakeBtc, https://bitonic.nl/faq#ideal, https://www.snapcard.io/buy-bitcoin, https://bit4coin.net/en
+# Need to add: https://bitonic.nl/faq#ideal, https://www.snapcard.io/buy-bitcoin, https://bit4coin.net/en
 
  - name: Coinbase
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 
@@ -734,10 +734,11 @@
    countries: cn, hk
    
  - name: LakeBTC
-   desc: Bitcoin exchange in China. Fee varies. Deposit via bank transfer.  
+   desc: Bitcoin exchange in China. Deposit via bank transfer or SEPA.  
    url: https://www.btcchina.com/
-   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/btcchina.png
-   countries: cn, hk
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/lakebtc.png
+   countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
+   po: sepa, ripple, egopay
    
  - name: BtcTrade
    desc: Bitcoin exchange in China. Fee varies. Trade in USD and CNY. 
@@ -750,7 +751,13 @@
    url: https://gatecoin.com/
    icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/gatecoin.png
    countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
-   po: sepa
+   po: sepa 
+   
+ - name: Yunbi
+   desc: Small Bitcoin exchange in China. Fee varies. Trade in CNY. 
+   url: https://yunbi.com/
+   icon: https://raw.githubusercontent.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/master/img/buy/yunbi.png
+   countries: cn, hk    
    
 ##### Vietnam #################################################### 
    
