@@ -1,5 +1,3 @@
-# Need to add: https://bitonic.nl/faq#ideal, https://www.snapcard.io/buy-bitcoin, https://bit4coin.net/en
-
  - name: Coinbase
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 
    url: http://buybitcoinww.co/coinbase_bitcoin
@@ -1163,7 +1161,7 @@
    url: https://www.snapcard.io/buy-bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/snapcard.png
    countries: us
-   po: btus
+   po: usbt
    desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable.
    desc_fr: Achetez des bitcoins avec votre compte en banque. Rapide et facile.
    desc_el: Αγοράστε bitcoin με τον τραπεζικό σας λογαριασμό. Εύκολα και γρήγορα.
