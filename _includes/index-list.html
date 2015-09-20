@@ -19,6 +19,10 @@
 	  	<a href="/{{ page.lang }}/{{ country.country_el }}/" class="black-link">
 	  	{% elsif page.lang == 'pt'  %}
 	  	<a href="/pt-br/{{ country.url_pt_br_c }}/" class="black-link">
+	  	{% elsif page.lang == 'de' and country.url_de == true %}
+	  	<a href="/{{ page.lang }}/{{ country.url_de_c }}/" class="black-link">
+	  	{% elsif page.lang == 'de'  %}
+	  	<a href="/{{ page.lang }}/{{ country.country_de }}/" class="black-link">
 	  	{% elsif page.lang == 'it'  %}
 	  	<a href="/{{ page.lang }}/{{ country.url_it_c }}/" class="black-link">
 	  	{% else %}

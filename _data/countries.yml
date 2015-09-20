@@ -110,6 +110,9 @@
    fr: yes
    country_fr: États-Unis
    de: yes
+   country_de: Vereinigte Staaten
+   url_de: yes
+   url_de_c: Vereinigte-Staaten
    nl: yes
    country_nl: Verenigde Staten
    el: yes
@@ -124,6 +127,7 @@
    country_pt_br: Estados Unidos
    url_pt_br: yes
    url_pt_br_c: estados-unidos
+   
    
    
  - country: St. Vincent and the Grenadines
@@ -163,6 +167,7 @@
    es: yes
    country_es: Austria
    de: yes
+   country_de: Österreich
 
  - country: Azerbaijan
    short: az
@@ -194,6 +199,7 @@
    fr: yes
    country_fr: Belgique
    de: yes
+   country_de: Belgien
    it: yes
    country_it: Belgio
    url_it: yes
@@ -241,6 +247,7 @@
    uk: yes
    country_uk: Чехія
    de: yes
+   country_de: Tschechien
 
  - country: Denmark
    short: dk
@@ -248,6 +255,7 @@
    es: yes
    country_es: Dinamarca
    de: yes
+   country_de: Dänemark
 
  - country: Estonia
    short: ee
@@ -286,6 +294,7 @@
    fr: yes
    country_fr: France
    de: yes
+   country_de: Frankreich
    it: yes
    country_it: Francia
    url_it: yes
@@ -316,6 +325,7 @@
    nl: yes
    country_nl: Duitsland
    de: yes
+   country_de: Deutschland
    it: yes
    country_it: Germania
    url_it: yes
@@ -344,6 +354,7 @@
    uk: yes
    country_uk: Угорщина
    de: yes
+   country_de: Ungarn
 
  - country: Iceland
    short: is
@@ -366,6 +377,7 @@
    fr: yes
    country_fr: Italie
    de: yes
+   country_de: Italien
    it: yes
    country_it: Italia
    url_it: yes
@@ -391,6 +403,7 @@
    es: yes
    country_es: Liechtenstein
    de: yes
+   country_de: Liechtenstein
 
  - country: Lithuania
    short: lt
@@ -410,6 +423,7 @@
    fr: yes
    country_fr: Luxembourg
    de: yes
+   country_de: Luxemburg
 
  - country: Macedonia
    short: mk
@@ -466,6 +480,7 @@
    nl: yes
    country_nl: Nederland
    de: yes
+   country_de: Niederlande
    
  - country: Norway
    short: nor
@@ -487,6 +502,7 @@
    uk: yes
    country_uk: Польща
    de: yes
+   country_de: Polen
    
  - country: Portugal
    short: pt
@@ -509,6 +525,7 @@
    uk: yes
    country_uk: Румунія
    de: yes
+   country_de: Rumänien
    
  - country: Russia
    short: ru
@@ -521,6 +538,7 @@
    uk: yes
    country_uk: Росія
    de: yes
+   country_de: Russland
    el: yes
    country_el: Ρωσία
    
@@ -589,6 +607,7 @@
    fr: yes
    country_fr: Suisse
    de: yes
+   country_de: Schweiz
    it: yes
    country_it: Svizzera
    url_it: yes
@@ -628,6 +647,7 @@
    es: yes
    country_es: Vaticano   
    de: yes     
+   country_de: Vatikanstadt
    it: yes
    country_it: Città del Vaticano
    url_it: yes
@@ -645,6 +665,7 @@
    ar: yes
    country_ar: الأرجنتين
    de: yes
+   country_de: Argentinien
   
  - country: Bolivia
    short: bo
@@ -671,6 +692,7 @@
    fr: yes
    country_fr: Brésil
    de: yes
+   country_de: Brasilien
   
  - country: Chile
    short: cl
@@ -680,6 +702,7 @@
    ar: yes
    country_ar: تشيلي
    de: yes
+   country_de: Chile
   
  - country: Colombia
    short: co
@@ -1009,6 +1032,7 @@
    uk: yes
    country_uk: Казахстан
    de: yes
+   country_de: Kasachstan
 
  - country: Kyrgyzstan
    short: kg
@@ -1319,6 +1343,7 @@
    short: na
    af: yes  
    de: yes
+   country_de: Namibia
 
  - country: Niger
    short: ne
