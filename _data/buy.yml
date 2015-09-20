@@ -1157,6 +1157,19 @@
    desc_fr: Achetez des bitcoins en espèces chez un grand nombre de commerçants aux États-Unis.
    desc_it: Acquista Bitcoin in contanti presso numerosi negozi al dettaglio presenti negli Stati Uniti d’America.
    desc_pt_br: Compre Bitcoins pagando em dinheiro em vários pontos comerciais espalhados pelos EUA.
+ 
+ - name: Snapcard
+   desc: Buy bitcoin with a connected U.S. bank account. Convenient and easy.   
+   url: https://www.snapcard.io/buy-bitcoin
+   icon: https://www.buybitcoinworldwide.com/img/buy/snapcard.png
+   countries: us
+   po: btus
+   desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable.
+   desc_fr: Achetez des bitcoins avec votre compte en banque. Rapide et facile.
+   desc_el: Αγοράστε bitcoin με τον τραπεζικό σας λογαριασμό. Εύκολα και γρήγορα.
+   desc_nl: Koop bitcoin met je bankrekening. Simpel. Snel. Gemakkelijk. 
+   desc_it: Acquista Bitcoin con il tuo conto bancario. Facile e veloce.
+   desc_pt_br: Compre Bitcons usando sua conta bancária. Simples, rápido e conveniente.
    
  - name: Purse.io
    desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
