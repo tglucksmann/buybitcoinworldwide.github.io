@@ -1,5 +1,5 @@
 {% for post in site.pages %}
-	{% if post.country == page.country and post.lang != page.lang  %}	
+	{% if post.country == page.country %}	
     <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url }}" />
     {% endif %}  			
 {% endfor %}
