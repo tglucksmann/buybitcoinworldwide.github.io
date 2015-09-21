@@ -1,0 +1,43 @@
+---
+hide_sidebar: true
+lang: zh
+title: 购买比特币 - Buy Bitcoin Worldwide
+seotitle: 购买比特币 - Buy Bitcoin Worldwide
+desc: Buy Bitcoin Worldwide 可协助您以首选的付款方式在各国家购买比特币。比特币交易平台、代理人和经销商到处皆有。 
+permalink: /zh/
+layout: default
+---
+{% assign lang = site.data.translations[page.lang] %}
+
+<div class="well well-home">
+<div class="well-message">{{ lang.sitedesc }}</div>
+
+<ul class="index-continent-menu">
+<li><a class="btn btn-sm btn-primary" href="#as">{{ lang.asia }}</a></li>
+<li><a class="btn btn-sm btn-primary" href="#na">{{ lang.namerica }}</a></li>
+</ul>
+</div>
+
+<h2 class="home-header"><a href="#as" id="as">在亚洲购买比特币</a></h2>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.as == true and country.zh == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+<hr>
+
+<h2 class="home-header"><a href="#na" id="na">在北美洲购买比特币</a></h2>
+<div class="container">
+<div class="row">
+{% for country in site.data.countries %}
+{% if country.na == true and country.zh == true %}
+{% include index-list.html %}
+{% endif %}
+{% endfor %}
+</div>
+</div>
+<hr>

@@ -381,4 +381,68 @@ el:
   paymentmethods_url: /el/Μέθοδοι-πληρωμής/
   about: Σχετικά
   about_url: /en/about/
-  change_lang: Γλώσσα               
+  change_lang: Γλώσσα   
+
+##################### Chinese #####################
+ 
+zh:
+  buy: 购买比特币
+  atms: 自动提款机
+  exchanges: 交易
+  namerica: 北美洲
+  samerica: 南美洲
+  camerica: 中美洲
+  oceania: 大洋洲
+  africa: 非洲
+  meast: 中东
+  asia: 亚洲
+  europe: 欧洲
+  site_title: Buy Bitcoin Worldwide
+  sitedesc:  在任何国家购买比特币。请选择国家。
+  contribute: 捐赠
+  get_wallet: 获取比特币钱包
+  short_lang: zh
+  language: 中文
+  home_url: /zh/
+  find_country: 找寻国家
+  by_jordan: 乔丹网站
+  disclaimer: 免责声明
+  disclaimer_url: /en/disclaimer/
+  contact: 联系方式
+  contact_url: /en/contact/
+  paymentmethods: 联系方式
+  paymentmethods_url: /en/payment-methods/
+  about: 介绍
+  about_url: /en/about/
+  change_lang: 语言  
+  
+bg:
+  buy: Купете биткойн
+  atms: Автомати
+  exchanges: Борси
+  namerica: Северна Америка
+  samerica: Южна Америка 
+  camerica: Централна Америка
+  oceania: Океания
+  africa: Африка
+  meast: Близък Изток
+  asia: Азия
+  europe: Европа
+  site_title: Buy Bitcoin Worldwide
+  sitedesc:  Купете биткойн навсякъде по света. Просто изберете държава.
+  contribute: Дайте своя принос
+  get_wallet: Вземете биткойн портфейл
+  short_lang: zh
+  language: Български
+  home_url: /bg/
+  find_country: Намерете държава
+  by_jordan: Сайта се поддържа от Jordan
+  disclaimer: Изключване на отговорност
+  disclaimer_url: /en/disclaimer/
+  contact: Контакт
+  contact_url: /en/contact/
+  paymentmethods: Начини за плащане
+  paymentmethods_url: /bg/Начини-за-плащане/
+  about: Относно
+  about_url: /en/about/
+  change_lang: Език                  

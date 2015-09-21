@@ -14,6 +14,8 @@
    desc_it: Acquista Bitcoin con il tuo conto bancario. Facile, veloce e conveniente.
    desc_pt_br: Compre Bitcons usando sua conta bancária. Simples, rápido e conveniente. Taxa de 1%. 
    desc_de: Kaufen Sie Bitcoin mit Ihren Bankkonto. Einfach, schnell, bequem.
+   desc_zh: 通过银行账户购买比特币。简单、快捷、方便。
+   desc_bg: Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.
 
  - name: Local Bitcoins
    desc: Buy bitcoin from local dealers, online or in person. Private and quick. 1% fee.
@@ -33,7 +35,8 @@
    desc_it: Acquista Bitcoin da rivenditori locali, online o di persona. Privato e veloce.
    desc_pt_br: Compre Bitcoins de negociantes locais, online ou pessoalmente. É seguro e prático. Taxa de 1%.
    desc_de: Kaufen Sie Bitcoin von lokalen Händlern, online oder persönlich. Privat und schnell. 1%  Gebühr. 
-
+   desc_zh: 通过本地商户，亲自或在网上购买比特币。专属且快捷。费率为1%。
+   desc_bg: Купете биткойн от местни дилъри, онлайн или лично. Бързо и анонимно. 1% такса.
    
  - name: Celery
    desc: Buy bitcoin with a connected US bank account or credit/debit card.  
@@ -51,6 +54,8 @@
    desc_it: Acquista Bitcoin con un conto bancario o una carta di credito. Facile e veloce.
    desc_pt_br: Compre Bitcoins usando a conta de um banco norte-americano ou cartão de débito/crédito. 
    desc_de: Kaufen Sie Bitcoin mit einem Bankkonto oder Kreditkarte. Schnell und einfach.
+   desc_zh: 通过连接美国银行账户或信用卡/借记卡购买比特币。
+   desc_bg: Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.
 
  - name: Circle
    desc: Buy bitcoin with a bank account or credit card. Fast and easy.
@@ -68,6 +73,8 @@
    desc_it: Acquista Bitcoin con un conto bancario o una carta di credito. Facile e veloce.
    desc_pt_br: Compre Bitcoins instantaneamente usando uma conta bancária ou cartão de crédito. 
    desc_de: Kaufen Sie Bitcoin mit einem Bankkonto oder Kreditkarte. Schnell und einfach.
+   desc_zh: 通过银行账户或信用卡购买比特币。快捷又简单。
+   desc_bg:
       
  - name: Bitcoin.de
    desc: Buy bitcoin online from other users with SEPA bank transfers.
@@ -85,6 +92,7 @@
    desc_it: Acquista Bitcoin online da altri utenti tramite bonifici bancari SEPA.
    desc_pt_br: Compre Bitcoins online de outros usuários via transferência bancária SEPA.
    desc_de: Bitcoin online von anderen Benutzern mit SEPA Banküberweisungen kaufen.
+   desc_bg: Купете биткойн онлайн от други потребители чрез банкови преводи SEPA.
    
  - name: Coinbase Exchange
    desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or ACH bank transfer.
@@ -103,6 +111,8 @@
    desc_it: Società di cambio di Bitcoin con sede negli Stati Uniti d’America. Deposita con bancario ACH.
    desc_pt_br: Conversão de Bitcoins. Depositar fundos por transferência bancária SEPA ou ACH.
    desc_de: US basiertes Bitcoin Börse. Finanzieren mit SEPA  oder ACH Überweisungen.
+   desc_zh: 美国比特币交易所。以国家环保总局或ACH银行转账增资。
+   desc_bg: Базирана в САЩ биткойн борса. Захранете чрез SEPA превод или ACH банков превод.
 
  - name: Bitstamp
    desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
@@ -121,6 +131,8 @@
    desc_it: Acquista Bitcoin su Bitstamp attraverso trasferimento SEPA o bonifico bancario. 
    desc_pt_br: Compre Bitcoins na Bitstamp via SEPA ou transferência bancária. Taxas variáveis. 
    desc_de: Bitcoin auf Bitstamp durch SEPA oder Banküberweisungen kaufen. Gebühren variieren.
+   desc_zh: 通过国家环保总局或电汇在Bitstamp购买比特币。费用略不同。
+   desc_bg: Купете биткойн от Bitstamp чрез SEPA или банков превод. Таксите варират.
       
  - name: Kraken
    desc: Bitcoin exchange supporting SEPA deposits, bank wires, SWIFT, and JPY bank deposit. 
@@ -138,6 +150,9 @@
    desc_it: Società di cambio di Bitcoin che supporta depositi SEPA, bonifici bancari, SWIFT e depositi bancari JPY.
    desc_el: Ανταλλακτήριο bitcoin που υποστηρίζει καταθέσεις SEPA, εμβάσματα, SWIFT και τραπεζικές καταθέσεις JPY.
    desc_pt_br: A conversão de Bitcoins trabalha com depósitos SEPA, transferências bancárias, códigos SWIFT.
+   desc_de: Börse. Einzahlen über SEPA, Banküberweisungen, SWIFT und JPY Bankeinzahlungen.
+   desc_zh: 比特币交易平台可接受国家环保总局存款、银行电汇、SWIFT和JPY银行交存。
+   desc_bg: Биткойн борса, поддържаща SEPA депозити, банкови преводи, SWIFT, или JPY банков депозит.
  
  - name: BitQuick
    desc: Buy bitcoin quickly with cash deposits or SEPA transfers in the EU. 2% fee.
@@ -156,6 +171,8 @@
    desc_it: Acquista rapidamente Bitcoin con depositi in contanti o trasferimenti SEPA nell’UE.
    desc_pt_br: Compre Bitcoins através de depósito em dinheiro ou transferência bancária SEPA na União Europeia. 
    desc_de: Bitcoin schnell mit Bareinzahlungen oder SEPA Überweisungen in der EU kaufen. 2% Gebühr.
+   desc_zh: 在欧洲以现金交存或国家环保总局转账快速购买比特币。费率为2％。
+   desc_bg: Купете биткойн бързо с депозит в брой или SEPA превод в ЕС. 2% такса.
    
  - name: BitX
    desc: Bitcoin exchange and broker. Easy way to buy bitcoin in five supported countries. 
@@ -167,6 +184,7 @@
    name_es: BitX
    desc_es: Intercambio de efectivo y corredores. Manera fácil de comprar Bitcoin en cinco países soportados.
    desc_fr: Bourse d'échange de bitcoins et courtier. Un moyen facile d'acheter des bitcoins dans 5 pays supportés.
+   desc_zh: 比特币交易和代理人。在五个接受比特币的国家简单的购买比特币。
    
 ##### USA ####################################################    
    
@@ -187,6 +205,8 @@
    desc_it: Società di cambio di Bitcoin con sede a New York. Deposita Denaro con trasferimento ACH o SWIFT.
    desc_pt_br: Conversão de Bitcoins. Deposite valores em dinheiro através de transferências ACH ou SWIFT.
    desc_de: New York basierter Bitcoin Börse. Zahlen Sie Geld mit ACH Überweisungen oder SWIFT ein.
+   desc_zh: 纽约比特币交易所。以ACH转账或SWIFT交存。
+   desc_bg: Базирана в Ню Йорк биткойн борса. Депозирайте пари чрез ACH превод или SWIFT.
    
 ##### Canada ####################################################   
 
@@ -270,6 +290,7 @@
    desc_it: Acquista Bitcoin tramite SEPA, Swish, Bonifici bancari internazionali, Bankgiro, e altro.
    desc_pt_br: Compre Bitcons via SEPA, Swish, transferência bancária internacional, pagamentos Bankgiro e etc.
    desc_de: Bitcoin mit SEPA, Swish, International Bank Überweisung, Bankgirov und mehr kaufen.
+   desc_bg: Купете биткойн чрез SEPA, Swish, международен банков превод, Bankgiro и много други възможности.
    
  - name: Canadian Bitcoins
    desc: Buy bitcoin with cash in office, cash through express mail, online banking, & Interac Online.
@@ -526,6 +547,8 @@
    desc_it: Società di cambio e broker di Bitcoin. Deposita tramite bonifico bancario, SEPA e altro.
    desc_el: Ανταλλακτήριο bitcoin και μεσίτης. Καταθέσεις μέσω τραπεζικής μεταφοράς, SEPA και άλλα.
    desc_pt_br: Casas de câmbio e negociantes de Bitcoins. Deposite via transferência bancária, SEPA e outros métodos.
+   desc_de: Bitcoin Börse und Broker. Einzahlen über Banküberweisungen, SEPA und mehr.
+   desc_bg: Биткойн борса и брокер. Депозирайте чрез банков превод, SEPA и други.
    
  - name: BitBargain
    desc: P2P marketplace for buying and selling bitcoin. Multiple payment methods available.
@@ -558,30 +581,35 @@
    url: https://www.coinhako.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinhako.png
    countries: sg	
+   desc_zh: 比特币代理人。通过银行转账购买比特币。费率为1.9%。
 
  - name: Coin Supermart
    desc: Bitcoin exchange. Fund account via inter-bank transfers. Convenient and fast.
    url: https://www.coinsupermart.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinsupermart.png
    countries: sg
+   desc_zh: 比特币交易。通过银行间转账于账户增资。方便又快捷。
    
  - name: Coin Republic
    desc: Bitcoin broker. Buy bitcoin quickly via bank transfer. 1.9% fee.  
    url: https://coinrepublic.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinrepublic.png
    countries: sg
+   desc_zh: 比特币代理人。通过银行转账快速购买比特币。费率为1.9%。
    
  - name: CRXzone
    desc: Buy bitcoin via OKPAY, Perfect Money, bank transfer, or Egopay.  
    url: https://www.crxzone.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/crxzone.png
    countries: sg
+   desc_zh: 可通过银行转账、OKPAY、Perfect Money、Egopay购买比特币。
    
  - name: FYB-SG
    desc: Bitcoin exchange. Fund account via inter-bank transfers. 0.6% fee.
    url: https://www.fybsg.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/fybsg.png
-   countries: sg   
+   countries: sg  
+   desc_zh: 比特币交易。通过银行间转账于账户增资。费率为0.6%。
 
 ##### Mexico ####################################################     
 
@@ -634,6 +662,7 @@
    desc_el: Πλατφόρμα bitcoin. Υποστηρίζεται όλο και μεγαλύτερος αριθμός χωρών της Νότιας Αμερικής και της Ευρώπης.
    desc_pt_br: Plataforma de Bitcoins. Atende a um número crescente de países da América do Sul e Europa.
    desc_de: Bitcoin Plattform. Unterstützt eine wachsende Nummer von Ländern in Südamerika und Europa.
+   desc_bg: Биткойн платформа. Поддържа растящ брой страни от Южна Америка и Европа.
 
  - name: Mercado Bitcoin
    desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers. Fee varies.   
@@ -740,18 +769,21 @@
    url: https://www.okcoin.cn/
    icon: https://www.buybitcoinworldwide.com/img/buy/okcoin.png
    countries: cn, hk, mo
+   desc_zh: 中国最大的比特币交易平台。零交易费。通过银行转账交存。
    
  - name: Huobi
    desc: Second largest Bitcoin exchange in China with no trading fees. Deposit via bank transfer.  
    url: https://www.huobi.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/huobi.png
    countries: cn, hk, mo
+   desc_zh: 中国第二大、零交易费的比特币交易平台。通过银行转账交存。
    
  - name: BTCC
    desc: Bitcoin exchange in China with no trading fees. Deposit via bank transfer.  
    url: https://www.btcchina.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/btcchina.png
    countries: cn, hk, mo
+   desc_zh: 中国零交易费的比特币交易平台。通过银行转账交存。
    
  - name: LakeBTC
    desc: Bitcoin exchange in China. Deposit via bank transfer or SEPA.  
@@ -759,12 +791,16 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/lakebtc.png
    countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mo
    po: sepa, ripple, egopay
+   desc_de: Bitcoin Börse in China. Einzahlen über Banküberweisungen oder SEPA.
+   desc_zh: 中国比特币交易平台。通过银行转账或国家环保总局交存。
+   desc_bg: Биткойн борса в Китай. Депозирайте чрез банков превод или SEPA.
    
  - name: BtcTrade
    desc: Bitcoin exchange in China. Fee varies. Trade in USD and CNY. 
    url: https://www.btctrade.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/btctrade.png
    countries: cn, hk, mo
+   desc_zh: 中国比特币交易平台。交易费略不同。以美元和人民币交易。
    
  - name: Gatecoin
    desc: Bitcoin exchange in Hong Kong. Deposit with SEPA transfer, SWIFT, and OKPAY.  
@@ -772,12 +808,16 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/gatecoin.png
    countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    po: sepa 
+   desc_de: Bitcoin Börse in Hong Kong. Einzahlen mit SEPA Überweisung,SWIFT und OKPAY.
+   desc_zh: 香港比特币交易平台。通过国家环保总局转账、SWIFT和OKPAY交存。
+   desc_bg: Биткойн борса в Хонг Конг. Депозирайте чрез  SEPA превод, SWIFT и OKPAY.
    
  - name: Yunbi
    desc: Small Bitcoin exchange in China. Fee varies. Trade in CNY. 
    url: https://yunbi.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/yunbi.png
-   countries: cn, hk, mo    
+   countries: cn, hk, mo 
+   desc_zh: 中国小型比特币交易平台。交易费略不同。以人民币交易。  
    
 ##### Vietnam #################################################### 
    
@@ -794,6 +834,7 @@
    url: http://buyer.md/
    icon: https://www.buybitcoinworldwide.com/img/buy/buyermd.png
    countries: md
+   desc_bg: Биткойн брокер. Buyer.md купува биткойн на биткойн борса и продава на клиенти. Таксата е 7%.
 
 ##### Australia #################################################### 
  
@@ -810,6 +851,7 @@
    url: http://btc.my/
    icon: https://www.buybitcoinworldwide.com/img/buy/btcmy.png
    countries: my   
+   desc_zh: 比特币交易。在马来西亚购买比特币简单又方便的方式。
    
 ##### Pakistan #################################################### 
    
@@ -866,24 +908,28 @@
    url: https://www.bitcoin.co.id/
    icon: https://www.buybitcoinworldwide.com/img/buy/bitcoincoid.png
    countries: id  
+   desc_zh: 信誉高的印尼比特币交易。通过银行转账于账户增资。
    
  - name: BestBit
    desc: Bitcoin exchange and platform. Fund your account via bank transfer.  
    url: https://bestbit.co.id/
    icon: https://www.buybitcoinworldwide.com/img/buy/bestbit.png
    countries: id
+   desc_zh: 比特币交易平台。通过银行转账于账户增资。
    
  - name: ArtaBit
    desc: Bitcoin broker and platform. Fund your account via bank transfer.  
    url: https://artabit.com/en/
    icon: https://www.buybitcoinworldwide.com/img/buy/artabit.png
    countries: id
+   desc_zh: 比特币代理人平台。通过银行转账于账户增资。
    
  - name: Bitdoku
-   desc: Indonesia Bitcoin exchange. Fund your account via bank transfer.  
+   desc: Indonesian Bitcoin exchange. Fund your account via bank transfer.  
    url: https://bitdoku.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/bitdoku.png
    countries: id 
+   desc_zh: 印尼比特币交易。通过银行转账于账户增资。
    
 ##### Japan ####################################################      
 
@@ -892,12 +938,14 @@
    url: https://bitflyer.jp/
    icon: https://www.buybitcoinworldwide.com/img/buy/bitflyer.png
    countries: jp
+   desc_zh: 比特币交易平台。通过银行转账于账户增资。
    
  - name: QuoinExchange
    desc: Bitcoin exchange. Buy bitcoin via bank transfer in a number of countries.  
    url: https://www.quoine.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/quoine.png
    countries: jp, sg, hk, id
+   desc_zh: 比特币交易。可通过一些国家的银行转账购买比特币。
    
 ##### Portugal ####################################################      
 
@@ -952,12 +1000,14 @@
    url: https://btcu.biz/
    icon: https://www.buybitcoinworldwide.com/img/buy/btcubiz.png
    countries: ua
+   desc_bg: Купете чрез кредитна карта или депозит в брой от хиляди автомати на територията на Украйна.
    
  - name: Kuna
    desc: Bitcoin broker. Buy bitcoin directly from the Kuna Bitcoin agency.
    url: http://kuna.com.ua/
    icon: https://www.buybitcoinworldwide.com/img/buy/kuna.png
    countries: ua
+   desc_bg: Биткойн брокер. Купете биткойн директно от агенция Kuna Bitcoin.
    
 ##### Kyrgyzstan ####################################################      
  
@@ -974,12 +1024,14 @@
    url: https://coins.co.th
    icon: https://www.buybitcoinworldwide.com/img/buy/coinsth.png
    countries: th 
+   desc_zh: 在国内以银行/现金交存、银行转账或自动提款机购买比特币。
    
  - name: bx.in.th
    desc: Buy bitcoin online in Thailand via online bank transfer. Available at many banks.
    url: https://bx.in.th/
    icon: https://www.buybitcoinworldwide.com/img/buy/bxth.png
    countries: th 
+   desc_zh: 在泰国通过在线银行转账于网上购买比特币。各大银行皆有。
    
 ##### South Korea ####################################################   
    
@@ -1002,18 +1054,21 @@
    url: https://www.bitquick.tw/
    icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
    countries: tw 
+   desc_zh: 可在全国各大银行以现金存款，快速购买比特币。
    
  - name: MaiCoin
    desc: Largest Bitcoin exchange in Taiwan. Deposit via ATM or bank transfer.
    url: https://www.maicoin.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/maicoin.png
-   countries: tw    
+   countries: tw
+   desc_zh: 台湾最大的比特币交易平台。通过自动提款机或银行转账交存。    
    
  - name: BitoEX
    desc: Buy bitcoin at over 5,000 convenience stores across Taiwan. Simple and fast.
    url: https://www.bitoex.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/bitoex.png
    countries: tw    
+   desc_zh: 可在台湾内超过五千家的便利商店购买比特币。简单又快捷。
 
 ##### India ####################################################      
    
@@ -1040,31 +1095,34 @@
    
 ##### Serbia ####################################################      
 
- - name: Bitcoin ATM Belgrade
+ - name: Bitcoin ATM Белград
    desc: Buy bitcoin from the Skyhook Bitcoin ATM in Belgrade, Serbia.    
    url: http://coinatmradar.com/bitcoin_atm/248/bitcoin-atm-skyhook-belgrade-appetite-restaurant/
    icon: https://www.buybitcoinworldwide.com/img/buy/skyhook.png
    countries: rs   
+   desc_bg: Купете биткойн от биткойн автомат Skyhook Bitcoin в Белград, Сърбия.
    
 ##### Hungary ####################################################      
 
- - name: Bitcoin ATM Budapest
+ - name: Bitcoin ATM Будапеща
    desc: Buy bitcoin from the Lamassu Bitcoin ATM in Budapest, Hungary.    
    url: http://coinatmradar.com/bitcoin_atm/214/bitcoin-atm-lamassu-budapest-club-anker/
    icon: https://www.buybitcoinworldwide.com/img/buy/lamassu.png
    countries: hu
    desc_de: Bitcoin von Lamassu Bitcoin ATM in Budapest, Ungarn kaufen.
+   desc_bg: Купете биткойн от биткойн автомат Lamassu Bitcoin в Будапеща, Унгария.
    
- - name: Bitcoin ATM Budapest
+ - name: Bitcoin ATM Будапеща
    desc: Buy bitcoin from the BitAccess Bitcoin ATM in Budapest, Hungary.    
    url: http://coinatmradar.com/bitcoin_atm/456/bitcoin-atm-bitaccess-budapest-stop-shop-mall/
    icon: https://www.buybitcoinworldwide.com/img/buy/bitaccess.png
    countries: hu  
    desc_de: Bitcoin von BitAccess Bitcoin ATM in Budapest, Ungarn kaufen.
+   desc_bg: Купете биткойн от биткойн автомат BitAccess Bitcoin в Будапеща, Унгария.
    
 ##### Greece ####################################################      
 
- - name: Bitcoin ATM Acharnes
+ - name: Bitcoin ATM Ахарнес
    desc: Buy bitcoin from the Genesis Coin Bitcoin ATM in Acharnes, Greece.     
    url: http://coinatmradar.com/bitcoin_atm/527/bitcoin-atm-genesis-coin-acharnes-orizontes-bookstore/
    icon: https://www.buybitcoinworldwide.com/img/buy/genesiscoin.png
@@ -1072,8 +1130,9 @@
    name_el: ATM στην Αχαρνές
    desc_el: Αγοράστε bitcoin από το Genesis Coin Bitcoin ATM στις Αχαρνές, Ελλάδα.
    desc_it: Acquista Bitcoin da Genesis Coin Bitcoin ATM ad Acharnes, Grecia.
+   desc_bg: Купете биткойн от биткойн автомат Genesis Coin Bitcoin в Ахарнес, Гърция.
    
- - name: Bitcoin ATM Athens
+ - name: Bitcoin ATM Атина
    desc: Buy bitcoin from the BTCPoint Bitcoin ATM in Athens, Greece.    
    url: http://coinatmradar.com/bitcoin_atm/618/bitcoin-atm-btcpoint-athens-hostel-of-erasmus-students/
    icon: https://www.buybitcoinworldwide.com/img/buy/btcpoint.png
@@ -1082,6 +1141,7 @@
    desc_el: Αγοράστε bitcoin από το BTCPoint Bitcoin ATM στην Αθήνα, Ελλάδα.  
    name_it: Bitcoin ATM Atene
    desc_it: Acquista Bitcoin dal BTCPoint Bitcoin ATM ad Atene, Grecia. 
+   desc_bg: Купете биткойн от биткойн автомат BTCPoint Bitcoin в Атина, Гърция.
    
 ##### Croatia ####################################################      
 
@@ -1117,13 +1177,15 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/btcromania.png
    countries: ro
    desc_de: Bitcoin auf mehr als 800 ZebraPay Terminale in ganz Rumänien kaufen.
+   desc_bg: Купете биткойн от някой от над 800-те терминала на ZebraPay на територията на Румъния.
    
  - name: BitcoinXRomania
    desc: Bitcoin exchange. Deposit via bank transfer. 0.5% fee on all trades.    
    url: https://bitcoinxromania.com/en/
    icon: https://www.buybitcoinworldwide.com/img/buy/btcxromania.png
    countries: ro   
-   desc_de: Bitcoin Börse. Geld über Banküberweisungen einzahlen. 0.5% Gebühr auf alle Handeln.   
+   desc_de: Bitcoin Börse. Geld über Banküberweisungen einzahlen. 0.5% Gebühr auf alle Handeln.
+   desc_bg: Биткойн борса. Депозиране чрез банков превод. 0.5% такса на всички транзакции.   
    
 ##### Kenya ####################################################      
    
@@ -1156,6 +1218,7 @@
    desc_it: Acquista piccole quantità di Bitcoin con una carta di credito Visa o Mastercard.
    desc_pt_br: Compre pequenas quantidades de Bitcoins através do seu cartão de crédito/débito Visa ou Mastercard.
    desc_de: Kaufen Sie kleine Mengen von Bitcoin mit einer Visa oder Mastercard Debit- / Kreditkarte.
+   desc_zh: 以Visa或Mastercard借记卡／信用卡购买少量的比特币。
      
  - name: CEX.io
    desc: Buy bitcoin via credit card, SEPA/ACH bank transfer, cash, or AstroPay. 
@@ -1173,7 +1236,9 @@
    desc_nl: Koop bitcoin met creditcard, SEPA/ACH overschrijving, contant geld of AstroPay.
    desc_it: Acquista Bitcoin tramite carta di credito, bonifico bancario SEPA/ACH, contanti o AstroPay.
    desc_pt_br: Compre Bitcoins com o cartão de crédito, transferência bancária via SEPA/ACH, ou AstroPay.
-   desc_de: Bitcoin mit der Kreditkarte, SEPA/ACH Banküberweisungen, Bargeld oder AstroPay kaufen.  
+   desc_de: Bitcoin mit der Kreditkarte, SEPA/ACH Banküberweisungen, Bargeld oder AstroPay kaufen. 
+   desc_zh: 以信用卡、国家环保总局／ACH银行转账、现金或AstroPay购买比特币。
+   desc_bg: Купете биткойн чрез кредитна карта, SEPA/ACH банков превод, в брой, или чрез AstroPay.
    
  - name: LibertyX
    desc: Buy bitcoin with cash at a number of retail stores across the US.  
@@ -1190,6 +1255,7 @@
    desc_it: Acquista Bitcoin in contanti presso numerosi negozi al dettaglio presenti negli Stati Uniti d’America.
    desc_pt_br: Compre Bitcoins pagando em dinheiro em vários pontos comerciais espalhados pelos EUA.
    desc_de: Bitcoin mit Bargeld in einer Reihe von Einzelhandelgeschäften in den USA kaufen.
+   desc_zh: 可在美国的一些零售店以现金购买比特币。
  
  - name: Snapcard
    desc: Buy bitcoin with a connected U.S. bank account. Convenient and easy.   
@@ -1218,6 +1284,9 @@
    desc_ar:  شراء بيتكوين باستخدام بطاقة ائتمان أو بطاقات هدايا موقع أمازون. تختلف الرسوم.
    desc_fr: Achetez instantanément des bitcoins par carte de crédit dans plus de 30 états des États-Unis.
    desc_pt_br: Compre Bitcoins usando seu cartão de crédito ou cupom do Amazon. Taxas variáveis.
+   desc_de: Bitcoin mit einer Kreditkarte oder Amazon Geschenkkarte kaufen. Gebühr variiert.
+   desc_zh: 以信用卡或亚马逊礼品卡购买比特币。费用略不同。
+   desc_bg: Купете биткойн чрез кредитна карта или карта за подарък от Amazon. Таксите варират.
 
  - name: Clevercoin
    desc: Buy bitcoin with SEPA bank transfer, credit card, or iDEAL.
@@ -1233,6 +1302,7 @@
    desc_it: Acquista Bitcoin tramite bonifico bancario SEPA, carta di credito o iDEAL.
    desc_pt_br: Compre Bitcoins através de transferência bancária SEPA, cartão de crédito ou iDEAL. 
    desc_de: Bitcoin mit SEPA Banküberweisungen, Kreditkarten oder iDEAL.
+   desc_bg: Купете биткойн чрез SEPA банков превод, кредитна карта или iDEAL.
    
  - name: Coinimal
    desc: Buy bitcoin with SOFORT, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
@@ -1248,6 +1318,7 @@
    desc_it: Acquista Bitcoin tramite SOFORT, NETELLER, giropay, eps, SEPA, e bonifico bancario online.
    desc_pt_br: Compre Bitcoins através de transferências bancárias online, SOFORT, NETELLER, Giropay, EPS e SEPA.
    desc_de: Bitcoing mit SOFORT, NETELLER, giropay, eps, SEPA und Online Banküberweisungen kaufen.
+   desc_bg: Купете биткойн чрез SOFORT, NETELLER, giropay, eps, SEPA, и онлайн банков превод.
    
  - name: Cubits
    desc: Buy bitcoin in a number of countries via SEPA, OKPAY, SOFORT and Skrill. 
@@ -1265,6 +1336,8 @@
    desc_it: Acquista Bitcoin in vari paesi tramite SEPA, OKPAY, SOFORT e Skrill.
    desc_el: Αγοράστε bitcoin σε πλήθος χωρών μέσω SEPA, OKPAY, SOFORT και  Skrill.
    desc_pt_br: Compre Bitcoins em diversos países via SEPA, OKPAY, SOFORT e Skrill.
+   desc_de: Bitcoin in verschiedenen Ländern über SEPA, OKPAY, SOFORT und Skrill kaufen.
+   desc_bg: Купете биткойн в голям брой страни чрез SEPA, OKPAY, SOFORT и Skrill.
 
  - name: Trucoin
    desc: Buy bitcoin with a credit card instantly in over 30 US states.
@@ -1280,6 +1353,7 @@
    desc_fr: Achetez instantanément des bitcoins par carte de crédit dans plus de 30 états des États-Unis.
    desc_pt_br: Compre Bitcoins usando seu cartão de crédito em mais de 30 estados norte-americanos.
    desc_de: Bitcoin sofort mit einer Kreditkarten in über 30 US-Staaten kaufen.
+   desc_zh: 可在美国三十多个州使用信用卡购买比特币。
    
  - name: Wall of Coins
    desc: Buy bitcoin via cash deposit at a number of US banks nationwide. 
@@ -1295,6 +1369,7 @@
    desc_fr: Achetez des bitcoins par dépôt d’espèces dans un grand nombre de banques des États-Unis.
    desc_pt_br: Compre Bitcoins por depósito em dinheiro em um dos vários bancos espalhados pelos Estados Unidos. 
    desc_de: Bitcoin mit Bareinzahlung in einer Reihe von US Banken im ganzen Land kaufen.
+   desc_zh: 可在全美一些特定的银行以现金交存购买比特币。
    
  - name: itBit
    desc: New York based Bitcoin exchange. Deposit with ACH transfer, SEPA, or international wire transfer.
@@ -1313,6 +1388,8 @@
    desc_it: Cambio di Bitcoin. Deposita con trasferimento ACH, SEPA o bonifico bancario internazionale.
    desc_pt_br: Conversão de BTC. Depósito por transferências ACH, SEPA ou transferências bancárias internacionais.
    desc_de: Bitcoin Börse. Einzahlen mit ACH Überweisungen, SEPA oder internationale Überweisung.
+   desc_zh: 纽约比特币交易所。以ACH、国家环保总局转账或国际电汇交存。
+   desc_bg: Биткойн борса. Депозирайте чрез ACH превод, SEPA, или международен банков превод.
    
  - name: expresscoin
    desc: Buy bitcoin with money orders or personal checks. Good for those without a bank account.
@@ -1328,6 +1405,8 @@
    desc_it: Acquista Bitcoin con vaglia postali o assegni. Ottimo per coloro che non hanno un conto bancario.
    desc_pt_br: Compre Bitcoins através de ordens de pagamento ou cheque pessoal. 
    desc_de: Bitcoin mit Geldbestellungen oder persönlichen Schecks kaufen. Gut für die ohne einen Bankkonto.
+   desc_zh: 对于那些没有银行账户的顾客，可以使用汇票或个人支票购买比特币。
+   desc_bg: 
    
  - name: Fastcoin.ch
    desc: Buy with SEPA transfer or bank transfer in Switzerland.  Fast and convenient. 
@@ -1343,6 +1422,7 @@
    desc_it: Acquista Bitcoin tramite trasferimento SEPA o bonifico bancario in Svizzera. Rapido e conveniente.
    desc_pt_br: Compre Bitcoins na Suíça por transferência bancária ou SEPA. Rápido e fácil. 
    desc_de: Kaufen mit SEPA Überweisungen oder Banküberweisungen in der Schweiz.
+   desc_bg: Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно.
    
  - name: CryptoPay
    desc: Bitcoin broker. Buy bitcoin with SEPA or bank transfers in the UK. 
@@ -1358,6 +1438,7 @@
    desc_it: Broker di Bitcoin. Acquista Bitcoin tramite SEPA o bonifici bancari nel Regno Unito.
    desc_pt_br: Casa de câmbio de moeda Bitcoin. Compre Bitcoins no Reino Unido via transferência bancária ou SEPA.
    desc_de: Bitcoin Broker. Bitcoin mit SEPA und Banküberweisungen in Großbritannien kaufen.
+   desc_bg: Биткойн брокер. Купете чрез SEPA или банков превод във Великобритания.
    
  - name: Anycoin Direct
    desc: Bitcoin broker. Buy bitcoin with SEPA, INTERAC Online, and many more payment methods. 
@@ -1372,6 +1453,8 @@
    desc_it: Acquista Bitcoin tramite SEPA, INTERAC Online e molte altre modalità di pagamento.
    desc_el: Μεσίτης bitcoin. Αγοράστε bitcoin με SEPA, INTERAC Online και άλλες πολλές μεθόδους πληρωμής.
    desc_pt_br: Casa de câmbio de moeda Bitcoin. Compre Bitcoins via transferência SEPA, INTERAC e outras formas.
+   desc_de: Bitcoin mit SEPA, INTERAC Online und viele andere Zahlungsmethoden.
+   desc_bg: Биткойн брокер. Купете биткойн чрез SEPA, INTERAC Online и много други възможности за плащане.
    
  - name: Bitfinex
    desc: Deposit funds with an international wire transfer and buy bitcoin on the exchange.
@@ -1388,7 +1471,9 @@
    desc_nl: Stort geld via een internationale overschrijving en koop bitcoin op de exchange.
    desc_it: Deposita fondi con un bonifico bancario internazionale e acquista Bitcoin su cambiavalute.
    desc_pt_br: Deposite fundos por transferência bancária internacional e compre BTC via bolsa de valores.
-   desc_de: Zahlen Sie Geld ein mit einer internationaler Überweisung und kaufen Bitcoin an der  Börse. 
+   desc_de: Zahlen Sie Geld ein mit einer internationaler Überweisung und kaufen Bitcoin an der  Börse.
+   desc_zh: 以国际电汇交存，交易购买比特币。 
+   desc_bg: Депозирайте средства чрез международен банков превод и купете биткойн на борсата.
 
  - name: Xapo
    desc: Global Bitcoin platform. Buy bitcoin with Euros via international wire transfer.
@@ -1406,6 +1491,8 @@
    desc_it: Piattaforma globale di Bitcoin. Acquista Bitcoin con Euro tramite bonifico bancario internazionale. 
    desc_pt_br: Plataforma Global de Bitcoins. Compre Bitcoins em Euro por transferência bancária internacional.
    desc_de: Globale Bitcoinplattform. Bitcoin mit Euros über internationale Überweisung kaufen.
+   desc_zh: 全球化比特币平台。以欧元国际电汇购买比特币。
+   desc_bg: Международна биткойн платформа. Купете биткойн срещу евро чрез международен банков превод.
    
  - name: BTCe
    desc: Bitcoin exchange supporting bank wires, SEPA, credit cards, webmoney.ru and many other options. 
@@ -1424,6 +1511,8 @@
    desc_it: Società di cambio di Bitcoin che supporta bonifici bancari, SEPA, carte di credito, webmoney.ru.
    desc_pt_br: A conversão de Bitcoins trabalha com transferências bancárias, SEPA, cartões de crédito, webmoney.ru.
    desc_de: Bitcoin Börse unterstützt Banküberweisungen, SEPA, Kreditkarten, webmoney.ru.
+   desc_zh: 比特币支持这些购买方式：电汇、国家环保总局、信用卡、webmoney.ru等等。
+   desc_bg: Биткойн платформа поддържаща банкови преводи, SEPA, кредитни карти, webmoney.ru.
    
  - name: HappyCoins
    desc: Bitcoin broker. Buy with SEPA bank transfer, iDEAL, and other payment methods.
@@ -1439,6 +1528,7 @@
    desc_el: Μεσίτης bitcoin. Αγοράστε με έμβασμα SEPA, iDEAL και άλλες μεθόδους πληρωμής.
    desc_pt_br: Casas de câmbio de moeda Bitcoin. Compre por transferência bancária SEPA, iDEAL e outras formas.
    desc_de: Broker. Kaufen mit SEPA Banküberweisungen, iDEAL und anderen Zahlungsmethoden.
+   desc_bg: Биткойн брокер. Купете биткойн чрез SEPA банков превод, iDEAL и много други възможности за плащане.
    
  - name: Paymium
    desc: Bitcoin exchange. Buy bitcoin with bank transfers in France. 
@@ -1471,7 +1561,10 @@
    desc_nl: Koop van lokale dealers via de Mycelium Bitcoin portomonee. 
    desc_it: Acquista da trader locali attraverso il portafoglio di Bitcoin Mycelium. La disponibilità dipende dal luogo.
    desc_el: Αγοράστε από τοπικούς εμπόρους με το πορτοφόλι bitcoin Mycelium. Η διαθεσιμότητα εξαρτάται από την τοποθεσία.
-   desc_pt_br: Compre de negociantes locais através da carteira de Bitcoins da Mycelium.  
+   desc_pt_br: Compre de negociantes locais através da carteira de Bitcoins da Mycelium. 
+   desc_zh: 可从当地商人通过Mycelium比特币钱包采购。可用性取决于所在位置。 
+   desc_de: Kaufe von lokalen Händlern durch Mycelium Bitcoin Brieftasche.
+   desc_bg: Купете от местни търговци чрез Mycelium биткойн портфейл. 
    
  - name: ShapeShift
    desc: Buy bitcoin with Litecoin, Dogecoin, altcoins and other digital tokens.
@@ -1490,7 +1583,10 @@
    desc_nl: Koop bitcoin met Litecoin, Dogecoin, altcoins en andere digitale betaalmiddelen.
    desc_it: Acquista Bitcoin tramite Litecoin, Dogecoin, altcoins e altri token digitali.
    desc_el: Αγοράστε bitcoin με Litecoin, Dogecoin, altcoins και άλλα ψηφιακά νομίσματα.
-   desc_pt_br: Compre Bitcoins com Litecoin, Dogecoin, Altcoins e outras moedas digitais.    
+   desc_pt_br: Compre Bitcoins com Litecoin, Dogecoin, Altcoins e outras moedas digitais.
+   desc_de: Bitcoin mit Litecoin, Dogecoin, altcoins und anderen digital Token kaufen. 
+   desc_zh: 以Litecoin、Dogecoin、altcoins或其它电子筹码购买比特币。  
+   desc_bg: Купете биткойн чрез Litecoin, Dogecoin, altcoins и други дигитални валути.
    
  - name: bitcoin-otc
    desc: Over-the-counter marketplace for P2P exchanging of bitcoin.
@@ -1510,6 +1606,9 @@
    desc_el: Εξωχρηµατιστηριακή αγορά για P2P ανταλλαγή bitcoin. Η διαθεσιμότητα εξαρτάται από την τοποθεσία.
    desc_it: Mercato non quotato per lo scambio P2P di Bitcoin. La disponibilità dipende dal luogo.
    desc_pt_br: Mercado de balcão para conversão de Bitcoins via per-to-peer (P2P).
+   desc_de: Außerbörslicher Markt für P2P Austausch von Bitcoin.
+   desc_zh: 面对面比特币交易的场外市场。 
+   desc_bg: Свободен пазар за размяна на биткойн между потребители.
    
 #####: All countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye
    

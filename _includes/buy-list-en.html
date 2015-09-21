@@ -102,6 +102,32 @@
 
 {% elsif page.lang == 'de' and name.desc_de == null %}
 
+{% elsif page.lang == 'zh' and name.desc_zh != null and name.name_zh != null %}
+<div class="col-md-6 buy-info buy-info-zh">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name_zh }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_zh }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'zh' and name.desc_zh != null  and name.name_zh == null %}
+<div class="col-md-6 buy-info buy-info-zh">
+		<h4>
+		<a href="{{ name.url }}"><img src="{{ name.icon }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_zh }}</p>
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'zh' and name.desc_zh == null %}
+
 {% elsif page.lang == 'ru' and name.desc_ru != null and name.name_ru != null %}
 <div class="col-md-6 buy-info">
 		<h4>

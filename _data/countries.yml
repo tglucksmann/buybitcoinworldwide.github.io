@@ -127,6 +127,12 @@
    country_pt_br: Estados Unidos
    url_pt_br: yes
    url_pt_br_c: estados-unidos
+   zh: yes
+   country_zh: 美国
+   bg: yes
+   country_bg: Съединени Американски Щати
+   url_bg: yes
+   url_bg_c: Съединени-Американски-Щати
    
    
    
@@ -214,6 +220,8 @@
    eu: yes  
    es: yes
    country_es: Bulgaria
+   bg: yes
+   country_bg: България
 
  - country: Croatia
    short: hr
@@ -343,6 +351,8 @@
    url_it_c: grecia
    el: yes
    country_el: Ελλάδα
+   bg: yes
+   country_bg: Гърция
 
  - country: Hungary
    short: hu
@@ -355,6 +365,8 @@
    country_uk: Угорщина
    de: yes
    country_de: Ungarn
+   bg: yes
+   country_bg: Унгария
 
  - country: Iceland
    short: is
@@ -429,7 +441,9 @@
    short: mk
    eu: yes 
    es: yes
-   country_es: Macedonia 
+   country_es: Macedonia
+   bg: yes
+   country_bg: Македония 
    
  - country: Malta
    short: mt
@@ -450,6 +464,8 @@
    country_ru: Молдавия
    uk: yes
    country_uk: Молдова
+   bg: yes
+   country_bg: Молдова
    
  - country: Monaco
    short: mc
@@ -526,6 +542,8 @@
    country_uk: Румунія
    de: yes
    country_de: Rumänien
+   bg: yes
+   country_bg: Румъния
    
  - country: Russia
    short: ru
@@ -561,6 +579,8 @@
    country_ru: Сербия
    uk: yes
    country_uk: Сербія
+   bg: yes
+   country_bg: Сърбия
    
  - country: Slovakia
    short: sk
@@ -571,6 +591,8 @@
    country_ru: Словакия
    uk: yes
    country_uk: Словаччина
+   bg: yes
+   country_bg: Словакия
    
  - country: Slovenia
    short: si
@@ -619,7 +641,9 @@
    es: yes
    country_es: Turquía  
    el: yes
-   country_el: Τουρκία  
+   country_el: Τουρκία
+   bg: yes
+   country_bg: Турция  
    
  - country: Ukraine
    short: ua
@@ -630,6 +654,8 @@
    country_ru: Украина  
    uk: yes
    country_uk: Україна  
+   bg: yes
+   country_bg: Украйна
    
  - country: United Kingdom
    short: gb
@@ -1001,11 +1027,15 @@
    short: cn
    as: yes
    pop: yes
+   zh: yes
+   country_zh: 中国
    
  - country: Hong Kong
    short: hk
    as: yes  
    pop: yes
+   zh: yes
+   country_zh: 香港
 
  - country: India
    short: in
@@ -1019,10 +1049,14 @@
  - country: Indonesia
    short: id
    as: yes
+   zh: yes
+   country_zh: 印尼
 
  - country: Japan
    short: jp
    as: yes
+   zh: yes
+   country_zh: 日本
 
  - country: Kazakhstan
    short: kz
@@ -1049,10 +1083,14 @@
  - country: Macau
    short: mo
    as: yes
+   zh: yes
+   country_zh: 澳门
 
  - country: Malaysia
    short: my
    as: yes
+   zh: yes
+   country_zh: 马来西亚
 
  - country: Maldives
    short: mv
@@ -1086,6 +1124,8 @@
  - country: Singapore
    short: sg
    as: yes
+   zh: yes
+   country_zh: 新加坡
 
  - country: South Korea
    short: kr
@@ -1098,6 +1138,8 @@
  - country: Taiwan
    short: tw
    as: yes
+   zh: yes
+   country_zh: 台湾
 
  - country: Tajikistan
    short: tj
@@ -1111,6 +1153,8 @@
    short: th
    as: yes
    pop: yes
+   zh: yes
+   country_zh: 泰国
 
  - country: Timor-Leste
    short: tl
