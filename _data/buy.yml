@@ -20,7 +20,7 @@
  - name: VirWoX
    desc: Bitcoin exchange and broker. Easy way to buy bitcoin in five supported countries. 
    url: http://buybitcoinww.co/bitcoin_virwox
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinbase.png
+   icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
    countries: us
    po: paypal
    desc_paypal: VirWoX stands for Virtual World Exchange, and mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can't buy Bitcoin with PayPal directly at VirWoX, but it's possible to first buy Second Life Lindens (SLL) and then trade your SLL for Bitcoin. This process works perfectly, but in the end will cost you about 7% in fees. 

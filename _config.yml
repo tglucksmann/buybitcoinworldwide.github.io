@@ -1,10 +1,14 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "https://www.buybitcoinworldwide.com" # the base hostname & protocol for your site
 title: "Buy Bitcoin Worldwide"
+markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
 
+collections:
+  faqs:
+    output: true
 
 exclude:
   - "README.md"
