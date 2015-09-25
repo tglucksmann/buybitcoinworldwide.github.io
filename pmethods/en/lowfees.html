@@ -1,0 +1,18 @@
+---
+layout: help
+title: "How to Buy Bitcoin with Low Fees"
+seotitle: "How to Buy Bitcoin with Low Fees"
+sitemap:
+    priority: 0.7
+permalink: "/en/buy-bitcoin-low-fees/"
+desc: Complete index of companies that allow you to buy bitcoin fast. A thorough reference for those who need to buy bitcoin quickly.   
+lang: en
+pmethod: lowfees
+---
+<p>Most bitcoin exchanges and dealers let you buy bitcoin with low fees as there is strong competition. The list below contains companies that let you buy or trade bitcoin with a fee of 1% or less. 1% has become somewhat of a standard across bitcoin brokers. Exchanges are somewhat more competitive and often have fees at under 0.5% per trade.</p> 
+{% include country-loops.html %}
+{% for name in site.data.buy %}
+{% if name.po contains 'lowfees' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}
