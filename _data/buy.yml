@@ -87,7 +87,7 @@
       
  - name: Bitcoin.de
    desc: Buy bitcoin online from other users with SEPA bank transfers.
-   url: http://bitcoin.de/
+   url: http://buybitcoinww.co/Bitcoin_de
    icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinde.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    po: sepa, ach, cash
@@ -105,7 +105,7 @@
    
  - name: Coinbase Exchange
    desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or ACH bank transfer.
-   url: https://exchange.coinbase.com/
+   url: http://buybitcoinww.co/coinbase_exchange
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png
    countries: us, gb   
    po: sepa, usbt
@@ -125,7 +125,7 @@
 
  - name: Bitstamp
    desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
-   url: https://bitstamp.net/
+   url: http://buybitcoinww.co/buy_bitstamp
    icon: https://www.buybitcoinworldwide.com/img/buy/stamp.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
    po: sepa
@@ -145,7 +145,7 @@
       
  - name: Kraken
    desc: Bitcoin exchange supporting SEPA deposits, bank wires, SWIFT, and JPY bank deposit. 
-   url: https://www.kraken.com/
+   url: http://buybitcoinww.co/kraken_bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/kraken.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, ca
    po: sepa, io
@@ -185,7 +185,7 @@
 
  - name: BitX
    desc: Bitcoin exchange and broker. Easy way to buy bitcoin in five supported countries. 
-   url: https://bitx.co/
+   url: http://buybitcoinww.co/bitx_co
    icon: https://www.buybitcoinworldwide.com/img/buy/bitx.png
    countries: id, ke, my, ng, za
    po: mpesa
