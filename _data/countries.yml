@@ -73,7 +73,6 @@
  - country: Puerto Rico
    short: pr
    na: yes
-   pop: yes
    es: yes
    country_es: Puerto Rico  
 
@@ -924,7 +923,6 @@
    short: il
    me: yes
    languages: en, he
-   pop: yes
    ar: yes
    country_ar: إسرائيل
    ru: yes
@@ -1123,12 +1121,14 @@
 
  - country: Singapore
    short: sg
+   pop: yes
    as: yes
    zh: yes
    country_zh: 新加坡
 
  - country: South Korea
    short: kr
+   pop: yes
    as: yes
 
  - country: Sri Lanka

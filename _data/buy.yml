@@ -86,7 +86,7 @@
    desc_bg: Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.
    
  - name: Coinbase Exchange
-   desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or ACH bank transfer.
+   desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or <a href="/en/buy-bitcoin-ach-bank-transfer-united-states/">ACH bank transfer</a>.
    url: http://buybitcoinww.co/coinbase_exchange
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png
    countries: us, gb   
@@ -167,7 +167,7 @@
    desc_bg: Биткойн борса, поддържаща SEPA депозити, банкови преводи, SWIFT, или JPY банков депозит.
 
  - name: Bitcoin.de
-   desc: Buy bitcoin online from other users with SEPA bank transfers.
+   desc: Buy bitcoin online from other users with <a href="/en/buy-bitcoin-sepa-transfer/">SEPA bank transfers</a>.
    url: http://buybitcoinww.co/Bitcoin_de
    icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinde.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
@@ -246,7 +246,7 @@
    desc_fr: Achetez en personne à Montréal ou en ligne dans le reste du Canada. Rapide, confidentiel et pratique.
    
  - name: QuickBT
-   desc: Buy small amounts of bitcoin in minutes (up to 0.2 BTC) with INTERAC Online. 
+   desc: Buy small amounts of bitcoin in minutes (up to 0.2 BTC) with <a href="/en/buy-bitcoin-interac-online/">INTERAC Online</a>. 
    url: https://quickbt.com
    icon: https://www.buybitcoinworldwide.com/img/buy/quickbt.png
    countries: ca
@@ -1231,7 +1231,7 @@
    desc_zh: 以Visa或Mastercard借记卡／信用卡购买少量的比特币。
      
  - name: CEX.io
-   desc: Buy bitcoin via credit card, SEPA/ACH bank transfer, cash, or AstroPay. 
+   desc: <a href="/en/buy-bitcoin-debit-credit-card-united-states/">Buy bitcoin via credit card</a>, SEPA/ACH bank transfer, cash, or AstroPay. 
    url: http://buybitcoinww.co/cex_io_bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/cex.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, tr, cn, hk, ar, br, cl, mx, co, pe, uy  
@@ -1300,7 +1300,7 @@
    desc_bg: Купете биткойн чрез кредитна карта или карта за подарък от Amazon. Таксите варират.
 
  - name: VirWoX
-   desc: Bitcoin exchange and broker. Easy way to buy bitcoin in five supported countries. 
+   desc: Buy Second Life Lindens, and trade them for bitcoin. One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a>.  
    url: http://buybitcoinww.co/bitcoin_virwox
    icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
    countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx
@@ -1373,7 +1373,7 @@
    desc_zh: 可在美国三十多个州使用信用卡购买比特币。
    
  - name: Wall of Coins
-   desc: Buy bitcoin via cash deposit at a number of US banks nationwide. 
+   desc: Buy bitcoin via <a href="/en/buy-bitcoin-cash-deposit-united-states/">cash deposit</a> at a number of US banks nationwide. 
    url: http://buybitcoinww.co/wall_of_coins
    icon: https://www.buybitcoinworldwide.com/img/buy/wallofcoins.png
    countries: us
@@ -1478,7 +1478,7 @@
    
  - name: Bitfinex
    desc: Deposit funds with an international wire transfer and buy bitcoin on the exchange.
-   url: https://www.bitfinex.com/
+   url: http://buybitcoinww.co/bitfinex_exchange
    icon: https://www.buybitcoinworldwide.com/img/buy/finex.png
    countries: at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, ie, it, lv, lt, lu, mt, nl, pl, pt, ro, sk, si, es, se, gb, us, jp, cn 
    po: lowfees  

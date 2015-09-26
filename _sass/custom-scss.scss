@@ -481,7 +481,7 @@ h3 {
 
 .home-featured-header {
 	text-align: center;
-	font-size: 40px;
+	font-size: 30px;
 	margin-bottom: 10px;
 }
 
@@ -493,7 +493,7 @@ h3 {
 	text-align: center;
 	font-weight: bold;
 	font-size: 18px;
-	margin-bottom: 20px;
+	margin-bottom: 35px;
 }
 
 .home-featured {
@@ -523,6 +523,59 @@ h3 {
 	background-color: #2579c6;
 	background-repeat: no-repeat;
 	height: 275px;
+}
+
+.map-desc, .map-title {
+	font-family: Open Sans;
+	text-align: center;
+	color: #fff;
+}
+
+.map-desc {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+.map-title {
+	font-size: 35px;
+	margin-top: 50px;
+}
+
+.help-article-wrap-home {
+	text-align: center;
+}
+
+.help-article-wrap-home h2 {
+	margin-top: 5px;
+	margin-bottom: 40px;
+}
+
+.help-article-wrap-home img {
+	width: auto;
+	height: 80px;
+}
+
+.help-article-wrap-home .credit img, .help-article-wrap-home .cdus img {
+    height: 66px;
+    margin: 7px 0;
+    width: auto;
+}
+
+@media (max-width: 600px) { 
+	.map-title {
+	margin-top: 20px !important;
+}
+
+.map-desc {
+    font-size: 15px !important;
+}
+
+}
+
+.home-featured-desc {
+	font-size: 14px;
 }
 
 .home-page-cont {
