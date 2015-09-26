@@ -529,7 +529,7 @@
 ##### England ####################################################  
 
  - name: CoinCorner
-   desc: Buy using GBP bank transfer or with credit/debit card. 
+   desc: Buy using GBP bank transfer, SEPA transfer, or with credit/debit card. 
    url: https://www.coincorner.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/ccoiner.png
    countries: gb
@@ -577,7 +577,7 @@
    desc_ar:  وسيط بيتكوين. شراء بيتكوين في أقل من ساعة عن طريق التحويل المصرفي عبر الإنترنت.   
    
  - name: CryptoMate
-   desc: Bitcoin broker. Buy bitcoin with UK online bank transfers. 
+   desc: Bitcoin broker. Buy bitcoin quickly with UK online bank transfers. 
    url: https://cryptomate.co.uk
    icon: https://www.buybitcoinworldwide.com/img/buy/cryptomate.png
    countries: gb           
@@ -1590,7 +1590,7 @@
    desc_fr: Achetez à des vendeurs locaux avec le portefeuille Bitcoin Mycelium.
    desc_nl: Koop van lokale dealers via de Mycelium Bitcoin portomonee. 
    desc_it: Acquista da trader locali attraverso il portafoglio di Bitcoin Mycelium. La disponibilità dipende dal luogo.
-   desc_el: Αγοράστε από τοπικούς εμπόρους με το πορτοφόλι bitcoin Mycelium. Η διαθεσιμότητα εξαρτάται από την τοποθεσία.
+   desc_el: Αγοράστε από τοπικούς εμπόρους με το πορτοφόλι bitcoin Mycelium. 
    desc_pt_br: Compre de negociantes locais através da carteira de Bitcoins da Mycelium. 
    desc_zh: 可从当地商人通过Mycelium比特币钱包采购。可用性取决于所在位置。 
    desc_de: Kaufe von lokalen Händlern durch Mycelium Bitcoin Brieftasche.
