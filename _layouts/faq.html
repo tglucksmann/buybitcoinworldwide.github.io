@@ -4,10 +4,30 @@ hide_sidebar: true
 ---
 {% assign author = site.data.authors[page.author] %}
 <div class="faq-article help-article {{ page.faq }}">
-<div class="breadcrumbs"><a href="/"><i class="fa fa-fw fa-home"></i>Buy Bitcoin Worldwide</a> &#155; <a href="/en/faq/">FAQ</a> &#155; <strong><a href="{{ page.url }}">{{ page.title }}</a></strong></div>
-<div class="post-header">
-  <h1 class="post-title-main"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-  <div class="faq-author">by <a rel="nofollow" href="{{ author.url }}">{{ author.name }}</a></div>
-</div>
+	<div class="breadcrumbs">
+	<a href="/"><i class="fa fa-fw fa-home"></i>Buy Bitcoin Worldwide</a> &#155; 
+	<a href="/en/faq/">FAQ</a> &#155; 
+	<strong><a href="{{ page.url }}">{{ page.title }}</a></strong>
+	</div>
+	
+	<div class="post-header">
+	  <h1 class="post-title-main"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+	  <div class="faq-author">by <a rel="nofollow" href="{{ author.url }}">{{ author.name }}</a></div>
+	</div>
+	
 	{{ content }}
+	
+	<div class="faq-list">
+	<div class="container">
+	<div class="row faq-list-header"><div class="col-xs-12">More FAQs</div></div> 
+	<div class="row">
+	{% for album in site.faqs %}
+	{% if album.faq != page.faq %}
+    <div class="col-md-2 col-xs-12"><a href="{{ album.url }}">{{ album.title }}</a></div>
+    {% endif %}
+	{% endfor %}
+	</div>
+	</div>
+	</div>
+	
 </div>
