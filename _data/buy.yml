@@ -423,7 +423,7 @@
    
  - name: Bits of Gold
    desc: Buy Bitcoin directly from Bits of Gold, the largest Bitcoin broker in Israel. 
-   url: https://bitsofgold.co.il
+   url: https://www.bitsofgold.co.il
    icon: https://www.buybitcoinworldwide.com/img/buy/bitsofgold.png
    countries: il 
    langs: en, he
