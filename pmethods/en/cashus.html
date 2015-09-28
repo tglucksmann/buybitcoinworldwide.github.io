@@ -1,5 +1,5 @@
 ---
-layout: help
+layout: guide
 title: "Buy Bitcoin with Cash Deposit in the United States"
 seotitle: "Buy Bitcoin with Cash Deposit in the United States"
 permalink: "/en/buy-bitcoin-cash-deposit-united-states/"
@@ -7,12 +7,15 @@ sitemap:
     priority: 0.7
 desc: Where to buy bitcoin with cash deposit in the United States. Complete list of exchanges and brokers accepting cash deposits for bitcoin. 
 lang: en
-pmethod: cashus
+pmethod: cashdus
 ---
-<p>Cash deposit is a quick and private way to <a href="/en/us/">buy bitcoin in the United States</a>. The list below contains bitcoin exchanges and companies that sell or facilitate P2P bitcoin trades via cash deposit.</p> 
+<p>Cash deposit is a quick and private way to <a href="/en/us/">buy bitcoin in the United States</a>. Bitcoin is usually delivered a few hours after your payment is made. Many of the options below do not require you to verify your identity or provide sensitive personal details.</p> 
+
 {% include country-loops.html %}
 {% for name in site.data.buy %}
 {% if name.po contains 'cdus' %}
 {% include buy-list-en.html %}
 {% endif %}
 {% endfor %}
+
+<p>Cash deposit is a good way to buy bitcoin quickly and in small amounts. If you need to buy larger amounts of bitcoin then <a href="/en/">buy with ACH transfer</a>.</p>

@@ -4,7 +4,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbase.png
    countries: gr, at, ro, be, hu, sg, bg, ie, sk, ca, it, es, hr, lv, se, cy, mt, ch, cz, nl, gb, dk, nor, us, fi, pl, fr, pt, pr
    po: sepa, usbt, fast, io, ideal, lowfees
-   desc_fast: Coinbase lets you buy bitcoin with a connected bank account via ACH bank transfer. The bitcoin bought in your first purchase will only be available to you after five days. However, if you add a credit card to your account all purchases after your initial purchase will have your bitcoin delivered instantly. Coinbase is available in the United States and most of Europe.   
+   desc_fast: Coinbase lets you buy bitcoin with a connected bank account via ACH bank transfer. The bitcoin bought in your first purchase will only be available to you after five days. However, if you add a credit card to your account all purchases after your initial purchase will have your bitcoin delivered instantly. Coinbase is available in the United States and most of Europe.  
+   desc_ach: Coinbase is the world's largest Bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. Coinbase charges a flat 1% fee on all transactions, which is the standard among U.S. Bitcoin brokers. You'll have to wait five days to receive your bitcoin. If you add a Visa or Mastercard credit card to your account all bitcoin purchases besides your first will be delivered instantly.    
    es: yes
    desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable. 1% de comision.
    ar: yes
@@ -31,7 +32,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/localbitcoins.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
    desc_paypal: Local Bitcoins connects you with local sellers who accept PayPal for Bitcoin. It's best to meet the seller in person and make the transaction in order to reduce the risk of fraud. Only deal with Local Bitcoins sellers with good feedback and a history of sales.  
-   desc_nobank: Local Bitcoins provieds escrow and offers a number of payment methods for buying bitcoin with no bank account. Cash deposit, Western Union, face-to-face cash trade, Amazon gift card are all offered on top of many other payment methods. Local Bitcoins provides escrow, but be sure to buy from sellers with previous trade history and positive feedback. 
+   desc_nobank: Local Bitcoins provides escrow and offers a number of payment methods for buying bitcoin with no bank account. Cash deposit, Western Union, face-to-face cash trade, Amazon gift card are all offered on top of many other payment methods. Local Bitcoins provides escrow, but be sure to buy from sellers with previous trade history and positive feedback. 
+   desc_cdus: Cash deposit is the most commonly used payment method on Local Bitcoins. Its private and does not require any personal details or verification. Local Bitcoins provides escrow and connects you with sellers. Be sure to buy from sellers with previous trade history and positive feedback. Local Bitcoins charges a flat 1% fee on all purchases. 
    desc_fast: Local Bitcoins lets customers pay with a number of payment methods. Bitcoin purchased with cash deposit is usually delivered within a few hours. Local Bitcoins works in every country, but its reliability depends on the liquidity in your location. 
    name_he: Local Bitcoins
    desc_he: קנייה של ביטקוין מסוחרים מקומיים ,דרך האינטרנט או פנים מול פנים. מהיר ופרטי. 1% עמלה.
@@ -55,6 +57,7 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/celery.png
    countries: us, ca
    po: usbt, io, lowfees
+   desc_ach: Celery is another Bitcoin broker and serves the U.S. and Canada. You can buy bitcoin with a connected bank account via ACH transfer. Celery charges a flat 1% fee on all transactions. Your coins will be delivered within 5 days. 
    es: yes
    desc_es: Comprar bitcoin con una cuenta conectada a un banco de EEUU o tarjeta de crédito/débito.   
    ar: yes
@@ -76,6 +79,7 @@
    po: ccus, usbt, fast, lowfees
    desc_fast: Circle lets you buy bitcoin with a credit card, debit card, or ACH bank transfer. Purchases of bitcoin made with a debit card are available instantly. Circle is currently only available in the United States.
    desc_ccus: Circle lets you buy bitcoin with a debit card instantly with no fee. If you use a credit card you'll have to pay a 3% fee, and wait a few days to receive your coins. Circle is currently only available in the United States. Some users in Europe and South America have had success as well. 
+   desc_ach: Circle lets you connect a bank account and buy via ACH transfer. Circle doesn't officially charge a fee, but its exchange rate is usually 0.5% higher than Bitcoin exchanges. Bitcoin will be delivered within 1-4 days. 
    es: yes
    desc_es: Comprar Bitcoin de forma instantánea con una cuenta bancaria o tarjeta de crédito. Sin comisiones.
    ar: yes
@@ -101,6 +105,7 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png
    countries: us, gb   
    po: sepa, usbt, lowfees
+   desc_ach: Coinbase Exchange is only available in <a rel="nofollow" href="https://support.coinbase.com/customer/portal/articles/1826671-what-countries-us-states-are-supported-for-coinbase-exchange-">certrain U.S. States</a>. You can fund your account via ACH transfer.  
    es: yes
    name_es: Coinbase Exchange
    desc_es: Fondos con transferencia SEPA o transferencia bancaria ACH.
@@ -123,6 +128,7 @@
    po: sepa, fast, cdus, nobank
    desc_nobank: BitQuick provides escrow between buyers and sellers. Payments are made via cash deposit at bank locations across the U.S., and via SEPA transfer in the EU. Your coins will usually be delivered in under two hours if payment was made via cash deposit.  
    desc_fast: BitQuick's goal is to make buying bitcoin fast and easy. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour. BitQuick can be used in the United States and Europe. 
+   desc_cdus: BitQuick provides escrow and connects you with sellers. You can buy bitcoin via cash deposit at a number of banks across the United States and Europe. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour.  
    es: yes
    name_es: BitQuick
    desc_es: Comprar Bitcoin rápidamente con depósitos en efectivo o transferencias SEPA en la UE.  
@@ -214,7 +220,7 @@
    url: https://www.coinsetter.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinsetter.png
    countries: us
-   po: usbt
+   po: swift
    es: yes
    name_es: Coinsetter
    desc_es: Intercambio de Bitcoin con sede en Nueva York. Deposite dinero con transferencia ACH o SWIFT.
@@ -1247,7 +1253,7 @@
    url: http://buybitcoinww.co/cex_io_bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/cex.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, tr, cn, hk, ar, br, cl, mx, co, pe, uy  
-   po: sepa, ccus, usbt, fast, lowfees
+   po: sepa, ccus, swift, fast, lowfees
    desc_fast: CEX.io lets you buy bitcoin with a credit card, ACH bank transfer, or SEPA transfer. Purchases made with a credit card give you access to your bitcoin immediately. CEX.io works in the United States, Europe, and some countries in South America. 
    desc_ccus: CEX.io lets you buy bitcoin with a credit card, and your bitcoin will be available immediately. CEX.io works in the United States, Europe, and some countries in South America.
    es: yes
@@ -1271,6 +1277,7 @@
    countries: us
    po: fast, cdus, nobank, lowfees
    desc_nobank: LibertyX lets you buy bitcoin with cash at a number of retail stores across the United States. You'll have to verify your identity before buying, making LibertyX less private than some of the other options. You can buy up to $1000 worth of bitcoin. You'll be charged a 1% fee on all purchases, but if you sign up with Facebook you can buy your first $1000 fee free. Your bitcoin should arrive a few minutes after your payment is made. 
+   desc_cdus: LibertyX lets you buy bitcoin with cash at a number of retail stores across the United States. You'll have to verify your identity before buying, making LibertyX less private than some of the other options. You can buy up to $1000 worth of bitcoin and will be charged a 1% fee on all purchases. If you sign up with Facebook you can buy your first $1000 fee free. Your bitcoin should arrive a few minutes after your payment is made. 
    desc_fast: LibertyX lets you buy bitcoin with cash at a number of stores across the United States. Bitcoin is usually delivered within an hour of payment, and sometimes within 15 minutes.
    es: yes
    name_es: LibertyX
@@ -1284,11 +1291,12 @@
    desc_zh: 可在美国的一些零售店以现金购买比特币。
  
  - name: Snapcard
-   desc: Buy bitcoin with a connected U.S. bank account. Convenient and easy.   
+   desc: Buy bitcoin with a connected U.S. bank account. Convenient and easy.    
    url: https://www.snapcard.io/buy-bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/snapcard.png
    countries: us
    po: usbt, lowfees
+   desc_ach: Snapcard lets you buy bitcoin with a connected bank account via ACH transfer. Snapcard charges a flat 0.5% fee on all purchases. 
    desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable.
    desc_fr: Achetez des bitcoins avec votre compte en banque. Rapide et facile.
    desc_el: Αγοράστε bitcoin με τον τραπεζικό σας λογαριασμό. Εύκολα και γρήγορα.
@@ -1396,7 +1404,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/wallofcoins.png
    countries: us
    po: fast, cdus, nobank, lowfees
-   desc_nobank: Wall of Coins is another company that helps match buyers and sellers, with all payments done via cash deposits. You can buy up to $2000 worth of bitcoin via cash deposit at a number of banks across the United States. After your cash deposit is made you'll usually receive your coins within 15 minutes. 
+   desc_nobank: Wall of Coins is another company that helps match buyers and sellers, with all payments done via cash deposits. You can buy up to $2000 worth of bitcoin via cash deposit at a number of banks across the United States. After your cash deposit is made you'll usually receive your coins within 15 minutes.
+   desc_cdus: Wall of Coins is another company that helps match buyers and sellers, with all payments done via cash deposits. You can buy up to $2000 worth of bitcoin via cash deposit at a number of banks across the United States. After your cash deposit is made you'll usually receive your coins within 15 minutes. 
    desc_fast: Wall of Coins works like BitQuick, and lets you buy bitcoin with cash deposit. Your bitcoin will be delivered shortly after the seller verifies that the payment was received. Available in the United States only. 
    es: yes
    name_es: Wall of Coins
@@ -1413,7 +1422,7 @@
    url: https://www.itbit.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/itbit.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg
-   po: sepa, usbt
+   po: sepa
    es: yes
    name_es: itBit
    desc_es: Deposite con transferencia ACH, SEPA o transferencia bancaria internacional. 
@@ -1559,7 +1568,7 @@
    url: https://paxful.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/paxful.png
    countries: us
-   po: sepa, paypal, amzngc, okpay, cdus, wu
+   po: sepa, paypal, amzngc, okpay, wu
    desc_paypal: Paxful helps match you with a seller who accepts PayPal for Bitcoin. It's best to make the exchange in person in order to reduce the risk of fraud. Only buy from sellers with excellent feedback and previous sales.  
    
  - name: HappyCoins
@@ -1641,7 +1650,7 @@
    url: https://bitcoin-otc.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinotc.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo  
-   po: cdus, paypal
+   po: paypal
    desc_paypal: It may be possible to buy bitcoin with PayPal using bitcoin-otc. However, this depends on the  order book and if someone is currently willing to sell their Bitcoin for PayPal. It may not be possible to use bitcoin-otc in some countries, and the amount of sellers who accept PayPal is very small. 
    es: yes
    name_es: bitcoin-otc
