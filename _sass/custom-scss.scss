@@ -447,6 +447,10 @@ h3 {
 }
 }
 
+.guide-article .post-title-main {
+	text-align: left;
+}
+
 .navbar-static-top {
     border-width: 0;
 }
@@ -507,6 +511,15 @@ h3 {
 	text-align: center;
 	color: #fff;
 	    font-weight: 400;
+}
+
+.faq-article .post-title-main {
+    text-align: left;
+}
+
+.guide-div {
+	float: left;
+	display: inline-flex;
 }
 
 .map-desc {
@@ -677,8 +690,58 @@ height: auto;
 }
 
 .faq-author {
-	text-align: center;
 	margin-top: 3px;
+}
+
+.sidebar-add a {
+	color: #333;
+	font-weight: 400;
+}
+
+.sidebar-add h3 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.sidebar-add .not-first {
+	margin-top: 40px;
+}
+
+.sidebar-add h4 {
+    margin-bottom: 15px;
+    font-size: 17px;
+    margin-top: 0;
+}
+
+.sidebar-add .pmethods-sidebar img {
+    float: left;
+    height: 24px;
+    margin-right: 10px;
+    width: auto;
+}
+
+.pmethods-sidebar ul {
+	padding-left: 15px;
+}
+
+.sidebar-image-wrap {
+    float: left;
+    width: 54px;
+}
+
+.sidebar-add .pmethods-sidebar-1 img {
+    float: left;
+    height: auto;
+    margin-right: 10px;
+    width: 53px;
+}
+
+.pmethods-sidebar-1 .sidebar-image-wrap {
+    float: left;
+    height: 45px;
+    width: 60px;
 }
 
 .breadcrumbs {

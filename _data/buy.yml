@@ -23,7 +23,7 @@
    url: http://buybitcoinww.co/bitcoin_virwox
    icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
    po: paypal
-   desc_paypal: VirWoX stands for Virtual World Exchange, and mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can't buy Bitcoin with PayPal directly at VirWoX, but it's possible to first buy Second Life Lindens (SLL) and then trade your SLL for Bitcoin. This process works perfectly, but in the end will cost you about 7% in fees. 
+   desc_paypal: VirWoX stands for Virtual World Exchange, and mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can't buy Bitcoin with PayPal directly at VirWoX, but it's possible to first buy Second Life Lindens (SLL) and then trade your SLL for Bitcoin. This process works perfectly, but in the end will cost you about 7% in fees.   
 
  - name: Local Bitcoins
    desc: Buy bitcoin from local dealers, online or in person. Private and quick. 1% fee.
@@ -54,7 +54,7 @@
    url: http://buybitcoinww.co/go_celery
    icon: https://www.buybitcoinworldwide.com/img/buy/celery.png
    countries: us, ca
-   po: usbt, ccus, io, lowfees
+   po: usbt, io, lowfees
    es: yes
    desc_es: Comprar bitcoin con una cuenta conectada a un banco de EEUU o tarjeta de crédito/débito.   
    ar: yes
@@ -75,6 +75,7 @@
    countries: us
    po: ccus, usbt, fast, lowfees
    desc_fast: Circle lets you buy bitcoin with a credit card, debit card, or ACH bank transfer. Purchases of bitcoin made with a debit card are available instantly. Circle is currently only available in the United States.
+   desc_ccus: Circle lets you buy bitcoin with a debit card instantly with no fee. If you use a credit card you'll have to pay a 3% fee, and wait a few days to receive your coins. Circle is currently only available in the United States. Some users in Europe and South America have had success as well. 
    es: yes
    desc_es: Comprar Bitcoin de forma instantánea con una cuenta bancaria o tarjeta de crédito. Sin comisiones.
    ar: yes
@@ -87,6 +88,12 @@
    desc_de: Kaufen Sie Bitcoin mit einem Bankkonto oder Kreditkarte. Schnell und einfach.
    desc_zh: 通过银行账户或信用卡购买比特币。快捷又简单。
    desc_bg: Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.
+   
+ - name: CoinMama
+   url: http://buybitcoinww.co/CoinMama_Bitcoin
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
+   po: ccus
+   desc_ccus: CoinMama is a bitcoin broker that specializes in accepting credit cards for bitcoin. You'll be charged a 10-15% premium due to the risks and processing fees that come with credit card payments. You can buy up to $520 worth of bitcoin per day. You'll need to verify your personal details. After your account is verified you will receive your coins within a few hours.    
    
  - name: Coinbase Exchange
    desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or <a href="/en/buy-bitcoin-ach-bank-transfer-united-states/">ACH bank transfer</a>.
@@ -1221,6 +1228,7 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/changetip.png
    countries: us
    po: ccus, lowfees
+   desc_ccus: Changetip lets you buy up to $25 worth of bitcoin with a Visa or Mastercard credit/debit card. You'll need to connect a Facebook, Twitter, Reddit or GitHub account. It may take up to 24 hours to get your bitcoin with your first purchase.  
    es: yes
    name_es: Changetip
    desc_es: Comprar pequeñas cantidades de Bitcoin con una tarjeta de débito/crédito Visa o Mastercard.
@@ -1241,6 +1249,7 @@
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, tr, cn, hk, ar, br, cl, mx, co, pe, uy  
    po: sepa, ccus, usbt, fast, lowfees
    desc_fast: CEX.io lets you buy bitcoin with a credit card, ACH bank transfer, or SEPA transfer. Purchases made with a credit card give you access to your bitcoin immediately. CEX.io works in the United States, Europe, and some countries in South America. 
+   desc_ccus: CEX.io lets you buy bitcoin with a credit card, and your bitcoin will be available immediately. CEX.io works in the United States, Europe, and some countries in South America.
    es: yes
    name_es: CEX.io
    desc_es: Comprar Bitcoin a través de tarjeta de crédito, transferencia bancaria SEPA/ACH, o efectivo.
@@ -1293,7 +1302,8 @@
    url: http://buybitcoinww.co/purse_io
    icon: https://www.buybitcoinworldwide.com/img/buy/purse.png
    countries: us, ca, jp, br, uk, fr, it, es, cn, in
-   po: ccus  
+   po: ccus
+   desc_ccus: With Purse.io you buy bitcoin with a credit card but not directly. Purse.io connects you with a buyer who wants to make a purchase on Amazon. You use your credit card or debit card to order items from the buyer's Amazon wish list. When the items have been delivered to the buyer, you are given bitcoin equivalent to the value of the items you ordered for the buyer.   
    es: yes
    name_es: Purse.io
    desc_es: Comprar Bitcoin con una tarjeta de crédito o tarjetas regalo de Amazon. 
@@ -1369,6 +1379,7 @@
    countries: us
    po: ccus, fast
    desc_fast: Trucoin lets you buy bitcoin with a Visa or Mastercard credit card in 30 U.S. states. Your bitcoin will be delivered instantly. 
+   desc_ccus: Trucoin lets you buy bitcoin with a Visa or Mastercard credit card in 30 U.S. states. Your bitcoin will be delivered instantly.
    es: yes
    name_es: Trucoin
    desc_es: Comprar Bitcoin con una tarjeta de crédito de forma instantánea en más de 30 estados de los EEUU.
@@ -1548,7 +1559,7 @@
    url: https://paxful.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/paxful.png
    countries: us
-   po: sepa, paypal, amzngc, okpay, cdus, ccus, wu
+   po: sepa, paypal, amzngc, okpay, cdus, wu
    desc_paypal: Paxful helps match you with a seller who accepts PayPal for Bitcoin. It's best to make the exchange in person in order to reduce the risk of fraud. Only buy from sellers with excellent feedback and previous sales.  
    
  - name: HappyCoins
