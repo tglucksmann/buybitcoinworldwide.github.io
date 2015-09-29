@@ -9,7 +9,7 @@
    es: yes
    desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable. 1% de comision.
    ar: yes
-   desc_ar:  شراء بيتكوين بحسابك المصرفي. سهلة وسريعة ومريحة. شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين INTERAC Online.
+   desc_ar:  شراء بيتكوين بحسابك المصرفي. سهلة وسريعة ومريحة. شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين Interac Online.
    desc_fr: Achetez des bitcoins avec votre compte en banque. Facile, rapide, pratique.
    desc_el: Αγοράστε bitcoin με τον τραπεζικό σας λογαριασμό. Εύκολα, γρήγορα, βολικά.
    desc_nl: Koop bitcoin met je bankrekening. Simpel. Snel. Gemakkelijk. 
@@ -52,7 +52,7 @@
    desc_bg: Купете биткойн от местни дилъри, онлайн или лично. Бързо и анонимно. 1% такса.
    
  - name: Celery
-   desc: Buy bitcoin with a connected US bank account or credit/debit card.  
+   desc: Buy with a connected bank account in the U.S. and Canada, or with Interac Online. 
    url: http://buybitcoinww.co/go_celery
    icon: https://www.buybitcoinworldwide.com/img/buy/celery.png
    countries: us, ca
@@ -61,8 +61,8 @@
    es: yes
    desc_es: Comprar bitcoin con una cuenta conectada a un banco de EEUU o tarjeta de crédito/débito.   
    ar: yes
-   desc_ar:  شراء بيتكوين بحساب مصرفي أمريكي مربوط أو ببطاقة الائتمان / الخصم. شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين INTERAC Online. 
-   desc_fr: Achetez des bitcoins avec un compte en banque ou par carte de crédit, & INTERAC En Ligne.
+   desc_ar:  شراء بيتكوين بحساب مصرفي أمريكي مربوط أو ببطاقة الائتمان / الخصم. شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين Interac Online. 
+   desc_fr: Achetez des bitcoins avec un compte en banque ou par carte de crédit, & Interac En Ligne.
    desc_el: Αγοράστε bitcoin με συνδεδεμένο τραπεζικό λογαριασμό από τις ΗΠΑ ή χρεωστική/πιστωτική κάρτα.
    desc_nl: Koop bitcoin met een Amerikaanse bankrekening of credit/debit card.
    desc_it: Acquista Bitcoin con un conto bancario o una carta di credito. Facile e veloce.
@@ -247,7 +247,7 @@
    name_es: Cavirtex
    desc_es: La manera más fácil de comprar Bitcoin en Canadá con un número de opciones de depósito. 
    ar: yes
-   desc_ar:  أسهل طرق شراء بيتكوين في كندا بعد د من خيارات الإيداع. تمويل الحساب بنظام INTERAC على الانترنت وبالعديد من خيارات الدفع الأخرى.
+   desc_ar:  أسهل طرق شراء بيتكوين في كندا بعد د من خيارات الإيداع. تمويل الحساب بنظام Interac على الانترنت وبالعديد من خيارات الدفع الأخرى.
    desc_fr: Le moyen de plus facile d'acheter des Bitcoins au Canada, avec de nombreuses options de dépôt.
 
  - name: Satoshi Counter
@@ -263,17 +263,17 @@
    desc_fr: Achetez en personne à Montréal ou en ligne dans le reste du Canada. Rapide, confidentiel et pratique.
    
  - name: QuickBT
-   desc: Buy small amounts of bitcoin in minutes (up to 0.2 BTC) with <a href="/en/buy-bitcoin-interac-online/">INTERAC Online</a>. 
+   desc: Buy small amounts of bitcoin in minutes (up to 0.2 BTC) with <a href="/en/buy-bitcoin-interac-online/">Interac Online</a>. 
    url: https://quickbt.com
    icon: https://www.buybitcoinworldwide.com/img/buy/quickbt.png
    countries: ca
    po: io
    es: yes
    name_es: QuickBT
-   desc_es: Comprar pequeñas cantidades de Bitcoin en minutos (hasta 0.2 BTC) con INTERAC Online.
+   desc_es: Comprar pequeñas cantidades de Bitcoin en minutos (hasta 0.2 BTC) con Interac Online.
    ar: yes
-   desc_ar:  شراء كميات صغيرة من بيتكوين في دقائق (حتى 0.2 بيتكوين) بنظام الدفع والسحب الإلكتروني الكندي INTERAC وذلك أون لاين.
-   desc_fr: Achetez en quelques minutes des petites quantités de bitcoins (jusqu'à 0.2 BTC) avec INTERAC En Ligne.
+   desc_ar:  شراء كميات صغيرة من بيتكوين في دقائق (حتى 0.2 بيتكوين) بنظام الدفع والسحب الإلكتروني الكندي Interac وذلك أون لاين.
+   desc_fr: Achetez en quelques minutes des petites quantités de bitcoins (jusqu'à 0.2 BTC) avec Interac En Ligne.
    
  - name: ANXPRO
    desc: Buy bitcoin with cash deposit, bank transfer, SEPA, and more.
@@ -288,17 +288,17 @@
    desc_fr: Achetez des bitcoins par dépôt d'espèces, virement bancaire, SEPA et bien plus.
    
  - name: QuadrigaCX
-   desc: Bitcoin exchange. Fund account with INTERAC Online and many other payment options.
+   desc: Bitcoin exchange. Fund account with Interac Online and many other payment options.
    url: https://www.quadrigacx.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/quadrigacx.png
    countries: ca
    po: io
    es: yes
    name_es: QuadrigaCX
-   desc_es: Intercambio de Bitcoin. Cuenta de fondos con INTERAC Online y muchos otros métodos de pago.
+   desc_es: Intercambio de Bitcoin. Cuenta de fondos con Interac Online y muchos otros métodos de pago.
    ar: yes
-   desc_ar:  صرافة بيتكوين . تمويل الحساب بنظام INTERAC على الانترنت وبالعديد من خيارات الدفع الأخرى.
-   desc_fr: Bourse d'échange de bitcoins. Alimentez votre compte avec INTERAC® et bien d'autres moyens.
+   desc_ar:  صرافة بيتكوين . تمويل الحساب بنظام Interac على الانترنت وبالعديد من خيارات الدفع الأخرى.
+   desc_fr: Bourse d'échange de bitcoins. Alimentez votre compte avec Interac® et bien d'autres moyens.
    
  - name: Safello
    desc: Buy bitcoin via SEPA, Swish, International Bank Transfer, Bankgiro, and more. 
@@ -327,23 +327,23 @@
    po: io
    es: yes
    name_es: Canadian Bitcoins
-   desc_es: Comprar Bitcoin con efectivo en la oficnia, banca online e INTERAC Online.
+   desc_es: Comprar Bitcoin con efectivo en la oficnia, banca online e Interac Online.
    ar: yes
-   desc_ar:  شراء بيتكوين INTERAC نقدًا من خلال المكتب، ونقدًا بالبريد السريع، والخدمات المصرفية عبر الإنترنت، و Interac أون لاين.
-   desc_fr: Achetez en espèces dans leurs bureaux, par courrier express, banque en ligne & INTERAC En Ligne.
+   desc_ar:  شراء بيتكوين Interac نقدًا من خلال المكتب، ونقدًا بالبريد السريع، والخدمات المصرفية عبر الإنترنت، و Interac أون لاين.
+   desc_fr: Achetez en espèces dans leurs bureaux, par courrier express, banque en ligne & Interac En Ligne.
    
  - name: InstaBT
-   desc: Buy bitcoin online in Canada with INTERAC Online. Convenient and quick. 
+   desc: Buy bitcoin online in Canada with Interac Online. Convenient and quick. 
    url: https://instabt.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/instabt.png
    countries: ca
    po: io
    es: yes
    name_es: InstaBT
-   desc_es: Comprar Bitcoin online en Canadá con INTERAC Online. Conveniente y rápido.
+   desc_es: Comprar Bitcoin online en Canadá con Interac Online. Conveniente y rápido.
    ar: yes
-   desc_ar:  شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين INTERAC Online. عملية مريحة وسريعة.
-   desc_fr: Achetez des bitcoins en ligne au Canada avec INTERAC En Ligne. Pratique et rapide.
+   desc_ar:  شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين Interac Online. عملية مريحة وسريعة.
+   desc_fr: Achetez des bitcoins en ligne au Canada avec Interac En Ligne. Pratique et rapide.
    
 ##### Venezuela ####################################################  
 
@@ -1489,20 +1489,20 @@
    desc_bg: Биткойн брокер. Купете чрез SEPA или банков превод във Великобритания.
    
  - name: Anycoin Direct
-   desc: Bitcoin broker. Buy bitcoin with SEPA, INTERAC Online, and many more payment methods. 
+   desc: Bitcoin broker. Buy bitcoin with SEPA, Interac Online, and many more payment methods. 
    url: https://anycoindirect.eu/
    icon: https://www.buybitcoinworldwide.com/img/buy/anycoin.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, ca
    po: sepa, io, sofort, trustpay, giro, ideal
    ar: yes
-   desc_ar:  وسيط بيتكوين . شراء بيتكوين بـSEPA وINTERAC Online والعديد من وسائل الدفع الأخرى.
-   desc_fr: Achetez avec virements SEPA, INTERAC En Ligne et beaucoup d'autres options de paiement.
-   desc_nl: Bitcoin dealer. Koop bitcoin met SEPA, INTERAC Online en vele andere betaalmethodes.
-   desc_it: Acquista Bitcoin tramite SEPA, INTERAC Online e molte altre modalità di pagamento.
-   desc_el: Μεσίτης bitcoin. Αγοράστε bitcoin με SEPA, INTERAC Online και άλλες πολλές μεθόδους πληρωμής.
-   desc_pt_br: Casa de câmbio de moeda Bitcoin. Compre Bitcoins via transferência SEPA, INTERAC e outras formas.
-   desc_de: Bitcoin mit SEPA, INTERAC Online und viele andere Zahlungsmethoden.
-   desc_bg: Биткойн брокер. Купете биткойн чрез SEPA, INTERAC Online и много други възможности за плащане.
+   desc_ar:  وسيط بيتكوين . شراء بيتكوين بـSEPA وInterac Online والعديد من وسائل الدفع الأخرى.
+   desc_fr: Achetez avec virements SEPA, Interac En Ligne et beaucoup d'autres options de paiement.
+   desc_nl: Bitcoin dealer. Koop bitcoin met SEPA, Interac Online en vele andere betaalmethodes.
+   desc_it: Acquista Bitcoin tramite SEPA, Interac Online e molte altre modalità di pagamento.
+   desc_el: Μεσίτης bitcoin. Αγοράστε bitcoin με SEPA, Interac Online και άλλες πολλές μεθόδους πληρωμής.
+   desc_pt_br: Casa de câmbio de moeda Bitcoin. Compre Bitcoins via transferência SEPA, Interac e outras formas.
+   desc_de: Bitcoin mit SEPA, Interac Online und viele andere Zahlungsmethoden.
+   desc_bg: Биткойн брокер. Купете биткойн чрез SEPA, Interac Online и много други възможности за плащане.
    
  - name: Bitfinex
    desc: Deposit funds with an international wire transfer and buy bitcoin on the exchange.
