@@ -56,7 +56,6 @@
    url: https://fastcoin.ch/
    icon: https://www.buybitcoinworldwide.com/img/buy/sbex.png
    countries: ch  
-   po: sepa, sofort, obt
    ar: yes
    desc_ar:  الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.
    desc_fr: Achetez avec un virement SEPA ou virement bancaire en Suisse. Rapide et pratique.
