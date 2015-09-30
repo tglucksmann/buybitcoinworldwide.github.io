@@ -50,6 +50,22 @@
    desc_de: Kaufen Sie Bitcoin von lokalen Händlern, online oder persönlich. Privat und schnell. 1%  Gebühr. 
    desc_zh: 通过本地商户，亲自或在网上购买比特币。专属且快捷。费率为1%。
    desc_bg: Купете биткойн от местни дилъри, онлайн или лично. Бързо и анонимно. 1% такса.
+ 
+ - name: Fastcoin.ch
+   desc: Buy with SEPA transfer or bank transfer in Switzerland.  Fast and convenient. 
+   url: https://fastcoin.ch/
+   icon: https://www.buybitcoinworldwide.com/img/buy/sbex.png
+   countries: ch  
+   po: sepa, sofort, obt
+   ar: yes
+   desc_ar:  الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.
+   desc_fr: Achetez avec un virement SEPA ou virement bancaire en Suisse. Rapide et pratique.
+   desc_el: Αγοράστε με εμβάσματα SEPA ή τραπεζική μεταφορά στην Ελβετία. Γρήγορα και βολικά.
+   desc_nl: Koop met SEPA overschrijving of bankoverschrijving in Zwitserland. Snel en eenvouding. 
+   desc_it: Acquista Bitcoin tramite trasferimento SEPA o bonifico bancario in Svizzera. Rapido e conveniente.
+   desc_pt_br: Compre Bitcoins na Suíça por transferência bancária ou SEPA. Rápido e fácil. 
+   desc_de: Kaufen mit SEPA Überweisungen oder Banküberweisungen in der Schweiz.
+   desc_bg: Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно. 
    
  - name: Celery
    desc: Buy with a connected bank account in the U.S. and Canada, or with Interac Online. 
@@ -235,6 +251,22 @@
    desc_zh: 纽约比特币交易所。以ACH转账或SWIFT交存。
    desc_bg: Базирана в Ню Йорк биткойн борса. Депозирайте пари чрез ACH превод или SWIFT.
    
+##### Austria ####################################################   
+
+ - name: bitcoinbon
+   desc: Buy bitcoin at over 600 physical locations across Austria. Buy 25, 50, or 100 EUR. 
+   url: https://www.bitcoinbon.at/
+   icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinbon.png
+   countries: at
+   po: cdeu, cdat
+   
+ - name: Coinfinity
+   desc: Austrian Bitcoin broker. Buy bitcoin via SEPA transfer or SOFORT.  
+   url: https://coinfinity.co/
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinfinity.png
+   countries: at
+   po: sofort  
+
 ##### Canada ####################################################   
 
  - name: Cavirtex
@@ -866,10 +898,22 @@
 ##### Australia #################################################### 
  
  - name: CoinJar
-   desc: Australian Bitcoin platform. Buy bitcoin via BPAY. 1% fee.  
+   desc: Australian Bitcoin platform and broker. Buy bitcoin via BPAY. 1% fee.  
    url: https://www.coinjar.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinjar.png
-   countries: au  
+   countries: au 
+   
+ - name: BuyaBitcoin
+   desc: Australian Bitcoin broker. Buy bitcoin via cash deposit. Coins delivered within 1 hour.    
+   url: https://buyabitcoin.com.au/
+   icon: https://www.buybitcoinworldwide.com/img/buy/buyabitcoin.png
+   countries: au 
+   
+ - name: Independent Reserve
+   desc: Australian Bitcoin exchange. Fund your account with EFT or SWIFT.    
+   url: https://www.independentreserve.com/
+   icon: https://www.buybitcoinworldwide.com/img/buy/ir.png
+   countries: au        
    
 ##### Malaysia #################################################### 
 
@@ -1460,7 +1504,7 @@
    desc: Buy with SEPA transfer or bank transfer in Switzerland.  Fast and convenient. 
    url: https://fastcoin.ch/
    icon: https://www.buybitcoinworldwide.com/img/buy/sbex.png
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb   
    po: sepa, sofort, obt
    ar: yes
    desc_ar:  الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.
