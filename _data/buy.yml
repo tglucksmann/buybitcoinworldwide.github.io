@@ -6,11 +6,8 @@
    po: sepa, usbt, fast, io, ideal, lowfees, ccww
    desc_fast: Coinbase lets you buy bitcoin with a connected bank account via ACH bank transfer. The bitcoin bought in your first purchase will only be available to you after five days. However, if you add a credit card to your account all purchases after your initial purchase will have your bitcoin delivered instantly. Coinbase is available in the United States and most of Europe.  
    desc_ach: Coinbase is the world's largest Bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. Coinbase charges a flat 1% fee on all transactions, which is the standard among U.S. Bitcoin brokers. You'll have to wait five days to receive your bitcoin. If you add a Visa or Mastercard credit card to your account all bitcoin purchases besides your first will be delivered instantly.
-<<<<<<< HEAD
    desc_ccww: Coinbase is the world's largest Bitcoin broker. At Coinbase you can buy up to €100 of bitcoin per day instantly with a 3D secure credit or debit card in Europe or the United Kingdom. Coinbase charges a flat 3% fee on all purchases via credit or debit card. Coinbase's 3% fee on credit card purchases is the lowest among Bitcoin brokers servicing European customers. If you buy more than $100 or €100 worth of bitcoin through <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">this link</a> you'll get $10 or €10 worth of bitcoin as a bonus (this can be done in multiple purchases, i.e. two purchases of €50 worth).  
-=======
    desc_ccww: Coinbase is the world's largest Bitcoin broker. At Coinbase you can buy up to €100 of bitcoin per day instantly with a 3D secure credit or debit card in Europe or the United Kingdom. Coinbase charges a flat 3% fee on all purchases via credit or debit card. Coinbase's 3% fee on credit card purchases is the lowest among Bitcoin brokers servicing European customers. If you buy more than $100 or €100 worth of bitcoin through <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">this link</a> you'll get $10 or €10 worth of bitcoin as a bonus (this can be done in multiple purchases, i.e. two purchases of €50 worth).
->>>>>>> pr/3
    es: yes
    desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable. 1% de comision.
    ar: yes
@@ -123,13 +120,10 @@
  - name: CoinMama
    url: http://buybitcoinww.co/CoinMama_Bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
-<<<<<<< HEAD
    po: ccww
    desc_ccww: CoinMama is a bitcoin broker that specializes in letting you buy bitcoin with a credit card or debit card. You'll be charged a 10% fee due to the risks and processing fees that come with credit card payments. It's possible buy up to $520 worth of bitcoin per day. After your account is verified and a purchase is made you will receive your bitcoin within a few hours. Use <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">this link</a> to get 5% off your order. CoinMama is not available to residents of the United States.  
-=======
    po: ccww 
    desc_ccww: CoinMama is a bitcoin broker that specializes in letting you buy bitcoin with a credit card or debit card. You'll be charged a 10% fee due to the risks and processing fees that come with credit card payments. It's possible buy up to $520 worth of bitcoin per day. After your account is verified and a purchase is made you will receive your bitcoin within a few hours. Use <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">this link</a> to get 5% off your order. CoinMama is not available to residents of the United States.
->>>>>>> pr/3
    
  - name: Coinbase Exchange
    desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or <a href="/en/buy-bitcoin-ach-bank-transfer-united-states/">ACH bank transfer</a>.
@@ -1423,11 +1417,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/clever.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
    po: sepa, ideal, ccww
-<<<<<<< HEAD
    desc_ccww: Clevercoin is a Bitcoin broker located in France. Residents of Europe can buy bitcoin with a credit card for a 3.6% fee plus €0.30. Initial limit is €250 per day. Your limit is increased the more you purchase, and can reach €2,500 per day. 
-=======
    desc_ccww: Clevercoin is a Bitcoin broker located in France. Residents of Europe can buy bitcoin with a credit card for a 3.6% fee plus €0.30. Initial limit is €250 per day. Your limit is increased the more you purchase, and can reach €2,500 per day.
->>>>>>> pr/3
    ar: yes
    desc_ar:  شراء بيتكوين بالتحويل المصرفي SEPA ، ووبطاقات الائتمان، أو iDEAL.
    desc_fr: Achetez des bitcoins avec un virement bancaire SEPA, une carte de crédit ou iDEAL.
