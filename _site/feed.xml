@@ -5,8 +5,13 @@
     <description></description>
     <link>https://www.buybitcoinworldwide.com/</link>
     <atom:link href="https://www.buybitcoinworldwide.com/feed.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
     <pubDate>Fri, 02 Oct 2015 15:29:19 +0300</pubDate>
     <lastBuildDate>Fri, 02 Oct 2015 15:29:19 +0300</lastBuildDate>
+=======
+    <pubDate>Fri, 02 Oct 2015 15:14:55 +0300</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2015 15:14:55 +0300</lastBuildDate>
+>>>>>>> update-1
     <generator>Jekyll v2.4.0</generator>
     
   </channel>
