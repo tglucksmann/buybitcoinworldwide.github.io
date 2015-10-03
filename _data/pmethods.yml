@@ -1,0 +1,20 @@
+ - pmethod: SEPA
+   short: sepa
+   
+ - pmethod: Credit Card
+   short: ccww 
+    
+ - pmethod: Cash Deposit
+   short: cdww
+     
+ - pmethod: PayPal
+   short:  PayPal
+     
+ - pmethod: iDEAL
+   short: ideal
+    
+ - pmethod: SOFORT
+   short: sofort
+      
+ - pmethod: Interac Online
+   short: io

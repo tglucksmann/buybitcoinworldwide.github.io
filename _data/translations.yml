@@ -31,6 +31,7 @@ en:
   about: About
   about_url: /en/about/
   change_lang: Language
+  by: by
   
 ##################### Spanish #####################
 es:   
@@ -258,6 +259,7 @@ fr:
   about: A propos
   about_url: /en/about/
   change_lang: Langue 
+  by: par
   
 ##################### Italian #####################
 it:
