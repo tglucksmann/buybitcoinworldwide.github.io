@@ -57,7 +57,8 @@
    desc: Buy with SEPA transfer or bank transfer in Switzerland.  Fast and convenient. 
    url: http://buybitcoinww.co/fast_coin
    icon: https://www.buybitcoinworldwide.com/img/buy/sbex.png
-   countries: ch  
+   countries: ch
+   hide: yes
    ar: yes
    desc_ar:  الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.
    desc_fr: Achetez avec un virement SEPA ou virement bancaire en Suisse. Rapide et pratique.
