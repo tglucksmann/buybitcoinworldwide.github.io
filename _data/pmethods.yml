@@ -2,13 +2,13 @@
    short: sepa
    
  - pmethod: Credit Card
-   short: ccww 
+   short: cc
     
- - pmethod: Cash Deposit
-   short: cdww
+ - pmethod: Cash
+   short: cash
      
  - pmethod: PayPal
-   short:  PayPal
+   short:  pp
      
  - pmethod: iDEAL
    short: ideal
@@ -16,5 +16,14 @@
  - pmethod: SOFORT
    short: sofort
       
- - pmethod: Interac Online
-   short: io
+ - pmethod: SWIFT
+   short: swift
+   
+ - pmethod: AstroPay
+   short: astro
+   
+ - pmethod: webmoney.ru
+   short: wmru
+   
+ - pmethod: M-PESA
+   short: mpesa   
