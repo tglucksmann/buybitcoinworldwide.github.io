@@ -146,14 +146,6 @@
   });
 
   window.sellers.push({
-    countries: "hk",
-    methods: "sepa",
-    hide: "",
-    url: "http://anxintl.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://anxintl.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/anxbtc.png\" alt=\"ANXPRO\"></a> \n		<a type=\"button\" href=\"http://anxintl.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"http://anxintl.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
     countries: "ca",
     methods: "io",
     hide: "",
@@ -551,6 +543,14 @@
     hide: "",
     url: "https://yunbi.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://yunbi.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/yunbi.png\" alt=\"Yunbi\"></a> \n		<a type=\"button\" href=\"https://yunbi.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"https://yunbi.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "hk, us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
+    methods: "sepa",
+    hide: "",
+    url: "http://anxpro.com/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://anxpro.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/anxbtc.png\" alt=\"ANXPRO\"></a> \n		<a type=\"button\" href=\"http://anxpro.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"http://anxpro.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({

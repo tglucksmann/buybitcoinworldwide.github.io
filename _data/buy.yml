@@ -364,18 +364,6 @@
    desc_ru: Купить небольшие суммы биткоин в считанные секунды с помощью INTERAC Online.
    desc_uk: Купити невеликі суми біткоін в лічені секунди за допомогою INTERAC Online.
    
- - name: ANXPRO
-   desc: Buy bitcoin with cash deposit, bank transfer, SEPA, and more.
-   url: http://anxintl.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/anxbtc.png
-   countries: hk
-   po: sepa
-   es: yes
-   desc_es: Comprar Bitcoin con un depósito de efectivo, transferencia bancaria, SEPA y más.
-   ar: yes
-   desc_ar:  شراء بيتكوين بالإيداع النقدي، أو بحوالة مصرفية، أو SEPA، وغير ذلك من الطرق الكثيرة.
-   desc_fr: Achetez des bitcoins par dépôt d'espèces, virement bancaire, SEPA et bien plus.
-   
  - name: QuadrigaCX
    desc: Bitcoin exchange. Fund account with Interac Online and many other payment options.
    url: https://www.quadrigacx.com/
@@ -1002,6 +990,16 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/yunbi.png
    countries: cn, hk, mo 
    desc_zh: 中国小型比特币交易平台。交易费略不同。以人民币交易。  
+   
+ - name: ANXPRO
+   desc: Buy bitcoin with cash deposit, bank transfer, SEPA, and more.
+   url: http://anxpro.com/
+   icon: https://www.buybitcoinworldwide.com/img/buy/anxbtc.png
+   countries: hk, us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
+   po: sepa
+   desc_es: Comprar Bitcoin con un depósito de efectivo, transferencia bancaria, SEPA y más.
+   desc_ar:  شراء بيتكوين بالإيداع النقدي، أو بحوالة مصرفية، أو SEPA، وغير ذلك من الطرق الكثيرة.
+   desc_fr: Achetez des bitcoins par dépôt d'espèces, virement bancaire, SEPA et bien plus.  
    
 ##### Vietnam #################################################### 
    

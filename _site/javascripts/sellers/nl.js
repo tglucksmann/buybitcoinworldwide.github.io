@@ -146,14 +146,6 @@
   });
 
   window.sellers.push({
-    countries: "hk",
-    methods: "sepa",
-    hide: "",
-    url: "http://anxintl.com/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
     countries: "ca",
     methods: "io",
     hide: "",
@@ -550,6 +542,14 @@
     methods: "",
     hide: "",
     url: "https://yunbi.com/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "hk, us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
+    methods: "sepa",
+    hide: "",
+    url: "http://anxpro.com/",
     html: "      \n\n\n"
   });
 
