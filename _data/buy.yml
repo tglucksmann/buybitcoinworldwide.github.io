@@ -630,6 +630,8 @@
    desc_fr:  Bourse d'échange de bitcoins dans de nombreux pays sud américains. Payez en espèces ou avec AstroPay.
    desc_pt_br: Conversão de Bitcoins em diversos países da América do Sul. Deposite em dinheiro ou através do AstroPay.
    desc_de: Bitcoin Börse mit Diensten in vielen südamerikanischen Ländern. 
+   desc_ru: Биткоин-биржа, работающая во многих Южноамериканских странах. 
+   desc_uk: Біткоін-біржа, що працює в багатьох Південноамериканських країнах. 
       
  - name: Ripio
    desc: Buy bitcoin at over 8,000 convenience stores across Argentina. Local, quick, secure. 
@@ -820,6 +822,8 @@
    desc_pt_br: Plataforma de Bitcoins. Atende a um número crescente de países da América do Sul e Europa.
    desc_de: Bitcoin Plattform. Unterstützt eine wachsende Nummer von Ländern in Südamerika und Europa.
    desc_bg: Биткойн платформа. Поддържа растящ брой страни от Южна Америка и Европа.
+   desc_ru: Биткоин-платформа. Поддерживает множество стран в Южной Америке и Европе.
+   desc_uk: Біткоін-платформа. Підтримує безліч країн у Південній Америці і Європі.
 
  - name: Mercado Bitcoin
    desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers. Fee varies.   
@@ -835,6 +839,8 @@
    desc_fr: Bourse d'échange de bitcoins. Achetez des bitcoins en ligne au Brésil par virements bancaires. 
    desc_pt_br: Conversão de Bitcoins. Compre Bitcoins no Brasil através de transferência bancária. Taxas variáveis.  
    desc_de: Bitcoin Börse. Bitcoin online in Brasilien mit einer Banküberweisung kaufen. Gebühren variieren.
+   desc_ru: Биткоин-биржа. Купить биткоин онлайн в Бразилии через банковский перевод. Сборы могут меняться.
+   desc_uk: Біткоін-біржа. Купити біткоіни онлайн в Бразилії через банківський переказ. 
 
  - name: FOXBIT
    desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers and 0 fee deposit.
@@ -850,6 +856,8 @@
    desc_fr: Bourse d'échange de bitcoins. Achetez des bitcoins en ligne au Brésil par virements bancaires.
    desc_pt_br: Conversão de Bitcoins. Compre Bitcoins online no Brasil por transferência bancária.
    desc_de: Bitcoin Börse. Bitcoin online in Brasilien mit Banküberweisungen und 0% Gebühren kaufen.
+   desc_ru: Биткоин-биржа. Купить биткоин онлайн в Бразилии банковским переводом и беспроцентным вкладом.
+   desc_uk: Біткоін-біржа. Купити біткоіни онлайн в Бразилії банківським переказом і безвідсотковим внеском.
 
  - name: bitinvest
    desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers. 0.3% fee.  
@@ -865,6 +873,8 @@
    desc_fr: Bourse d'échange de bitcoins. Achetez des bitcoins en ligne au Brésil par virements bancaires.
    desc_pt_br: Conversão de Bitcoins. Compre Bitcoins online no Brasil por transferência bancária. Taxa de 0,3%.
    desc_de: Bitcoin Börse. Bitcoin online in Brasilien mit Banküberweisungen kaufen. 0.3 % Gebühr.
+   desc_ru: Биткоин-биржа. Купить биткоин онлайн в Бразилии банковским переводом. Сборы в размере 0.3%.
+   desc_uk: Біткоін-біржа. Купити біткоіни онлайн в Бразилії банківським переказом. Збори в розмірі 0.3%.
 
  - name: FlowBTC
    desc: Bitcoin exchange. Deposit online via bank transfer. Fee varies. 
@@ -880,6 +890,8 @@
    desc_fr: Bourse d'échange de bitcoins. Faites des dépôts en ligne par virement bancaire. Commission variable.
    desc_pt_br: Conversão de Bitcoins. Depósito online por transferência bancária. Taxas variáveis.
    desc_de: Bitcoin Börse. Geld online über Banküberweisungen einzahlen. Gebühr variiert.
+   desc_ru: Биткоин-биржа. Онлайн-вклад банковским переводом. Комиссия может меняться.
+   desc_uk: Біткоін-біржа. Онлайн-вклад банківським переказом. Комісія може змінюватися.
    
  - name: Bitcoin To You
    desc: Bitcoin exchange. Deposit online via bank transfer. Fee varies. 
@@ -895,6 +907,8 @@
    desc_fr: Bourse d'échange de bitcoins. Faites des dépôts en ligne par virement bancaire. Commission variable.
    desc_pt_br: Conversão de Bitcoins. Depósito online por transferência bancária. Taxas variáveis.
    desc_de: Bitcoin Börse. Geld online über Banküberweisungen einzahlen. Gebühr variiert.
+   desc_ru: Биткоин-биржа. Онлайн-вклад банковским переводом. Комиссия может меняться.
+   desc_uk: Біткоін-біржа. Онлайн-вклад банківським переказом. Комісія може змінюватися.
    
  - name: BitCambio
    desc: Bitcoin exchange. Deposit online via bank transfer. Fee varies. 
@@ -909,6 +923,8 @@
    desc_fr: Bourse d'échange de bitcoins. Faites des dépôts en ligne par virement bancaire. Commission variable.
    desc_pt_br: Conversão de Bitcoins. Depósito online por transferência bancária. Taxas variáveis.
    desc_de: Bitcoin Börse. Geld online über Banküberweisungen einzahlen. Gebühr variiert.
+   desc_ru: Биткоин-биржа. Онлайн-вклад банковским переводом. Комиссия может меняться.
+   desc_uk: Біткоін-біржа. Онлайн-вклад банківським переказом. Комісія може змінюватися.
    
  - name: Basebit
    desc: Bitcoin exchange. Deposit online via bank transfer or cash deposit. 
@@ -924,6 +940,8 @@
    desc_fr: Bourse d'échange de bitcoins. Faites des dépôts en ligne en espèces ou par virement bancaire.
    desc_pt_br: Conversão de Bitcoins. Depósito online por transferência bancária ou pagamento em dinheiro.
    desc_de: Bitcoin Börse. Geld online über Banküberweisungen oder Geldeinzahlungen einzahlen.
+   desc_ru: Биткоин-биржа. Онлайн-вклад банковским переводом или наличным депозитом.
+   desc_uk: Біткоін-біржа. Онлайн-вклад банківським переказом або готівковим депозитом.
    
 ##### China #################################################### 
  
@@ -1525,7 +1543,7 @@
    desc_de: Bitcoin mit Bargeld in einer Reihe von Einzelhandelgeschäften in den USA kaufen.
    desc_zh: 可在美国的一些零售店以现金购买比特币。
    desc_ru: Купить биткоин за наличные во множестве магазинов США.
-   desc_uk: Купити біткоіни за готівку в безлічі магазинів США.
+   desc_uk: Біткоіни-брокер. Купити біткоіни за готівку в безлічі магазинів США.
  
  - name: Snapcard
    desc: Buy bitcoin with a connected U.S. bank account. Convenient and easy.    
