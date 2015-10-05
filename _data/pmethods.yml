@@ -1,14 +1,17 @@
- - pmethod: SEPA
-   short: sepa
-   
  - pmethod: Credit Card
    short: cc
     
  - pmethod: Cash
    short: cash
+   
+ - pmethod: Bank Transfer
+   short: bt
+   
+ - pmethod: SEPA
+   short: sepa
      
  - pmethod: PayPal
-   short:  pp
+   short: pp
      
  - pmethod: iDEAL
    short: ideal

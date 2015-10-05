@@ -1,0 +1,16 @@
+---
+title: 
+seotitle: 
+permalink: /uk/Угорщина/
+layout: country
+lang: uk
+country: hu
+desc:   
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'hu' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

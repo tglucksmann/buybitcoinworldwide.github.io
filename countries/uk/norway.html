@@ -1,0 +1,16 @@
+---
+title: 
+seotitle: 
+permalink: /uk/Норвегія/
+layout: country
+lang: uk
+country: nor
+desc:   
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'nor' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

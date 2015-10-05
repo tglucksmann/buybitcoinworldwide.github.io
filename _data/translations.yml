@@ -164,7 +164,7 @@ ar:
   
 ##################### Russian #####################
 ru:
-  buy: Купить Bitcoin
+  buy: Купить биткоин
   atms: Банкоматы
   exchanges: Биржи
   namerica: Северная Америка
@@ -176,9 +176,9 @@ ru:
   meast: Ближний Восток    
   europe: Европа
   site_title: Buy Bitcoin Worldwide
-  sitedesc: Купить Bitcoin в любой точке мира. Просто выберите страну.
+  sitedesc: Купить биткоин в любой точке мира. Просто выберите страну.
   contribute: Сделать вклад
-  get_wallet: Получить Bitcoin-кошелек
+  get_wallet: Получить биткоин-кошелек
   short_lang: ru
   language: Русский
   home_url: /ru/

@@ -106,6 +106,18 @@
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
+{% elsif page.pmethod == 'ccww' and page.lang == 'ru' %}
+<div class="col-sm-12 buy-info-full">
+		<h4>
+		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_ccww_ru }}</p>
+		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
 {% elsif page.lang == 'es' and name.desc_es != null and name.name_es != null %}
 <div class="col-md-6 buy-info">
 		<h4>
@@ -243,7 +255,7 @@
 		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
-		<p>{{ name.desc_ru }}</p>
+		<p class="ru">{{ name.desc_ru }}</p>
 		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
@@ -255,7 +267,7 @@
 		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
-		<p>{{ name.desc_ru }}</p>
+		<p class="ru">{{ name.desc_ru }}</p>
 		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
@@ -269,7 +281,7 @@
 		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
-		<p>{{ name.desc_uk }}</p>
+		<p class="uk">{{ name.desc_uk }}</p>
 		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
@@ -281,7 +293,7 @@
 		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
-		<p>{{ name.desc_uk }}</p>
+		<p class="uk">{{ name.desc_uk }}</p>
 		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>

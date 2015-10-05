@@ -1,0 +1,16 @@
+---
+title: 
+seotitle: 
+permalink: /uk/Чехія/
+layout: country
+lang: uk
+country: cz
+desc:   
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'cz' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

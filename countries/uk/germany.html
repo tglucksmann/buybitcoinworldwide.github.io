@@ -1,0 +1,16 @@
+---
+title: 
+seotitle: 
+permalink: /uk/Німеччина/
+layout: country
+lang: uk
+country: de
+desc:  
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'de' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}

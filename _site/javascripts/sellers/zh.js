@@ -11,7 +11,7 @@
 
   window.sellers.push({
     countries: "ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo",
-    methods: "sepa, fast, cdus, paypal, nobank, lowfees",
+    methods: "sepa, fast, cdus, paypal, nobank, lowfees, pp, cash, wmru, astro, mpesa",
     hide: "",
     url: "http://buybitcoinww.co/local_bitcoins",
     html: "      \n<div class=\"col-md-6 buy-info buy-info-zh\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/localbitcoins.png\" alt=\"Local Bitcoins\">Local Bitcoins</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> 购买比特币</a>\n		</h4>\n		<p>通过本地商户，亲自或在网上购买比特币。专属且快捷。费率为1%。</p>\n		<a href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> 购买比特币</a>\n</div>\n\n\n"
@@ -83,7 +83,7 @@
 
   window.sellers.push({
     countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb",
-    methods: "sepa, sofort, obt, bt",
+    methods: "sepa, sofort",
     hide: "",
     url: "http://buybitcoinww.co/fast_coin",
     html: "      \n\n\n"
@@ -523,7 +523,7 @@
 
   window.sellers.push({
     countries: "cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mo",
-    methods: "sepa, ripple, egopay, bt",
+    methods: "sepa, bt, egopay",
     hide: "",
     url: "https://www.btcchina.com/",
     html: "      \n<div class=\"col-md-6 buy-info buy-info-zh\">\n		<h4>\n		<a href=\"https://www.btcchina.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/lakebtc.png\" alt=\"LakeBTC\">LakeBTC</a> \n		<a type=\"button\" href=\"https://www.btcchina.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> 购买比特币</a>\n		</h4>\n		<p>中国比特币交易平台。通过银行转账或国家环保总局交存。</p>\n		<a href=\"https://www.btcchina.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> 购买比特币</a>\n</div>\n\n\n"
@@ -731,7 +731,7 @@
 
   window.sellers.push({
     countries: "ru",
-    methods: "bt, okpay, perfectmoney",
+    methods: "okpay, perfectmoney, bt",
     hide: "",
     url: "https://www.alfacashier.com/",
     html: "      \n\n\n"

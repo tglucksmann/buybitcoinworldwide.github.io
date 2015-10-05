@@ -1,0 +1,16 @@
+---
+title: 
+seotitle: 
+permalink: /uk/Білорусь/
+layout: country
+lang: uk
+country: by
+desc:   
+---
+{% include country-loops.html %}
+{% include buy-list-header.html %}
+{% for name in site.data.buy %}
+{% if name.countries contains 'by' %}
+{% include buy-list-en.html %}
+{% endif %}
+{% endfor %}
