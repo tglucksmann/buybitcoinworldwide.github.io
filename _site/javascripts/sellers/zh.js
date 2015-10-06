@@ -82,14 +82,6 @@
   });
 
   window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb",
-    methods: "sepa, sofort",
-    hide: "",
-    url: "http://buybitcoinww.co/fast_coin",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
     countries: "id, ke, my, ng, za",
     methods: "mpesa, bt, eft",
     hide: "",
@@ -118,6 +110,30 @@
     methods: "sofort, sepa, sofort",
     hide: "",
     url: "https://coinfinity.co/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
+    methods: "ccww, cc",
+    hide: "",
+    url: "http://buybitcoinww.co/coinhouse",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "fr",
+    methods: "bt",
+    hide: "",
+    url: "https://paymium.com/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb",
+    methods: "sepa, sofort",
+    hide: "",
+    url: "http://buybitcoinww.co/fast_coin",
     html: "      \n\n\n"
   });
 
@@ -987,14 +1003,6 @@
 
   window.sellers.push({
     countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "ccww, cc",
-    hide: "",
-    url: "https://www.coinhouse.io",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
     methods: "sepa, ideal, ccww, cc",
     hide: "",
     url: "http://buybitcoinww.co/Clevercoin",
@@ -1102,14 +1110,6 @@
     methods: "sepa, ideal, sofort, io",
     hide: "",
     url: "https://www.happycoins.com/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "fr",
-    methods: "bt",
-    hide: "",
-    url: "https://paymium.com/",
     html: "      \n\n\n"
   });
 

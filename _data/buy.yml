@@ -250,22 +250,6 @@
    desc_ru: Купить биткоин онлайн у других пользователей c помощью банковского SEPA-платежа.
    desc_uk: Купити біткоін онлайн у інших користувачів за допомогою банківського SEPA-платежу.
 
- - name: Fastcoin.ch
-   desc: Buy with SEPA transfer or bank transfer in Switzerland.  Fast and convenient. 
-   url: http://buybitcoinww.co/fast_coin
-   icon: https://www.buybitcoinworldwide.com/img/buy/sbex.png
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb   
-   po: sepa, sofort
-   ar: yes
-   desc_ar:  الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.
-   desc_fr: Achetez avec un virement SEPA ou virement bancaire en Suisse. Rapide et pratique.
-   desc_el: Αγοράστε με εμβάσματα SEPA ή τραπεζική μεταφορά στην Ελβετία. Γρήγορα και βολικά.
-   desc_nl: Koop met SEPA overschrijving of bankoverschrijving in Zwitserland. Snel en eenvouding. 
-   desc_it: Acquista Bitcoin tramite trasferimento SEPA o bonifico bancario in Svizzera. Rapido e conveniente.
-   desc_pt_br: Compre Bitcoins na Suíça por transferência bancária ou SEPA. Rápido e fácil. 
-   desc_de: Kaufen mit SEPA Überweisungen oder Banküberweisungen in der Schweiz.
-   desc_bg: Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно.
-
  - name: BitX
    desc: Bitcoin exchange and broker. Easy way to buy bitcoin in five supported countries. 
    url: http://buybitcoinww.co/bitx_co
@@ -319,6 +303,56 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/coinfinity.png
    countries: at
    po: sofort, sepa, sofort
+
+##### France ####################################################
+
+ - name: Coinhouse
+   desc: Buy bitcoins with a 3D secure credit or debit card in Europe. High limits available.
+   url: http://buybitcoinww.co/coinhouse
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinhouse.png
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
+   desc_fr: Courtier bitcoin. Achetez vos bitcoins par carte de crédit en Europe. 
+   po: ccww, cc
+   desc_ccww: Coinhouse can process 3D secure credit cards and debit cards in all the SEPA zone. Delivery of bitcoins is immediate. This service is operated by Ledger, a well known security company in the Bitcoin space. Fees run from 6-10% depending on buy volume. 
+   desc_ccww_fr: Coinhouse peut traiter les cartes de crédit et cartes de débit 3D Secure dans toute la zone SEPA. La livraison des bitcoins est instantanée. Ce service est dirigé par Ledger, une société spécialisée dans la sécurisation de portefeuilles et extrêmement réputée dans le milieu du Bitcoin. Les commissions varient entre 6 et 10%, en fonction du volume d'achat.
+   desc_ccww_ptbr: Coinhouse pode processar cartões de crédito e débito 3D garantido em toda zona SEPA.  Entrega de bitcoins é imediata. Este serviço é administrado por Ledger, uma empresa de seguro bem conhecida no meio Bitcoin. Taxas variam de 6-10% dependo do volume de compra.
+   desc_ccww_ru: Coinhouse принимает кредитные и дебетовые карты с поддержкой 3D Secure в пределах еврозоны (SEPA). Биткоины доставляются мгновенно. Сервисом управляет Ledger, широко известная в биткоин-среде компания, специализирующаяся на защите инфорации. Комиссия составляет от 6 до 10%, в зависимости от объёма покупки.
+   desc_ccww_es: Coinhouse puede procesar tarjetas de crédito y débito 3Dsecure en toda la zona SEPA (Zona única de pagos en euros). La entrega es inmediata. Este servicio es operado por Ledger, una compañía de seguridad muy reconocida en el mundo del bitcoin. Las comisiones oscilan entre 6% y 10% dependiendo del volumen de la compra.
+   
+ - name: Paymium
+   desc: Bitcoin exchange. Buy bitcoin with bank transfers in France. 
+   url: https://paymium.com/
+   icon: https://www.buybitcoinworldwide.com/img/buy/paymium.png
+   countries: fr
+   po: bt    
+   ar: yes
+   desc_ar:  صرافة بيتكوين. شراء بيتكوين بالتحويلات المصرفية في فرنسا. 
+   desc_fr: Bourse d'échange de bitcoins. Acheter des bitcoins par virements bancaires en France.
+   desc_el: Ανταλλακτήριο bitcoin. Αγοράστε bitcoin με τραπεζική μεταφορά στη Γαλλία.
+   desc_nl: Bitcoin uitwisseling. Koop bitcoin via bankoverschrijvingen in Frankrijk. 
+   desc_it: Cambio di Bitcoin. Acquista Bitcoin in Francia tramite bonifici bancari.
+   desc_de: Bitcoin Börse. Bitcoin mit Banküberweisungen in Frankreich kaufen.
+   desc_ru: Биткоин-биржа. Купить биткоин банковским переводом во Франции.
+   desc_uk: Біткоін-біржа. Купити біткоіни банківським переказом у Франції.
+
+##### Switzerland ####################################################   
+
+ - name: Fastcoin.ch
+   desc: Buy with SEPA transfer or bank transfer in Switzerland.  Fast and convenient. 
+   url: http://buybitcoinww.co/fast_coin
+   icon: https://www.buybitcoinworldwide.com/img/buy/sbex.png
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb   
+   po: sepa, sofort
+   ar: yes
+   desc_ar:  الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.
+   desc_fr: Achetez avec un virement SEPA ou virement bancaire en Suisse. Rapide et pratique.
+   desc_el: Αγοράστε με εμβάσματα SEPA ή τραπεζική μεταφορά στην Ελβετία. Γρήγορα και βολικά.
+   desc_nl: Koop met SEPA overschrijving of bankoverschrijving in Zwitserland. Snel en eenvouding. 
+   desc_it: Acquista Bitcoin tramite trasferimento SEPA o bonifico bancario in Svizzera. Rapido e conveniente.
+   desc_pt_br: Compre Bitcoins na Suíça por transferência bancária ou SEPA. Rápido e fácil. 
+   desc_de: Kaufen mit SEPA Überweisungen oder Banküberweisungen in der Schweiz.
+   desc_bg: Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно.
+
 
 ##### Canada ####################################################   
 
@@ -1594,19 +1628,6 @@
    countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx
    po: pp
 
- - name: Coinhouse
-   desc: Buy bitcoins with a 3D secure credit or debit card in Europe. High limits available.
-   url: https://www.coinhouse.io
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinhouse.png
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
-   desc_fr: Courtier bitcoin. Achetez vos bitcoins par carte de crédit en Europe. 
-   po: ccww, cc
-   desc_ccww: Coinhouse can process 3D secure credit cards and debit cards in all the SEPA zone. Delivery of bitcoins is immediate. This service is operated by Ledger, a well known security company in the Bitcoin space. Fees run from 6-10% depending on buy volume. 
-   desc_ccww_fr: Coinhouse peut traiter les cartes de crédit et cartes de débit 3D Secure dans toute la zone SEPA. La livraison des bitcoins est instantanée. Ce service est dirigé par Ledger, une société spécialisée dans la sécurisation de portefeuilles et extrêmement réputée dans le milieu du Bitcoin. Les commissions varient entre 6 et 10%, en fonction du volume d'achat.
-   desc_ccww_ptbr: Coinhouse pode processar cartões de crédito e débito 3D garantido em toda zona SEPA.  Entrega de bitcoins é imediata. Este serviço é administrado por Ledger, uma empresa de seguro bem conhecida no meio Bitcoin. Taxas variam de 6-10% dependo do volume de compra.
-   desc_ccww_ru: Coinhouse принимает кредитные и дебетовые карты с поддержкой 3D Secure в пределах еврозоны (SEPA). Биткоины доставляются мгновенно. Сервисом управляет Ledger, широко известная в биткоин-среде компания, специализирующаяся на защите инфорации. Комиссия составляет от 6 до 10%, в зависимости от объёма покупки.
-   desc_ccww_es: Coinhouse puede procesar tarjetas de crédito y débito 3Dsecure en toda la zona SEPA (Zona única de pagos en euros). La entrega es inmediata. Este servicio es operado por Ledger, una compañía de seguridad muy reconocida en el mundo del bitcoin. Las comisiones oscilan entre 6% y 10% dependiendo del volumen de la compra.
-
  - name: Clevercoin
    desc: Buy bitcoin with SEPA bank transfer, credit card, or iDEAL.
    url: http://buybitcoinww.co/Clevercoin
@@ -1886,22 +1907,6 @@
    desc_bg: Биткойн брокер. Купете биткойн чрез SEPA банков превод, iDEAL и много други възможности за плащане.
    desc_ru: Биткоин-брокер. Купить биткоин с помощью SEPA-платежа, iDEAL и других способов оплаты.
    desc_uk: Біткоін-брокер. Купити біткоіни за допомогою SEPA-платежу, iDEAL та інших способів оплати.
-   
- - name: Paymium
-   desc: Bitcoin exchange. Buy bitcoin with bank transfers in France. 
-   url: https://paymium.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/paymium.png
-   countries: fr
-   po: bt    
-   ar: yes
-   desc_ar:  صرافة بيتكوين. شراء بيتكوين بالتحويلات المصرفية في فرنسا. 
-   desc_fr: Bourse d'échange de bitcoins. Acheter des bitcoins par virements bancaires en France.
-   desc_el: Ανταλλακτήριο bitcoin. Αγοράστε bitcoin με τραπεζική μεταφορά στη Γαλλία.
-   desc_nl: Bitcoin uitwisseling. Koop bitcoin via bankoverschrijvingen in Frankrijk. 
-   desc_it: Cambio di Bitcoin. Acquista Bitcoin in Francia tramite bonifici bancari.
-   desc_de: Bitcoin Börse. Bitcoin mit Banküberweisungen in Frankreich kaufen.
-   desc_ru: Биткоин-биржа. Купить биткоин банковским переводом во Франции.
-   desc_uk: Біткоін-біржа. Купити біткоіни банківським переказом у Франції.
 
  - name: 247Exchange
    url: http://buybitcoinww.co/247exchange

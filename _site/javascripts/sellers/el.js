@@ -82,14 +82,6 @@
   });
 
   window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb",
-    methods: "sepa, sofort",
-    hide: "",
-    url: "http://buybitcoinww.co/fast_coin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/sbex.png\" alt=\"Fastcoin.ch\">Fastcoin.ch</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Αγοράστε Bitcoin</a>\n		</h4>\n		<p class=\"greek\">Αγοράστε με εμβάσματα SEPA ή τραπεζική μεταφορά στην Ελβετία. Γρήγορα και βολικά.</p>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Αγοράστε Bitcoin</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
     countries: "id, ke, my, ng, za",
     methods: "mpesa, bt, eft",
     hide: "",
@@ -119,6 +111,30 @@
     hide: "",
     url: "https://coinfinity.co/",
     html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
+    methods: "ccww, cc",
+    hide: "",
+    url: "http://buybitcoinww.co/coinhouse",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "fr",
+    methods: "bt",
+    hide: "",
+    url: "https://paymium.com/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://paymium.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/paymium.png\" alt=\"Paymium\">Paymium</a> \n		<a type=\"button\" href=\"https://paymium.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Αγοράστε Bitcoin</a>\n		</h4>\n		<p class=\"greek\">Ανταλλακτήριο bitcoin. Αγοράστε bitcoin με τραπεζική μεταφορά στη Γαλλία.</p>\n		<a href=\"https://paymium.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Αγοράστε Bitcoin</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb",
+    methods: "sepa, sofort",
+    hide: "",
+    url: "http://buybitcoinww.co/fast_coin",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/sbex.png\" alt=\"Fastcoin.ch\">Fastcoin.ch</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Αγοράστε Bitcoin</a>\n		</h4>\n		<p class=\"greek\">Αγοράστε με εμβάσματα SEPA ή τραπεζική μεταφορά στην Ελβετία. Γρήγορα και βολικά.</p>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Αγοράστε Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -987,14 +1003,6 @@
 
   window.sellers.push({
     countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "ccww, cc",
-    hide: "",
-    url: "https://www.coinhouse.io",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
     methods: "sepa, ideal, ccww, cc",
     hide: "",
     url: "http://buybitcoinww.co/Clevercoin",
@@ -1103,14 +1111,6 @@
     hide: "",
     url: "https://www.happycoins.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.happycoins.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/happy.png\" alt=\"HappyCoins\">HappyCoins</a> \n		<a type=\"button\" href=\"https://www.happycoins.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Αγοράστε Bitcoin</a>\n		</h4>\n		<p class=\"greek\">Μεσίτης bitcoin. Αγοράστε με έμβασμα SEPA, iDEAL και άλλες μεθόδους πληρωμής.</p>\n		<a href=\"https://www.happycoins.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Αγοράστε Bitcoin</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "fr",
-    methods: "bt",
-    hide: "",
-    url: "https://paymium.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://paymium.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/paymium.png\" alt=\"Paymium\">Paymium</a> \n		<a type=\"button\" href=\"https://paymium.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Αγοράστε Bitcoin</a>\n		</h4>\n		<p class=\"greek\">Ανταλλακτήριο bitcoin. Αγοράστε bitcoin με τραπεζική μεταφορά στη Γαλλία.</p>\n		<a href=\"https://paymium.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Αγοράστε Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
