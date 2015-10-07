@@ -2,7 +2,7 @@
    desc: Buy bitcoin with your bank account. Easy, fast, convenient. 
    url: http://buybitcoinww.co/buycoinbase
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbase.png
-   countries: gr, at, ro, be, hu, sg, bg, ie, sk, ca, it, es, hr, lv, se, cy, mt, ch, cz, nl, gb, dk, nor, us, fi, pl, fr, pt, pr, si, li
+   countries: gr, at, ro, be, hu, sg, bg, ie, sk, ca, it, es, hr, lv, se, cy, mt, ch, cz, nl, gb, dk, nor, us, fi, pl, fr, pt, pr, si, li, mc, sm
    po: sepa, usbt, fast, io, ideal, lowfees, ccww, cc, bt
    desc_fast: Coinbase lets you buy bitcoin with a connected bank account via ACH bank transfer. The bitcoin bought in your first purchase will only be available to you after five days. However, if you add a credit card to your account all purchases after your initial purchase will have your bitcoin delivered instantly. Coinbase is available in the United States and most of Europe.  
    desc_ach: Coinbase is the world's largest Bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. Coinbase charges a flat 1% fee on all transactions, which is the standard among U.S. Bitcoin brokers. You'll have to wait five days to receive your bitcoin. If you add a Visa or Mastercard credit card to your account all bitcoin purchases besides your first will be delivered instantly.  

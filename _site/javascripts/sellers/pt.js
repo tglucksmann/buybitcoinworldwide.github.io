@@ -2,7 +2,7 @@
   window.sellers = [];
 
   window.sellers.push({
-    countries: "gr, at, ro, be, hu, sg, bg, ie, sk, ca, it, es, hr, lv, se, cy, mt, ch, cz, nl, gb, dk, nor, us, fi, pl, fr, pt, pr, si, li",
+    countries: "gr, at, ro, be, hu, sg, bg, ie, sk, ca, it, es, hr, lv, se, cy, mt, ch, cz, nl, gb, dk, nor, us, fi, pl, fr, pt, pr, si, li, mc, sm",
     methods: "sepa, usbt, fast, io, ideal, lowfees, ccww, cc, bt",
     hide: "",
     url: "http://buybitcoinww.co/buycoinbase",
