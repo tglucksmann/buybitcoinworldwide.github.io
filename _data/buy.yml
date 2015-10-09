@@ -107,17 +107,19 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/coinhouse.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    desc_fr: Courtier bitcoin. Achetez vos bitcoins par carte de crédit en Europe. 
-   po: ccww, cc
+   po: ccww, cc, neosurf
    desc_ccww: Coinhouse can process 3D secure credit cards and debit cards in all the SEPA zone. Delivery of bitcoins is immediate. This service is operated by Ledger, a well known security company in the Bitcoin space. Fees run from 6-10% depending on buy volume. 
    desc_ccww_fr: Coinhouse peut traiter les cartes de crédit et cartes de débit 3D Secure dans toute la zone SEPA. La livraison des bitcoins est instantanée. Ce service est dirigé par Ledger, une société spécialisée dans la sécurisation de portefeuilles et extrêmement réputée dans le milieu du Bitcoin. Les commissions varient entre 6 et 10%, en fonction du volume d'achat.
    desc_ccww_ptbr: Coinhouse pode processar cartões de crédito e débito 3D garantido em toda zona SEPA.  Entrega de bitcoins é imediata. Este serviço é administrado por Ledger, uma empresa de seguro bem conhecida no meio Bitcoin. Taxas variam de 6-10% dependo do volume de compra.
    desc_ccww_ru: Coinhouse принимает кредитные и дебетовые карты с поддержкой 3D Secure в пределах еврозоны (SEPA). Биткоины доставляются мгновенно. Сервисом управляет Ledger, широко известная в биткоин-среде компания, специализирующаяся на защите инфорации. Комиссия составляет от 6 до 10%, в зависимости от объёма покупки.
    desc_ccww_es: Coinhouse puede procesar tarjetas de crédito y débito 3Dsecure en toda la zona SEPA (Zona única de pagos en euros). La entrega es inmediata. Este servicio es operado por Ledger, una compañía de seguridad muy reconocida en el mundo del bitcoin. Las comisiones oscilan entre 6% y 10% dependiendo del volumen de la compra.
+   desc_neosurf: Coinhouse will let you buy bitcoin with a Neosurf prepaid card. Neosurf cards can be purchased at over <a href="http://www.neosurf.com/en_GB/application/findcard">70,000</a> locations across Europe. Coinhouse charges a 17% fee for all purchases made with a Neosurf card. Coinhouse is located in Paris, France and is operated by Ledger, a Bitcoin security company. 
    
  - name: CoinMama
    url: http://buybitcoinww.co/CoinMama_Bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
    po: ccww, cc
+   desc: Buy bitcoin with a credit card. ~10% fee on each purchase. Not available to U.S. residents.
    desc_ccww: CoinMama is a bitcoin broker that specializes in letting you buy bitcoin with a credit card or debit card. You'll be charged a 10% fee due to the risks and processing fees that come with credit card payments. It's possible buy up to $520 worth of bitcoin per day. After your account is verified and a purchase is made you will receive your bitcoin within a few hours. Use <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">this link</a> to get 5% off your order. CoinMama is not available to residents of the United States.  
    desc_ccww_fr: CoinMama est un courtier Bitcoin dont la spécialité est de vous permettre d'acheter des bitcoins avec une carte de crédit ou de débit. Vous y serez facturé une commission de 10% à cause des risques et des frais de traitement découlant des paiements par carte de crédit. Il est possible d'y acheter jusqu'à $520 de bitcoins par jour. Une fois votre compte vérifié et l'achat effectué, vous recevrez vos bitcoins en l'espace de quelques heures. Utilisez <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">ce lien</a> pour bénéficier de 5% de remise sur votre commande. CoinMama n'est pas disponible pour les résidents des États-Unis.
    desc_ccww_ptbr: CoinMama é uma corretora de bitcoin especializada na compra de bitcoin com cartão de crédito ou débito. Você será cobrado uma taxa de 10% devido aos riscos e taxas de processamento que vem com pagamentos do cartão de crédito. Você pode comprar até $520 de bitcoin por dia. Depois que sua conta é verificada e uma compra é feita você receberá seu bitcoin em dentro de algumas horas. Use este link para ganhar 5% de desconto no seu pedido. CoinMama não está disponível para os residentes dos Estados Unidos.
@@ -291,9 +293,10 @@
    desc_nobank: Local Bitcoins provides escrow and offers a number of payment methods for buying bitcoin with no bank account. Cash deposit, Western Union, face-to-face cash trade, Amazon gift card are all offered on top of many other payment methods. Local Bitcoins provides escrow, but be sure to buy from sellers with previous trade history and positive feedback. 
    desc_cdus: Cash deposit is the most commonly used payment method on Local Bitcoins. Its private and does not require any personal details or verification. Local Bitcoins provides escrow and connects you with sellers. Be sure to buy from sellers with previous trade history and positive feedback. Local Bitcoins charges a flat 1% fee on all purchases. 
    desc_fast: Local Bitcoins lets customers pay with a number of payment methods. Bitcoin purchased with cash deposit is usually delivered within a few hours. Local Bitcoins works in every country, but its reliability depends on the liquidity in your location. 
+   desc_neosurf: Local Bitcoins connects you with local sellers who accept Neosurf prepaid cards for Bitcoin. It's best to meet the seller in person and make the transaction in order to reduce the risk of fraud. Only deal with Local Bitcoins sellers with good feedback and a history of sales. Local Bitcoins charges a flast 1% fee on all transactions.
    name_he: Local Bitcoins
    desc_he: קנייה של ביטקוין מסוחרים מקומיים ,דרך האינטרנט או פנים מול פנים. מהיר ופרטי. 1% עמלה.
-   po: sepa, fast, cdus, paypal, nobank, lowfees, pp, cash, wmru, astro, mpesa
+   po: sepa, fast, cdus, paypal, nobank, lowfees, pp, cash, wmru, astro, mpesa, neosurf
    es: yes
    desc_es: Comprar Bitcoin a distribuidores locales, online o en persona. Privado y rápido. 1% de comision.
    ar: yes
@@ -1919,7 +1922,8 @@
  - name: 247Exchange
    url: http://buybitcoinww.co/247exchange
    icon: /img/buy/247.png
-   po: ccww, cc
+   po: ccww, cc, sepa, swift
+   desc: Buy bitcoin with a credit card, SWIFT, SEPA, and many other payment methods. 
    desc_ccww: 247Exchange lets you buy bitcoin with a credit or debit card. There's a 7% fee on each purchase of bitcoin; 4% to cover the credit card processing fees, and 3% more as a service fee. 247Exchange is not available to residents of the United States. 
    desc_ccww_fr: 247Echange vous permet d'acheter des Bitcoins avec une carte de crédit ou de débit. Il y a une commission de 7% sur chaque achat de bitcoins ; 4% pour couvrir les frais de traitement de la carte de crédit et 3% de commission sur les services. 247Exchange n'est pas disponible pour les résidents des États-Unis.
    desc_ccww_ptbr: 247Exchange permite você comprar bitcoin com cartão de crédito ou débito. Tem uma taxa de 7% em cada compra de bitcoin; 4% para cobrir as taxas de processamento do cartão de crédito e mais 3% de taxa de serviço. 247Exchange não está disponível para os residentes dos Estados Unidos.

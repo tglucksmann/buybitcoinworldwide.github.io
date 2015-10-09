@@ -29,4 +29,7 @@
    short: wmru
    
  - pmethod: M-PESA
-   short: mpesa   
+   short: mpesa  
+ 
+ - pmethod: Neosurf
+   short: neosurf     

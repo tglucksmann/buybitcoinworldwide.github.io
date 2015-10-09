@@ -1,0 +1,42 @@
+---
+layout: guidehelp
+title: "Buy Bitcoin with Neosurf"
+seotitle: "Buy Bitcoin with Neosurf"
+permalink: "/en/buy-bitcoin-neosurf/"
+sitemap:
+    priority: 0.7
+desc: Companies that let you buy bitcoin with Neosurf prepaid cards. 
+lang: en
+pmethod: neosurf
+author: jordantuwiner
+---
+<div class="col-sm-12">
+<p>	The companies below let you buy bitcoin with a Neosurf prepaid card. Neosurf cards are generally used to pay online without giving out private information, like bank or credit card numbers.</p>
+</div>
+
+<div class="col-sm-12">
+	{% include country-loops.html %}
+	{% for name in site.data.buy %}
+	{% if name.po contains 'neosurf' %}
+	{% include buy-list-en.html %}
+	{% endif %}
+	{% endfor %}
+</div>
+
+<div class="col-sm-12 small-large-break">
+<p>The list below contains the same companies listed above, but with more information about fees, countries supported, and many more additional details.</p>
+</div>
+
+
+<div class="content-with-sidebar col-md-9">
+	{% include country-loops.html %}
+	{% for name in site.data.buy %}
+	{% if name.po contains 'neosurf' %}
+	{% include buy-list-large.html %}
+	{% endif %}
+	{% endfor %}
+	<p>If you want to buy bitcoin with lower fees, try buying with a <a href="/en/buy-bitcoin-sepa-transfer/">SEPA transfer</a>. Or, check out more <a href="/en/payment-methods/">payment methods</a>.</p>
+</div>
+<div class="sidebar-add col-md-3">
+	{% include sidebar.html %}
+</div>

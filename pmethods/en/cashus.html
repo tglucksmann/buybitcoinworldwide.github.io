@@ -1,5 +1,5 @@
 ---
-layout: guide
+layout: guidehelp
 title: "Buy Bitcoin with Cash Deposit in the United States"
 seotitle: "Buy Bitcoin with Cash Deposit in the United States"
 permalink: "/en/buy-bitcoin-cash-deposit-united-states/"
@@ -10,13 +10,33 @@ lang: en
 pmethod: cashdus
 author: jordantuwiner
 ---
+<div class="col-sm-12">
 <p>Cash deposit is a quick and private way to <a href="/en/us/">buy bitcoin in the United States</a>. Bitcoin is usually delivered a few hours after your payment is made. Many of the options below do not require you to verify your identity or provide sensitive personal details.</p> 
+</div>
 
-{% include country-loops.html %}
-{% for name in site.data.buy %}
-{% if name.po contains 'cdus' %}
-{% include buy-list-en.html %}
-{% endif %}
-{% endfor %}
+<div class="col-sm-12">
+	{% include country-loops.html %}
+	{% for name in site.data.buy %}
+	{% if name.po contains 'cdus' %}
+	{% include buy-list-en.html %}
+	{% endif %}
+	{% endfor %}
+</div>
 
-<p>Cash deposit is a good way to buy bitcoin quickly and in small amounts. If you need to buy larger amounts of bitcoin then <a href="/en/">buy with ACH transfer</a>.</p>
+<div class="col-sm-12 small-large-break">
+<p>The list below contains the same companies listed above, but with more information about fees, states/countries supported, and many more additional details.</p>
+</div>
+
+
+<div class="content-with-sidebar col-md-9">
+	{% include country-loops.html %}
+	{% for name in site.data.buy %}
+	{% if name.po contains 'cdus' %}
+	{% include buy-list-large.html %}
+	{% endif %}
+	{% endfor %}
+	<p>Cash deposit is a good way to buy bitcoin quickly and in small amounts. If you need to buy larger amounts of bitcoin then <a href="/en/">buy with ACH transfer</a>.</p>
+</div>
+<div class="sidebar-add col-md-3">
+	{% include sidebar.html %}
+</div>

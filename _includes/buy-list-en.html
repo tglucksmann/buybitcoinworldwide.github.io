@@ -1,16 +1,4 @@
-{% if page.pmethod == 'paypal' and page.lang == 'en' %}
-<div class="col-sm-12 buy-info-full">
-		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
-		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
-		</h4>
-		<p>{{ name.desc_paypal }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
-		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
-</div>
-
-{% elsif page.pmethod == 'nobank' and page.lang == 'en' %}
+{% if page.pmethod == 'nobank' and page.lang == 'en' %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
 		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
@@ -42,30 +30,6 @@
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_ccus }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
-		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
-</div>
-
-{% elsif page.pmethod == 'cashdus' and page.lang == 'en' %}
-<div class="col-sm-12 buy-info-full">
-		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
-		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
-		</h4>
-		<p>{{ name.desc_cdus }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
-		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
-</div>
-
-{% elsif page.pmethod == 'ccww' and page.lang == 'en' %}
-<div class="col-sm-12 buy-info-full">
-		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
-		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
-		</h4>
-		<p>{{ name.desc_ccww }}</p>
 		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>

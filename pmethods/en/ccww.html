@@ -1,7 +1,7 @@
 ---
-layout: guide
+layout: guidehelp
 title: "Buy Bitcoin with a Credit or Debit Card"
-seotitle: "How to Buy Bitcoin with a Credit or Debit Card"
+seotitle: "Buy Bitcoin with a Credit or Debit Card"
 sitemap:
     priority: 0.7
 permalink: "/en/buy-bitcoin-credit-debit-card/"
@@ -10,17 +10,37 @@ lang: en
 pmethod: ccww
 author: jordantuwiner
 ---
+<div class="col-sm-12">
 <p>A few years ago it was not possible to buy bitcoin with a credit or debit card. Today, a number of companies accept credit card payments for bitcoin. Buying bitcoin with a credit card is a good option if you need a small amount of bitcoin or need bitcoin fast. However, buying with a credit card usually comes with higher fees due to the high risk of fraud and higher processing fees.</p>
 
 <p>Below you can find a list of companies that let you buy bitcoin with a credit or debit card. The availability of each service may vary by location. For example, many of the services below do not offer service to United States residents due to strict regulations (see <a href="/en/buy-bitcoin-debit-credit-card-united-states/">this page</a> for buying with a credit/debit card in the United States). </p>
+</div>
 
-{% include country-loops.html %}
-{% for name in site.data.buy %}
-{% if name.po contains 'ccww' %}
-{% include buy-list-en.html %}
-{% endif %}
-{% endfor %}
+<div class="col-sm-12">
+	{% include country-loops.html %}
+	{% for name in site.data.buy %}
+	{% if name.po contains 'ccww' %}
+	{% include buy-list-en.html %}
+	{% endif %}
+	{% endfor %}
+</div>
 
-<p>If none of the companies above suit your needs, try buying bitcoin with <a href="/en/buy-bitcoin-cash-deposit-united-states/">cash</a> or <a href="/en/buy-bitcoin-sepa-transfer/">SEPA transfer</a>. To find more places to buy bitcoin in your country use our <a href="/en/">country index</a>. </p>
+<div class="col-sm-12 small-large-break">
+<p>The list below contains the same companies listed above, but with more information about fees, countries supported, and more additional details.</p>
+</div>
 
-<p><i><b>Note:</b> Buy bitcoin at your own risk. We only recommend companies we find and can't guarantee the security of your funds. We recommend buying bitcoin and immediately moving it to a wallet you own. </i></p>  
+
+<div class="content-with-sidebar col-md-9">
+	{% include country-loops.html %}
+	{% for name in site.data.buy %}
+	{% if name.po contains 'ccww' %}
+	{% include buy-list-large.html %}
+	{% endif %}
+	{% endfor %}
+	<p>If none of the companies above suit your needs, try buying bitcoin with <a href="/en/buy-bitcoin-cash-deposit-united-states/">cash</a> or <a href="/en/buy-bitcoin-sepa-transfer/">SEPA transfer</a>. To find more places to buy bitcoin in your country use our <a href="/en/">country index</a>. </p>
+
+<p><i><b>Note:</b> Buy bitcoin at your own risk. We only recommend companies we find and can't guarantee the security of your funds. We recommend buying bitcoin and immediately moving it to a wallet you own. </i></p> 
+</div>
+<div class="sidebar-add col-md-3">
+	{% include sidebar.html %}
+</div>
