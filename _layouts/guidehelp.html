@@ -1,0 +1,17 @@
+---
+layout: default
+hide_sidebar: true
+---
+{% assign author = site.data.authors[page.author] %}
+{% assign lang = site.data.translations[page.lang] %}
+<div class="help-article guide-article row">
+
+
+<div class="post-header col-xs-12">
+  <h1 class="post-title-main"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+  <div class="faq-author">{{ lang.by }} <a rel="nofollow" href="{{ author.url }}">{{ author.name }}</a></div>
+</div>
+	
+	{{ content }}
+	
+</div>

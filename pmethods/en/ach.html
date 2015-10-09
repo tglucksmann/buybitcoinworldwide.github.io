@@ -1,5 +1,5 @@
 ---
-layout: guide
+layout: guidehelp
 title: "Buy Bitcoin with ACH Bank Transfer"
 seotitle: "Buy Bitcoin with ACH Bank Transfer"
 permalink: "/en/buy-bitcoin-ach-bank-transfer-united-states/"
@@ -10,13 +10,33 @@ lang: en
 pmethod: ach
 author: jordantuwiner
 ---
-<p>Using ACH bank transfers help you buy bitcoin online and in larger quantities than other methods. Buying with ACH transfer also often comes with the lowest fees.</p> 
+<div class="col-sm-12">
+<p>	The companies below let you buy bitcoin via ACH bank transfer. Using ACH bank transfers will help you buy bitcoin online and in larger quantities than other methods. Buying bitcoin with ACH transfer also often comes with lower fees.</p>
+</div>
 
-{% include country-loops.html %}
-{% for name in site.data.buy %}
-{% if name.po contains 'usbt' %}
-{% include buy-list-en.html %}
-{% endif %}
-{% endfor %}
+<div class="col-sm-12">
+	{% include country-loops.html %}
+	{% for name in site.data.buy %}
+	{% if name.po contains 'usbt' %}
+	{% include buy-list-en.html %}
+	{% endif %}
+	{% endfor %}
+</div>
 
-<p>If you need bitcoin quick, see our guide: <a href="/en/buy-bitcoin-fast/">How to Buy Bitcoin Fast</a>. Or, check out more <a href="/en/payment-methods/">payment methods</a>.</p>
+<div class="col-sm-12 small-large-break">
+<p>The list below contains the same companies listed above, but with more information about fees, states/countries supported, and many more additional details.</p>
+</div>
+
+
+<div class="content-with-sidebar col-md-9">
+	{% include country-loops.html %}
+	{% for name in site.data.buy %}
+	{% if name.po contains 'usbt' %}
+	{% include buy-list-large.html %}
+	{% endif %}
+	{% endfor %}
+	<p>If you need bitcoin quick, see our guide: <a href="/en/buy-bitcoin-fast/">How to Buy Bitcoin Fast</a>. Or, check out more <a href="/en/payment-methods/">payment methods</a>.</p>
+</div>
+<div class="sidebar-add col-md-3">
+	{% include sidebar.html %}
+</div>
