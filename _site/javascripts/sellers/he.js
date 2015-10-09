@@ -626,6 +626,14 @@
   });
 
   window.sellers.push({
+    countries: "au",
+    methods: "cash",
+    hide: "",
+    url: "https://www.coinloft.com.au/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coinloft.com.au/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinloft.png\" alt=\"Coin Loft\"></a> \n		<a type=\"button\" href=\"https://www.coinloft.com.au/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"https://www.coinloft.com.au/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
     countries: "my",
     methods: "",
     hide: "",

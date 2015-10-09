@@ -1112,7 +1112,14 @@
    url: https://www.independentreserve.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/ir.png
    countries: au   
-   po: bt, swift     
+   po: bt, swift  
+   
+ - name: Coin Loft
+   desc: Australian Bitcoin broker. Buy bitcoin via cash deposit. Coins delivered within 1 hour.    
+   url: https://www.coinloft.com.au/
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinloft.png
+   countries: au   
+   po: cash       
    
 ##### Malaysia #################################################### 
 

@@ -626,6 +626,14 @@
   });
 
   window.sellers.push({
+    countries: "au",
+    methods: "cash",
+    hide: "",
+    url: "https://www.coinloft.com.au/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
     countries: "my",
     methods: "",
     hide: "",
