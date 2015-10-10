@@ -1,5 +1,5 @@
 ---
-layout: guide
+layout: guidehelp
 title: "Compre Bitcoin com Cartão de Crédito e Débito"
 seotitle: "Compre Bitcoin com Cartão de Crédito e Débito"
 sitemap:
@@ -10,17 +10,34 @@ lang: pt
 pmethod: ccww
 author: jordantuwiner
 ---
+<div class="col-sm-12">
 <p>A alguns anos atrás não era possível comprar bitcoin com um cartão de crédito ou débito. Hoje várias empresas aceitam pagamentos de cartão de crédito para compra de bitcoin. Comprar bitcoin com cartão de crédito é uma boa opção se você precisa de um valor pequeno de bitcoin ou precisa rapidamente de bitcoin. Porém, ao comprar com um cartão de crédito geralmente tem uma taxa alta devido ao grande risco de fraude e taxas de processamento mais caras.</p>
 
 <p>Abaixo você pode encontrar uma lista de empresas que aceitam cartão de crédito ou débito para compra de bitcoin. A disponibilidade de cada serviço pode variar dependendo da localidade. Por exemplo, muitos serviços abaixo não são oferecido a residentes dos Estados Unidos devido a normas rígidas.</p>
+</div>
 
-{% include country-loops.html %}
-{% for name in site.data.buy %}
-{% if name.po contains 'ccww' %}
-{% include buy-list-en.html %}
-{% endif %}
-{% endfor %}
+<div class="col-sm-12">
+	{% include country-loops.html %}
+	{% for name in site.data.buy %}
+	{% if name.po contains 'ccww' %}
+	{% include buy-list-en.html %}
+	{% endif %}
+	{% endfor %}
+</div>
 
-<p>Se nenhuma das empresas acima atenderem suas necessidades, tente comprar bitcoin com dinheiro or transferência SEPA. Para encontrar mais lugares para comprar bitcoin no seu país use nosso  índice de países. </p>
+<div class="col-sm-12 small-large-break">
+<h3>Mais detalhes</h3>
+</div>
+
+
+<div class="col-xs-12">
+	{% include country-loops.html %}
+	{% for name in site.data.buy %}
+	{% if name.po contains 'ccww' %}
+	{% include buy-list-large.html %}
+	{% endif %}
+	{% endfor %}
+	<p>Se nenhuma das empresas acima atenderem suas necessidades, tente comprar bitcoin com dinheiro or transferência SEPA. Para encontrar mais lugares para comprar bitcoin no seu país use nosso  índice de países. </p>
 
 <p><i><b>Nota:</b> Compre bitcoin a seu próprio risco. Nós somente recomendamos empresas que nós encontramos e não podemos garantir a segurança de seus fundos. Nós recomendamos comprar bitcoin e transferir imediatamente para sua carteira pessoal.</i></p>  
+</div>

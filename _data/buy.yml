@@ -11,6 +11,7 @@
    desc_ccww_ptbr: Coinbase é a maior corretora de bitcoin do mundo. No Coinbase você pode comprar instantaneamente até €100 de bitcoin por dia com um cartão de crédito ou débito seguro 3D na Europa ou no Reino Unido. Coinbase cobra uma taxa de 3% em todas as compras via cartão de crédito ou débito. A taxa de 3% na compra em cartão de crédito no Coinbase é a mais baixa entre as corretoras que atendem clientes europeus. Se você comprar mais que $100 ou €100 em bitcoin através <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">deste link</a> você ganhará $10 ou €10 em bitcoin como bônus (você pode alcançar este valor fazendo várias compras, como por exemplo duas compras de €50).
    desc_ccww_ru: Coinbase — крупнейший в мире биткоин-брокер. На Coinbase можно покупать биткоинов на сумму до 100€ в день мгновенно, имея банковскую карту с поддержкой 3D Secure, в Европе или Великобритании. Coinbase удерживает фиксированную комиссию в 3% со всех платежей кредитными и дебетовыми картами. Комиссия Coinbase, составляющая 3%, является самой низкой среди биткоин-брокеров, предоставляющих услуги европейским потребителям. Если вы купите биткоинов на сумму более 100$ или 100€ <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">по этой ссылке</a>, вы получите бонус в виде биткоинов на сумму 10$ или 10€ (вы можете осуществить это в несколько приёмов, например, за две покупки по 50€ каждая).
    desc_ccww_es: Coinbase es el corredor de Bitcoin más grande del mundo. En Coinbase puede comprar hasta €100 al día en bitcoin de manera inmediata con una tarjeta de crédito o débito 3DSecure en Europa y el Reino Unido. Coinbase cobra una comisión fija de 3% en todas las compras por tarjeta de crédito o débito; esta comisión de 3% es la más baja entre los corredores de Bitcoin que ofrecen servicio a clientes europeos. Si compra más de $100 o €100 en bitcoin a través de <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">este enlace</a> obtendrá un bono de $10 o €10 en bitcoin (puede hacer esto en compras múltiples, es decir, dos compras de €50 cada una). 
+   desc_ccww_de: Coinbase ist der weltweit größte Bitcoin-Broker. Bei Coinbase können Sie bis zu 100 € von Bitcoin pro Tag ,sofort mit einer sicheren 3D Kredit- oder Debitkarte in Europa oder Großbritannien, kaufen. Coinbase hat eine flache Gebühr von 3% auf alle Einkäufe über einer Kredit- oder Debitkarte. Die 3% Gebühr auf Kreditkartenkäufe von Coinbase ist der niedrigste unter allen Bitcoin-Broker, die europäische Kunden bedienen. Wenn Sie mehr als $ 100 oder 100 € im Wert von Bitcoin über <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">diesen Link</a> kaufen, erhalten Sie $ 10 oder € 10 als Bonus im Wert von Bitcoin (dies kann in mehrfachen Käufe durchgeführt werden, d.h zwei Käufe von je € 50).
    es: yes
    desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable. 1% de comision.
    ar: yes
@@ -86,6 +87,7 @@
    desc_ccww_ptbr: Circle permite você comprar bitcoin instantaneamente com um cartão de débito sem taxas. Se você usar um cartão de crédito você terá que pagar uma taxa de 3% e esperar alguns dias para receber seu bitcoin. Circle atende no momento somente os Estados Unidos, mas alguns clientes da Europa e América do Sul conseguiram usar seus serviços. Comprando através do Circle é a única maneira de compras bitcoin com um cartão de débito sem taxas. Porém, você está limitado a $300 de bitcoin por semana.
    desc_ccww_ru: Circle позволяет мгновенно оплачивать биткоины дебетовой картой без комиссии. Если же вы воспользуетесь кредитной картой, вам придётся заплатить комиссию в 3% и подождать несколько дней перед получением ваших монет. Circle пока доступен только в США, но некоторым пользователям из Европы и Южной Америки удавалось успешно воспользоваться этим сервисом. Покупка через Circle — это единственный способ купить биткоины при помощи дебетовой карты без комиссии. Однако, вы можете купить биткоинов в неделю не более, чем на 300$. 
    desc_ccww_es: Circle permite comprar bitcoin con una tarjeta de débito de manera instantánea y sin comisión. Si usa una tarjeta de crédito tendrá que pagar una comisión del 3% y esperar unos días para recibir sus coins. Actualmente Circle solo está disponible en los Estados Unidos, pero algunos usuarios en Europa y América del Sur han tenido éxito usando este servicio. Circle es la única manera de comprar con tarjetas de débito sin tener que pagar una comisión. Sin embargo, la compra está limitada a  $300 en bitcoin por semana.
+   desc_ccww_de: Circle ermöglicht Ihnen Bitcoin mit einer Debitkarte sofort, ohne Gebühr, zu kaufen. Wenn Sie eine Kreditkarte benutzen, müssen Sie eine Gebühr von 3% zahlen und ein paar Tage warten, um Ihre Bitcoins zu erhalten. Circle ist derzeit nur in den USA verfügbar, aber einige Benutzer in Europa und Südamerika haben Erfolg mit dem Dienst gehabt. Kauf über Kreis ist der einzige Weg, um mit einer Debitkarte Bitcoin, ohne Gebühren, zu kaufen. Allerdings sind Sie auf $ 300 im Wert von Bitcoin pro Woche beschränkt.
    es: yes
    desc_es: Comprar Bitcoin de forma instantánea con una cuenta bancaria o tarjeta de crédito. Sin comisiones.
    ar: yes
@@ -107,12 +109,15 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/coinhouse.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    desc_fr: Courtier bitcoin. Achetez vos bitcoins par carte de crédit en Europe. 
+   desc_de: Bitcoins mit einer 3D-Sicheren Kredit- oder Debitkarte in Europa kaufen. Hohe Limits verfügbar.
+   desc_it: Acquista Bitcoin con una carta di credito o debito 3D Secure in Europa. Elevati limiti disponibili.
    po: ccww, cc, neosurf
    desc_ccww: Coinhouse can process 3D secure credit cards and debit cards in all the SEPA zone. Delivery of bitcoins is immediate. This service is operated by Ledger, a well known security company in the Bitcoin space. Fees run from 6-10% depending on buy volume. 
    desc_ccww_fr: Coinhouse peut traiter les cartes de crédit et cartes de débit 3D Secure dans toute la zone SEPA. La livraison des bitcoins est instantanée. Ce service est dirigé par Ledger, une société spécialisée dans la sécurisation de portefeuilles et extrêmement réputée dans le milieu du Bitcoin. Les commissions varient entre 6 et 10%, en fonction du volume d'achat.
    desc_ccww_ptbr: Coinhouse pode processar cartões de crédito e débito 3D garantido em toda zona SEPA.  Entrega de bitcoins é imediata. Este serviço é administrado por Ledger, uma empresa de seguro bem conhecida no meio Bitcoin. Taxas variam de 6-10% dependo do volume de compra.
    desc_ccww_ru: Coinhouse принимает кредитные и дебетовые карты с поддержкой 3D Secure в пределах еврозоны (SEPA). Биткоины доставляются мгновенно. Сервисом управляет Ledger, широко известная в биткоин-среде компания, специализирующаяся на защите инфорации. Комиссия составляет от 6 до 10%, в зависимости от объёма покупки.
    desc_ccww_es: Coinhouse puede procesar tarjetas de crédito y débito 3Dsecure en toda la zona SEPA (Zona única de pagos en euros). La entrega es inmediata. Este servicio es operado por Ledger, una compañía de seguridad muy reconocida en el mundo del bitcoin. Las comisiones oscilan entre 6% y 10% dependiendo del volumen de la compra.
+   desc_ccww_de: Coinhouse kann 3D-Sichere Kreditkarten und Debitkarten  in der SEPA Zone verarbeiten.Die Lieferung von Bitcoins ist unmittelbar. Dieser Dienst wird von Ledger, einer bekannten Sicherheitsfirma im Bitcoinraum betrieben. Gebühren laufen von 6 bis 10%, je nach Kaufvolumen.
    desc_neosurf: Coinhouse will let you buy bitcoin with a Neosurf prepaid card. Neosurf cards can be purchased at over <a href="http://www.neosurf.com/en_GB/application/findcard">70,000</a> locations across Europe. Coinhouse charges a 17% fee for all purchases made with a Neosurf card. Coinhouse is located in Paris, France and is operated by Ledger, a Bitcoin security company. 
    
  - name: CoinMama
@@ -125,6 +130,7 @@
    desc_ccww_ptbr: CoinMama é uma corretora de bitcoin especializada na compra de bitcoin com cartão de crédito ou débito. Você será cobrado uma taxa de 10% devido aos riscos e taxas de processamento que vem com pagamentos do cartão de crédito. Você pode comprar até $520 de bitcoin por dia. Depois que sua conta é verificada e uma compra é feita você receberá seu bitcoin em dentro de algumas horas. Use este link para ganhar 5% de desconto no seu pedido. CoinMama não está disponível para os residentes dos Estados Unidos.
    desc_ccww_ru: CoinMama — биткоин-брокер, специализирующийся на предоставлении биткоинов за платежи кредитными и дебетовыми картами. В связи с высоким риском и комиссией процессинга, с вас будет удержана комиссия в 10%. Ежедневно возможна покупка биткоинов на сумму до 520$. После того, как ваша учётная запись пройдёт подтверждение, и вы совершите покупку, вы получите свои биткоины в течение нескольких часов. Воспользуйтесь <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">этой ссылкой</a>, чтобы получить скидку в 5% от суммы вашего заказа. CoinMama недоступна жителям Соединённых Штатов. 
    desc_ccww_es: CoinMama es un corredor de bitcoin que se especializa en la compra de bitcoin con tarjeta de crédito o débito. Este servicio cobra una comisión del 10% debido a los riesgos y las tasas de procesamiento que generan los pagos con tarjetas de crédito. Es posible comprar hasta $520 en bitcoin al día. Después de verificar su cuenta y realizar la compra recibirá sus bitcoin en pocas horas. <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">Este enlace</a> le otorga un 5% de descuento en su orden. CoinMama no está disponible para residentes de los Estados Unidos.
+   desc_ccww_de: CoinMama ist ein Bitcoin-Broker, der spezialisiert im Ermöglichen des Kaufs von Bitcoins mit einer Kredit- oder Debitkarte ist. Ihnen wird eine 10% Gebühr auf Grund der Risiken und Bearbeitungsgebühren, die mit Kreditkartenzahlungen kommen, berechnet. Es ist möglich  $520 im Wert von Bitcoin pro Tag zu kaufen. Nachdem Ihr Konto verifiziert wird und ein Kauf erfolgt, werden Sie Ihre Bitcoin innerhalb weniger Stunden erhalten. Verwenden Sie <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">diesen Link</a>, um 5% Rabatt auf Ihre Bestellung zu erhalten. CoinMama nicht verfügbar ist für die Bewohner der Vereinigten Staaten.
    
  - name: Gemini
    desc: U.S. based Bitcoin exchange. Deposit via wire transfer or ACH transfer. 
@@ -162,7 +168,7 @@
    url: http://buybitcoinww.co/buybitquick
    icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
-   po: sepa, fast, cdus, nobank, cash, bt
+   po: sepa, fast, cdus, nobank, cash
    desc_nobank: BitQuick provides escrow between buyers and sellers. Payments are made via cash deposit at bank locations across the U.S., and via SEPA transfer in the EU. Your coins will usually be delivered in under two hours if payment was made via cash deposit.  
    desc_fast: BitQuick's goal is to make buying bitcoin fast and easy. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour. BitQuick can be used in the United States and Europe. 
    desc_cdus: BitQuick provides escrow and connects you with sellers. You can buy bitcoin via cash deposit at a number of banks across the United States and Europe. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour.  
@@ -341,6 +347,7 @@
    desc_ccww_ptbr: Clevercoin é uma corretora de Bitcoins localizada na França. Residentes da Europa podem comprar bitcoin com cartão de crédito por uma taxa de 3.6% mais €0.30. Limite inicial é de €250 por dia. Quanto mais você comprar mais o seu limite é elevado e você pode alcançar €2,500 por dia.
    desc_ccww_ru: Clevercoin — это биткоин-брокер, расположенный во Франции. Жители Европы могут купить биткоины при помощи кредитной карты с комиссией в 3,6% плюс 0,30€. Первоначальный лимит составляет 250€ в день. Ваш лимит увеличивается в зависимости от суммы покупок, и может достигать 2500€ в день.
    desc_ccww_es: Clevercoin es un corredor de Bitcoin ubicado en Francia. Los residentes de Europa pueden comprar bitcoin con una tarjeta de crédito por una comisión de 3,6% más €0.30. El límite inicial es de €250 al día. Este límite aumenta mientras más compras realice y puede alcanzar hasta €2.500 al día.
+   desc_ccww_de: Clevercoin ist ein Bitcoin-Broker aus der Frankreich. Bewohner von Europa können Bitcoin mit einer Kreditkarte für eine 3,6% Gebühr zuzüglich 0,30 € kaufen. Erstes Limit ist 250 € pro Tag. Ihr Limit erhöht je mehr Sie kaufen, und kann 2.500 € pro Tag erreichen.
    ar: yes
    desc_ar:  شراء بيتكوين بالتحويل المصرفي SEPA ، ووبطاقات الائتمان، أو iDEAL.
    desc_fr: Achetez des bitcoins avec un virement bancaire SEPA, une carte de crédit ou iDEAL.
@@ -746,7 +753,7 @@
    url: https://coinfloor.co.uk/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinfloor.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
-   po: sepa, bt
+   po: sepa, swift
    ar: yes
    desc_ar:  صرافة بيتكوين ووسطاؤه. الإيداع عن طريق التحويل المصرفي، أو SEPA، وغير ذلك الكثير.
    desc_fr: Bourse d'échange et courtier bitcoin. Faites des dépôts par virement bancaire, SEPA, et plus encore.
@@ -787,12 +794,12 @@
 ##### Singapore ####################################################   
 
  - name: CoinHako
-   desc: Bitcoin broker in Singapore. Buy bitcoin via bank transfer. 1.9% fee.  
+   desc: Bitcoin broker in Singapore. Buy bitcoin via bank transfer. 0.9% fee.  
    url: https://www.coinhako.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinhako.png
    countries: sg	
    po: bt
-   desc_zh: 比特币代理人。通过银行转账购买比特币。费率为1.9%。
+   desc_zh: 比特币代理人。通过银行转账购买比特币。费率为0.9%。
 
  - name: Coin Supermart
    desc: Bitcoin exchange. Fund account via inter-bank transfers. Convenient and fast.
@@ -1033,7 +1040,7 @@
    url: https://www.btcchina.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/lakebtc.png
    countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mo
-   po: sepa, bt, egopay
+   po: sepa, egopay
    desc_de: Bitcoin Börse in China. Einzahlen über Banküberweisungen oder SEPA.
    desc_zh: 中国比特币交易平台。通过银行转账或国家环保总局交存。
    desc_bg: Биткойн борса в Китай. Депозирайте чрез банков превод или SEPA.
@@ -1050,7 +1057,7 @@
    url: https://gatecoin.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/gatecoin.png
    countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
-   po: sepa, swift, okpay, bt
+   po: sepa, swift, okpay
    desc_de: Bitcoin Börse in Hong Kong. Einzahlen mit SEPA Überweisung,SWIFT und OKPAY.
    desc_zh: 香港比特币交易平台。通过国家环保总局转账、SWIFT和OKPAY交存。
    desc_bg: Биткойн борса в Хонг Конг. Депозирайте чрез  SEPA превод, SWIFT и OKPAY.
@@ -1557,6 +1564,7 @@
    desc_ccww_ptbr: Changetip permite você comprar até $25 de bitcoin com um cartão de crédito/débito Visa ou Mastercard. Você precisará estar logado numa conta do Facebook, Twitter, Reddit ou GitHub. Na sua primeira compra pode levar até 24 horas para você receber seu bitcoin. Somente para dos residentes dos E.U.A.
    desc_ccww_ru: Changetip позволяет покупать биткоины на сумму до 25$ при помощи кредитной или дебетовой карты систем Visa и Mastercard. Вам понадобится привязать профиль на Facebook, Twitter, Reddit или GitHub. После первой покупки возможна задержка в получении биткоинов не более, чем на 24 часа. Только для жителей США.
    desc_ccww_es: Changetip permite comprar hasta $25 en bitcoin con una tarjeta de crédito/débito de Visa o Mastercard. Es necesario conectarse al servicio con una cuenta de Facebook, Twitter, Reddit o GitHub. Obtener los bitcoin de la primera compra puede tomar hasta 24 horas. Solo para residentes de los Estados Unidos. 
+   desc_ccww_de: Changetip ermöglicht Ihnen mit einer Visa- oder Mastercard Kredit- / Debitkarte bis $25 im Wert von Bitcoin zu kaufen. Sie müssen ein Facebook, Twitter, Reddit oder GitHub Konto verbinden. Es kann bis zu 24 Stunden dauern, um Ihre Bitcoin bei Ihrer erste Bestellung zu erhalten. US-Bürger nur.
    name_es: Changetip
    desc_es: Comprar pequeñas cantidades de Bitcoin con una tarjeta de débito/crédito Visa o Mastercard.
    ar: yes
@@ -1584,6 +1592,7 @@
    desc_ccww_ptbr: CEX.io permite você comprar bitcoin com cartão de crédito ou débito e seu bitcoin está disponível imediatamente. CEX.io atende nos Estados Unidos, Europa e alguns países da América do Sul.
    desc_ccww_ru: CEX.io позволяет покупать биткоины при помощи кредитной или дебетовой карты, и предоставляет биткоины мгновенно. CEX.io работает в США, Европе, и некоторых странах Южной Америки.
    desc_ccww_es: CEX.io permite comprar bitcoin con tarjeta de crédito o débito y sus bitcoin estarán disponibles de manera inmediata. CEX.io trabaja en los Estados Unidos, Europa y algunos países de América del Sur.
+   desc_ccww_de: CEX.io ermöglicht Ihnen Bitcoin mit einer Kredit- oder Debitkarte zu kaufen und Ihre Bitcoin werden sofort verfügbar sein. CEX.io arbeitet in den Vereinigten Staaten, Europa und in einigen Ländern der Südamerika.
    desc_astropay: CEX.IO is a bitcoin exchange and broker based in London. Users in Brazil, Mexico, Argentina, Chile, Peru, Uruguay, China and Turkey can buy bitcoin with AstroPay at CEX.IO. A flat 2.5% fee is charged on all purchases, and users can buy up to $2,000 worth of bitcoins per day and up to $4,000 worth of bitcoins per month. 
    es: yes
    name_es: CEX.io
@@ -1650,6 +1659,7 @@
    desc_ccww_ptbr: Com Purse.io você pode comprar bitcoin com cartão de crédito mas não diretamente. Purse.io conecta você com um comprador que quer fazer uma compra no Amazon. Você usará seu cartão de crédito ou débito para pedir itens da lista que o comprador do Amazon deseja. Quando os itens foram entregues para o comprador, você receberá bitcoin equivalente ao valor dos itens que você pediu para o comprador. Purse.io atende nos Estados Unidos, Canadá, Japão, Brasil, França, Itália, Espanha, China e Índia.
    desc_ccww_ru: При помощи Purse.io вы можете купить биткоины кредитной картой, но не напрямую. Purse.io связывает вас с покупателем, который хочет совершить покупку на Amazon. Вы используете свою кредитную или дебетовую карту, чтобы оплатить товары из желамого списка покупателя. Когда товар будет доставлен покупателю, вы получите эквивалент стоимости заказанного товара в биткоинах. Purse.io доступен в США, Канаде, Японии, Бразилии, Франции, Италии, Испании, Китае и Индии.
    desc_ccww_es: Con Purse.io puede comprar bitcoin con una tarjeta de crédito pero no de manera directa. Purse.io se conecta con un comprador que quiere realizar una compra en Amazon. Su tu tarjeta de crédito o débito será utilizada para ordenar los artículos de la lista de deseos del comprador en Amazon. Cuando los artículos hayan sido entregados al comprador, le será entregado el equivalente en bitcoin del valor de la compra de los artículos que ordenó. Purse.io está disponible en los Estados Unidos, Canadá, Japón, Brasil, Francia, Italia, España, India y China.
+   desc_ccww_de: Mit Purse.io kaufen Sie Bitcoin mit einer Kreditkarte, aber nicht direkt. Purse.io verbindet Sie mit einem Käufer, der einen Kauf auf Amazon machen will. Verwenden Sie Ihre Kreditkarte oder Debitkarte, um Artikeln aus der Amazon Wunschzettel des Kunden zu bestellen. Wenn die Einzelteile an den Käufer geliefert wurden, werden Sie Bitcoin entsprechend des Artikelwerts, die Sie für den Käufer bestellt haben, erhalten. Purse.io ist in den Vereinigten Staaten, Kanada, Japan, Brasilien, Frankreich, Italien, Spanien, China und Indien verfügbar.
    es: yes
    name_es: Purse.io
    desc_es: Comprar Bitcoin con una tarjeta de crédito o tarjetas regalo de Amazon. 
@@ -1675,12 +1685,13 @@
    url: https://www.coinimal.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinimal.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
-   po: sofort, giro, sepa, bt, ccww, neteller, 
+   po: sofort, giro, sepa, ccww, neteller, 
    desc_ccww: Coinimal is a Bitcoin broker located in Austria. You can buy bitcoin with a credit card indirectly via NETELLER for a 7% fee. Coinimal is available to residents of the EU.
    desc_ccww_fr: Coinimal est un courtier Bitcoin basé en Autriche. Vous pouvez y acheter indirectement des bitcoins avec une carte de crédit à travers NETELLER pour une commission de 7%. Coinimal est disponible pour les résidents de l'UE.
    desc_ccww_ptbr: Coinimal é uma corretora de Bitcoins localizada na Áustria. Você pode comprar bitcoin com cartão de crédito indiretamente via NETELLER por uma taxa de 7%. Coinimal está disponível para residentes da UE.
    desc_ccww_ru: Coinimal — это биткоин-брокер, расположенный в Австрии. Вы можете купить биткоины при помощи кредитной карты, используя сторонний сервис NETELLER, с комиссией 7%. Coinimal доступен жителям Евросоюза.
    desc_ccww_es: Coinimal es un corredor de Bitcoin ubicado en Austria. Puede comprar bitcoin con tarjeta de crédito indirectamente a través de NETELLER con una comisión del 7%. Coinimal está disponible para los residentes de la Unión Europea.
+   desc_ccww_de: Coinimal ist ein Bitcoin-Broker aus der Österreich. Sie können Bitcoin mit einer Kreditkarte indirekt über NETELLER für eine 7% Gebühr kaufen. Coinimal ist für die Bewohner der EU verfügbar.
    ar: yes
    desc_ar:  شراء بيتكوين بـ EPS وgiropay و NETELLER وSOFORT وSEPA و SEPA، والتحويل المصرفي عبر الإنترنت.
    desc_fr: Achetez des bitcoins avec SOFORT, NETELLER, giropay, eps, SEPA et virement bancaire en ligne.
@@ -1725,6 +1736,7 @@
    desc_ccww_ptbr: Trucoin permite você comprar bitcoin com cartão de crédito Visa ou Mastercartd em 30 Estados dos Estados Unidos. Seu bitcoin será entregue instantaneamente. Disponível no Alabama, Arizona, Arkansas, Samoa americana, Connecticut, Washington DC, Flórida, Geórgia, Idaho, Kansas, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Mississipi, Montana, Nebraska, New Jersey, Novo México, Dakota do Norte, Oregon , Rhode Island, Carolina do Sul, Dakota do Sul, Texas, Wake Island, West Virginia e Wyoming.
    desc_ccww_ru: Trucoin позволяет приобрести биткоины при помощи кредитной карты систем Visa и Mastercard в 30 штатах США. Биткоины доставляются моментально. Сервис доступен для жителей следующих регионов - Алабама, Аризона, Арканзас, Американское Самоа, Коннектикут, Вашингтон, Флорида, Джорджия, Айдахо, Миссисипи, Монтана, Небраска, Нью-Джерси, Нью-Мексико, Северная Дакота, Орегон, Род-Айленд, Южная Каролина, Южная Дакота, Техас, Остров Уэйк, Западная Вирджиния, и Вайоминг.
    desc_ccww_es: Trucoin permite comprar bitcoin con tarjeta de crédito Visa o Mastercard en 30 estados de los Estados Unidos. Los bitcoin serán entregados de manera inmediata. Disponible en Alabama, Arizona, Arkansas, Samoa Americana, Connecticut, Washington DC, Florida, Georgia, Idaho, Kansas, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Mississippi, Montana, Nebraska, Nueva Jersey, Nuevo México, Dakota del Norte, Oregon, Rhode Island, Carolina del Sur, Dakota del Sur, Texas, Wake Island, Virginia Occidental y Wyoming.
+   desc_ccww_de: Trucoin ermöglicht Ihnen Bitcoin mit Visa oder Mastercard Kreditkarte in 30 US-Bundesstaaten zu kaufen. Ihre Bitcoin werden sofort geliefert. Erhältlich in Alabama, Arizona, Arkansas, American Samoa, Connecticut, Washington DC, Florida, Georgia, Idaho, Kansas, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Mississippi, Montana, Nebraska, New Jersey, New Mexico, North Dakota, Oregon , Rhode Island, South Carolina, South Dakota, Texas, Wake Island, West Virginia und Wyoming.
    es: yes
    name_es: Trucoin
    desc_es: Comprar Bitcoin con una tarjeta de crédito de forma instantánea en más de 30 estados de los EEUU.
@@ -1802,8 +1814,8 @@
    desc: Bitcoin broker. Buy bitcoin with SEPA or bank transfers in the UK. 
    url: https://cryptopay.me/
    icon: https://www.buybitcoinworldwide.com/img/buy/cryptopay.png
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
-   po: sepa, bt
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch
+   po: sepa
    ar: yes
    desc_ar:  وسيط بيتكوين. شراء بيتكوين بحوالة SEPA أو بحوالة بنكية في المملكة المتحدة.
    desc_fr: Courtier bitcoin. Achetez des bitcoins avec des virements SEPA ou bancaires dans le Royaume-Uni.
@@ -1815,6 +1827,25 @@
    desc_bg: Биткойн брокер. Купете чрез SEPA или банков превод във Великобритания.
    desc_ru: Биткоин-брокер. Купить биткоин с помощью SEPA или банковским переводом в Великобритании.
    desc_uk: Купити біткоіни за допомогою SEPA-платежу або банківським переказом у Великобританії.
+   
+ - name: CryptoPay
+   desc: Bitcoin broker. Buy bitcoin with SEPA or bank transfers in the UK. 
+   url: https://cryptopay.me/
+   icon: https://www.buybitcoinworldwide.com/img/buy/cryptopay.png
+   countries: gb 
+   hide: yes
+   po: bt
+   ar: yes
+   desc_ar:  وسيط بيتكوين. شراء بيتكوين بحوالة SEPA أو بحوالة بنكية في المملكة المتحدة.
+   desc_fr: Courtier bitcoin. Achetez des bitcoins avec des virements SEPA ou bancaires dans le Royaume-Uni.
+   desc_el: Μεσίτης bitcoin. Αγοράστε bitcoin με SEPA ή τραπεζική μεταφορά στο ΗΒ.
+   desc_nl: Bitcoin dealer. Koop bitcoin met SEPA of bankoverschrijvingen in Engeland. 
+   desc_it: Broker di Bitcoin. Acquista Bitcoin tramite SEPA o bonifici bancari nel Regno Unito.
+   desc_pt_br: Casa de câmbio de moeda Bitcoin. Compre Bitcoins no Reino Unido via transferência bancária ou SEPA.
+   desc_de: Bitcoin Broker. Bitcoin mit SEPA und Banküberweisungen in Großbritannien kaufen.
+   desc_bg: Биткойн брокер. Купете чрез SEPA или банков превод във Великобритания.
+   desc_ru: Биткоин-брокер. Купить биткоин с помощью SEPA или банковским переводом в Великобритании.
+   desc_uk: Купити біткоіни за допомогою SEPA-платежу або банківським переказом у Великобританії.   
    
  - name: Anycoin Direct
    desc: Bitcoin broker. Buy bitcoin with SEPA, Interac Online, and many more payment methods. 
@@ -1937,6 +1968,7 @@
    desc_ccww_ptbr: 247Exchange permite você comprar bitcoin com cartão de crédito ou débito. Tem uma taxa de 7% em cada compra de bitcoin; 4% para cobrir as taxas de processamento do cartão de crédito e mais 3% de taxa de serviço. 247Exchange não está disponível para os residentes dos Estados Unidos.
    desc_ccww_ru: 247Exchange позволяет купить биткоины при помощи кредитной или дебетовой карты. С каждой покупки удерживается комиссия в 7%, из которых 4% уходит на покрытие комиссии банковского процессинга, и 3% взимается в качестве сервисного сбора. 247Exchange недоступен жителям Соединённых Штатов.
    desc_ccww_es: 247Exchage permite comprar bitcoin con tarjeta de crédito o débito. Hay una comisión de 7% en cada compra de bitcoin - 4% para cubrir las tasas de procesamientos de las tarjetas de crédito y 3% más de comisión por el servicio. 247Exchange no está disponible para residentes de los Estados Unidos.
+   desc_ccww_de: 247Exchange ermöglicht Ihnen Bitcoin mit einer Kredit- oder Debitkarte zu kaufen. Es gibt eine 7% Gebühr auf jedem Kauf von Bitcoin; 4%, um die Verarbeitung von Kreditkartengebühren zu decken, und 3% mehr als eine Dienstgebühr. 247Exchange ist nicht verfügbar für die Bewohner der Vereinigten Staaten.
 
  - name: Mycelium Local Trader
    desc: Buy from local traders through Mycelium Bitcoin wallet. Availability depends on location.

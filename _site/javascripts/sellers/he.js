@@ -59,7 +59,7 @@
 
   window.sellers.push({
     countries: "us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "sepa, fast, cdus, nobank, cash, bt",
+    methods: "sepa, fast, cdus, nobank, cash",
     hide: "",
     url: "http://buybitcoinww.co/buybitquick",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitquick.png\" alt=\"BitQuick\"></a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
@@ -363,7 +363,7 @@
 
   window.sellers.push({
     countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "sepa, bt",
+    methods: "sepa, swift",
     hide: "",
     url: "https://coinfloor.co.uk/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinfloor.png\" alt=\"Coinfloor\"></a> \n		<a type=\"button\" href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
@@ -547,7 +547,7 @@
 
   window.sellers.push({
     countries: "cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mo",
-    methods: "sepa, bt, egopay",
+    methods: "sepa, egopay",
     hide: "",
     url: "https://www.btcchina.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.btcchina.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/lakebtc.png\" alt=\"LakeBTC\"></a> \n		<a type=\"button\" href=\"https://www.btcchina.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"https://www.btcchina.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
@@ -563,7 +563,7 @@
 
   window.sellers.push({
     countries: "cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "sepa, swift, okpay, bt",
+    methods: "sepa, swift, okpay",
     hide: "",
     url: "https://gatecoin.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://gatecoin.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/gatecoin.png\" alt=\"Gatecoin\"></a> \n		<a type=\"button\" href=\"https://gatecoin.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"https://gatecoin.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
@@ -1027,7 +1027,7 @@
 
   window.sellers.push({
     countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "sofort, giro, sepa, bt, ccww, neteller,",
+    methods: "sofort, giro, sepa, ccww, neteller,",
     hide: "",
     url: "https://www.coinimal.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coinimal.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinimal.png\" alt=\"Coinimal\"></a> \n		<a type=\"button\" href=\"https://www.coinimal.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"https://www.coinimal.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
@@ -1074,9 +1074,17 @@
   });
 
   window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "sepa, bt",
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch",
+    methods: "sepa",
     hide: "",
+    url: "https://cryptopay.me/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cryptopay.png\" alt=\"CryptoPay\"></a> \n		<a type=\"button\" href=\"https://cryptopay.me/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"https://cryptopay.me/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt",
+    hide: "true",
     url: "https://cryptopay.me/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cryptopay.png\" alt=\"CryptoPay\"></a> \n		<a type=\"button\" href=\"https://cryptopay.me/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"https://cryptopay.me/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
   });

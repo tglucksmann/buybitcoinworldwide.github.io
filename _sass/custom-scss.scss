@@ -395,6 +395,11 @@ html, body {
 	text-align: right;
 }
 
+.small-large-break h3 {
+    font-size: 26px !important;
+    margin-top: 3px !important;
+}
+
 .arabic .bottom-footer .right {
 	text-align: left;
 }
@@ -661,7 +666,6 @@ h3 {
 
 .buy-info-full .btn {
     display: inline-block;
-    font-family: Proxima;
     font-size: 16px;
     font-weight: 400;
     margin-top: -3px;
