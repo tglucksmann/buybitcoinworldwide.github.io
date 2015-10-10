@@ -190,14 +190,14 @@ ru:
   contact: Обратная связь
   contact_url: /en/contact/
   paymentmethods: Способы оплаты
-  paymentmethods_url: /en/payment-methods/
+  paymentmethods_url: /ru/Способы-оплаты/
   about: О нас
   about_url: /en/about/
   change_lang: Language 
   
 ##################### Ukrainian #####################
 uk:
-  buy: Купити Bitcoin
+  buy: Купити біткоін
   atms: Банкомати
   exchanges: Біржи
   namerica: Північна Америка

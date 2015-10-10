@@ -1,0 +1,44 @@
+---
+layout: guidehelp
+title: "Buy Bitcoin with AstroPay"
+seotitle: "Buy Bitcoin with AstroPay"
+sitemap:
+    priority: 0.7
+permalink: "/en/buy-bitcoin-astropay/"
+desc: Learn where to buy bitcoin with AstroPay. A complete list of brokers and exchanges that let you buy bitcoin via AstroPay.  
+lang: en
+pmethod: astropay
+author: jordantuwiner
+---
+<div class="col-sm-12">
+<p>AstroPay is a cash and online payment method that is widely used in Latin America. Users can buy bitcoin with AstroPay by buying an AstroPay voucher with cash, or via online banking solutions. </p>
+</div>
+
+<div class="col-sm-12">
+	{% include country-loops.html %}
+	{% for name in site.data.buy %}
+	{% if name.po contains 'astro' %}
+	{% include buy-list-en.html %}
+	{% endif %}
+	{% endfor %}
+</div>
+
+<div class="col-sm-12 small-large-break">
+<p>The list below contains the same companies listed above, but with more information about fees, countries supported, and more additional details.</p>
+</div>
+
+
+<div class="content-with-sidebar col-md-9">
+	{% include country-loops.html %}
+	{% for name in site.data.buy %}
+	{% if name.po contains 'astro' %}
+	{% include buy-list-large.html %}
+	{% endif %}
+	{% endfor %}
+	<p>If none of the companies above suit your needs, try buying bitcoin with <a href="/en/buy-bitcoin-cash-deposit-united-states/">cash</a> or <a href="/en/buy-bitcoin-credit-debit-card/">credit card</a>. To find more places to buy bitcoin in your country use our <a href="/en/">country index</a>. </p>
+
+<p><i><b>Note:</b> Buy bitcoin at your own risk. We only recommend companies we find and can't guarantee the security of your funds. We recommend buying bitcoin and immediately moving it to a wallet you own. </i></p> 
+</div>
+<div class="sidebar-add col-md-3">
+	{% include sidebar.html %}
+</div>

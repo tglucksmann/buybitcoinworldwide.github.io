@@ -5,7 +5,7 @@
    countries: gr, at, ro, be, hu, sg, bg, ie, sk, ca, it, es, hr, lv, se, cy, mt, ch, cz, nl, gb, dk, nor, us, fi, pl, fr, pt, pr, si, li, mc, sm
    po: sepa, usbt, fast, io, ideal, lowfees, ccww, cc, bt
    desc_fast: Coinbase lets you buy bitcoin with a connected bank account via ACH bank transfer. The bitcoin bought in your first purchase will only be available to you after five days. However, if you add a credit card to your account all purchases after your initial purchase will have your bitcoin delivered instantly. Coinbase is available in the United States and most of Europe.  
-   desc_ach: Coinbase is the world's largest Bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. Coinbase charges a flat 1% fee on all transactions, which is the standard among U.S. Bitcoin brokers. You'll have to wait five days to receive your bitcoin. If you add a Visa or Mastercard credit card to your account all bitcoin purchases besides your first will be delivered instantly.  
+   desc_ach: Coinbase is the world's largest In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. Coinbase charges a flat 1% fee on all transactions, which is the standard among U.S. Bitcoin brokers. You'll have to wait five days to receive your bitcoin. If you add a Visa or Mastercard credit card to your account all bitcoin purchases besides your first will be delivered instantly.  
    desc_ccww: Coinbase is the world's largest Bitcoin broker. At Coinbase you can buy up to €100 of bitcoin per day instantly with a 3D secure credit or debit card in Europe or the United Kingdom. Coinbase charges a flat 3% fee on all purchases via credit or debit card. Coinbase's 3% fee on credit card purchases is the lowest among Bitcoin brokers servicing European customers. If you buy more than $100 or €100 worth of bitcoin through <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">this link</a> you'll get $10 or €10 worth of bitcoin as a bonus (this can be done in multiple purchases, i.e. two purchases of €50 each).
    desc_ccww_fr: Coinbase est le courtier Bitcoin le plus important au monde. Chez Coinbase, vous pouvez acheter jusqu'à 100€ de bitcoins par jour avec une carte de crédit ou de débit 3D Secure en Europe et dans le Royaume-Uni. Coinbase facture une commission forfaitaire de 3% sur tous les achats effectués par carte de crédit ou de débit. La commission de 3% que Coinbase facture sur les achats par carte de crédit est la moins élevée de tous les courtiers Bitcoin offrant leurs services aux clients européens. Si vous achetez pour plus de $100 ou 100€ de bitcoins à partir de <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">ce lien</a>, vous obtiendrez un bonus de bitcoins d'une valeur de $10 ou 10€ (cela peut s'effectuer lors de plusieurs achats, par ex - 2 achats de 50€ chacun).
    desc_ccww_ptbr: Coinbase é a maior corretora de bitcoin do mundo. No Coinbase você pode comprar instantaneamente até €100 de bitcoin por dia com um cartão de crédito ou débito seguro 3D na Europa ou no Reino Unido. Coinbase cobra uma taxa de 3% em todas as compras via cartão de crédito ou débito. A taxa de 3% na compra em cartão de crédito no Coinbase é a mais baixa entre as corretoras que atendem clientes europeus. Se você comprar mais que $100 ou €100 em bitcoin através <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">deste link</a> você ganhará $10 ou €10 em bitcoin como bônus (você pode alcançar este valor fazendo várias compras, como por exemplo duas compras de €50).
@@ -296,7 +296,7 @@
    desc_neosurf: Local Bitcoins connects you with local sellers who accept Neosurf prepaid cards for Bitcoin. It's best to meet the seller in person and make the transaction in order to reduce the risk of fraud. Only deal with Local Bitcoins sellers with good feedback and a history of sales. Local Bitcoins charges a flast 1% fee on all transactions.
    name_he: Local Bitcoins
    desc_he: קנייה של ביטקוין מסוחרים מקומיים ,דרך האינטרנט או פנים מול פנים. מהיר ופרטי. 1% עמלה.
-   po: sepa, fast, cdus, paypal, nobank, lowfees, pp, cash, wmru, astro, mpesa, neosurf
+   po: sepa, fast, cdus, paypal, nobank, lowfees, pp, cash, wmru, mpesa, neosurf
    es: yes
    desc_es: Comprar Bitcoin a distribuidores locales, online o en persona. Privado y rápido. 1% de comision.
    ar: yes
@@ -679,9 +679,9 @@
    desc: Bitcoin exchange with service in many South American countries. Deposit with cash or AstroPay.  
    url: https://bitex.la/
    icon: https://www.buybitcoinworldwide.com/img/buy/bitexla.png
-   countries: ar, cl, bo, br
+   countries: ar, cl, bo, br, mx, es, pe, uy
    po: cash, astro
-   es: yes
+   desc_astropay: Bitex.la is a Bitcoin exchange based in Buenos Aires, Argentina. Users in Brazil, Mexico, Argentina, Chile, Peru and Uruguay can fund their exchange account with AstroPay. The fee for funding with AstroPay is 2.5%, plus an additional 0.5% per trade made on the exchange. Deposits made via AstroPay will take 2-10 days to be credited to your account. After verifying your identity you can deposit up to $3,000 per month. Verifying further by providing a picture of a utility bill will let you buy up to $10,000 worth of bitcoin per month. 
    name_es: Bitex.la
    desc_es: Intercambio de Bitcoin con servicio en muchos países Sudamericanos.
    ar: yes
@@ -1584,6 +1584,7 @@
    desc_ccww_ptbr: CEX.io permite você comprar bitcoin com cartão de crédito ou débito e seu bitcoin está disponível imediatamente. CEX.io atende nos Estados Unidos, Europa e alguns países da América do Sul.
    desc_ccww_ru: CEX.io позволяет покупать биткоины при помощи кредитной или дебетовой карты, и предоставляет биткоины мгновенно. CEX.io работает в США, Европе, и некоторых странах Южной Америки.
    desc_ccww_es: CEX.io permite comprar bitcoin con tarjeta de crédito o débito y sus bitcoin estarán disponibles de manera inmediata. CEX.io trabaja en los Estados Unidos, Europa y algunos países de América del Sur.
+   desc_astropay: CEX.IO is a bitcoin exchange and broker based in London. Users in Brazil, Mexico, Argentina, Chile, Peru, Uruguay, China and Turkey can buy bitcoin with AstroPay at CEX.IO. A flat 2.5% fee is charged on all purchases, and users can buy up to $2,000 worth of bitcoins per day and up to $4,000 worth of bitcoins per month. 
    es: yes
    name_es: CEX.io
    desc_es: Comprar Bitcoin a través de tarjeta de crédito, transferencia bancaria SEPA/ACH, o efectivo.
