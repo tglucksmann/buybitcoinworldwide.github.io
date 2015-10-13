@@ -17,14 +17,14 @@ author: jordantuwiner
 <div class="col-sm-12">
 	{% include country-loops.html %}
 	{% for name in site.data.buy %}
-	{% if name.po contains 'usbt' %}
+	{% if name.po contains 'ach' %}
 	{% include buy-list-en.html %}
 	{% endif %}
 	{% endfor %}
 </div>
 
 <div class="col-sm-12 small-large-break">
-<p>The list below contains the same companies listed above, but with more information about fees, states/countries supported, and many more additional details.</p>
+<h3>More Details</h3>
 </div>
 
 

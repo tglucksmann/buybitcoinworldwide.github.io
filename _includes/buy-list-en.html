@@ -34,6 +34,18 @@
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
+{% elsif page.lang == 'en' and page.pmethod == 'ach' %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_achshort }}</p>
+		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
 {% elsif page.lang == 'es' and name.desc_es != null and name.name_es != null %}
 <div class="col-md-6 buy-info">
 		<h4>

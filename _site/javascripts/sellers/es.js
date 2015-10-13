@@ -3,7 +3,7 @@
 
   window.sellers.push({
     countries: "gr, at, ro, be, hu, sg, bg, ie, sk, ca, it, es, hr, lv, se, cy, mt, ch, cz, nl, gb, dk, nor, us, fi, pl, fr, pt, pr, si, li, mc, sm",
-    methods: "sepa, usbt, fast, io, ideal, lowfees, ccww, cc, bt",
+    methods: "sepa, usbt, fast, io, ideal, lowfees, ccww, cc, bt, ach",
     hide: "",
     url: "http://buybitcoinww.co/buycoinbase",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbase.png\" alt=\"Coinbase\">Coinbase</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n		</h4>\n		<p>Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable. 1% de comision.</p>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n</div>\n\n\n"
@@ -18,19 +18,19 @@
   });
 
   window.sellers.push({
-    countries: "us, ca",
-    methods: "usbt, io, lowfees, bt",
-    hide: "",
-    url: "http://buybitcoinww.co/go_celery",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/celery.png\" alt=\"Celery\">Celery</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n		</h4>\n		<p>Comprar bitcoin con una cuenta conectada a un banco de EEUU o tarjeta de crédito/débito.</p>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
     countries: "us",
-    methods: "ccus, usbt, fast, lowfees, ccww, bt, cc",
+    methods: "ccus, usbt, fast, lowfees, ccww, bt, cc, ach",
     hide: "",
     url: "http://buybitcoinww.co/buy_circle",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/circle.png\" alt=\"Circle\">Circle</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n		</h4>\n		<p>Comprar Bitcoin de forma instantánea con una cuenta bancaria o tarjeta de crédito. Sin comisiones.</p>\n		<a href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "us, ca",
+    methods: "usbt, io, lowfees, bt, ach",
+    hide: "",
+    url: "http://buybitcoinww.co/go_celery",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/celery.png\" alt=\"Celery\">Celery</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n		</h4>\n		<p>Comprar bitcoin con una cuenta conectada a un banco de EEUU o tarjeta de crédito/débito.</p>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -83,7 +83,7 @@
 
   window.sellers.push({
     countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "sepa, ach, cash, lowfees",
+    methods: "sepa, cash, lowfees",
     hide: "",
     url: "http://buybitcoinww.co/Bitcoin_de",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitcoinde.png\" alt=\"Bitcoin.de\">Bitcoin.de</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n		</h4>\n		<p>Comprar bitcoin en Bitcoin.de a través de SEPA o transferencia bancaria. Comisiones varias.</p>\n		<a href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n</div>\n\n\n"
@@ -99,7 +99,7 @@
 
   window.sellers.push({
     countries: "us",
-    methods: "swift, ach",
+    methods: "swift",
     hide: "",
     url: "https://www.coinsetter.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coinsetter.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinsetter.png\" alt=\"Coinsetter\">Coinsetter</a> \n		<a type=\"button\" href=\"https://www.coinsetter.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n		</h4>\n		<p>Intercambio de Bitcoin con sede en Nueva York. Deposite dinero con transferencia ACH o SWIFT.</p>\n		<a href=\"https://www.coinsetter.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n</div>\n\n\n"
@@ -347,7 +347,7 @@
 
   window.sellers.push({
     countries: "gb",
-    methods: "bt, sepa, cc",
+    methods: "bt, sepa, ccww",
     hide: "",
     url: "https://www.coincorner.com/",
     html: "      \n\n\n"
@@ -1003,7 +1003,7 @@
 
   window.sellers.push({
     countries: "us",
-    methods: "usbt, lowfees, bt",
+    methods: "usbt, lowfees, bt, ach",
     hide: "",
     url: "https://www.snapcard.io/buy-bitcoin",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.snapcard.io/buy-bitcoin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/snapcard.png\" alt=\"Snapcard\">Snapcard</a> \n		<a type=\"button\" href=\"https://www.snapcard.io/buy-bitcoin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n		</h4>\n		<p>Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable.</p>\n		<a href=\"https://www.snapcard.io/buy-bitcoin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n</div>\n\n\n"

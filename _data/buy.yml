@@ -3,9 +3,10 @@
    url: http://buybitcoinww.co/buycoinbase
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbase.png
    countries: gr, at, ro, be, hu, sg, bg, ie, sk, ca, it, es, hr, lv, se, cy, mt, ch, cz, nl, gb, dk, nor, us, fi, pl, fr, pt, pr, si, li, mc, sm
-   po: sepa, usbt, fast, io, ideal, lowfees, ccww, cc, bt
+   po: sepa, usbt, fast, io, ideal, lowfees, ccww, cc, bt, ach
    desc_fast: Coinbase lets you buy bitcoin with a connected bank account via ACH bank transfer. The bitcoin bought in your first purchase will only be available to you after five days. However, if you add a credit card to your account all purchases after your initial purchase will have your bitcoin delivered instantly. Coinbase is available in the United States and most of Europe.  
    desc_ach: Coinbase is the world's largest bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. Coinbase charges a flat 1% fee on all transactions, which is the standard among U.S. Bitcoin brokers. You'll have to wait five days to receive your bitcoin. If you add a Visa or Mastercard credit card to your account all bitcoin purchases besides your first will be delivered instantly.  
+   desc_achshort: The world's largest Bitcoin broker. Buy bitcoin via ACH. Easy and convenient. 
    desc_ccww: Coinbase is the world's largest Bitcoin broker. At Coinbase you can buy up to €100 of bitcoin per day instantly with a 3D secure credit or debit card in Europe or the United Kingdom. Coinbase charges a flat 3% fee on all purchases via credit or debit card. Coinbase's 3% fee on credit card purchases is the lowest among Bitcoin brokers servicing European customers. If you buy more than $100 or €100 worth of bitcoin through <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">this link</a> you'll get $10 or €10 worth of bitcoin as a bonus (this can be done in multiple purchases, i.e. two purchases of €50 each).
    desc_ccww_fr: Coinbase est le courtier Bitcoin le plus important au monde. Chez Coinbase, vous pouvez acheter jusqu'à 100€ de bitcoins par jour avec une carte de crédit ou de débit 3D Secure en Europe et dans le Royaume-Uni. Coinbase facture une commission forfaitaire de 3% sur tous les achats effectués par carte de crédit ou de débit. La commission de 3% que Coinbase facture sur les achats par carte de crédit est la moins élevée de tous les courtiers Bitcoin offrant leurs services aux clients européens. Si vous achetez pour plus de $100 ou 100€ de bitcoins à partir de <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">ce lien</a>, vous obtiendrez un bonus de bitcoins d'une valeur de $10 ou 10€ (cela peut s'effectuer lors de plusieurs achats, par ex - 2 achats de 50€ chacun).
    desc_ccww_ptbr: Coinbase é a maior corretora de bitcoin do mundo. No Coinbase você pode comprar instantaneamente até €100 de bitcoin por dia com um cartão de crédito ou débito seguro 3D na Europa ou no Reino Unido. Coinbase cobra uma taxa de 3% em todas as compras via cartão de crédito ou débito. A taxa de 3% na compra em cartão de crédito no Coinbase é a mais baixa entre as corretoras que atendem clientes europeus. Se você comprar mais que $100 ou €100 em bitcoin através <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">deste link</a> você ganhará $10 ou €10 em bitcoin como bônus (você pode alcançar este valor fazendo várias compras, como por exemplo duas compras de €50).
@@ -51,37 +52,16 @@
    desc_de: Kaufen mit SEPA Überweisungen oder Banküberweisungen in der Schweiz.
    desc_bg: Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно. 
    
- - name: Celery
-   desc: Buy bitcoin with your bank account in the U.S. or Canada (Interac Online or bank transfer). 
-   url: http://buybitcoinww.co/go_celery
-   icon: https://www.buybitcoinworldwide.com/img/buy/celery.png
-   countries: us, ca
-   po: usbt, io, lowfees, bt
-   desc_ach: Celery is another Bitcoin broker and serves the U.S. and Canada. You can buy bitcoin with a connected bank account via ACH transfer. Celery charges a flat 1% fee on all transactions. Your coins will be delivered within 5 days. 
-   es: yes
-   desc_es: Comprar bitcoin con una cuenta conectada a un banco de EEUU o tarjeta de crédito/débito.   
-   ar: yes
-   desc_ar:  شراء بيتكوين بحساب مصرفي أمريكي مربوط أو ببطاقة الائتمان / الخصم. شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين Interac Online. 
-   desc_fr: Achetez des bitcoins avec un compte en banque ou par carte de crédit, & Interac En Ligne.
-   desc_el: Αγοράστε bitcoin με συνδεδεμένο τραπεζικό λογαριασμό από τις ΗΠΑ ή χρεωστική/πιστωτική κάρτα.
-   desc_nl: Koop bitcoin met een Amerikaanse bankrekening of credit/debit card.
-   desc_it: Acquista Bitcoin con un conto bancario o una carta di credito. Facile e veloce.
-   desc_pt_br: Compre Bitcoins usando a conta de um banco norte-americano ou cartão de débito/crédito. 
-   desc_de: Kaufen Sie Bitcoin mit einem Bankkonto oder Kreditkarte. Schnell und einfach.
-   desc_zh: 通过连接美国银行账户或信用卡/借记卡购买比特币。
-   desc_bg: Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.
-   desc_ru: Купить биткоин с помощью Вашего банковского счета. Легко, быстро, удобно. Сбор в размере 1%.
-   desc_uk: Купить биткоин с помощью Вашего банковского счета. Легко, быстро, удобно. Сбор в размере 1%.
-
  - name: Circle
    desc: Buy bitcoin with a bank account or credit card. Fast and easy.
    url: http://buybitcoinww.co/buy_circle
    icon: https://www.buybitcoinworldwide.com/img/buy/circle.png
    countries: us
-   po: ccus, usbt, fast, lowfees, ccww, bt, cc
+   po: ccus, usbt, fast, lowfees, ccww, bt, cc, ach
    desc_fast: Circle lets you buy bitcoin with a credit card, debit card, or ACH bank transfer. Purchases of bitcoin made with a debit card are available instantly. Circle is currently only available in the United States.
    desc_ccus: Circle lets you buy bitcoin with a debit card instantly with no fee. If you use a credit card you'll have to pay a 3% fee, and wait a few days to receive your coins. Limited to $300 worth of bitcoin per week.
    desc_ach: Circle lets you connect a bank account and buy via ACH transfer. Circle doesn't officially charge a fee, but its exchange rate is usually 0.5% higher than Bitcoin exchanges. Bitcoin will be delivered within 1-4 days.
+   desc_achshort: Buy bitcoin with your bank account via ACH transfer. Limited to $300 per week.
    desc_ccww: Circle lets you buy bitcoin with a debit card instantly with no fee. If you use a credit card you'll have to pay a 3% fee and wait a few days to receive your coins. Circle is currently only available in the United States, but some users in Europe and South America have had success using the service as well. Purchasing through Circle is the only way to buy bitcoin with a debit card with no fees. However, you're limited to $300 worth of bitcoin per week.
    desc_ccww_fr: Circle vous permet d'acheter instantanément des bitcoins avec une carte de débit, et sans commission. Si vous utilisez une carte de crédit, vous aurez à payer 3% de frais et attendre quelques jours avant de recevoir vos bitcoins. Bien que Circle ne soit en ce moment disponible qu'aux États-Unis, certains utilisateurs en Europe et en Amérique du Sud ont aussi réussi à utiliser ce service. Acheter avec Circle est le seul moyen d'acheter des bitcoins sans frais avec une carte de débit. Vous êtes cependant limité à 300€ de bitcoins par semaine.
    desc_ccww_ptbr: Circle permite você comprar bitcoin instantaneamente com um cartão de débito sem taxas. Se você usar um cartão de crédito você terá que pagar uma taxa de 3% e esperar alguns dias para receber seu bitcoin. Circle atende no momento somente os Estados Unidos, mas alguns clientes da Europa e América do Sul conseguiram usar seus serviços. Comprando através do Circle é a única maneira de compras bitcoin com um cartão de débito sem taxas. Porém, você está limitado a $300 de bitcoin por semana.
@@ -102,6 +82,29 @@
    desc_bg: Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.
    desc_ru: Купить биткоин мгновенно с помощью банковского счета или кредитной карты. Без процентных сборов.
    desc_uk: Купить биткоин мгновенно с помощью банковского счета или кредитной карты. Без процентных сборов.
+
+ - name: Celery
+   desc: Buy bitcoin with your bank account in the U.S. or Canada (Interac Online or bank transfer). 
+   url: http://buybitcoinww.co/go_celery
+   icon: https://www.buybitcoinworldwide.com/img/buy/celery.png
+   countries: us, ca
+   po: usbt, io, lowfees, bt, ach
+   desc_ach: Celery is another Bitcoin broker and serves the U.S. and Canada. You can buy bitcoin with a connected bank account via ACH transfer. Celery charges a flat 1% fee on all transactions. Your coins will be delivered within 5 days. 
+   desc_achshort: Buy bitcoin with your bank account via ACH bank transfer. Easy and convenient. 
+   es: yes
+   desc_es: Comprar bitcoin con una cuenta conectada a un banco de EEUU o tarjeta de crédito/débito.   
+   ar: yes
+   desc_ar:  شراء بيتكوين بحساب مصرفي أمريكي مربوط أو ببطاقة الائتمان / الخصم. شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين Interac Online. 
+   desc_fr: Achetez des bitcoins avec un compte en banque ou par carte de crédit, & Interac En Ligne.
+   desc_el: Αγοράστε bitcoin με συνδεδεμένο τραπεζικό λογαριασμό από τις ΗΠΑ ή χρεωστική/πιστωτική κάρτα.
+   desc_nl: Koop bitcoin met een Amerikaanse bankrekening of credit/debit card.
+   desc_it: Acquista Bitcoin con un conto bancario o una carta di credito. Facile e veloce.
+   desc_pt_br: Compre Bitcoins usando a conta de um banco norte-americano ou cartão de débito/crédito. 
+   desc_de: Kaufen Sie Bitcoin mit einem Bankkonto oder Kreditkarte. Schnell und einfach.
+   desc_zh: 通过连接美国银行账户或信用卡/借记卡购买比特币。
+   desc_bg: Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.
+   desc_ru: Купить биткоин с помощью Вашего банковского счета. Легко, быстро, удобно. Сбор в размере 1%.
+   desc_uk: Купить биткоин с помощью Вашего банковского счета. Легко, быстро, удобно. Сбор в размере 1%.
 
  - name: Coinhouse
    desc: Buy bitcoins with a 3D secure credit or debit card in Europe. High limits available.
@@ -237,7 +240,7 @@
    url: http://buybitcoinww.co/Bitcoin_de
    icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinde.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
-   po: sepa, ach, cash, lowfees
+   po: sepa, cash, lowfees
    es: yes
    desc_es: Comprar bitcoin en Bitcoin.de a través de SEPA o transferencia bancaria. Comisiones varias.
    ar: yes
@@ -273,7 +276,7 @@
    url: https://www.coinsetter.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinsetter.png
    countries: us
-   po: swift, ach
+   po: swift
    es: yes
    name_es: Coinsetter
    desc_es: Intercambio de Bitcoin con sede en Nueva York. Deposite dinero con transferencia ACH o SWIFT.
@@ -735,7 +738,7 @@
    url: https://www.coincorner.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/ccoiner.png
    countries: gb
-   po: bt, sepa, cc
+   po: bt, sepa, ccww
    ar: yes
    desc_ar:  الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.
    
@@ -1637,7 +1640,8 @@
    url: https://www.snapcard.io/buy-bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/snapcard.png
    countries: us
-   po: usbt, lowfees, bt
+   po: usbt, lowfees, bt, ach
+   desc_achshort: Buy bitcoin with your bank account via ACH transfer. 0.5% fee. 
    desc_ach: Snapcard lets you buy bitcoin with a connected bank account via ACH transfer. Snapcard charges a flat 0.5% fee on all purchases. 
    desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable.
    desc_fr: Achetez des bitcoins avec votre compte en banque. Rapide et facile.
