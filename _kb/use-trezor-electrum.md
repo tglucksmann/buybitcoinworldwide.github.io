@@ -3,6 +3,7 @@ layout: kb
 title: "How to Use TREZOR with Electrum"
 seotitle: "How to Use TREZOR with Electrum"
 permalink: /kb/trezor-electrum/
+date: 2015-07-05 16:54:46
 description: How to spend from and use an initialized TREZOR with Electrum 2.0.
 desc: How to spend from and use an initialized TREZOR with Electrum 2.0. An already initialized TREZOR is required.
 lang: en

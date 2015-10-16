@@ -12,7 +12,7 @@ mycelium:
   download_ios_url: https://itunes.apple.com/us/app/mycelium-bitcoin-wallet/id943912290?mt=8
   download_android: yes
   download_android_url: https://play.google.com/store/apps/details?id=com.mycelium.wallet
-  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-mycelium.markdown
+  contribute: mycelium
 
 hive:
   website: hivewallet.com
@@ -27,7 +27,7 @@ hive:
   download_ios_url: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=906990301&mt=8
   download_android: yes
   download_android_url: https://play.google.com/store/apps/details?id=com.hivewallet.hive.cordova
-  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-hive.markdown
+  contribute: hive
   
 greenaddress:
   website: greenaddress.it
@@ -42,7 +42,7 @@ greenaddress:
   download_ios_url: https://itunes.apple.com/us/app/greenaddress/id889740745?mt=8#
   download_android: yes
   download_android_url: https://play.google.com/store/apps/details?id=it.greenaddress.cordova
-  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-greenaddress.markdown
+  contribute: greenaddress
 
 greenbits:
   website: greenaddress.it
@@ -53,7 +53,7 @@ greenbits:
   shared_control_priv_keys: yes
   download_android: yes
   download_android_url: https://play.google.com/store/apps/details?id=com.greenaddress.greenbits_android_wallet&hl=en
-  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-greenbits.markdown
+  contribute: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-greenbits.markdown
   
 bwallet:
   website: wallet.schildbach.de
@@ -64,7 +64,7 @@ bwallet:
   control_priv_keys: yes
   download_android: yes
   download_android_url: https://play.google.com/store/apps/details?id=de.schildbach.wallet
-  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-bitcoin-wallet.markdown
+  contribute: greenbits
   
 electrum:
   website: electrum.org
@@ -75,7 +75,7 @@ electrum:
   control_priv_keys: yes
   download_desktop: yes
   download_desktop_url: https://electrum.org/#download
-  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-electrum.markdown
+  contribute: electrum
   
 hivemac:
   website: mac.hivewallet.com
@@ -86,7 +86,7 @@ hivemac:
   control_priv_keys: yes
   download_desktop: yes
   download_desktop_url: https://mac.hivewallet.com/
-  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-hive-mac.markdown
+  contribute: hive-mac
   
 trezor:
   website: bitcointrezor.com
@@ -97,7 +97,7 @@ trezor:
   control_priv_keys: yes
   buy: yes
   buy_url: http://buybitcoinww.co/TREZOR_Wallet
-  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-trezor.markdown
+  contribute: trezor
 
 ledger:
   website: ledgerwallet.com
@@ -108,7 +108,7 @@ ledger:
   control_priv_keys: yes
   buy: yes
   buy_url: http://buybitcoinww.co/Ledger_Wallet
-  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-10-02-ledger.markdown
+  contribute: ledger-nano
   
 coinkite:
   website: coinkite.com
@@ -119,7 +119,7 @@ coinkite:
   open_source: yes
   open_source_url: https://github.com/coinkite
   control_priv_keys: yes
-  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-coinkite.markdown
+  contribute: coinkite
   
 blockchaininfo:
   website: blockchain.info
@@ -134,7 +134,7 @@ blockchaininfo:
   download_ios_url: https://itunes.apple.com/us/app/blockchain-bitcoin-wallet/id493253309?mt=8
   download_android: yes
   download_android_url: https://play.google.com/store/apps/details?id=piuk.blockchain.android&hl=en
-  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-blockchaininfo.markdown
+  contribute: blockchaininfo
   
 circle:
   website: circle.com
@@ -148,7 +148,7 @@ circle:
   download_ios_url: https://itunes.apple.com/us/app/circle-for-bitcoin/id920164002?mt=8
   download_android: yes
   download_android_url: https://play.google.com/store/apps/details?id=com.circle.android&hl=en
-  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-circle.markdown
+  contribute: circle
   
 coinbase:
   website: coinbase.com
@@ -162,4 +162,4 @@ coinbase:
   download_ios_url: https://itunes.apple.com/us/app/coinbase-bitcoin-wallet/id886427730?mt=8
   download_android: yes
   download_android_url: https://play.google.com/store/apps/details?id=com.coinbase.android&hl=en
-  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-coinbase.markdown
+  contribute: coinbase

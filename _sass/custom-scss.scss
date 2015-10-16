@@ -806,7 +806,7 @@ height: auto;
     width: 100%;
 }
 
-.wallets-index .col-lg-12 {
+.wallets-index {
 	text-align: center;
 }
 
@@ -814,7 +814,7 @@ height: auto;
     display: inline-block;
     margin: 15px 3px;
     text-align: center;
-    width: 150px;
+    width: 130px;
 }
 
 .wallet-index-wrap img {
@@ -907,6 +907,22 @@ height: auto;
     margin: 0 auto;
 }
 
+.published-date {
+	text-align: center;
+}
+
+.table-kb td {
+	padding: 12px 14px 8px !important;
+}
+
+.table-kb p, .table-kb h3 {
+	margin: 0;
+}
+
+.table-kb h3 {
+    font-size: 20px;
+}
+
 .android-img-kb {
     margin-bottom: 20px;
     max-width: 300px;
@@ -915,7 +931,6 @@ height: auto;
 .wallet-group {
 	width: 100%;
 	float: left;
-	margin: 10px 10px;
 }
 
 @media (max-width: 991px) { 

@@ -5,6 +5,7 @@ seotitle: "Restore TREZOR Seed with Electrum"
 permalink: /kb/restore-trezor-seed-electrum/
 description: How to import a TREZOR recovery seed into Electrum and quickly gain access to funds if a TREZOR is lost, stolen, or damaged.
 desc: How to import a TREZOR recovery seed into Electrum and quickly gain access to funds if a TREZOR is lost, stolen, or damaged.
+date: 2015-07-05 16:54:46
 categories: 
 - kb
 lang: en
