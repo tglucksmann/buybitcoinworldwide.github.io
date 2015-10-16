@@ -1,4 +1,6 @@
 ---
+sitemap:
+  exclude: 'yes'
 ---
 filterAndRenderSellers = (countryCode, methodCode, selector) ->
   $selector = $(selector)

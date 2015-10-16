@@ -26,11 +26,19 @@
   });
 
   window.sellers.push({
-    countries: "us, ca",
-    methods: "usbt, io, lowfees, bt, ach",
+    countries: "us",
+    methods: "usbt, lowfees, bt, ach",
     hide: "",
     url: "http://buybitcoinww.co/go_celery",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/celery.png\" alt=\"Celery\">Celery</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy bitcoin with your bank account in the U.S. or Canada (Interac Online or bank transfer).</p>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/celery.png\" alt=\"Celery\">Celery</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Bitcoin broker. Buy with your bank account via ACH bank transfer.</p>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ca",
+    methods: "io, bt",
+    hide: "true",
+    url: "http://buybitcoinww.co/go_celery",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/celery.png\" alt=\"Celery\">Celery</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy bitcoin with Canadian bank transfer or with Interac Online.</p>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({

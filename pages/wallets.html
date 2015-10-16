@@ -1,0 +1,71 @@
+---
+layout: page
+permalink: "/wallets/"
+title: Bitcoin Wallets 
+lang: en
+seotitle: Bitcoin Wallets
+desc: A Bitcoin wallet is the first step to owning bitcoin, even before buying it. That's why we help you find a Bitcoin wallet before you buy.
+hide_sidebar: true
+---
+<div class="post-content wallets-index centered">
+<div class="col-lg-12">
+			<p class="browse-wallets-info">Bitcoin wallets make payments global, easy, fast, cheap, and secure. More importantly, funds stored in true Bitcoin wallets give you full control of your money. Our comprehensive wallet overviews help you find the Bitcoin wallet to suit your needs.</p>
+			
+			  <h2 class="index-hardware-wallets wallet-index-title"><span>Cold Storage</span></h2>
+			  <div class="wallet-group">These wallets were built with security in mind. They are meant to secure large amounts of bitcoins and protect your funds. These are perfect for Bitcoin investors who need to protect their funds. </div>
+             {% for album in site.wallets %}
+			{% if album.cat contains 'hardware' %}
+                <! -- Blog Post -->
+                <div class="wallet-index-wrap">
+                <a href="{{ album.url | prepend: site.baseurl }}">
+                <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/wallets/" | prepend: site.baseurl }}{{ album.thumb }}">
+                <h3 class="ctitle">{{ album.title }}</h3></a>               
+                </div>
+                {% endif %}
+            {% endfor %}
+			<hr>
+			
+			<h2 class="index-mobile-wallets wallet-index-title"><span>Hot Wallets</span></h2>
+			<div class="wallet-group">These wallets give you full control over your funds, but aren't built for long term secure storage of a large amount of funds. these wallets are good if you use Bitcoin for shopping, and are frequently making payments. </div>
+            {% for album in site.wallets %}
+			{% if album.cat contains 'hot' %}
+                <! -- Blog Post -->
+                <div class="wallet-index-wrap">
+                <a href="{{ album.url | prepend: site.baseurl }}">
+                <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/wallets/" | prepend: site.baseurl }}{{ album.thumb }}">
+                <h3 class="ctitle">{{ album.title }}</h3></a>               
+                </div>
+                {% endif %}
+            {% endfor %}
+            <hr>
+            
+            <h2 class="index-web-wallets wallet-index-title"><span>Brokerage Wallets</span></h2>
+            <div class="wallet-group">These wallets are connected to your bank account. Funds should only be stored in these wallets if you are using the wallet provider to go in and out of fiat currency. </div>
+             {% for album in site.wallets %}
+			{% if album.cat contains 'broker' %}
+                <! -- Blog Post -->
+                <div class="wallet-index-wrap">
+                <a href="{{ album.url | prepend: site.baseurl }}">
+                <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/wallets/" | prepend: site.baseurl }}{{ album.thumb }}">
+                <h3 class="ctitle">{{ album.title }}</h3></a>               
+                </div>
+                {% endif %}
+            {% endfor %}
+            <hr>
+            
+            <h2 class="index-desktop-wallets wallet-index-title"><span>Unsupported Wallets</span></h2>
+            <div class="wallet-group">These wallets are no longer supported as no further development is being done to keep these wallets up to today's wallet standards. </div>
+             {% for album in site.wallets %}
+			{% if album.cat contains 'unsupported' %}
+                <! -- Blog Post -->
+                <div class="wallet-index-wrap">
+                <a href="{{ album.url | prepend: site.baseurl }}">
+                <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/wallets/" | prepend: site.baseurl }}{{ album.thumb }}">
+                <h3 class="ctitle">{{ album.title }}</h3></a>               
+                </div>
+                {% endif %}
+            {% endfor %}
+            
+
+        </div><! --/col-lg-12 -->
+</div>

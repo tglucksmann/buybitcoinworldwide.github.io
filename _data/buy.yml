@@ -84,11 +84,11 @@
    desc_uk: Купить биткоин мгновенно с помощью банковского счета или кредитной карты. Без процентных сборов.
 
  - name: Celery
-   desc: Buy bitcoin with your bank account in the U.S. or Canada (Interac Online or bank transfer). 
+   desc: Bitcoin broker. Buy with your bank account via ACH bank transfer. 
    url: http://buybitcoinww.co/go_celery
    icon: https://www.buybitcoinworldwide.com/img/buy/celery.png
-   countries: us, ca
-   po: usbt, io, lowfees, bt, ach
+   countries: us
+   po: usbt, lowfees, bt, ach
    desc_ach: Celery is another Bitcoin broker and serves the U.S. and Canada. You can buy bitcoin with a connected bank account via ACH transfer. Celery charges a flat 1% fee on all transactions. Your coins will be delivered within 5 days. 
    desc_achshort: Buy bitcoin with your bank account via ACH bank transfer. Easy and convenient. 
    es: yes
@@ -105,6 +105,28 @@
    desc_bg: Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.
    desc_ru: Купить биткоин с помощью Вашего банковского счета. Легко, быстро, удобно. Сбор в размере 1%.
    desc_uk: Купить биткоин с помощью Вашего банковского счета. Легко, быстро, удобно. Сбор в размере 1%.
+   
+ - name: Celery
+   desc: Buy bitcoin with Canadian bank transfer or with Interac Online. 
+   url: http://buybitcoinww.co/go_celery
+   icon: https://www.buybitcoinworldwide.com/img/buy/celery.png
+   countries: ca
+   hide: yes
+   po: io, bt 
+   es: yes
+   desc_es: Comprar bitcoin con una cuenta conectada a un banco de EEUU o tarjeta de crédito/débito.   
+   ar: yes
+   desc_ar:  شراء بيتكوين بحساب مصرفي أمريكي مربوط أو ببطاقة الائتمان / الخصم. شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين Interac Online. 
+   desc_fr: Achetez des bitcoins avec un compte en banque ou par carte de crédit, & Interac En Ligne.
+   desc_el: Αγοράστε bitcoin με συνδεδεμένο τραπεζικό λογαριασμό από τις ΗΠΑ ή χρεωστική/πιστωτική κάρτα.
+   desc_nl: Koop bitcoin met een Amerikaanse bankrekening of credit/debit card.
+   desc_it: Acquista Bitcoin con un conto bancario o una carta di credito. Facile e veloce.
+   desc_pt_br: Compre Bitcoins usando a conta de um banco norte-americano ou cartão de débito/crédito. 
+   desc_de: Kaufen Sie Bitcoin mit einem Bankkonto oder Kreditkarte. Schnell und einfach.
+   desc_zh: 通过连接美国银行账户或信用卡/借记卡购买比特币。
+   desc_bg: Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.
+   desc_ru: Купить биткоин с помощью Вашего банковского счета. Легко, быстро, удобно. Сбор в размере 1%.
+   desc_uk: Купить биткоин с помощью Вашего банковского счета. Легко, быстро, удобно. Сбор в размере 1%.   
 
  - name: Coinhouse
    desc: Buy bitcoins with a 3D secure credit or debit card in Europe. High limits available.

@@ -659,6 +659,7 @@
  - country: United Kingdom
    short: gb
    eu: yes 
+   pop: yes
    pop: yes  
    es: no 
    ar: yes
@@ -983,7 +984,6 @@
  - country: United Arab Emirates
    short: ae
    me: yes
-   pop: yes
    ar: yes
    country_ar: الإمارات العربية المتحدة
    url_ar: yes

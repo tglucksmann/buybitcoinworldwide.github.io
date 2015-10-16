@@ -1,0 +1,165 @@
+mycelium:
+  website: Mycelium.com
+  website_url: https://mycelium.com/
+  mobile_wallet: yes
+  desktop_wallet: no
+  web_wallet: no
+  hardware_wallet: no
+  open_source: yes
+  open_source_url: https://github.com/mycelium-com
+  control_priv_keys: yes
+  download_ios: yes
+  download_ios_url: https://itunes.apple.com/us/app/mycelium-bitcoin-wallet/id943912290?mt=8
+  download_android: yes
+  download_android_url: https://play.google.com/store/apps/details?id=com.mycelium.wallet
+  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-mycelium.markdown
+
+hive:
+  website: hivewallet.com
+  website_url: https://hivewallet.com/
+  web_wallet: yes
+  create: yes
+  create_url: https://web.hivewallet.com/
+  open_source: yes
+  open_source_url: https://github.com/hivewallet
+  control_priv_keys: yes
+  download_ios: yes
+  download_ios_url: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=906990301&mt=8
+  download_android: yes
+  download_android_url: https://play.google.com/store/apps/details?id=com.hivewallet.hive.cordova
+  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-hive.markdown
+  
+greenaddress:
+  website: greenaddress.it
+  website_url: https://greenaddress.it/
+  web_wallet: yes
+  create: yes
+  create_url: https://greenaddress.it/en/
+  open_source: yes
+  open_source_url: https://github.com/greenaddress/WalletCrx
+  control_priv_keys: yes
+  download_ios: yes
+  download_ios_url: https://itunes.apple.com/us/app/greenaddress/id889740745?mt=8#
+  download_android: yes
+  download_android_url: https://play.google.com/store/apps/details?id=it.greenaddress.cordova
+  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-greenaddress.markdown
+
+greenbits:
+  website: greenaddress.it
+  website_url: https://greenaddress.it/
+  mobile_wallet: yes
+  open_source: yes
+  open_source_url: https://github.com/greenaddress/GreenBits
+  shared_control_priv_keys: yes
+  download_android: yes
+  download_android_url: https://play.google.com/store/apps/details?id=com.greenaddress.greenbits_android_wallet&hl=en
+  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-greenbits.markdown
+  
+bwallet:
+  website: wallet.schildbach.de
+  website_url: http://wallet.schildbach.de/
+  mobile_wallet: yes
+  open_source: yes
+  open_source_url: https://github.com/schildbach/bitcoin-wallet
+  control_priv_keys: yes
+  download_android: yes
+  download_android_url: https://play.google.com/store/apps/details?id=de.schildbach.wallet
+  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-bitcoin-wallet.markdown
+  
+electrum:
+  website: electrum.org
+  website_url: http://electrum.org/
+  desktop_wallet: yes
+  open_source: yes
+  open_source_url: https://github.com/spesmilo/electrum
+  control_priv_keys: yes
+  download_desktop: yes
+  download_desktop_url: https://electrum.org/#download
+  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-electrum.markdown
+  
+hivemac:
+  website: mac.hivewallet.com
+  website_url: https://mac.hivewallet.com/
+  desktop_wallet: yes
+  open_source: yes
+  open_source_url: https://github.com/hivewallet/hive-mac
+  control_priv_keys: yes
+  download_desktop: yes
+  download_desktop_url: https://mac.hivewallet.com/
+  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-hive-mac.markdown
+  
+trezor:
+  website: bitcointrezor.com
+  website_url: http://bitcointrezor.com/
+  hardware_wallet: yes
+  open_source: yes
+  open_source_url: https://github.com/trezor/
+  control_priv_keys: yes
+  buy: yes
+  buy_url: http://buybitcoinww.co/TREZOR_Wallet
+  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-trezor.markdown
+
+ledger:
+  website: ledgerwallet.com
+  website_url: https://www.ledgerwallet.com/
+  hardware_wallet: yes
+  open_source: yes
+  open_source_url: https://github.com/ledgerHQ/
+  control_priv_keys: yes
+  buy: yes
+  buy_url: http://buybitcoinww.co/Ledger_Wallet
+  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-10-02-ledger.markdown
+  
+coinkite:
+  website: coinkite.com
+  website_url: https://coinkite.com/
+  web_wallet: yes
+  create: yes
+  create_url: https://coinkite.com/
+  open_source: yes
+  open_source_url: https://github.com/coinkite
+  control_priv_keys: yes
+  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-coinkite.markdown
+  
+blockchaininfo:
+  website: blockchain.info
+  website_url: https://blockchain.info/wallet
+  web_wallet: yes
+  create: yes
+  create_url: https://blockchain.info/wallet
+  open_source: yes
+  open_source_url: https://github.com/blockchain/My-Wallet
+  control_priv_keys: yes
+  download_ios: yes
+  download_ios_url: https://itunes.apple.com/us/app/blockchain-bitcoin-wallet/id493253309?mt=8
+  download_android: yes
+  download_android_url: https://play.google.com/store/apps/details?id=piuk.blockchain.android&hl=en
+  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-blockchaininfo.markdown
+  
+circle:
+  website: circle.com
+  website_url: https://circle.com/
+  web_wallet: yes
+  create: yes
+  create_url: https://circle.com/
+  open_source: no
+  control_priv_keys: no
+  download_ios: yes
+  download_ios_url: https://itunes.apple.com/us/app/circle-for-bitcoin/id920164002?mt=8
+  download_android: yes
+  download_android_url: https://play.google.com/store/apps/details?id=com.circle.android&hl=en
+  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-circle.markdown
+  
+coinbase:
+  website: coinbase.com
+  website_url: https://coinbase.com/
+  web_wallet: yes
+  create: yes
+  create_url: https://coinbase.com/
+  open_source: no
+  control_priv_keys: no
+  download_ios: yes
+  download_ios_url: https://itunes.apple.com/us/app/coinbase-bitcoin-wallet/id886427730?mt=8
+  download_android: yes
+  download_android_url: https://play.google.com/store/apps/details?id=com.coinbase.android&hl=en
+  contribute_url: https://github.com/NoThirdParty/nothirdparty.github.io/blob/master/_posts/wallets/2015-07-07-coinbase.markdown
