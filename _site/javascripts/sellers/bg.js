@@ -987,7 +987,7 @@
 
   window.sellers.push({
     countries: "us",
-    methods: "ccus, lowfees, ccww, cc",
+    methods: "ccus, lowfees, cc",
     hide: "",
     url: "https://www.changetip.com/",
     html: "      \n\n\n"

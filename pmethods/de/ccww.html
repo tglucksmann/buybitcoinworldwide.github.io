@@ -18,7 +18,7 @@ author: jordantuwiner
 <div class="col-sm-12">
 	{% include country-loops.html %}
 	{% for name in site.data.buy %}
-	{% if name.po contains 'ccww' %}
+	{% if name.desc_ccww_de != null %}
 	{% include buy-list-en.html %}
 	{% endif %}
 	{% endfor %}

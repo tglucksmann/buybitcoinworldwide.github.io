@@ -930,6 +930,7 @@ height: auto;
 
 .wallet-group {
 	width: 100%;
+	margin: 5px 0 40px;
 	float: left;
 }
 
@@ -949,9 +950,9 @@ height: auto;
 }
 
 @media (max-width: 600px) {
-	.wallet-info-link {
+.row .wallet-info .wallet-info-link {
     display: block;
-    margin: 0 20px 5px 0;
+     margin: 0 29px 0 115px;
 }
 }
 

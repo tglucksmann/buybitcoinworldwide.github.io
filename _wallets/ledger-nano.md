@@ -1,7 +1,7 @@
 ---
 layout: wallet
 lang: en
-permalink: "/wallets/ledger/"
+permalink: "/wallets/ledger-nano/"
 seotitle: "Ledger Nano Review: Features, Privacy and Security"
 title: "Ledger Nano"
 desc: Ledger Nano is a Bitcoin wallet on a smartcard device, small format and low weight. Comfortable and simple to use.

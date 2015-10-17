@@ -6,7 +6,7 @@
     methods: "sepa, usbt, fast, io, ideal, lowfees, ccww, cc, bt, ach",
     hide: "",
     url: "http://buybitcoinww.co/buycoinbase",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbase.png\" alt=\"Coinbase\">Coinbase</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n		</h4>\n		<p>Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable. 1% de comision.</p>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbase.png\" alt=\"Coinbase\">Coinbase</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n		</h4>\n		<p>Comprar Bitcoin con su cuenta bancaria o tarjeta de crédito. Fácil, rápido, aconsejable.</p>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -46,7 +46,7 @@
     methods: "ccww, cc, neosurf",
     hide: "",
     url: "http://buybitcoinww.co/coinhouse",
-    html: "      \n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/coinhouse\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinhouse.png\" alt=\"Coinhouse\">Coinhouse</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/coinhouse\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n		</h4>\n		<p>Coinhouse puede procesar tarjetas de crédito y débito 3Dsecure en toda la zona SEPA.</p>\n		<a href=\"http://buybitcoinww.co/coinhouse\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -987,7 +987,7 @@
 
   window.sellers.push({
     countries: "us",
-    methods: "ccus, lowfees, ccww, cc",
+    methods: "ccus, lowfees, cc",
     hide: "",
     url: "https://www.changetip.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.changetip.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/changetip.png\" alt=\"Changetip\">Changetip</a> \n		<a type=\"button\" href=\"https://www.changetip.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n		</h4>\n		<p>Comprar pequeñas cantidades de Bitcoin con una tarjeta de débito/crédito Visa o Mastercard.</p>\n		<a href=\"https://www.changetip.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n</div>\n\n\n"

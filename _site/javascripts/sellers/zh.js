@@ -987,7 +987,7 @@
 
   window.sellers.push({
     countries: "us",
-    methods: "ccus, lowfees, ccww, cc",
+    methods: "ccus, lowfees, cc",
     hide: "",
     url: "https://www.changetip.com/",
     html: "      \n<div class=\"col-md-6 buy-info buy-info-zh\">\n		<h4>\n		<a href=\"https://www.changetip.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/changetip.png\" alt=\"Changetip\">Changetip</a> \n		<a type=\"button\" href=\"https://www.changetip.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> 购买比特币</a>\n		</h4>\n		<p>以Visa或Mastercard借记卡／信用卡购买少量的比特币。</p>\n		<a href=\"https://www.changetip.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> 购买比特币</a>\n</div>\n\n\n"

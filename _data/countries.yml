@@ -1052,6 +1052,7 @@
 
  - country: Japan
    short: jp
+   pop: yes
    as: yes
    zh: yes
    country_zh: 日本

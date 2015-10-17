@@ -46,7 +46,7 @@
     methods: "ccww, cc, neosurf",
     hide: "",
     url: "http://buybitcoinww.co/coinhouse",
-    html: "      \n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/coinhouse\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinhouse.png\" alt=\"Coinhouse\">Coinhouse</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/coinhouse\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Compre Bitcoins</a>\n		</h4>\n		<p>Coinhouse pode processar cartões de crédito e débito 3D garantido em toda zona SEPA.</p>\n		<a href=\"http://buybitcoinww.co/coinhouse\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Compre Bitcoins</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -987,7 +987,7 @@
 
   window.sellers.push({
     countries: "us",
-    methods: "ccus, lowfees, ccww, cc",
+    methods: "ccus, lowfees, cc",
     hide: "",
     url: "https://www.changetip.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.changetip.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/changetip.png\" alt=\"Changetip\">Changetip</a> \n		<a type=\"button\" href=\"https://www.changetip.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Compre Bitcoins</a>\n		</h4>\n		<p>Compre pequenas quantidades de Bitcoins através do seu cartão de crédito/débito Visa ou Mastercard.</p>\n		<a href=\"https://www.changetip.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Compre Bitcoins</a>\n</div>\n\n\n"
