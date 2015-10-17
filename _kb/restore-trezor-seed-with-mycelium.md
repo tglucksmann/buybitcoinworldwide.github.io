@@ -4,7 +4,7 @@ title: "Restore a TREZOR Seed with Mycelium (Android)"
 seotitle: "Restore TREZOR Seed with Mycelium (Android)"
 permalink: /kb/restore-trezor-seed-mycelium-android/
 description: How to import a TREZOR recovery seed into Mycelium and quickly gain access to funds if a TREZOR is lost, stolen, or damaged.
-date: 2015-07-05 16:54:46
+date: July 5, 2015
 desc: How to import a TREZOR recovery seed into Mycelium and quickly gain access to funds if a TREZOR is lost, stolen, or damaged.
 categories: 
 - kb

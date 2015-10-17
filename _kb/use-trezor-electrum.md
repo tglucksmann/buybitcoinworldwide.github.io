@@ -3,7 +3,7 @@ layout: kb
 title: "How to Use TREZOR with Electrum"
 seotitle: "How to Use TREZOR with Electrum"
 permalink: /kb/trezor-electrum/
-date: 2015-07-05 16:54:46
+date: July 5, 2015
 description: How to spend from and use an initialized TREZOR with Electrum 2.0.
 desc: How to spend from and use an initialized TREZOR with Electrum 2.0. An already initialized TREZOR is required.
 lang: en
@@ -36,7 +36,7 @@ You can now spend from your TREZOR with Electrum.
 Even if the TREZOR is removed after use, the wallet will still be viewable in watch-only mode.
 {: refdef}
 
-[pin]: /assets/img/kb/pin.png
+[pin]: /img/kb/pin.png
 [password]: /img/kb/password.png
 [hardware]: /img/kb/hardware.png
 [create]: /img/kb/create.png
