@@ -52,3 +52,9 @@ defaults:
       type: "index"
     values:
       layout: "home"
+  -
+    scope:
+      path: "/redirects"
+      type: "redirect"
+    values:
+      layout: "redirect"
