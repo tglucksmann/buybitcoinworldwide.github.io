@@ -314,7 +314,7 @@
   });
 
   window.sellers.push({
-    countries: "ae",
+    countries: "ae, qa, kw, bh",
     methods: "bt",
     hide: "",
     url: "https://bitoasis.net/en/",

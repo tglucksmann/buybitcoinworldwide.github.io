@@ -314,11 +314,11 @@
   });
 
   window.sellers.push({
-    countries: "ae",
+    countries: "ae, qa, kw, bh",
     methods: "bt",
     hide: "",
     url: "https://bitoasis.net/en/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bitoasis.net/en/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitoasis.png\" alt=\"BitOasis\">BitOasis</a> \n		<a type=\"button\" href=\"https://bitoasis.net/en/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy bitcoin quickly with AED Dirhams via bank transfers.</p>\n		<a href=\"https://bitoasis.net/en/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bitoasis.net/en/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitoasis.png\" alt=\"BitOasis\">BitOasis</a> \n		<a type=\"button\" href=\"https://bitoasis.net/en/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy bitcoin via bank transfer in the United Arab Emirates, Qatar, Kuwaint, and Bahrain.</p>\n		<a href=\"https://bitoasis.net/en/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({

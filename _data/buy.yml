@@ -696,10 +696,10 @@
 ##### United Arab Emirates ####################################################  
 
  - name: BitOasis
-   desc: Buy bitcoin quickly with AED Dirhams via bank transfers.  
+   desc: Buy bitcoin via bank transfer in the United Arab Emirates, Qatar, Kuwaint, and Bahrain.  
    url: https://bitoasis.net/en/
    icon: https://www.buybitcoinworldwide.com/img/buy/bitoasis.png
-   countries: ae 
+   countries: ae, qa, kw, bh
    po: bt
    ar: yes
    desc_ar:  شراء بيتكوين بسرعة بالدرهم الإماراتي عن طريق التحويلات المصرفية.
