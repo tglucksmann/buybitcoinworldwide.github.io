@@ -470,7 +470,7 @@
     methods: "cash, bt",
     hide: "",
     url: "https://www.satoshitango.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.satoshitango.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/satoshitango.png\" alt=\"Satoshi Tango\">Satoshi Tango</a> \n		<a type=\"button\" href=\"https://www.satoshitango.com/\" rel=\"nofollow\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>منصة بيتكوين. تدعم عددًا متزايدًا من بلدان أمريكا الجنوبية وأوروبا.</p>\n		<a href=\"https://www.satoshitango.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.satoshitango.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/satoshitango.png\" alt=\"SatoshiTango\">SatoshiTango</a> \n		<a type=\"button\" href=\"https://www.satoshitango.com/\" rel=\"nofollow\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>منصة بيتكوين. تدعم عددًا متزايدًا من بلدان أمريكا الجنوبية وأوروبا.</p>\n		<a href=\"https://www.satoshitango.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({

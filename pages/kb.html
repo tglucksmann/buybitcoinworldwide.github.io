@@ -1,27 +1,96 @@
 ---
 layout: page
 permalink: "/kb/"
-title: Wallet Knowledge Base
+title: Bitcoin Knowledge Base
 lang: en
 sitemap:
   exclude: 'yes'
-seotitle: Bitcoin Wallet Knowledge Base
-desc: Our knowledge base helps learn and take full advantage of Bitcoin wallets and their features. 
+seotitle: Knowledge Base - Learn about Buying Bitcoin and Wallets
+desc: Learn about Bitcoin, buying bitcoin, and Bitcoin wallets in our knowledge base. We answer all of your questions and make Bitcoin easy to understand. 
 ---
-<div class="post-content">
-	<table class="table table-kb table-striped table-bordered">
-                	<tr>
-			            <th>Article</th>
-			            <th>Published</th>
-			        </tr>
-			        {% for album in site.kb %}
-			        <tr>
-			            <td><h3><a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></h3>
-			            <p class="kb-desc">{{ album.description }}</p>
-			            </td>
-			            <td class="published-date">{{ album.date | date: "%B %-d, %Y" }}</td>
-			        </tr>
-			        {% endfor %}
-                </table>
-	
+<div class="post-content knowledge-base">
+<div class="col-lg-4 col-sm-6 col-xs-12">
+<h3>Getting Started</h3>
+<ul>
+{% for album in site.kb %}
+{% if album.categories contains "gs" %}
+<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+<h3>Buying Bitcoin</h3>
+<ul>
+{% for album in site.kb %}
+{% if album.categories contains "buyingbitcoin" %}
+<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
 </div>
+<div class="col-lg-4 col-sm-6 col-xs-12">
+<h3>FAQ</h3>
+<ul>
+{% for album in site.kb %}
+{% if album.categories contains "faq" and album.categories contains "buying" %}
+<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+</div>
+<div class="col-lg-4 col-sm-6 col-xs-12">
+<h3>Mining</h3>
+<ul>
+{% for album in site.kb %}
+{% if album.categories contains "mining" %}
+<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+<h3>General</h3>
+<ul>
+{% for album in site.kb %}
+{% if album.categories contains "general" %}
+<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+</div>
+
+<div class="col-xs-12">
+<hr>
+<h2>Wallets</h2>
+</div>
+<!--
+<div class="col-lg-4 col-sm-6 col-xs-12">
+<h3>General</h3>
+<ul>
+{% for album in site.kb %}
+{% if album.categories contains "faq" and album.categories contains "wallets" %}
+<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+</div>
+-->
+<div class="col-lg-4 col-sm-6 col-xs-12">
+<h3>Restoring Backups</h3>
+<ul>
+{% for album in site.kb %}
+{% if album.categories contains "restore" %}
+<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+</div>
+<div class="col-lg-4 col-sm-6 col-xs-12">
+<h3>Using Hardware Wallets</h3>
+<ul>
+{% for album in site.kb %}
+{% if album.categories contains "usinghws" %}
+<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
+{% endif %}{% endfor %}
+</ul>
+</div>
+
+</div>
+   

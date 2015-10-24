@@ -200,7 +200,7 @@
    desc_uk: Біткоін-біржа. Купівля SEPA-платежем або банківським (Automated Clearing House) переказом.
 
  - name: BitQuick
-   desc: Buy bitcoin quickly with cash deposits or SEPA transfers in the EU. 
+   desc: Buy bitcoin quickly with cash deposits at thousands of locations across the United States. 
    url: http://buybitcoinww.co/buybitquick
    icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
    countries: us 
@@ -907,16 +907,13 @@
    
 ##### Brazil ####################################################      
 
- - name: Satoshi Tango
+ - name: SatoshiTango
    desc: Bitcoin platform. Supports a growing number of countries in South America and Europe. 
    url: https://www.satoshitango.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/satoshitango.png
    countries: br, tr, cl, co, pe, uy, ar
    po: cash, bt
-   es: yes
-   name_es: Satoshi Tango
    desc_es: Plataforma de Bitcoin. Soporta un número creciente de países en Sudamérica y Europa.
-   ar: yes
    desc_ar:  منصة بيتكوين. تدعم عددًا متزايدًا من بلدان أمريكا الجنوبية وأوروبا.
    desc_fr: Plateforme Bitcoin. Supporte un nombre croissant de pays en Amérique du Sud et en Europe.
    desc_el: Πλατφόρμα bitcoin. Υποστηρίζεται όλο και μεγαλύτερος αριθμός χωρών της Νότιας Αμερικής και της Ευρώπης.

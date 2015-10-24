@@ -91,6 +91,34 @@ html, body {
     direction: rtl;
 }
 
+.kb-article .sidebar-add ul {
+	list-style: none;
+	padding-left: 1px;
+	font-size: 15px !important;
+}
+
+.kb-article .sidebar-add li {
+	padding: 4px 0;
+}
+
+.kb-article .sidebar-add .fa {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.kb-article .sidebar-add ul a {
+    color: #536066;
+    display: inline-table;
+    font-weight: 400;
+    width: 86%;
+}
+
+@media (max-width: 767px) {
+.kb-article .sidebar-add {
+	margin-top: 30px;
+}
+}
+
  .arabic .col-md-1, .arabic .col-md-2, .arabic .col-md-3, .arabic .col-md-4, .arabic .col-md-5, .arabic .col-md-6, .arabic .col-md-7, .arabic .col-md-8, .arabic .col-md-9, .arabic .col-md-10, .arabic .col-md-11, .arabic .col-md-12 {
 	 float: right;
  }
@@ -141,6 +169,10 @@ html, body {
 .arabic .continent {
     clear: both;
     margin: 8px 0;
+}
+
+.wallets-centered {
+	text-align: center;
 }
 
 .nav > li {
@@ -439,7 +471,7 @@ html, body {
 }
 
 h3 {
-    font-size: 17px;
+    font-size: 21px;
     text-transform: none;
 }
 
@@ -524,6 +556,34 @@ h3 {
 
 .faq-article .post-title-main {
     text-align: left;
+}
+
+.knowledge-base h3 {
+	margin-bottom: 15px;
+	font-weight: 600;
+}
+
+.knowledge-base li {
+	padding: 4px 0;
+}
+
+.knowledge-base a {
+    color: #536066;
+    display: inline-table;
+    font-size: 15px;
+    font-weight: 400;
+    width: 90%;
+}
+
+.knowledge-base ul {
+    list-style: outside none none;
+    padding-left: 1px;
+}
+
+.knowledge-base .fa {
+    display: inline-block;
+    font-size: 15px;
+    margin-right: 5px;
 }
 
 .guide-div {
@@ -821,6 +881,18 @@ height: auto;
 
 .wallet-index-wrap h3 {
     margin-top: 15px;
+    font-size: 17px;
+}
+
+blockquote {
+    border-left: 4px solid #eee;
+    font-size: 17.5px;
+    margin: 0 0 28px;
+    padding: 0 28px;
+}
+
+.breadcrumbs .fa {
+	margin-right: 2px;
 }
 
 .wallet-article .wallet-logo {

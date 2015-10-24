@@ -12,9 +12,9 @@ hide_sidebar: true
 			
 			  <h2 class="index-hardware-wallets wallet-index-title"><span>Cold Storage</span></h2>
 			  <div class="wallet-group">Wallets built with security in mind. Your private keys are generated offline in a secure environment. Use cold storage wallets for secure, long term storage.</div>
+			  <div class="wallets-centered">
              {% for album in site.wallets %}
 			{% if album.cat contains 'hardware' %}
-                <! -- Blog Post -->
                 <div class="wallet-index-wrap">
                 <a href="{{ album.url | prepend: site.baseurl }}">
                 <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/wallets/" | prepend: site.baseurl }}{{ album.thumb }}">
@@ -22,13 +22,14 @@ hide_sidebar: true
                 </div>
                 {% endif %}
             {% endfor %}
+			  </div>
 			<hr>
 			
 			<h2 class="index-mobile-wallets wallet-index-title"><span>Hot Wallets</span></h2>
 			<div class="wallet-group">Hot wallets give you full control over your private keys, but aren't built for long term secure storage of funds. Private keys are generated on an internet connected device. Use hot wallets if you use Bitcoin for shopping, and are frequently making payments. </div>
+			<div class="wallets-centered">
             {% for album in site.wallets %}
 			{% if album.cat contains 'hot' %}
-                <! -- Blog Post -->
                 <div class="wallet-index-wrap">
                 <a href="{{ album.url | prepend: site.baseurl }}">
                 <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/wallets/" | prepend: site.baseurl }}{{ album.thumb }}">
@@ -36,13 +37,14 @@ hide_sidebar: true
                 </div>
                 {% endif %}
             {% endfor %}
+			</div>
             <hr>
             
             <h2 class="index-web-wallets wallet-index-title"><span>Buy/Sell Wallets</span></h2>
             <div class="wallet-group">Buy/sell wallets are connected to your bank account or credit card. Use these wallets to go in and out of fiat currency. </div>
+            <div class="wallets-centered">
              {% for album in site.wallets %}
 			{% if album.cat contains 'broker' %}
-                <! -- Blog Post -->
                 <div class="wallet-index-wrap">
                 <a href="{{ album.url | prepend: site.baseurl }}">
                 <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/wallets/" | prepend: site.baseurl }}{{ album.thumb }}">
@@ -50,13 +52,14 @@ hide_sidebar: true
                 </div>
                 {% endif %}
             {% endfor %}
+            </div>
             <hr>
             
             <h2 class="index-desktop-wallets wallet-index-title"><span>Unsupported Wallets</span></h2>
             <div class="wallet-group">Wallets that will not receive further development. Stay away from these wallets. </div>
+            <div class="wallets-centered">
              {% for album in site.wallets %}
 			{% if album.cat contains 'unsupported' %}
-                <! -- Blog Post -->
                 <div class="wallet-index-wrap">
                 <a href="{{ album.url | prepend: site.baseurl }}">
                 <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/wallets/" | prepend: site.baseurl }}{{ album.thumb }}">
@@ -64,4 +67,5 @@ hide_sidebar: true
                 </div>
                 {% endif %}
             {% endfor %}
+            </div>
 </div>

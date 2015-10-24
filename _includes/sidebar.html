@@ -21,18 +21,6 @@
 		<h4 class="help-article-title">Interac® Online</h4></a>
   </div>
 
-<h3 class="not-first">FAQs</h3>
-
-<div class="pmethods-sidebar">
-	<ul>
-	{% for album in site.faqs %}
-	{% if album.faq != page.faq %}
-		<li class="faq-sidebar"><a href="{{ album.url }}">{{ album.title }}</a></li>
-	{% endif %}	
-	{% endfor %}
-	</ul>
-</div>
-
 <h3 class="not-first">Guides</h3>
 <div class="pmethods-sidebar-1">
 		<div class="guide-div">

@@ -19,8 +19,16 @@
   </ul>
 </li>
 <li>
-<a class="wallet-nav" href="{{ lang.home_url }}"><i class="fa fa-fw fa-map-marker"></i> {{ lang.find_country }}</a>
+<a class="wallet-nav" href="{{ lang.home_url }}"><!--<i class="fa fa-fw fa-map-marker"></i> -->{{ lang.find_country }}</a>
 </li>
 <li>
-<a class="contribute-nav" href="{{ lang.paymentmethods_url }}"><i class="fa fa-fw fa-credit-card"></i> {{ lang.paymentmethods }}</a>
+<a class="contribute-nav" href="{{ lang.paymentmethods_url }}"><!--<i class="fa fa-fw fa-credit-card"></i> -->{{ lang.paymentmethods }}</a>
 </li>
+{% if page.lang == 'en' %}
+<li>
+<a class="contribute-nav" href="/kb/">Knowledge Base</a>
+</li>
+<li>
+<a class="contribute-nav" href="/wallets/"><!--<i class="fa fa-fw fa-bitcoin"></i> -->Wallets</a>
+</li>
+{% endif %}
