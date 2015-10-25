@@ -13,7 +13,7 @@ categories:
 - gs
 - pop
 ---
-As the world becomes more reliant on the internet, it is no surprise that Bitcoin, a secure, digital currency, has claimed the interest of investors. Bitcoin is open to everyone and provides an exciting opportunity to delve into an entirely new asset class.
+As the world becomes more reliant on the internet, it is no surprise that Bitcoin, a secure, digital, currency, has claimed the interest of investors. Bitcoin is open to everyone and provides an exciting opportunity to delve into an entirely new asset class.
 
 Bitcoin can be confusing at first. It takes time and effort to understand how Bitcoin works and how to securely store your bitcoins. We want to help you understand why Bitcoin, as an investment, needs to be taken seriously, and also how to protect and properly secure your bitcoins if you do decide to invest.
 
@@ -54,7 +54,7 @@ As with anything valuable, hackers, thieves, and scammers will all be after your
 * **TREZOR** – TREZOR is a hardware wallet that was built to secure bitcoins. It generates your Bitcoin private keys offline. Read more about [TREZOR](/wallets/trezor/) or [buy one](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"}. 
 * **Ledger** – Ledger is a Bitcoin security company that offers a slew of secure Bitcoin storage devices. We currently see the Ledger Nano as Ledger’s most secure wallet. Read more about the [Ledger Nano](/wallets/ledger-nano/) or [buy one](http://buybitcoinww.co/Ledger_Wallet){:rel="nofollow"}. 
 
-Bitcoins should only be kept in wallets that you control. If you leave $5,000 worth of gold coins with a friend, your friend could easily run of with your coins and you might not see them again. Because Bitcoin is on the internet, they are even easier to steal and much harder to return and trace. Bitcoin itself is secure, but bitcoins are only as secure as the wallet storing them. 
+Bitcoins should only be kept in wallets that you control. If you leave $5,000 worth of gold coins with a friend, your friend could easily run off with your coins and you might not see them again. Because Bitcoin is on the internet, they are even easier to steal and much harder to return and trace. Bitcoin itself is secure, but bitcoins are only as secure as the wallet storing them. 
 
 ## Final Thoughts
 It’s important to understand how Bitcoin works before investing any money. Bitcoin is still new and it can take months to understand the true impact Bitcoin can have on the world. Take some time to understand Bitcoin, how it works, how to secure bitcoins, and about how [Bitcoin differs from fiat money](/kb/why-bitcoin-is-good-money/). Use our [knowledge base](/kb/) to learn more. 
