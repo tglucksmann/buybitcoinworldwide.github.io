@@ -50,7 +50,7 @@ The difficulty of buying bitcoins depends on your country. Developed countries h
 ## How to Secure Bitcoins
 As with anything valuable, hackers, thieves, and scammers will all be after your bitcoins, so securing your bitcoins is necessary. If you’re serious about investing in bitcoins and see yourself buying a significant amount, we recommend using Bitcoin wallets that were built with security in mind. 
 
-* **Paper Wallet** – a paper wallet is a single bitcoin address and bitcoin private key printed on a piece of paper. Read more about paper wallets and or guide on how to create a secure paper wallet. 
+* **Paper Wallet** – a paper wallet is a single bitcoin address and bitcoin private key printed on a piece of paper. [Read more about paper wallets](https://en.bitcoin.it/wiki/Paper_wallet){:rel="nofollow"} or [guide](http://www.coindesk.com/information/paper-wallet-tutorial/){:rel="nofollow"} on how to create a secure paper wallet. 
 * **TREZOR** – TREZOR is a hardware wallet that was built to secure bitcoins. It generates your Bitcoin private keys offline. Read more about [TREZOR](/wallets/trezor/) or [buy one](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"}. 
 * **Ledger** – Ledger is a Bitcoin security company that offers a slew of secure Bitcoin storage devices. We currently see the Ledger Nano as Ledger’s most secure wallet. Read more about the [Ledger Nano](/wallets/ledger-nano/) or [buy one](http://buybitcoinww.co/Ledger_Wallet){:rel="nofollow"}. 
 
