@@ -2,9 +2,9 @@
 layout: kb
 lang: en
 author: jordantuwiner
-permalink: "/kb/why-bitcoin-scares-the-banks/"
-seotitle: "Why Bitcoin Scares the Banks"
-title: "Why Bitcoin Scares the Banks"
+permalink: "/kb/why-banks-fear-bitcoin/"
+seotitle: "Why Banks Fear Bitcoin"
+title: "Why Banks Fear Bitcoin"
 desc: 
 faq: bitcoinscaresbanks
 categories: 

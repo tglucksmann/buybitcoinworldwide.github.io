@@ -14,7 +14,7 @@ categories:
 ---
 Before learning how new bitcoins are created, it’s important to understand how the Bitcoin network works. 
 
-Bitcoin miners verify transactions by solving complex math problems. The computing power of the miners provides security to the network. The miners are protecting the network and processing transactions, which is an important service that helps the network. In return, the miners are rewarded with new bitcoins. 
+Bitcoin miners verify transactions by solving complex math problems. The miners are protecting the network and processing transactions, which is an important service that helps the network. In return, the miners are rewarded with new bitcoins. 
 
 Miners are rewarded each time they find a “block”. A block is generated, on average, every 10 minutes. Each block contains the transactions that were sent on the network since the last block was found. Once a transaction makes it into a block, the network officially verifies it.  
 
