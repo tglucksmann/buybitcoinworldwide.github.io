@@ -5,7 +5,7 @@ author: jordantuwiner
 permalink: "/kb/why-banks-fear-bitcoin/"
 seotitle: "Why Banks Fear Bitcoin"
 title: "Why Banks Fear Bitcoin"
-desc: 
+desc: Bitcoin eliminates the need for the services that banks provide. Banks hate Bitcoin in the same way horse and buggy companies hated car companies.
 faq: bitcoinscaresbanks
 categories: 
 - kb

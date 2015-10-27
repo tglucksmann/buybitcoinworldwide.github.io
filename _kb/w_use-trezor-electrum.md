@@ -16,7 +16,7 @@ categories:
 This article details how to use a previously initialized TREZOR with Electrum. Your TREZOR must be setup before use with Electrum.
 {: refdef}
 
-TREZOR can only be used with Electrum 2.0+. Make sure you have the latest version installed.
+[TREZOR](/wallets/trezor/) can only be used with [Electrum](/wallets/electrum/) 2.0+. Make sure you have the latest version installed.
 
 Plugin your TREZOR and open Electrum. Select Create new wallet and Hardware wallet. The Restore or import a wallet option is for restoring a TREZOR seed if the device was lost, stolen or damaged.
 

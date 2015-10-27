@@ -11,7 +11,7 @@ categories:
 - restore
 lang: en
 ---
-If your TREZOR has been lost or stolen, your funds can still be accessed by importing the recovery seed and passphrase (if used) into Electrum.
+If your [TREZOR](/wallets/trezor/) has been lost or stolen, your funds can still be accessed by importing the recovery seed and passphrase (if used) into [Electrum](/wallets/electrum/).
 
 When opening Electrum you’ll be greeted with a list of options. (Existing users must navigate to *File > New/Restore*).
 

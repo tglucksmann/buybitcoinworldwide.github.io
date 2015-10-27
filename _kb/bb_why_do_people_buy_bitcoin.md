@@ -5,14 +5,13 @@ author: jordantuwiner
 permalink: "/kb/why-do-people-buy-bitcoin/"
 seotitle: "Why do People Buy Bitcoin?"
 title: "Why do People Buy Bitcoin?"
-desc: Bitcoin is a decentralized digital currency. Why do people buy bitcoin? What do people use it for? Bitcoin has many advantages over other forms of money. 
+desc: People buy bitcoin for a number of different reasons including investment, privacy, online shipping, remittances, and more. 
 faq: whydopeoplebuy
 categories: 
 - kb
 - buying
 - buyingbitcoin
 ---
-
 People buy bitcoin for a number of different reasons. Bitcoin is global, borderless money that has given the world more financial freedom. 
 
 ## Investment 

@@ -12,7 +12,7 @@ categories:
 - restore
 lang: en
 ---
-If your TREZOR has been lost or stolen, your funds can still be accessed by importing the recovery seed and passphrase (if used) into Mycelium for Android.
+If your [TREZOR](/wallets/trezor/) has been lost or stolen, your funds can still be accessed by importing the recovery seed and passphrase (if used) into [Mycelium](/wallets/mycelium/) for Android.
 
 A fresh install of Mycelium is required. If you already use Mycelium, write down the 12-word backup seed and reinstall the application.
 

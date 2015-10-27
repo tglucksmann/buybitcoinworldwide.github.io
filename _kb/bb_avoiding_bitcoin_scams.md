@@ -5,7 +5,7 @@ author: stevenhay
 permalink: "/kb/avoid-bitcoin-scams/"
 seotitle: "How to Avoid Bitcoin Scams"
 title: "How to Avoid Bitcoin Scams"
-desc: 
+desc: Learn how to protect yourself and avoid Bitcoin scams. A little common sense and knowledge will go a long way.
 faq: scams
 categories: 
 - kb

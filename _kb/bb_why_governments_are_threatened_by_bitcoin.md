@@ -5,7 +5,7 @@ author: jordantuwiner
 permalink: "/kb/why-governments-fear-bitcoin/"
 seotitle: "Why Governments Fear Bitcoin"
 title: "Why Governments Fear Bitcoin"
-desc: Governments are scared of Bitcoin because they stand to lose a lot of power if their populations shifted away from national fiat currencies.
+desc: Governments fear Bitcoin because they stand to lose a lot of power if their populations shift away from national fiat currencies.
 faq: govsfearbitcoin
 categories: 
 - kb

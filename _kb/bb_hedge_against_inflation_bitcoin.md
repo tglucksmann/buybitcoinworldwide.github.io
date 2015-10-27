@@ -5,7 +5,7 @@ author: jordantuwiner
 permalink: "/kb/hedge-against-inflation-with-bitcoin/"
 seotitle: "Hedge Against Inflation with Bitcoin"
 title: "Hedge Against Inflation with Bitcoin"
-desc: Bitcoin is a decentralized digital currency. Why do people buy bitcoin? What do people use it for? Bitcoin has many advantages over other forms of money. 
+desc: Use Bitcoin now to protect yourself from inflation and to escape failed government economic policy.
 faq: inflationhedge
 categories: 
 - kb

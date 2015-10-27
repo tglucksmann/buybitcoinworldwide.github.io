@@ -5,7 +5,7 @@ author: jordantuwiner
 permalink: "/kb/should-i-buy-bitcoin/"
 seotitle: "Should I Buy Bitcoin?"
 title: "Should I Buy Bitcoin?"
-desc: After hearing about Bitcoin for the first time and asking to explain what it is, the most common question people as is - should I buy bitcoin?
+desc: After hearing about Bitcoin for the first time, the most common question people ask is - should I buy bitcoin?
 faq: shouldibuy
 categories: 
 - kb

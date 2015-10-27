@@ -5,7 +5,7 @@ author: stevenhay
 permalink: "/kb/why-bitcoin-is-good-money/"
 seotitle: "Why Bitcoin is Good Money"
 title: "Why Bitcoin is Good Money"
-desc: Bitcoin's prospect as an investment has grown, and it offers exposure to an entire new asset class. Learn more about investing in bitcoin.  
+desc: Bitcoin is money, but is it good money? With many of the best features of gold and fiat, Bitcoin may be the best form of money ever.    
 faq: value
 categories: 
 - kb
