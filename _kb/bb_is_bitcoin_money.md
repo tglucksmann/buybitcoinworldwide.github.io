@@ -16,7 +16,7 @@ Bitcoin has become a rather controversial topic for those interested in economic
 
 ## Functions of Money
 
-There are three main functions of money. As of now, bitcoin is only used as a store of value, but that could change over time. Here is a closer look at bitcoin’s current ability to function as a money:
+There are three main functions of money. As of now, bitcoin is mainly used as a store of value, but that could change over time. Here is a closer look at bitcoin’s current ability to function as a money:
 
 * **Store of Value** - A store of value is a commodity or asset that is able to hold its value over time. Essentially, people are storing their wealth or savings in a specific asset. While the bitcoin price has been extremely volatile over the short term, its long-term trajectory has been up. Many people have started to put a portion of their savings into bitcoin to protect (and perhaps increase) their wealth over time.
 

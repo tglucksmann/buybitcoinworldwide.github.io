@@ -14,10 +14,10 @@ categories:
 ---
 Before learning how new bitcoins are created, it’s important to understand how the Bitcoin network works. 
 
-Bitcoin miners verify transactions by solving complex math problems. The miners are protecting the network and processing transactions, which is an important service that helps the network. In return, the miners are rewarded with new bitcoins. 
+Bitcoin miners secure the network and process transactions, which is an important service that helps the network. In return, the miners are rewarded with new bitcoins. 
 
 Miners are rewarded each time they find a “block”. A block is generated, on average, every 10 minutes. Each block contains the transactions that were sent on the network since the last block was found. Once a transaction makes it into a block, the network officially verifies it.  
 
 Each block contains a block reward. This reward started at 50 bitcoins. The block reward halves every 210,000 blocks, which based on an average of 10 minutes per block comes out to a halving about ever four years. Currently the block reward is 25 bitcoins. It will halve again in ~July 2016 and become 12.5 bitcoins per block. 
 
-The bitcoins miners receive as a reward are new bitcoins, and this is the only way that new bitcoins are created. Eventually the rewards halves many times and becomes so small, that the block reward comes not from new bitcoins, but from transaction fees paid by users of the network. This slowly decreasing block reward is how Bitcoin’s 21 million cap is set. 
+Bitcoins miners are rewarded with new bitcoins. This is the only way that new bitcoins are created. Eventually the block reward halves many times and becomes so small that the block reward comes not from new bitcoins, but from transaction fees paid by users of the network.

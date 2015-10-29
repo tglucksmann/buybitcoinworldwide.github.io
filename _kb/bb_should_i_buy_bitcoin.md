@@ -49,8 +49,8 @@ Companies are starting to take advantage of Bitcoin’s global nature. Remittanc
 
 If you make remittances frequently, use [rebittance.org](https://rebittance.org/) to see if there is a cash out option in your destination country.
  
-No one can tell you for sure whether or not to [buy bitcoin](https://www.buybitcoinworldwide.com/), and you shouldn’t [invest](https://www.buybitcoinworldwide.com/kb/investing-in-bitcoin/) more than you can lose. But bitcoin offers a good chance to invest in a new technology and asset class, and also has high utility in online shopping and remittances.
+No one can tell you for sure whether or not to [buy bitcoin](https://www.buybitcoinworldwide.com/), and you shouldn’t [invest](/kb/investing-in-bitcoin/) more than you can lose. But bitcoin offers a good chance to invest in a new technology and asset class, and also has high utility in online shopping and remittances.
  
-If you do decide to buy bitcoin, use [our index](https://www.buybitcoinworldwide.com/en/) to locate your country and find a place to buy bitcoin. 
+If you do decide to buy bitcoin, use [our index](/en/) to locate your country and find a place to buy bitcoin. 
 
 *__Note:__ Do not take this post as financial advice. You are responsible for your own purchases.*

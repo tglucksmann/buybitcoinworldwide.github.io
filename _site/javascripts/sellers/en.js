@@ -1051,7 +1051,7 @@
 
   window.sellers.push({
     countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, ca",
-    methods: "sepa, okpay, skrill, swift, sofort",
+    methods: "sepa, okpay, skrill, swift, sofort, onlinebt",
     hide: "",
     url: "https://cubits.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cubits.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cubits.png\" alt=\"Cubits\">Cubits</a> \n		<a type=\"button\" href=\"https://cubits.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy bitcoin in a number of countries via SEPA, OKPAY, SOFORT and Skrill.</p>\n		<a href=\"https://cubits.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"

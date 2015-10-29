@@ -25,6 +25,6 @@ Users must trust Coinkite to provide the correct transaction data but also inclu
 {: .privacy .wallet-sections}
 Coinkite doesn't require email or any personal information on signup and can be accessed with a TOR onion address: http://gcvqzacplu4veul4.onion.
 
-You can generate new addresses on deman, but the “quick deposit” feature reuses the same address. Address reuse makes it easy for others to observe your history on the blockchain and connect your addresses and funds.
+You can generate new addresses on demand, but the “quick deposit” feature reuses the same address. Address reuse makes it easy for others to observe your history on the blockchain and connect your addresses and funds.
 
 CK has no US servers. All backups are in Switzerland and encrypted row by row. 

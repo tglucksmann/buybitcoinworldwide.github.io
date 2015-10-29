@@ -12,7 +12,6 @@ categories:
 - buying
 - faq
 ---
-
 Yes, it is possible to buy less than one bitcoin. 
 
 Each bitcoin is divisible to the 8th decimal place, meaning each bitcoin can be split into 100,000,000 pieces. Each unit of bitcoin, or 0.00000001 bitcoin, is called a satoshi. 
@@ -23,6 +22,6 @@ When [buying Bitcoin](https://www.buybitcoinworldwide.com/), you don't have to b
 
 Most brokers will let you specify the amount of fiat currency you want to spend and in exchange sell you the equivalent amount of Bitcoin. For example, if one bitcoin is worth $250, and you want to buy $125 worth of bitcoin, you'll receive 0.50 bitcoin--assuming there are no fees. 
 
-Vice-versa, most bitcoin dealers and brokers also let you specify the amount of bitcoin you want and will charge you the equivalent in fiat. For example, if you want to buy 0.25 bitcoin and 1 bitcoin is $300, you'll be charged $75. 
+Vice-versa, most Bitcoin brokers also let you specify the amount of bitcoin you want and will charge you the equivalent in fiat. For example, if you want to buy 0.25 bitcoin and 1 bitcoin is $300, you'll be charged $75. 
 
 So, yes, it's 100% possible to buy less than one bitcoin. Companies like [Coinbase](http://buybitcoinww.co/coinbase_bitcoin){:rel="nofollow"} and [Celery](http://buybitcoinww.co/go_celery){:rel="nofollow"} will let you buy as little as $1 and $5 worth of bitcoin, respectively.

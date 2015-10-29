@@ -6,41 +6,12 @@ desc: How to buy bitcoin with specific payment methods. Select a payment method 
 lang: en
 permalink: /en/payment-methods/
 ---
-<div class="help-article-index">
-	<div class="help-article-wrap ccus">
-		<img src="/img/icons/ccus.jpg">
-		<h2 class="help-article-title"><a href="/en/buy-bitcoin-credit-debit-card/">Credit or Debit Card</a></h2>
-		<p>Complete list of companies that accept credit card payments for bitcoin.</p>
-	</div>
-	
-	<div class="help-article-wrap ccus">
-		<img src="/img/icons/ach.png">
-		<h2 class="help-article-title"><a href="/en/buy-bitcoin-ach-bank-transfer-united-states/">ACH Bank Transfer</a></h2>
-		<p>Index of US Bitcoin companies accepting ACH bank transfers for bitcoin.</p>
-	</div>
-	
-	<div class="help-article-wrap ccus">
-		<img src="/img/icons/paypal.png">
-		<h2 class="help-article-title"><a href="/en/buy-bitcoin-paypal/">PayPal</a></h2>
-		<p>Exchanges and brokers that let you <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a>.</p>
-	</div>
-	
-	<div class="help-article-wrap ccus">
-		<img src="/img/icons/sepa.png">
-		<h2 class="help-article-title"><a href="/en/buy-bitcoin-cash-deposit-united-states/">Cash Deposit</a></h2>
-		<p>Bitcoin exchanges and companies that sell or facilitate P2P bitcoin trades via cash deposit.</p>
-	</div>
-	
-	<div class="help-article-wrap">
-		<img src="/img/icons/sepa1.png">
-		<h2 class="help-article-title"><a href="/en/buy-bitcoin-sepa-transfer/">SEPA Transfer</a></h2>
-		<p>Exchanges and brokers worldwide accepting SEPA transfers for bitcoin.</p>
-	</div>
-	
-	<div class="help-article-wrap ccus">
-		<img src="/img/icons/io.png">
-		<h2 class="help-article-title"><a href="/en/buy-bitcoin-interac-online/">INTERAC® Online</a></h2>
-		<p>Canadian Bitcoin exchanges and brokers accepting Interac® Online payments for bitcoin.</p>
-	</div>
-	
+<div class="help-article-index pmethods-index">
+{% for pmethod in site.data.paymentmethods %}
+	<a class="col-md-6" href="{{ pmethod.url }}">
+	<i class="fa fa-4x fa-{{ pmethod.icon }}"></i>
+	<div class="payment-method">{{ pmethod.pmethod }}</div>
+	<div class="payment-method-desc">{{ pmethod.desc }}</div>
+	</a>	
+{% endfor %}	
 </div>
