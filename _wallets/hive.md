@@ -8,10 +8,23 @@ thumb: hive.png
 cat: mobile, web, unsupported
 seotitle: "Hive Wallet Review: Features and Security"
 lang: en
+website: hivewallet.com
+website_url: https://hivewallet.com/
+web_wallet: yes
+create: yes
+create_url: https://web.hivewallet.com/
+open_source: yes
+open_source_url: https://github.com/hivewallet
+control_priv_keys: yes
+download_ios: yes
+download_ios_url: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=906990301&mt=8
+download_android: yes
+download_android_url: https://play.google.com/store/apps/details?id=com.hivewallet.hive.cordova
+contribute: hive
 ---
 **Hive Wallet is officially unsupported and will not receive further development.**  
 
-Hive is an elegant, HD Bitcoin wallet available on the web, iPhone, and Android. It aims to be ‘human-friendly’, allows you control private keys, and offers basic send and receive features. Hive also supports Litecoin.
+Hive is an elegant, HD [Bitcoin wallet](/wallets/) available on the web, iPhone, and Android. It aims to be ‘human-friendly’, allows you control private keys, and offers basic send and receive features. Hive also supports Litecoin.
 
 A 12-word seed is generated upon wallet creation. The seed can be imported to Hive’s web wallet if the original wallet was made on Android/iOS, and vice-versa.
 

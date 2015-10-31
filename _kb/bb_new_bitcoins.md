@@ -21,3 +21,7 @@ Miners are rewarded each time they find a “block”. A block is generated, on 
 Each block contains a block reward. This reward started at 50 bitcoins. The block reward halves every 210,000 blocks, which based on an average of 10 minutes per block comes out to a halving about ever four years. Currently the block reward is 25 bitcoins. It will halve again in ~July 2016 and become 12.5 bitcoins per block. 
 
 Bitcoins miners are rewarded with new bitcoins. This is the only way that new bitcoins are created. Eventually the block reward halves many times and becomes so small that the block reward comes not from new bitcoins, but from transaction fees paid by users of the network.
+
+The first minute of this video also explains the process of mining new bitcoins: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>

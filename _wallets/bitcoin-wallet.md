@@ -10,9 +10,21 @@ cat: mobile, hot
 seotitle: "Bitcoin Wallet Review: Features, Privacy and Security"
 lang: en
 permalink: "/wallets/bitcoin-wallet/"
+website: wallet.schildbach.de
+website_url: http://wallet.schildbach.de/
+mobile_wallet: yes
+open_source: yes
+open_source_url: https://github.com/schildbach/bitcoin-wallet
+control_priv_keys: yes
+download_android: yes
+download_android_url: https://play.google.com/store/apps/details?id=de.schildbach.wallet
+contribute: bitcoin-wallet
+tags: android, mobile
+summary: Bitcoin Wallet, or “Schildbach Wallet”, was the first mobile Bitcoin wallet and has over 700,000 users in the Google Play Store and about 100,000 users in the BlackBerry AppWorld.
+weight: 7
 ---
 
-Bitcoin Wallet, or “Schildbach Wallet”, was the first mobile Bitcoin wallet and has over 700,000 users in the Google Play Store and about 100,000 users in the BlackBerry AppWorld.
+Bitcoin Wallet, or “Schildbach Wallet”, was the first mobile [Bitcoin wallet](/wallets/) and has over 700,000 users in the Google Play Store and about 100,000 users in the BlackBerry AppWorld.
 
 ##Security
 {: .security .wallet-sections}
@@ -28,4 +40,4 @@ Bitcoin Wallet is an HD wallet. It generates a new address for each transaction 
 
 Because the wallet connects directly to the Bitcoin network peers can see your phone’s IP address.
 
-Bitcoin wallet received a score of 46 out of 100 from the Open Bitcoin Privacy Project’s [Spring 2015 report](http://openbitcoinprivacyproject.org/2015/05/spring-2015-wallet-privacy-rating-report/).
+Bitcoin Wallet received a score of 46 out of 100 from the Open Bitcoin Privacy Project’s [Spring 2015 report](http://openbitcoinprivacyproject.org/2015/05/spring-2015-wallet-privacy-rating-report/).

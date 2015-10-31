@@ -1856,6 +1856,13 @@
    desc_zh: 对于那些没有银行账户的顾客，可以使用汇票或个人支票购买比特币。
    desc_ru: Купить биткоин денежным переводом или с помощью именного чека. 
    desc_uk: Купити біткоіни грошовим переказом або за допомогою іменного чека. 
+ 
+ - name: CoinMama
+   url: http://buybitcoinww.co/CoinMama_Bitcoin
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
+   po: ccww, cc
+   desc: Bitcoin broker. Buy bitcoin with a credit card. ~10% fee on each purchase. 
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mx, ar, br, bo, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, ru, uk, au, il, ae 
       
  - name: CryptoPay
    desc: Bitcoin broker. Buy bitcoin with SEPA or bank transfers in the UK. 

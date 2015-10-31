@@ -8,6 +8,19 @@ thumb: coinbase.png
 cat: web, broker
 lang: en
 seotitle: "Coinbase Wallet Review: Features and Security"
+website: coinbase.com
+website_url: https://coinbase.com/
+web_wallet: yes
+create: yes
+create_url: https://coinbase.com/
+open_source: no
+control_priv_keys: no
+download_ios: yes
+download_ios_url: https://itunes.apple.com/us/app/coinbase-bitcoin-wallet/id886427730?mt=8
+download_android: yes
+download_android_url: https://play.google.com/store/apps/details?id=com.coinbase.android&hl=en
+contribute: coinbase
+weight: 1
 ---
 Coinbase was founded in 2013. It’s a US-based Bitcoin company that has received over $100 million in VC funding.
 

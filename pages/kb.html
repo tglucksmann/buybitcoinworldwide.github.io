@@ -69,6 +69,14 @@ desc: Learn about Bitcoin, buying bitcoin, and Bitcoin wallets in our knowledge 
 {% endif %}
 {% endfor %}
 </ul>
+<h3>Privacy</h3>
+<ul>
+{% for album in site.kb %}
+{% if album.categories contains "privacy" and album.categories contains "wallets" %}
+<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
 </div>
 <div class="col-md-4 col-sm-6 col-xs-12">
 <h3>Restoring Backups</h3>

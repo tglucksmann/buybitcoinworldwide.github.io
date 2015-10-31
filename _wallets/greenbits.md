@@ -8,6 +8,18 @@ thumb: greenbits.png
 cat: mobile, hot
 seotitle: "GreenBits Review: Features, Privacy and Security"
 lang: en
+website: greenaddress.it
+website_url: https://greenaddress.it/
+mobile_wallet: yes
+open_source: yes
+open_source_url: https://github.com/greenaddress/GreenBits
+shared_control_priv_keys: yes
+download_android: yes
+download_android_url: https://play.google.com/store/apps/details?id=com.greenaddress.greenbits_android_wallet&hl=en
+contribute: greenbits
+tags: android, hw1h, ledgernanoh, trezorh, mobile, multisig, mobile, software, hotwallet, bip70, cspending, bip44, bip39
+summary: GreenBits is the native Android version of GreenAddress. It’s a multi-signature wallet that supports hardware wallets like TREZOR and Ledger.
+weight: 5
 ---
 
 GreenBits is the native Android version of [GreenAddress](/wallets/greenaddress/). It’s a multi-signature wallet that supports hardware wallets like TREZOR and Ledger. Seeds created with GreenAddress can be imported into GreenBits.

@@ -8,10 +8,19 @@ thumb: hivemac.png
 cat: desktop, unsupported
 seotitle: "Hive Mac Review: Features and Security"
 lang: en
+website: mac.hivewallet.com
+website_url: https://mac.hivewallet.com/
+desktop_wallet: yes
+open_source: yes
+open_source_url: https://github.com/hivewallet/hive-mac
+control_priv_keys: yes
+download_desktop: yes
+download_desktop_url: https://mac.hivewallet.com/
+contribute: hive-mac
 ---
 **Hive Wallet Mac is officially unsupported and will not receive further development.**  
 
-Hive is a native, elegant Bitcoin wallet for Mac. It aims to be ‘human-friendly’ and supports over 30 languages. Wallets created with the mobile/web version cannot be imported to Hive Mac.
+Hive is a native, elegant [Bitcoin wallet](/wallets/) for Mac. It aims to be ‘human-friendly’ and supports over 30 languages. Wallets created with the mobile/web version cannot be imported to Hive Mac.
 
 ##Security
 {: .security .wallet-sections}

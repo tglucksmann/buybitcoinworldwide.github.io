@@ -8,6 +8,18 @@ thumb: coinkite.png
 cat: web, hot
 seotitle: "Coinkite Review: Features, Privacy and Security"
 lang: en
+website: coinkite.com
+website_url: https://coinkite.com/
+web_wallet: yes
+create: yes
+create_url: https://coinkite.com/
+open_source: yes
+open_source_url: https://github.com/coinkite
+control_priv_keys: yes
+contribute: coinkite
+tags: multisig, web, ledgernanoh, ledgerhw1h, hot
+summary: Coinkite is a bitcoin platform with multisig wallets, merchant tools, and a developer API. It's been in business for over 2 years and is based in Canada. Coinkite offers two kinds of wallets; a “Simple Wallet” where CK signs the transactions and holds the private keys, and "Multisig Vaults" where you control the keys.
+weight: 7
 ---
 Coinkite is a bitcoin platform with multisig wallets, merchant tools, and a developer API. It's been in business for over 2 years and is based in Canada.
 

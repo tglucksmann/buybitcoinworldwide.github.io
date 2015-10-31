@@ -10,6 +10,22 @@ redirect_from:
 cat: hot, web, mobile
 seotitle: "Blockchain.info Wallet Review: Features and Security"
 lang: en
+website: blockchain.info
+website_url: https://blockchain.info/wallet
+web_wallet: yes
+create: yes
+create_url: https://blockchain.info/wallet
+open_source: yes
+open_source_url: https://github.com/blockchain/My-Wallet
+control_priv_keys: yes
+download_ios: yes
+download_ios_url: https://itunes.apple.com/us/app/blockchain-bitcoin-wallet/id493253309?mt=8
+download_android: yes
+download_android_url: https://play.google.com/store/apps/details?id=piuk.blockchain.android&hl=en
+contribute: blockchaininfo
+tags: web, android, watchonly, ios
+summary: Blockchain.info is the world’s most popular blockchain explorer, and also offers a simple Bitcoin web wallet. Blockchain.info wallets can be accessed from in any web browser, apps for iPhone and Android, and browser extensions for Firefox and Chrome.
+weight: 5
 ---
 Blockchain.info is the world’s most popular blockchain explorer, and also offers a simple Bitcoin web wallet.
 

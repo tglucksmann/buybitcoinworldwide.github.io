@@ -9,9 +9,25 @@ thumb: greenaddress.png
 cat: web, desktop, hot
 seotitle: "GreenAddress Review: Features, Privacy and Security"
 lang: en
+website: greenaddress.it
+website_url: https://greenaddress.it/
+web_wallet: yes
+create: yes
+create_url: https://greenaddress.it/en/
+open_source: yes
+open_source_url: https://github.com/greenaddress/WalletCrx
+control_priv_keys: yes
+download_ios: yes
+download_ios_url: https://itunes.apple.com/us/app/greenaddress/id889740745?mt=8#
+download_android: yes
+download_android_url: https://play.google.com/store/apps/details?id=it.greenaddress.cordova
+contribute: greenaddress
+tags: hw1h, ledgernanoh, trezorh, multisig, desktop, software, hotwallet, bip70, cspending, bip44, bip39, bip32
+summary: GreenAddress is a multisignature Bitcoin wallet available on the web, desktop, Android, and iOS. By default GA is a 2 of 2 wallet, which means you control one private key, and GA the other. GreenAddress must sign every transaction. This forces you to rely on GA, but offers true 2-factor authentication.
+weight: 5
 ---
 
-GreenAddress is a multisignature Bitcoin wallet available on the web, desktop, Android, and iOS.
+GreenAddress is a multisignature [Bitcoin wallet](/wallets/) available on the web, desktop, Android, and iOS.
 
 By default GA is a 2 of 2 wallet, which means you control one private key, and GA the other. GreenAddress must sign every transaction. This forces you to rely on GA, but offers true 2-factor authentication.
 

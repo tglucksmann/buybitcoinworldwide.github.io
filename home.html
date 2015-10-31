@@ -11,7 +11,8 @@ home: yes
 
 <div class="container-fluid home-mapimg">
 <div class="map-title">Buy Bitcoin Worldwide</div>
-<div class="map-desc">We help you buy bitcoin anywhere. Select your country or payment method, get a list of all matching exchanges and brokers.</div>
+<div class="map-desc"></div>
+<a href="/coinfind/" class="call-to-buy">Find an exchange &#155;</a>
 </div>
 
 <div class="container home-featured"> 
@@ -49,40 +50,19 @@ home: yes
 
 <h2 class="home-featured-header">Buy Bitcoin with these Popular Payment Methods</h2>
 <h4 class="all-countries"><a href="/en/payment-methods/">View All Payment Methods &#155;</a></h4>
-<div class="container help-article-wrap-home">
+<div class="container">
 <div class="row">
-	
-	<div class="help-article-wrap col-sm-4 ccus credit">
-		<a href="/en/buy-bitcoin-credit-debit-card/"><img src="/img/icons/ccus.jpg">
-		<h2 class="help-article-title">Credit or Debit Card</h2></a>
-	</div>
-	
-	<div class="help-article-wrap col-sm-4 ccus">
-		<a href="/en/buy-bitcoin-ach-bank-transfer-united-states/"><img src="/img/icons/ach.png">
-		<h2 class="help-article-title">ACH Bank Transfer</h2></a>
-	</div>
-	
-	<div class="help-article-wrap col-sm-4 ccus">
-		<a href="/en/buy-bitcoin-paypal/"><img src="/img/icons/paypal.png">
-		<h2 class="help-article-title">PayPal</h2></a>
-	</div>
-</div>	
-<div class="row">
-	<div class="help-article-wrap col-sm-4 ccus cdus">
-		<a href="/en/buy-bitcoin-cash-deposit-united-states/"><img src="/img/icons/sepa.png">
-		<h2 class="help-article-title">Cash Deposit</h2></a>
-	</div>
-	
-	<div class="help-article-wrap col-sm-4">
-		<a href="/en/buy-bitcoin-sepa-transfer/"><img src="/img/icons/sepa1.png">
-		<h2 class="help-article-title">SEPA Transfer</h2></a>
-	</div>
-	
-	<div class="help-article-wrap col-sm-4 ccus">
-		<a href="/en/buy-bitcoin-interac-online/"><img src="/img/icons/io.png">
-		<h2 class="help-article-title">Interac® Online</h2></a>
-	</div>
+<div class="pmethods-index">
+{% for pmethod in site.data.paymentmethods %}
+	<a class="col-md-4 col-sm-6" href="{{ pmethod.url }}">
+	<i class="fa fa-4x fa-{{ pmethod.icon }}"></i>
+	<div class="payment-method">{{ pmethod.pmethod }}</div>
+	<div class="payment-method-desc">{{ pmethod.desc }}</div>
+	</a>	
+{% endfor %}	
 </div>
 </div>
+</div>
+
 </div>
 <hr>

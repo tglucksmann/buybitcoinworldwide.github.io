@@ -688,6 +688,11 @@ h3 {
 	margin: 10px 0; 
 	font-size: 21px;
 	font-weight: 600;
+	color: #555;
+}
+
+.payment-method-desc {
+	color: #555;
 }
 
 .pmethods-index a:hover {
@@ -783,6 +788,37 @@ height: auto;
 
 .faq-author {
 	margin-top: 3px;
+}
+
+.call-to-buy {
+    background: #2579c6 none repeat scroll 0 0;
+    border: 2px solid white;
+    border-radius: 0.3em;
+    color: white;
+    display: block;
+    font-size: 20px;
+    margin: 40px auto 0;
+    max-width: 365px;
+    padding: 6px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.call-to-buy:hover {
+    background: #fff none repeat scroll 0 0;
+    border: 2px solid white;
+    color: #2579c6;
+    text-decoration: none;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.learn-more-button {
+	margin-right: 10px;
 }
 
 .sidebar-add a {

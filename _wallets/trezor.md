@@ -9,8 +9,20 @@ desc: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offer
 wallet: trezor
 cat: hardware
 thumb: trezor.png
+tags: bip39, bip44, hdwallet, multiaccounts, pincode, offlinesigning, coldstorage, hardware
+website: bitcointrezor.com
+website_url: http://bitcointrezor.com/
+hardware_wallet: yes
+open_source: yes
+open_source_url: https://github.com/trezor/
+control_priv_keys: yes
+buy: yes
+buy_url: http://buybitcoinww.co/TREZOR_Wallet
+contribute: trezor
+summary: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offering secure cold storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer.  
+weight: 9
 ---
-TREZOR launched in [August 2014](http://satoshilabs.com/news/2014-08-07-trezor-sales-launched-buytrezor-com/) as the first Bitcoin hardware wallet, offering secure cold storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. 
+TREZOR launched in [August 2014](http://satoshilabs.com/news/2014-08-07-trezor-sales-launched-buytrezor-com/) as the first Bitcoin [hardware wallet](/wallets/hardware-wallets/), offering secure cold storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. 
 
 TREZOR is compatible with a number of wallets, including [Electrum](/wallets/electrum/), MultiBit HD, and [GreenAddress](/wallets/greenaddress/) on desktop, [GreenBits](/wallets/greenbits/) and [Mycelium](/wallets/mycelium/) on Android, and [myTREZOR.com](https://mytrezor.com) on the web. Use the [TREZOR Chrome extension](http://doc.satoshilabs.com/trezor-apps/extension.html) to manage your device. 
 
@@ -36,4 +48,4 @@ A full overview of how TREZOR handles security threats can [be found on the Sato
 {: .privacy .wallet-sections}
 TREZOR itself offers very good privacy. Satoshi Labs has no way of tracking your actions after you receive the device because it has no serial number. All of the software is open source. No usernames or passwords are needed when using TREZOR.
 
-Privacy is determined by the wallet used with TREZOR: Electrum, MultiBit HD, and GreenAddress on desktop, GreenBits and Mycelium on Android, and myTREZOR.com on the web.
+Privacy is determined by the wallet used with TREZOR: [Electrum](/wallets/electrum/), MultiBit HD, and [GreenAddress](/wallets/greenaddress/) on desktop, [GreenBits](/wallets/greenbits/) and [Mycelium](/wallets/mycelium/) on Android, and myTREZOR.com on the web.

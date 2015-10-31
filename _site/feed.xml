@@ -5,9 +5,71 @@
     <description></description>
     <link>https://www.buybitcoinworldwide.com/</link>
     <atom:link href="https://www.buybitcoinworldwide.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 29 Oct 2015 22:57:52 +0200</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2015 22:57:52 +0200</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2015 00:46:09 +0200</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2015 00:46:09 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>The 10 Biggest Bitcoin Mining Pools and Companies</title>
+        <description>&lt;p&gt;Bitcoin miners are crucial to Bitcoin and its security. Without miners, Bitcoin would be vulnerable and easy to attack. Most Bitcoin users don’t mine. However, miners are responsible for the creation of all new bitcoins and a fascinating part of the Bitcoin ecosystem. &lt;/p&gt;
+
+&lt;p&gt;Mining, once done on the average home computer, is now mostly done in large, specialized warehouses. These warehouses usually direct their hashing power towards mining pools. What is a mining pool? &lt;a href=&quot;https://www.bitcoinmining.com/bitcoin-mining-pools/&quot;&gt;BitcoinMining.com&lt;/a&gt; breaks it down: &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Bitcoin mining pools are a way for Bitcoin miners to pool their resources together and share their hashing power while splitting the reward equally according to the amount of shares they contributed to solving a block.
+&lt;/p&gt; 
+
+&lt;p&gt;A &quot;share&quot; is awarded to members of the Bitcoin mining pool who present a valid proof of work that their Bitcoin miner solved. Bitcoin mining in pools began when the difficulty for mining increased to the point where it could take years for slower miners to generate a block. &lt;/p&gt; 
+
+&lt;p&gt;The solution to this problem was for miners to pool their resources so they could generate blocks quicker and therefore receive a portion of the Bitcoin block reward on a consistent basis, rather than randomly once every few years. &lt;/p&gt; 
+&lt;/blockquote&gt;
+
+&lt;p&gt;While we can see which mining pools are the largest, it’s important to understand that the hash power pointed towards a mining pool isn’t necessarily owned by the mining pool itself. There are a few cases, like with BitFury and KnCMiner, where the company itself runs the mining operation but doesn’t run a mining pool. &lt;/p&gt;
+
+&lt;p&gt;Bitcoin miners can switch mining pools easily by routing their hash power to a different pool. The market share of pools is constantly changing. To make the list of top 10 miners, we looked at blocks found over the past 6 months using data from &lt;a href=&quot;https://www.blocktrail.com/BTC/pools&quot;&gt;BlockTrail&lt;/a&gt;. The size of mining pools is constantly changing. We will do our best to keep this posted up-to-date. &lt;/p&gt;
+
+&lt;h2 id=&quot;discusfishf2poolhttpswwwf2poolcom&quot;&gt;1. &lt;a href=&quot;https://www.f2pool.com/&quot;&gt;DiscusFish/F2Pool&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;DiscusFish, also known as F2Pool, is based in China. DiscusFish has mined about 19.5% of all blocks over the past six months. &lt;/p&gt;
+
+&lt;h2 id=&quot;antpoolhttpsantpoolcomhomehtm&quot;&gt;2. &lt;a href=&quot;https://antpool.com/home.htm&quot;&gt;AntPool&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Antpool is another Chinese based mining pool, maintained by &lt;a href=&quot;https://www.bitmaintech.com/about.htm&quot;&gt;BitMain&lt;/a&gt;. Antpool mines about 18.5% of all blocks.  &lt;/p&gt;
+
+&lt;h2 id=&quot;bitfuryhttpwwwbitfuryorg&quot;&gt;3. &lt;a href=&quot;http://www.bitfury.org/&quot;&gt;BitFury&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;BitFury is one of the largest producers of Bitcoin mining hardware and chips. BitFury currently mines about 13% of all bitcoins in three data centers across Georgia. &lt;/p&gt;
+
+&lt;h2 id=&quot;btcchttpspoolbtcchinacom&quot;&gt;4. &lt;a href=&quot;https://pool.btcchina.com/&quot;&gt;BTCC&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;BTCC is China’s third largest Bitcoin exchange. Its mining pool currently mines about 11.5% of all blocks. &lt;/p&gt;
+
+&lt;h2 id=&quot;bw-poolhttpswwwbwcom&quot;&gt;5. &lt;a href=&quot;https://www.bw.com/&quot;&gt;BW Pool&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;BW, established in 2014, is another mining company based in China. It currently mines about 8% of all blocks.&lt;/p&gt;
+
+&lt;h2 id=&quot;kncminerhttpwwwkncminercom&quot;&gt;6. &lt;a href=&quot;http://www.kncminer.com/&quot;&gt;KnCMiner&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Sweden is home to KnCMiner, a Bitcoin mining manufacturer based in Stockholm. KnCMiner currently mines about 6% of all blocks. KnCMiner is not a pool and mines bitcoins in their own warehouses. &lt;/p&gt;
+
+&lt;h2 id=&quot;slushhttpsminingbitcoinczhome&quot;&gt;7. &lt;a href=&quot;https://mining.bitcoin.cz/home/&quot;&gt;Slush&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Slush was the first mining pool and currently mines about 5% of all blocks. &lt;/p&gt;
+
+&lt;h2 id=&quot;inchttps21co&quot;&gt;8. &lt;a href=&quot;https://21.co/&quot;&gt;21 Inc.&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;21 Inc. is a Bitcoin mining company based in California. 21 runs a large amount of miners, but also sells low powered bitcoin miners as part of their 21 Bitcoin computer. Most of the hash power from the 21 Bitcoin computers is pointed towards 21’s mining pool. 21 Inc. mines about 4% of all bitcoins.&lt;/p&gt;
+
+&lt;h2 id=&quot;eligiushttpeligiusstgateway&quot;&gt;9. &lt;a href=&quot;http://eligius.st/~gateway/&quot;&gt;Eligius&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Eligius was one of the first mining pools created. It currently mines about 3% of all blocks. &lt;/p&gt;
+
+&lt;h2 id=&quot;ghashiohttpsghashio&quot;&gt;10.	&lt;a href=&quot;https://ghash.io/&quot;&gt;GHASH.IO&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;GHASH.IO used to be the largest mining pool, with over 50% of the network. However, concerns over a 51% attack caused many miners to transfer their hash power to other pools. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;More:&lt;/strong&gt; &lt;a href=&quot;/kb/which-countries-mine-export-most-bitcoins/&quot;&gt;Which countries mine the most bitcoins?&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 31 Oct 2015 00:00:00 +0200</pubDate>
+        <link>https://www.buybitcoinworldwide.com/blog/largest-bitcoin-mining-pools/</link>
+        <guid isPermaLink="true">https://www.buybitcoinworldwide.com/blog/largest-bitcoin-mining-pools/</guid>
+        
+        
+        <category>mining</category>
+        
+      </item>
     
   </channel>
 </rss>

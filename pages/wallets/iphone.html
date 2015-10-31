@@ -1,0 +1,21 @@
+---
+layout: walletcat
+permalink: "/wallets/iphone/"
+title: Bitcoin Wallets for iPhone
+lang: en
+seotitle: Bitcoin Wallets for iPhone
+desc:  
+hide_sidebar: true
+wallet_category: iphone
+---
+{% assign lang = site.data.translations[page.lang] %}
+<div class="post-content">
+<!-- <p>A hardware wallet is a physical hardware device that is built with the sole purpose of securing Bitcoin private keys. The device keeps private keys away from an Internet-connected device and allows users to sign transactions in an offline environment. </p> -->
+	{% assign pages = site.wallets | sort:"weight"  %}
+    {% for wallet in pages reversed %}
+	{% if wallet.tags contains 'iphone' %}
+	{% include wallet-list.html %}
+	{% endif %}
+	{% endfor %}
+
+</div>

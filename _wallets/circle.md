@@ -10,6 +10,19 @@ redirect_from:
 cat: web, broker
 lang: en
 seotitle: "Circle Wallet Review: Features and Privacy"
+website: circle.com
+website_url: https://circle.com/
+web_wallet: yes
+create: yes
+create_url: https://circle.com/
+open_source: no
+control_priv_keys: no
+download_ios: yes
+download_ios_url: https://itunes.apple.com/us/app/circle-for-bitcoin/id920164002?mt=8
+download_android: yes
+download_android_url: https://play.google.com/store/apps/details?id=com.circle.android&hl=en
+contribute: circle
+weight: 1
 ---
 Circle is a digital money company focused on making money “instant, secure, and free”. Its homepage only briefly mentions Bitcoin, and its wallet doesn’t do much more than receiving and spending.
 

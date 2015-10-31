@@ -18,21 +18,21 @@ hide_sidebar: true
 	  <img class="wallet-logo" src="{{ "/img/wallets/" | prepend: site.baseurl }}{{ page.thumb }}">
 	  <h1 class="ctitle"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
 	 <div class="wallet-info"> 
-	 	<div class="wallet-info-link"><i class="fa fa-fw fa-link fa-lg"></i> <a rel="nofollow" href="{{ wallet.website_url }}">{{ wallet.website }}</a></div>
-	 	{% if wallet.mobile_wallet == true %}
+	 	<div class="wallet-info-link"><i class="fa fa-fw fa-link fa-lg"></i> <a rel="nofollow" href="{{ page.website_url }}">{{ page.website }}</a></div>
+	 	{% if page.mobile_wallet == true %}
 	 	<div class="wallet-info-link"><i class="fa fa-fw fa-mobile fa-lg"></i> Mobile Wallet</div>
 	 	{% endif %}
-	 	{% if wallet.web_wallet == true %}
+	 	{% if page.web_wallet == true %}
 	 	<div class="wallet-info-link"><i class="fa fa-fw fa-globe fa-lg"></i> Web Wallet</div>
 	 	{% endif %}
-	 	{% if wallet.hardware_wallet == true %}
+	 	{% if page.hardware_wallet == true %}
 	 	<div class="wallet-info-link"><i class="fa fa-fw fa-key fa-lg"></i> Hardware Wallet</div>
 	 	{% endif %}
-	 	{% if wallet.desktop_wallet == true %}
+	 	{% if page.desktop_wallet == true %}
 	 	<div class="wallet-info-link"><i class="fa fa-fw fa-desktop fa-lg"></i> Desktop Wallet</div>
 	 	{% endif %}
-	 	{% if wallet.open_source == true %}
-	 	<div class="wallet-info-link"><i class="fa fa-fw fa-github fa-lg"></i> <a href="{{ wallet.open_source_url }}">Open Source</a></div>
+	 	{% if page.open_source == true %}
+	 	<div class="wallet-info-link"><i class="fa fa-fw fa-github fa-lg"></i> <a href="{{ page.open_source_url }}">Open Source</a></div>
 	 	{% endif %}
 	 </div>
 	 </div>
@@ -42,31 +42,31 @@ hide_sidebar: true
 <div class="wallet-content {{ page.wallet }} entry-content">
             <! -- Blog Post  -->
             <div class="list-group vitals">
-			  {% if wallet.control_priv_keys == true %}
+			  {% if page.control_priv_keys == true %}
 			  <span class="list-group-item bg-success"><i class="fa fa-key fa-fw"></i>&nbsp; <span>User controls private keys</span></span>
 			  {% endif %}
-			  {% if wallet.shared_control_priv_keys == true %}
+			  {% if page.shared_control_priv_keys == true %}
 			  <span class="list-group-item bg-success"><i class="fa fa-key fa-fw"></i>&nbsp; <span>Shared control of private keys</span></span>
 			  {% endif %}
-			  {% if wallet.control_priv_keys == false %}
+			  {% if page.control_priv_keys == false %}
 			  <span class="list-group-item bg-danger"><i class="fa fa-key fa-fw"></i>&nbsp; <span>User does not control private keys</span></span>
 			  {% endif %}
-			  {% if wallet.create == true %}
-	 	<a rel="nofollow" class="list-group-item" href="{{ wallet.create_url }}"><i class="fa fa-sign-in fa-fw"></i>&nbsp; <span>Create Wallet</span></a>
+			  {% if page.create == true %}
+	 	<a rel="nofollow" class="list-group-item" href="{{ page.create_url }}"><i class="fa fa-sign-in fa-fw"></i>&nbsp; <span>Create Wallet</span></a>
 	 	      {% endif %}
-	 	      {% if wallet.buy == true %}
-	 	<a rel="nofollow" class="list-group-item" href="{{ wallet.buy_url }}"><i class="fa fa-shopping-cart fa-fw"></i>&nbsp; <span>Buy</span></a>
+	 	      {% if page.buy == true %}
+	 	<a rel="nofollow" class="list-group-item" href="{{ page.buy_url }}"><i class="fa fa-shopping-cart fa-fw"></i>&nbsp; <span>Buy</span></a>
 	 	      {% endif %}
-	 	      {% if wallet.download_desktop == true %}
-			  <a rel="nofollow" class="list-group-item" href="{{ wallet.download_desktop_url }}"><i class="fa fa-download fa-fw"></i>&nbsp; <span>Download</span></a>
+	 	      {% if page.download_desktop == true %}
+			  <a rel="nofollow" class="list-group-item" href="{{ page.download_desktop_url }}"><i class="fa fa-download fa-fw"></i>&nbsp; <span>Download</span></a>
 			  {% endif %}
-			  {% if wallet.download_android == true %}
-			  <a rel="nofollow" class="list-group-item" href="{{ wallet.download_android_url }}"><i class="fa fa-download fa-fw"></i>&nbsp; <span>Download (Android)</span></a>
+			  {% if page.download_android == true %}
+			  <a rel="nofollow" class="list-group-item" href="{{ page.download_android_url }}"><i class="fa fa-download fa-fw"></i>&nbsp; <span>Download (Android)</span></a>
 			  {% endif %}
-			  {% if wallet.download_ios == true %}
-			  <a rel="nofollow" class="list-group-item" href="{{ wallet.download_ios_url }}"><i class="fa fa-download fa-fw"></i>&nbsp; <span>Download (iOS)</span></a>
+			  {% if page.download_ios == true %}
+			  <a rel="nofollow" class="list-group-item" href="{{ page.download_ios_url }}"><i class="fa fa-download fa-fw"></i>&nbsp; <span>Download (iOS)</span></a>
 			  {% endif %}
-			  <a rel="nofollow" class="list-group-item" href="https://github.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/blob/master/_wallets/{{ wallet.contribute }}.md"><i class="fa fa-pencil fa-fw"></i>&nbsp; <span>Contribute to this page</span></a>
+			  <a rel="nofollow" class="list-group-item" href="https://github.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/blob/master/_wallets/{{ page.contribute }}.md"><i class="fa fa-pencil fa-fw"></i>&nbsp; <span>Contribute to this page</span></a>
 			</div>
             {{ content }} 
 </div><! --/container -->

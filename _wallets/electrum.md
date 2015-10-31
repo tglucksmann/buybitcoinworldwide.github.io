@@ -8,10 +8,22 @@ thumb: electrum.png
 cat: desktop, hot
 seotitle: "Electrum Review: Features, Privacy and Security"
 lang: en
+website: electrum.org
+website_url: http://electrum.org/
+desktop_wallet: yes
+open_source: yes
+open_source_url: https://github.com/spesmilo/electrum
+control_priv_keys: yes
+download_desktop: yes
+download_desktop_url: https://electrum.org/#download
+contribute: electrum
+tags: desktop, mac, coldstorage
+summary: Electrum is a light weight Bitcoin wallet for Mac, Linux, and Windows. It was created in November 2011. The main features of Electrum are support for hardware wallets TREZOR, Ledger Nano and HW1, secure cold storage using an offline computer, and decentralized verification using SPV.
+weight: 8
 ---
-Electrum is a light weight Bitcoin wallet for Mac, Linux, and Windows. It was created in November 2011.
+Electrum is a light weight [Bitcoin wallet](/wallets/) for Mac, Linux, and Windows. It was created in November 2011.
 
-The main features of Electrum are support for hardware wallets TREZOR and HW1, secure cold storage using an offline computer, and decentralized verification using SPV.
+The main features of Electrum are support for hardware wallets [TREZOR](/wallets/trezor/), [Ledger Nano](/wallets/ledger-nano/) and HW1, secure cold storage using an offline computer, and decentralized verification using SPV.
 
 ##Security
 {: .security .wallet-sections}

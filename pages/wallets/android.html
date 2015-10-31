@@ -1,0 +1,22 @@
+---
+layout: walletcat
+permalink: "/wallets/android/"
+title: Bitcoin Wallets for Android
+lang: en
+seotitle: Bitcoin Wallets for Android
+desc:  
+hide_sidebar: true
+wallet_category: iphone
+---
+{% assign lang = site.data.translations[page.lang] %}
+<div class="post-content">
+<!-- <p>A hardware wallet is a physical hardware device that is built with the sole purpose of securing Bitcoin private keys. The device keeps private keys away from an Internet-connected device and allows users to sign transactions in an offline environment. </p> -->
+
+	{% assign pages = site.wallets | sort:"weight"  %}
+    {% for wallet in pages reversed %}
+	{% if wallet.tags contains 'android' %}
+	{% include wallet-list.html %}
+	{% endif %}
+	{% endfor %}
+
+</div>
