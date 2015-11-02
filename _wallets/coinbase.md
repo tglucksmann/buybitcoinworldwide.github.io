@@ -20,7 +20,9 @@ download_ios_url: https://itunes.apple.com/us/app/coinbase-bitcoin-wallet/id8864
 download_android: yes
 download_android_url: https://play.google.com/store/apps/details?id=com.coinbase.android&hl=en
 contribute: coinbase
-weight: 1
+weight: 3
+summary: Coinbase was founded in 2013. It’s a US-based Bitcoin company that has received over $100 million in VC funding. Your account can be accessed on the web, or with Coinbase's apps for iOS and Android. Coinbase controls all private keys, and acts more like a bank than a true Bitcoin wallet. Coinbase should only be used to buy or sell bitcoin, and not to store funds (unless you use the Multisignature Vault).
+tags: ios, android, iphone, mobile, web
 ---
 Coinbase was founded in 2013. It’s a US-based Bitcoin company that has received over $100 million in VC funding.
 

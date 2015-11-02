@@ -18,7 +18,7 @@ control_priv_keys: yes
 buy: yes
 buy_url: http://buybitcoinww.co/Ledger_Wallet
 contribute: ledger-nano
-summary: When you own bitcoins, storing and protecting them is your own responsibility. The Ledger Nano is accessible to all, and secured thanks to highest banking industry standards. Your account can be backed up and restored if your Nano is lost or stolen. You can use your Ledger Nano on any computer, PC, Mac or Linux. Anybody can install and use it without technical skills. 
+summary: Ledger is a Bitcoin security company based in Paris, France. The Ledger Nano, built upon a CC EAL5+ smartcard, is one of Ledger's three Bitcoin hardware walelts. The Nano is a small, key-sized device that connects to your computer's USB port. It stores your Bitcoin private keys offline and signs transactions in its secure environment. It can be safely used on a malware infected computer if setup correctly. The Nano can be used on any computer or on an Android device with an OTG cable. 
 weight: 9
 ---
 When you own bitcoins, storing and protecting them is your own responsibility. The Ledger Nano is accessible to all, and secured thanks to highest banking industry standards. Your account can be backed up and restored if your Nano is lost or stolen. You can use your Ledger Nano on any computer, PC, Mac or Linux. Anybody can install and use it without technical skills. 
@@ -33,7 +33,7 @@ A 4-digit pin code as added on setup, and required when you connect your Nano to
 
 The Ledger Nano comes with a security card that provides extra two factor authentication and prevents man in the middle attacks. Each time you need to send a payment you will be asked to input some of the matches from the security card in order to verify the payment. For example, *a* may equal *5* while *z* is *r*. Each security card is unique. This provides two-factor authentication in the case that your Nano is stolen. If someone has your Nano and your pin code, but not the securty card, they won't be able to send your funds. 
 
-Ledger Nano uses an EAL5+ smartcard to securely sign Bitcoin transactions. 
+Ledger Nano uses an CC EAL5+ smartcard to securely sign Bitcoin transactions. 
 
 ##Privacy
 {: .privacy .wallet-sections}

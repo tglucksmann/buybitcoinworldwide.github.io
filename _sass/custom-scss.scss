@@ -934,6 +934,18 @@ iframe {
     width: 130px;
 }
 
+.pmethods-sidebar-1 .wallet-index-wrap {
+    display: inline-block;
+    margin: 15px 3px;
+    text-align: left;
+    width: 100%;
+}
+
+.wallet-index-wrap a:hover {
+	background: #ddd;
+	text-decoration: none;
+}
+
 .wallet-index-wrap img {
 	width: auto;
 	height: 55px;
@@ -1083,6 +1095,13 @@ blockquote {
     display: block;
      margin: 0 29px 0 115px;
 }
+
+.wallet-article .ctitle {
+    font-size: 22px !important;
+    margin-bottom: 11px !important;
+    margin-top: -5px !important;
+}
+
 }
 
 

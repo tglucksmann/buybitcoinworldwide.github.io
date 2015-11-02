@@ -18,13 +18,25 @@
     <li><a href="/bg/">Български</a></li>
   </ul>
 </li>
+{% if page.lang != 'en' %}
 <li>
 <a class="wallet-nav" href="{{ lang.home_url }}"><!--<i class="fa fa-fw fa-map-marker"></i> -->{{ lang.find_country }}</a>
 </li>
 <li>
 <a class="contribute-nav" href="{{ lang.paymentmethods_url }}"><!--<i class="fa fa-fw fa-credit-card"></i> -->{{ lang.paymentmethods }}</a>
 </li>
+{% endif %}
 {% if page.lang == 'en' %}
+<li class="btn-group">
+  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <i class="fa fa-fw fa-bitcoin"></i> Buy Bitcoin <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+    <li><a href="/en/">Exchanges by Country</a></li>
+    <li><a href="/en/payment-methods/">Payment Methods</a></li>
+    <li><a href="/coinfind/">CoinFind</a></li>
+  </ul>
+</li>
 <li>
 <a class="contribute-nav" href="/kb/">Knowledge Base</a>
 </li>

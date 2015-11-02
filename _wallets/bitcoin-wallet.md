@@ -20,7 +20,7 @@ download_android: yes
 download_android_url: https://play.google.com/store/apps/details?id=de.schildbach.wallet
 contribute: bitcoin-wallet
 tags: android, mobile
-summary: Bitcoin Wallet, or “Schildbach Wallet”, was the first mobile Bitcoin wallet and has over 700,000 users in the Google Play Store and about 100,000 users in the BlackBerry AppWorld.
+summary: Bitcoin Wallet, or “Schildbach Wallet”, was the first mobile Bitcoin wallet. Bitcoin Wallet is more secure than most mobile Bitcoin wallets, because it connects directly to the Bitcoin network with SPV. Bitcoin Wallet has a simple interface and just the right amount of features, making it a great choice for beginners.
 weight: 7
 ---
 

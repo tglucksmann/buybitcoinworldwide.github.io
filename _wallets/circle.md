@@ -23,6 +23,8 @@ download_android: yes
 download_android_url: https://play.google.com/store/apps/details?id=com.circle.android&hl=en
 contribute: circle
 weight: 1
+tags: ios, iphone, android
+summary: Circle is a digital money company focused on making money “instant, secure, and free”. Its wallet, available on the web, iPhone, and Android, offers basic send and receive features. Circle controls all private keys, and acts more like a bank than a true Bitcoin wallet. Circle should only be used to buy or sell bitcoin, and not to store funds. 
 ---
 Circle is a digital money company focused on making money “instant, secure, and free”. Its homepage only briefly mentions Bitcoin, and its wallet doesn’t do much more than receiving and spending.
 

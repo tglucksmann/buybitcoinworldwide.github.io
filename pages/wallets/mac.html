@@ -1,0 +1,21 @@
+---
+layout: walletcat
+permalink: "/wallets/mac/"
+title: Bitcoin Wallets for Mac
+lang: en
+seotitle: Bitcoin Wallets for Mac
+desc:  
+hide_sidebar: true
+wallet_category: iphone
+---
+{% assign lang = site.data.translations[page.lang] %}
+<div class="post-content">
+<!-- <p>Apple banned <a href="/wallets/">Bitcoin wallets</a> </p> -->
+	{% assign pages = site.wallets | sort:"weight"  %}
+    {% for wallet in pages reversed %}
+	{% if wallet.tags contains 'mac' %}
+	{% include wallet-list.html %}
+	{% endif %}
+	{% endfor %}
+
+</div>

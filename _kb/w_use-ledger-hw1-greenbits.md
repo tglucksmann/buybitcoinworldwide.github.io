@@ -29,7 +29,7 @@ That's it. You'll now see the GreenBits wallet home page. All transactions with 
 ![greenbits][3]{: .img-responsive .kb-helper .android-img-kb}
 
 {:refdef: .note}
-There is no watch-only mode. If you unplug your HW.1, you'll only be able to receive payments upon plugging it in against. 
+There is no watch-only mode. If you unplug your HW.1, you'll only be able to receive payments upon plugging it in again. 
 {: refdef}
 
 [1]: /img/kb/plugin.png

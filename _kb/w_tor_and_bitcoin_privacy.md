@@ -12,11 +12,11 @@ categories:
 - wallets
 - privacy
 ---
-Bitcoin wallets need to both transmit and query data from the blockchain. Since Bitcoin is a peer-to-peer network, your IP address is often exposed in the process of sending or requesting data when using a [Bitcoin wallet](/wallets/).
+Bitcoin wallets need to both transmit and query data from the blockchain. Because Bitcoin is a peer-to-peer network, your IP address is often exposed in the process of sending or requesting data when using a [Bitcoin wallet](/wallets/).
 
 Tor is a web browser that prevents websites from connecting your browsing activity to your real-world location and IP address by rotating your connection through a global network of nodes. Many Bitcoin wallets allow you to route your traffic through Tor. While Tor does help protect your privacy and identity somewhat, it isn't always the perfect solution.
 
-Tor is useful when paired with Bitcoin because it shields your node or wallet's real IP address and real-world location from network peers. It is useful for those who live in countries where Bitcoin is forbidden. A node run through Tor also prevents an ISP from seeing any Bitcoin related activity.
+Tor is useful when paired with Bitcoin because it shields your node or wallet's real IP address and real-world location from network peers. A node run through Tor also prevents an ISP from seeing any Bitcoin related activity.
 
 In order to understand how Tor improves Bitcoin privacy, we’ll look at a few specific wallets to see what Tor does and doesn’t do.
 
@@ -28,7 +28,7 @@ Bitcoin Core offers privacy because it relays other user's transactions in the s
 
 ## Mycelium
 
-[Mycelium](/wallets/mycelium/) uses a central server to provide blockchain data and has the ability to see the IP addresses of users connected. The company claims not to log any data, but there is know way to know for sure. The Mycelium wallet will request a list of addresses and their balances from the company's servers. Mycelium can, if it wants, connect a list of addresses to an IP address.
+[Mycelium](/wallets/mycelium/) uses a central server to provide blockchain data and has the ability to see the IP addresses of users connected. The company claims not to log any data, but there is no way to know for sure. The Mycelium wallet will request a list of addresses and their balances from the company's servers. Mycelium can, if it wants, connect a list of addresses to an IP address.
 
 Mycelium wallet data can be routed through Orbot--the Android version of Tor. Orbot shields your real IP address from Mycelium, but the company still knows, if they want, that an entire list of addresses belongs to the same person.
 
@@ -46,6 +46,6 @@ You can setup your own [Electrum server](https://github.com/spesmilo/electrum-se
 
 ## Tor Helps, But Not Perfect
 
-With Electrum and Mycelium, your privacy is somewhat hidden, but not might not be very far away from being discovered. If you post one address from your wallet on a social profile, Mycelium or an Electrum server could technically then understand who the entire list of addresses belongs to, even if Tor was used.
+With Electrum and Mycelium, your privacy is somewhat hidden, but you might not be very far away from being discovered. If you post one address from your wallet on a social profile, Mycelium or an Electrum server could technically then understand who the entire list of addresses belongs to, even if Tor was used.
 
 Tor helps hide your location and IP address, but still presents problems when used with wallets that rely on centralized servers for data. Use Bitcoin Core, Armory, or your own Electrum server if complete privacy is essential.
