@@ -9,8 +9,8 @@ desc: Learn how to pair a Ledger Nano with GreenBits for Android for secure mult
 lang: en
 categories: 
 - kb
-- wallets
 - usinghws
+weight: 2
 ---
 {:refdef: .note}
 This article details how to use a previously initialized [Ledger Nano](/wallets/ledger-nano/) with [GreenBits](/wallets/greenbits/). Your Nano must be setup before use with GreenBits. Note that you won't be able to use your accounts from the Ledger Chrome wallet. GreenBits is a multisignature wallet and can't use the same addresses that are used in the Ledger Chrome app. With GreenBits and the Ledger Nano, the Nano acts as more of a login device that signs transactions. Again, accounts from the Ledger Chrome wallet cannot be used with GreenBits. 

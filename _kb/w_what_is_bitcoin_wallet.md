@@ -11,6 +11,7 @@ categories:
 - kb
 - wallets
 - faq
+weight: 9
 ---
 For someone to store and transact bitcoin, they must own a [Bitcoin wallet](/wallets/). Although the analogy of a wallet may seem like a good fit for a digital currency, the reality is that a normal, physical cash wallet is quite different from a Bitcoin wallet. These two objects protect different types of property. In fact, some would argue that a Bitcoin wallet holds no money in it whatsoever.
 

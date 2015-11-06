@@ -9,8 +9,8 @@ desc: Learn how to pair a Ledger HW.1 with Mycelium for Android for easy, secure
 lang: en
 categories: 
 - kb
-- wallets
 - usinghws
+weight: 4
 ---
 {:refdef: .note}
 This article details how to use a previously initialized Ledger HW.1 with [Mycelium](/wallets/mycelium/). Your HW.1 must be setup before use with Mycelium.

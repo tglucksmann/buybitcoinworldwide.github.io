@@ -10,8 +10,7 @@ faq: investingbitcoin
 categories: 
 - kb
 - buying
-- gs
-- pop
+weight: 7
 ---
 As the world becomes more reliant on the internet, it is no surprise that Bitcoin, a secure, digital, currency, has claimed the interest of investors. Bitcoin is open to everyone and provides an exciting opportunity to delve into an entirely new asset class.
 

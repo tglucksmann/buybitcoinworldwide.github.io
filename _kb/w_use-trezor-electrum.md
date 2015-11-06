@@ -9,8 +9,8 @@ desc: How to spend from and use an initialized TREZOR with Electrum 2.0. An alre
 lang: en
 categories: 
 - kb
-- wallets
 - usinghws
+weight: 10
 ---
 {:refdef: .note}
 This article details how to use a previously initialized TREZOR with Electrum. Your TREZOR must be setup before use with Electrum.

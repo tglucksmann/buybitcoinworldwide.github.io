@@ -1099,6 +1099,14 @@
 
   window.sellers.push({
     countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch",
+    methods: "okpay, perfectmoney",
+    hide: "",
+    url: "http://buybitcoinww.co/unichangeme",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch",
     methods: "sepa",
     hide: "",
     url: "https://cryptopay.me/",

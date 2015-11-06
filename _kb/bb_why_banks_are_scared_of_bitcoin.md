@@ -9,9 +9,8 @@ desc: Bitcoin eliminates the need for the services that banks provide. Banks hat
 faq: bitcoinscaresbanks
 categories: 
 - kb
-- buying
-- general
-- pop
+- traditionalf
+weight: 6
 ---
 Banks today provide many services, such as holding money, securing money, making loans, and making payments. Because Bitcoin eliminates the need for these services, banks hate Bitcoin in the same way horse and buggy companies hated car companies.
 

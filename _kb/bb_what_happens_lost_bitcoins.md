@@ -9,8 +9,8 @@ desc: Lost bitcoins are gone forever, decrease the total supply of bitcoins, and
 faq: whathappenslostbitcoins
 categories: 
 - kb
-- buying
 - faq
+weight: 4
 ---
 Bitcoins are stored in a digital wallet. Each [Bitcoin wallet](https://www.buybitcoinworldwide.com/wallets/) contains many addresses, or in some cases, one address. Each address contains a public key and private key. The public key is used to receive payments, and the private key unlocks the funds that the public key contains. 
 

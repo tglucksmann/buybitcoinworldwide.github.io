@@ -1,0 +1,18 @@
+---
+layout: kbsection
+permalink: "/kb/category/bitcoin-vs-traditional-finance/"
+title: Bitcoin vs. Traditional Finance
+lang: en
+seotitle: Bitcoin vs. Traditional Finance
+desc:  
+hide_sidebar: true
+img: traditionalfinance.png
+summary: This section provides answers 
+pagetype: kbsection 
+---
+{% assign pages = site.kb | sort:"weight"  %}
+{% for album in pages reversed %}
+{% if album.categories contains "traditionalf" %}
+{% include kb-category.html %}
+{% endif %}
+{% endfor %}

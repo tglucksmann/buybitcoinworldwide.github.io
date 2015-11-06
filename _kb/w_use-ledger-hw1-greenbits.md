@@ -9,8 +9,8 @@ desc: Learn how to pair a Ledger HW.1 with GreenBits for Android for secure mult
 lang: en
 categories: 
 - kb
-- wallets
 - usinghws
+weight: 1
 ---
 {:refdef: .note}
 This article details how to use a previously initialized Ledger HW.1 with [GreenBits](/wallets/greenbits/). Your HW.1 must be setup before use with GreenBits. Note that you won't be able to use your accounts from the Ledger Chrome wallet. GreenBits is a multisignature wallet and can't use the same addresses that are used in the Ledger Chrome app. With GreenBits and the Ledger HW.1, the HW.1 acts as more of a login device that signs transactions. Again, accounts from the Ledger Chrome wallet cannot be used with GreenBits. 

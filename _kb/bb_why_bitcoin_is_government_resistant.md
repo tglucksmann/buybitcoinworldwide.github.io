@@ -9,9 +9,8 @@ desc: No government, fearful of the challenge to its money-creation monopoly, co
 faq: govresistance
 categories: 
 - kb
-- buying
-- general
-- pop
+- traditionalf
+weight: 8
 ---
 The documentary *[Downloaded](http://www.imdb.com/title/tt2033981/){:rel="nofollow"}* tells of the rise and fall of Napster. This early [noughties](https://en.wikipedia.org/wiki/2000s_%28decade%29){:rel="nofollow"} app enabled millions of worldwide users to share their files. The network failed when its central hub, the Napster company, was defeated in a legal dispute over copyright infringement. The lesson was clear; centralised networks are vulnerable to lawsuits. Users quickly switched to [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent){:rel="nofollow"}, a decentralised file-sharing network with no central points of failure. Although website gateways to the torrent protocol suffer occasional DDoS or legal attack - the most famous example being The Pirate Bay - the torrent network retains an estimated quarter billion users nearly 15 years after its invention. 
 

@@ -1,0 +1,18 @@
+---
+layout: kbsection
+permalink: "/kb/beginners/"
+title: Buying Bitcoin
+lang: en
+seotitle: Buying Bitcoin - Knowledge Base
+desc:  
+hide_sidebar: true
+img: buyingbtc.png
+summary: This section provides answers 
+pagetype: kbsection 
+---
+{% assign pages = site.kb | sort:"weight"  %}
+{% for album in pages reversed %}
+{% if album.categories contains "buying" %}
+{% include kb-category.html %}
+{% endif %}
+{% endfor %}

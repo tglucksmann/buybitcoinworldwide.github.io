@@ -7,9 +7,9 @@ description: How to resore a Ledger HW.1 recovery seed with Mycelium. Quickly ga
 desc: How to resore a Ledger HW.1 recovery seed with Mycelium. Quickly gain access to funds if a Nano is lost, stolen, or damaged.
 categories: 
 - kb
-- wallets
 - restore
 lang: en
+weight: 2
 ---
 If your Ledger HW.1 has been lost or stolen, your funds can still be accessed by importing the recovery seed into [Mycelium](/wallets/mycelium/) for Android.
 

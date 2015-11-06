@@ -1,0 +1,18 @@
+---
+layout: kbsection
+permalink: "/kb/category/privacy/"
+title: Privacy
+lang: en
+seotitle: Bitcoin Privacy - Knowledge Base
+desc:  
+hide_sidebar: true
+img: buyingbtc.png
+summary: This section provides answers 
+pagetype: kbsection 
+---
+{% assign pages = site.kb | sort:"weight"  %}
+{% for album in pages reversed %}
+{% if album.categories contains "privacy" %}
+{% include kb-category.html %}
+{% endif %}
+{% endfor %}

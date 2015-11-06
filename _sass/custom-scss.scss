@@ -570,10 +570,121 @@ h3 {
 
 .knowledge-base a {
     color: #536066;
-    display: inline-table;
     font-size: 15px;
     font-weight: 400;
-    width: 90%;
+    margin-bottom: 25px;
+}
+
+.knowledge-base a img {
+	border-radius: 6px;
+    float: left;
+    margin-right: 15px;
+    width: 4.25em;
+}
+
+.kb-section-title {
+    font-weight: 600;
+    margin-top: 6px;
+}
+
+.gsc-search-box .gsc-input {
+    border: medium none !important;
+}
+
+td.gsc-search-button {
+    border: medium none !important;
+    padding: 0 !important;
+    width: 0 !important;
+}
+
+input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus {
+    border: 0px !important;
+}
+
+.gsib_b {
+    border: medium none !important;
+}
+
+#gsc-i-id1 {
+    background-image: none !important;
+    border: 1px solid #ccc !important;
+    font-family: proxima;
+    margin: 9px 0 10px !important;
+    padding: 8px !important;
+}
+
+#gsc-i-id1:hover {
+	background-image: none !important;
+	font-family: proxima;
+	border: 1px solid #000 !important;
+}
+
+#gsc-i-id1:focus {
+	background-image: none !important;
+	font-family: proxima;
+	border:	1px solid #2579c6 !important;
+	box-shadow: 0 0 0.2em #2579c6;
+}
+
+.gsc-result .gs-title {
+    height: 1.4em !important;
+    text-decoration: none !important;
+}
+
+.gscb_a {
+    display: none !important;
+}
+
+.cse .gsc-search-button input.gsc-search-button-v2, input.gsc-search-button-v2 {
+    height: 30px !important;
+    padding: 5px 0 5px 32px !important;
+}
+
+.gsc-search-box-tools .gsc-search-box .gsc-input {
+    padding: 0 !important;
+}
+
+input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+    background-color: white !important;
+    background-image: url("/img/kbindex/search.png") !important;
+    background-repeat: no-repeat;
+    background-size: 25px auto;
+    border-color: white !important;
+    margin-left: -51px !important;
+    margin-top: 18px !important;
+    width: 38px !important;
+}
+
+.gsib_b {
+	padding: 0 !important; 
+	line-height: 0 !important;
+}
+
+#gs_id50 {
+	border: none !important;
+}
+
+#gs_tti50 {
+    border: medium none !important;
+    padding: 0 !important;
+    vertical-align: middle !important;
+}
+
+.gsc-above-wrapper-area, .gsc-resultsHeader, .gcsc-branding {
+    display: none !important;
+}
+
+.gsc-table-result, .gsc-table-cell-thumbnail, .gsc-table-cell-snippet-close, .gs-promotion-image-cell {
+	border: 0 !important;
+}
+
+.gsc-control-cse-en {
+	margin-bottom: 45px;
+}
+
+.cse .gsc-search-button input.gsc-search-button-v2, input.gsc-search-button-v2 {
+    height: 39px;
+    width: 80px;
 }
 
 .knowledge-base ul {
@@ -640,6 +751,62 @@ h3 {
 	margin-top: -63px;
 }
 
+.kb-sidebar-cats img {
+    float: left;
+    height: auto;
+    margin-right: 9px;
+    margin-top: 2px;
+    width: 35px;
+}
+
+.kb-sidebar-cats .kb-section-title {
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.kb-sidebar-cats {
+    float: left;
+    padding: 12px 0 0;
+    width: 100%;
+}
+
+.kb-section .post-title-main {
+    margin: 0 0 15px;
+    text-align: left;
+}
+
+.kb-section-view {
+	font-weight: 300;
+}
+
+.kb-category-list {
+    border-bottom: 1px solid #ccc;
+    color: #555;
+    font-size: 17px;
+    list-style: outside none none;
+    padding: 10px 0;
+    font-weight: 400;
+}
+
+.kb-category-list a {
+    color: #004f9c;
+    display: inline-block;
+    width: 90%;
+}
+
+.kb-category-list .fa {
+    float: left;
+    margin-right: 12px;
+    margin-top: 5px;
+}
+
+.kb-section-header {
+	float: left;
+	height: 90px;
+	width: auto;
+	margin-right: 15px;
+}
+
 .contact input {
     display: block;
 }
@@ -670,10 +837,20 @@ h3 {
 	padding: 10px;
 	height: 120px;
 }
+
+@media (max-width: 750px) { 
+
+.kb-section-sidebar {
+	margin-top: 35px !important;
+}
+
+}
+
 @media (max-width: 600px) { 
 	.contact input {
 	width: 100%;
 }
+
 }
 
 .pmethods-index a {
@@ -960,7 +1137,7 @@ iframe {
 blockquote {
     border-left: 4px solid #eee;
     font-size: 17.5px;
-    margin: 0 0 28px;
+    margin: 20px 0 28px;
     padding: 0 28px;
 }
 

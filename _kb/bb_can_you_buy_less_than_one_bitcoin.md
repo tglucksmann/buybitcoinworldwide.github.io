@@ -8,9 +8,9 @@ title: "Can you Buy Less than One Bitcoin?"
 desc: Yes, it is possible to buy less than one bitcoin. Most exchanges and brokers let you buy a minimum of 0.01 bitcoin (a few dollars worth). 
 faq: lessthanone
 categories: 
-- kb
 - buying
 - faq
+weight: 6
 ---
 Yes, it is possible to buy less than one bitcoin. 
 

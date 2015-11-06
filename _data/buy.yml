@@ -1861,8 +1861,15 @@
    url: http://buybitcoinww.co/CoinMama_Bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
    po: ccww, cc
-   desc: Bitcoin broker. Buy bitcoin with a credit card. ~10% fee on each purchase. 
+   desc: Bitcoin broker. Buy bitcoin with a credit card instantly.  
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mx, ar, br, bo, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, ru, uk, au, il, ae 
+
+ - name: Unichange.me
+   desc: Buy bitcoin with OKPay, Perfect Money, Litecoin, and more.  
+   url: http://buybitcoinww.co/unichangeme
+   icon: https://www.buybitcoinworldwide.com/img/buy/unichange.png
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch
+   po: okpay, perfectmoney
       
  - name: CryptoPay
    desc: Bitcoin broker. Buy bitcoin with SEPA or bank transfers in the UK. 

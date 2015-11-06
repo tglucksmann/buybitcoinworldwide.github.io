@@ -8,9 +8,8 @@ title: "Correct Use of Bitcoin, bitcoin, and BTC"
 desc: Bitcoin is written many different ways. What does each mean? It's not hard, but let's break it down.
 faq: bitcoinbtc
 categories: 
-- kb
-- buying
-- faq
+- general
+weight: 3
 ---
 Bitcoin is written many different ways. What does each mean? It's not hard, but let's break it down.
 

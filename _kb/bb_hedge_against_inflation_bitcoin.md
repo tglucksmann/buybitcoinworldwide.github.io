@@ -8,10 +8,8 @@ title: "Hedge Against Inflation with Bitcoin"
 desc: Use Bitcoin now to protect yourself from inflation and to escape failed government economic policy.
 faq: inflationhedge
 categories: 
-- kb
-- buying
-- general
-- pop
+- fcrisis
+weight: 7
 ---
 Governments have abused their power to issue new money. Each newly printed unit of government fiat currency gets its value by taking a small amount of value from each unit of already issued currency. Governments are able to spend the newly issued currency before the effects of inflation trickle down into society. Inflation is a hidden tax on all citizens.
 

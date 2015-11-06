@@ -8,9 +8,9 @@ date: July 5, 2015
 desc: How to import a TREZOR recovery seed into Mycelium and quickly gain access to funds if a TREZOR is lost, stolen, or damaged.
 categories: 
 - kb
-- wallets
 - restore
 lang: en
+weight: 9
 ---
 If your [TREZOR](/wallets/trezor/) has been lost or stolen, your funds can still be accessed by importing the recovery seed and passphrase (if used) into [Mycelium](/wallets/mycelium/) for Android.
 

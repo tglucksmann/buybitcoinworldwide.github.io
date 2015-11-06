@@ -7,9 +7,9 @@ description: How to resore a Ledger Nano recovery seed with Mycelium. Quickly ga
 desc: How to resore a Ledger Nano recovery seed with Mycelium. Quickly gain access to funds if a Nano is lost, stolen, or damaged.
 categories: 
 - kb
-- wallets
 - restore
 lang: en
+weight: 9
 ---
 If your [Ledger Nano](/wallets/ledger-nano/) has been lost or stolen, your funds can still be accessed by importing the recovery seed into [Mycelium](/wallets/mycelium/) for Android.
 

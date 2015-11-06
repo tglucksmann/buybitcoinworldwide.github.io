@@ -10,6 +10,7 @@ faq: whydopeoplebuy
 categories: 
 - kb
 - mining
+weight: 2
 ---
 Bitcoin mining tends to gravitate towards countries with cheap electricity. As Bitcoin mining is somewhat centralized, 10-15 mining companies have claimed the vast majority of network hash power. With many of these companies in the same country, only a number of countries mine and export a significant amount of bitcoins. 
 

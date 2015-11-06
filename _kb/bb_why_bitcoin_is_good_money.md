@@ -9,9 +9,8 @@ desc: Bitcoin is money, but is it good money? With many of the best features of 
 faq: value
 categories: 
 - kb
-- buying
-- gs
-- pop
+- general
+weight: 8
 ---
 Before addressing Bitcoin’s value proposition, we must first establish why any form of money has value. Simply put, money is a tool for trade. Without this tool, the only form of trade possible is barter. This is a severely limited form of exchange however. For example, let’s consider a blacksmith who wants bread for breakfast. He could produce a spatula to exchange with the baker but problems arise. If it costs the baker only a little flour, some firewood and a few minutes of kneading to produce a loaf, whereas crafting a spatula costs the blacksmith in rare steel and an hour of hard labor, then clearly the blacksmith would demand a great many loaves in exchange. Yet, the blacksmith wouldn’t be able to consume so much bread before it went stale. And what if the baker already had a spatula? These obvious problems and limitations are only the tip of the iceberg when it comes to the deficiencies of barter. Money has value precisely because it solves all these trade problems. 
 

@@ -6,6 +6,7 @@ permalink: "/blog/biggest-bitcoin-mining-pools/"
 seotitle: "The 10 Biggest Bitcoin Mining Pools and Companies"
 title: "The 10 Biggest Bitcoin Mining Pools and Companies"
 desc: F2Pool, AntPool, and Bitfury currently lead the highly competitive Bitcoin mining industry. 
+summary: F2Pool, AntPool, and Bitfury currently lead the highly competitive Bitcoin mining industry. 
 categories: 
 - mining
 ---

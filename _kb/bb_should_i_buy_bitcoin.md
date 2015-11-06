@@ -10,7 +10,8 @@ faq: shouldibuy
 categories: 
 - kb
 - buying
-- buyingbitcoin
+- faq
+weight: 3
 ---
 
 Most people ask the same question when first hearing about Bitcoin: “should I buy bitcoin?”

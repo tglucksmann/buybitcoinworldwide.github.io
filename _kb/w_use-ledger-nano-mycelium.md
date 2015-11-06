@@ -9,8 +9,8 @@ desc: Learn how to pair a Ledger Nano with Mycelium for Android for secure payme
 lang: en
 categories: 
 - kb
-- wallets
 - usinghws
+weight: 8
 ---
 {:refdef: .note}
 This article details how to use a previously initialized [Ledger Nano](/wallets/ledger-nano/) with Mycelium. Your Nano must be setup before use with Mycelium.

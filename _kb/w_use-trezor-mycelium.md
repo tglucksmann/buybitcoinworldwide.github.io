@@ -10,7 +10,7 @@ lang: en
 categories: 
 - kb
 - usinghws
-- wallets
+weight: 9
 ---
 {:refdef: .note}
 This article details how to use a previously initialized [TREZOR](/wallets/trezor/) with Mycelium. Your TREZOR must be setup before use with Mycelium.

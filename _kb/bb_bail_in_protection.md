@@ -7,10 +7,8 @@ seotitle: "Bail-In Protection with Bitcoin"
 title: "Bail-In Protection with Bitcoin"
 desc: Bitcoin, properly managed, is not subject to any of the risks that bail-ins present.
 categories: 
-- kb
-- buying
-- general
-- pop
+- fcrisis
+weight: 7
 ---
 The old expression “money in the bank,” signifying some reliable outcome, requires a modern update. When they were [bailed out](https://en.wikipedia.org/wiki/Troubled_Asset_Relief_Program) at taxpayer expense and when billions of Euros were [seized](http://www.telegraph.co.uk/finance/financialcrisis/10024209/Bank-of-Cyprus-executes-depositor-bail-in.html) from Cypriot savers, banks lost their reputation for reliability. Nowadays, the more apt expression would be “money in the blockchain.” In Bitcoin, your savings can’t be seized (if you keep your private key a secret) and your wallet software won’t bankrupt itself betting on property bubbles. Read on for an in-depth risk comparison between bank accounts and Bitcoin wallets.
 

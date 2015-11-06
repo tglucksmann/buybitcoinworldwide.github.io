@@ -1,0 +1,18 @@
+---
+layout: kbsection
+permalink: "/kb/category/using-hardware-wallets/"
+title: Using Hardware Wallets
+lang: en
+seotitle: Using Bitcoin Hardware Wallets
+desc:  
+hide_sidebar: true
+img: hardwarewallets.png
+summary: This section provides answers 
+pagetype: kbsection 
+---
+{% assign pages = site.kb | sort:"weight"  %}
+{% for album in pages reversed %}
+{% if album.categories contains "usinghws" %}
+{% include kb-category.html %}
+{% endif %}
+{% endfor %}

@@ -1094,7 +1094,15 @@
     methods: "ccww, cc",
     hide: "",
     url: "http://buybitcoinww.co/CoinMama_Bitcoin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/CoinMama_Bitcoin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinmama.png\" alt=\"CoinMama\">CoinMama</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/CoinMama_Bitcoin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Bitcoin broker. Buy bitcoin with a credit card. ~10% fee on each purchase.</p>\n		<a href=\"http://buybitcoinww.co/CoinMama_Bitcoin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/CoinMama_Bitcoin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinmama.png\" alt=\"CoinMama\">CoinMama</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/CoinMama_Bitcoin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Bitcoin broker. Buy bitcoin with a credit card instantly.</p>\n		<a href=\"http://buybitcoinww.co/CoinMama_Bitcoin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch",
+    methods: "okpay, perfectmoney",
+    hide: "",
+    url: "http://buybitcoinww.co/unichangeme",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/unichangeme\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/unichange.png\" alt=\"Unichange.me\">Unichange.me</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/unichangeme\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy bitcoin with OKPay, Perfect Money, Litecoin, and more.</p>\n		<a href=\"http://buybitcoinww.co/unichangeme\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({

@@ -9,9 +9,8 @@ desc: Governments fear Bitcoin because they stand to lose a lot of power if thei
 faq: govsfearbitcoin
 categories: 
 - kb
-- buying
-- general
-- pop
+- traditionalf
+weight: 6
 ---
 Governments currently have a monopoly on money creation. Policy makers are free to issue new money if they decide to do so. Issuing money is a powerful tool and can be used as a weapon. Governments would lose a lot of power if their populations shifted away from national fiat currencies.
 

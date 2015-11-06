@@ -1,0 +1,14 @@
+---
+layout: default
+hide_sidebar: true
+---
+<div class="row kb-section">
+	<div class="content-with-sidebar col-md-9">
+	<!-- <img class="kb-section-header" src="/img/kbindex/{{ page.img }}"> -->
+    <h1 class="post-title-main"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+	{{ content }}
+	</div>
+	<div class="sidebar-add col-md-3">
+	{% include kbssidebar.html %}
+	</div>
+</div>

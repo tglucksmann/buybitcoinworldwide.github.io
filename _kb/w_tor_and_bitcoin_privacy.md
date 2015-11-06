@@ -9,8 +9,8 @@ desc: Tor helps hide your location and IP address, but still presents problems w
 faq: tor
 categories: 
 - kb
-- wallets
 - privacy
+weight: 7
 ---
 Bitcoin wallets need to both transmit and query data from the blockchain. Because Bitcoin is a peer-to-peer network, your IP address is often exposed in the process of sending or requesting data when using a [Bitcoin wallet](/wallets/).
 

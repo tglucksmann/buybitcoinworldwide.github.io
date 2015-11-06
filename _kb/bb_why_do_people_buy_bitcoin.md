@@ -9,8 +9,8 @@ desc: People buy bitcoin for a number of different reasons including investment,
 faq: whydopeoplebuy
 categories: 
 - kb
-- buying
-- buyingbitcoin
+- faq
+weight: 4
 ---
 People buy bitcoin for a number of different reasons. Bitcoin is global, borderless money that has given the world more financial freedom. 
 

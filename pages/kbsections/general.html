@@ -1,0 +1,18 @@
+---
+layout: kbsection
+permalink: "/kb/category/general/"
+title: General
+lang: en
+seotitle: General - Knowledge Base
+desc:  
+hide_sidebar: true
+img: general.png
+summary: This section provides answers 
+pagetype: kbsection 
+---
+{% assign pages = site.kb | sort:"weight"  %}
+{% for album in pages reversed %}
+{% if album.categories contains "general" %}
+{% include kb-category.html %}
+{% endif %}
+{% endfor %}

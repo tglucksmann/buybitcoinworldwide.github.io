@@ -9,94 +9,27 @@ seotitle: Knowledge Base - Learn about Buying Bitcoin and Wallets
 desc: Learn about Bitcoin, buying bitcoin, and Bitcoin wallets in our knowledge base. We answer all of your questions and make Bitcoin easy to understand. 
 ---
 <div class="post-content knowledge-base">
-<div class="col-md-4 col-sm-6 col-xs-12">
-<h3>Getting Started</h3>
-<ul>
-{% for album in site.kb %}
-{% if album.categories contains "gs" %}
-<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
-<h3>Buying Bitcoin</h3>
-<ul>
-{% for album in site.kb %}
-{% if album.categories contains "buyingbitcoin" %}
-<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
-</div>
-<div class="col-md-4 col-sm-6 col-xs-12">
-<h3>FAQ</h3>
-<ul>
-{% for album in site.kb %}
-{% if album.categories contains "faq" and album.categories contains "buying" %}
-<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
-</div>
-<div class="col-md-4 col-sm-6 col-xs-12">
-<h3>Mining</h3>
-<ul>
-{% for album in site.kb %}
-{% if album.categories contains "mining" %}
-<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
-<h3>General</h3>
-<ul>
-{% for album in site.kb %}
-{% if album.categories contains "general" %}
-<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
-</div>
+<script>
+  (function() {
+    var cx = '001267627652975919706:0aaggf8koye';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
 
-<div class="col-xs-12">
-<hr>
-<h2>Wallets & Storage</h2>
-</div>
-<div class="col-md-4 col-sm-6 col-xs-12">
-<h3>General</h3>
-<ul>
-{% for album in site.kb %}
-{% if album.categories contains "faq" and album.categories contains "wallets" %}
-<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
-<h3>Privacy</h3>
-<ul>
-{% for album in site.kb %}
-{% if album.categories contains "privacy" and album.categories contains "wallets" %}
-<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
-</div>
-<div class="col-md-4 col-sm-6 col-xs-12">
-<h3>Restoring Backups</h3>
-<ul>
-{% for album in site.kb %}
-{% if album.categories contains "restore" %}
-<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
-</div>
-<div class="col-md-4 col-sm-6 col-xs-12">
-<h3>Using Hardware Wallets</h3>
-<ul>
-{% for album in site.kb %}
-{% if album.categories contains "usinghws" %}
-<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
-{% endif %}{% endfor %}
-</ul>
-</div>
+{% for kbsection in site.data.kbsections %}
+	<a class="col-md-4 col-sm-6 col-xs-12" href="{{ kbsection.url }}">
+	<img src="/img/kbindex/{{ kbsection.icon }}">
+	<div class="kb-section-title">{{ kbsection.kb }}</div>
+	<div class="kb-section-view">View category &#155;</div>
+	</a>	
+{% endfor %}	
 
 </div>
    

@@ -8,9 +8,9 @@ title: "How to Avoid Bitcoin Scams"
 desc: Learn how to protect yourself and avoid Bitcoin scams. A little common sense and knowledge will go a long way.
 faq: scams
 categories: 
-- kb
-- buying
+- beginners
 - general
+weight: 7
 ---
 There’s an important difference between Bitcoin transactions and other means of money transmission, such as credit cards, bank transfers or PayPal - Bitcoin payments are irreversible. If you’re cheated, there’s no central authority to refund or reverse your payment. It’s also highly unlikely that authorities will be able to assist, as it’s extremely difficult to establish ownership of a Bitcoin address. You bear full responsibility for managing your bitcoins. Fortunately, a little common sense and knowledge will go a long way to avoiding scams.
 
