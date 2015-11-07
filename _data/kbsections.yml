@@ -23,6 +23,11 @@
    url: /kb/category/wallets-storage/    
    short: walletsstorage
 
+ - kb: Economics
+   icon: economics.png
+   url: /kb/category/economics/  
+   short: economics
+
  - kb: Bitcoin in Financial Crisis
    icon: financialcrisis.png
    url: /kb/category/bitcoin-in-financial-crisis/  

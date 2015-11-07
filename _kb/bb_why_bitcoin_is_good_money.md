@@ -9,6 +9,7 @@ desc: Bitcoin is money, but is it good money? With many of the best features of 
 faq: value
 categories: 
 - kb
+- economics
 - general
 weight: 8
 ---

@@ -42,9 +42,9 @@
   });
 
   window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "ccww, cc, neosurf",
-    hide: "",
+    countries: "fr",
+    methods: "cc",
+    hide: "true",
     url: "http://buybitcoinww.co/coinhouse",
     html: "      \n\n\n"
   });
@@ -1038,6 +1038,14 @@
     methods: "pp",
     hide: "",
     url: "http://buybitcoinww.co/bitcoin_virwox",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
+    methods: "",
+    hide: "",
+    url: "http://buybitcoinww.co/coinhouse",
     html: "      \n\n\n"
   });
 

@@ -1,18 +1,12 @@
 ---
 layout: kbsection
 permalink: "/kb/beginners/"
-title: Buying Bitcoin
+title: Beginner's Guide to Bitcoin
 lang: en
-seotitle: Buying Bitcoin - Knowledge Base
-desc:  
+seotitle: A Beginner's Guide to Bitcoin
+desc: A beginner's guide to Bitcoin that answers the most frequent questions from new users.
 hide_sidebar: true
 img: buyingbtc.png
-summary: This section provides answers 
+summary: A beginner's guide to Bitcoin that answers the most frequent questions from new users. 
 pagetype: kbsection 
 ---
-{% assign pages = site.kb | sort:"weight"  %}
-{% for album in pages reversed %}
-{% if album.categories contains "buying" %}
-{% include kb-category.html %}
-{% endif %}
-{% endfor %}

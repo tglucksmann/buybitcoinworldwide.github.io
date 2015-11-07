@@ -601,6 +601,10 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus {
     border: 0px !important;
 }
 
+input.gsc-input {
+    height: 45px !important;
+}
+
 .gsib_b {
     border: medium none !important;
 }
@@ -1053,9 +1057,10 @@ iframe {
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 14px;
+    font-weight: 400;
     margin-bottom: 20px;
-    padding: 6px 15px 7px;
     margin-top: -30px;
+    padding: 8px 15px 7px;
 }
 
 .small-large-break {	

@@ -10,6 +10,7 @@ faq: isbitcoinmoney
 categories: 
 - kb
 - faq
+- economics
 weight: 8
 ---
 Bitcoin has become a rather controversial topic for those interested in economics and finance. Some view it as the best form of money that has ever existed, while others contend that bitcoin could never be considered as good as cash or gold. It’s important to look at the classical definition of money before coming to a decision on this matter, but it should also be remembered that the definition of money can also evolve over time as new technologies emerge.

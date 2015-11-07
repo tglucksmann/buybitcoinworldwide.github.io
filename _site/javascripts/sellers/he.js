@@ -42,9 +42,9 @@
   });
 
   window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "ccww, cc, neosurf",
-    hide: "",
+    countries: "fr",
+    methods: "cc",
+    hide: "true",
     url: "http://buybitcoinww.co/coinhouse",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/coinhouse\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinhouse.png\" alt=\"Coinhouse\"></a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/coinhouse\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"http://buybitcoinww.co/coinhouse\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
   });
@@ -1039,6 +1039,14 @@
     hide: "",
     url: "http://buybitcoinww.co/bitcoin_virwox",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/virwox.png\" alt=\"VirWoX\"></a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
+    methods: "",
+    hide: "",
+    url: "http://buybitcoinww.co/coinhouse",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/coinhouse\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinhouse.png\" alt=\"Coinhouse\"></a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/coinhouse\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"http://buybitcoinww.co/coinhouse\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
