@@ -2,7 +2,7 @@
 layout: kb
 lang: en
 author: jordantuwiner
-permalink: "/kb/buy-less-than-one-bitcoin/"
+permalink: "/kb/bitcoin-btc/"
 seotitle: "Correct Use of Bitcoin, bitcoin, and BTC"
 title: "Correct Use of Bitcoin, bitcoin, and BTC"
 desc: Bitcoin is written many different ways. What does each mean? It's not hard, but let's break it down.

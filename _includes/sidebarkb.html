@@ -1,15 +1,12 @@
-<h3>Popular KB Articles</h3>
-
-  <div class="pmethods-sidebar">
-	<ul>
-	{% for album in site.kb %}
-	{% if album.categories contains "pop" %}
-	<li><i class="fa fa-file-o"></i> <a href="{{ album.url | prepend: site.baseurl }}">{{ album.title }}</a></li>
-	{% endif %}
-	{% endfor %}
-	</ul>
-
-  </div>
+<div class="kb-section-sidebar">
+<h3>Categories</h3>
+{% for kbsection in site.data.kbsections %}
+	<a class="kb-sidebar-cats" href="{{ kbsection.url }}">
+	<img src="/img/kbindex/{{ kbsection.icon }}">
+	<div class="kb-section-title">{{ kbsection.kb }}</div>
+	</a>	
+{% endfor %}
+</div>
 
 <h3 class="not-first">Secure your Bitcoins!</h3>
 	<div class="pmethods-sidebar-1">

@@ -691,6 +691,12 @@ input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:
     width: 80px;
 }
 
+.country-ad {
+	width: 100%;
+	float: left;
+	padding: 10px 0;
+}
+
 .knowledge-base ul {
     list-style: outside none none;
     padding-left: 1px;
@@ -842,12 +848,16 @@ input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:
 	height: 120px;
 }
 
-@media (max-width: 750px) { 
+@media (max-width: 800px) { 
 
 .kb-section-sidebar {
 	margin-top: 35px !important;
 }
 
+}
+
+.kb-section-sidebar {
+	float: left;
 }
 
 @media (max-width: 600px) { 
@@ -1012,6 +1022,7 @@ iframe {
     font-weight: 600;
     margin-top: 0;
     margin-bottom: 15px;
+    float: left;
 }
 
 .sidebar-add .not-first {
