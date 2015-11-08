@@ -848,7 +848,7 @@ input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:
 	height: 120px;
 }
 
-@media (max-width: 800px) { 
+@media (max-width: 860px) { 
 
 .kb-section-sidebar {
 	margin-top: 35px !important;
@@ -971,7 +971,7 @@ input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:
     text-align: center;
 }
 
-.shouldibuy img, .lessthanone img {
+.shouldibuy .content-with-sidebar img, .lessthanone .content-with-sidebar img {
 float: right;
 width: 200px;
 height: auto;

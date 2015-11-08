@@ -6,7 +6,7 @@ permalink: "/kb/should-i-buy-bitcoin/"
 seotitle: "Should I Buy Bitcoin?"
 title: "Should I Buy Bitcoin?"
 desc: After hearing about Bitcoin for the first time, the most common question people ask is - should I buy bitcoin?
-faq: shouldibuybtc
+faq: shouldibuy
 categories: 
 - kb
 - buying
@@ -18,6 +18,7 @@ Most people ask the same question when first hearing about Bitcoin: “should I 
 
 You shouldn’t buy bitcoin without completely understanding the risks or how it works. Bitcoin is new and complex and it can take months to understand just the basics. 
 
+![should i buy bitcoin](https://www.buybitcoinworldwide.com/img/icons/bitcoins.png) 
 
 People buy bitcoin for a number of reasons. If you see the value in a specific use case, then you may have a reason to buy some bitcoin.
 

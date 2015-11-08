@@ -12,7 +12,7 @@ categories:
 - wallets
 weight: 10
 ---
-A [Bitcoin wallet](/kb/what-is-a-bitcoin-wallet/) is the first step to using Bitcoin. Without a wallet, you can’t store, spend, or receive bitcoins. Bitcoin wallets contain [private keys](/kb/what-is-a-bitcoin-private-key/); secret codes that allow you to spend bitcoins. In reality, it’s not bitcoins that need to be stored, but the private keys that give you access to them.
+A [Bitcoin wallet](/kb/what-is-a-bitcoin-wallet/) is the first step to using Bitcoin. Without a wallet, you can’t store, spend, or receive bitcoins. Bitcoin wallets contain [private keys](/kb/what-is-a-bitcoin-private-key/); secret codes that allow you to spend bitcoins. In reality, it’s not bitcoins that need to be stored and secured, but the private keys that give you access to them.
 
 Bitcoins can be stored in a number of different ways. Each wallet has pros and cons, and different wallets are built to solve different problems. Some wallets may be geared towards security, while some wallets more focused on privacy. Your specific needs should determine the wallet you use. There is no “best way to store bitcoins” because each users has unique needs.
 
