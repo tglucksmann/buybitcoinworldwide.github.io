@@ -1220,6 +1220,14 @@
    countries: ph 
    po: cash
    
+##### Cambodia ####################################################   
+
+ - name: Bitcoin Cambodia
+   desc: The first and currently only Bitcoin exchange in Cambodia.
+   url: https://bitcoincambodia.com/
+   icon: https://www.buybitcoinworldwide.com/img/buy/cambodia.png
+   countries: kh
+
 ##### Caribbean ####################################################   
 
  - name: bitt
@@ -1580,7 +1588,7 @@
    desc: BitPesa is a Bitcoin remittance company but also sells Bitcoin in Kenya.  
    url: https://www.bitpesa.co/
    icon: https://www.buybitcoinworldwide.com/img/buy/bitpesa.png
-   countries: ke  
+   countries: ke 
    po: mpesa
    es: yes
    name_es: BitPesa
@@ -1879,7 +1887,7 @@
    desc: Buy bitcoin with OKPay, Perfect Money, Litecoin, and more.  
    url: http://buybitcoinww.co/unichangeme
    icon: https://www.buybitcoinworldwide.com/img/buy/unichange.png
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch 
    po: okpay, perfectmoney
       
  - name: CryptoPay

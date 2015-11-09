@@ -698,6 +698,14 @@
   });
 
   window.sellers.push({
+    countries: "kh",
+    methods: "",
+    hide: "",
+    url: "https://bitcoincambodia.com/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
     countries: "jm, bb, tt",
     methods: "",
     hide: "",

@@ -698,6 +698,14 @@
   });
 
   window.sellers.push({
+    countries: "kh",
+    methods: "",
+    hide: "",
+    url: "https://bitcoincambodia.com/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bitcoincambodia.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cambodia.png\" alt=\"Bitcoin Cambodia\"></a> \n		<a type=\"button\" href=\"https://bitcoincambodia.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"https://bitcoincambodia.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
     countries: "jm, bb, tt",
     methods: "",
     hide: "",
