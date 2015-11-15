@@ -776,7 +776,7 @@ input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:
 
 .kb-sidebar-cats {
     float: left;
-    padding: 12px 0 0;
+    padding: 6px 0;
     width: 100%;
 }
 
@@ -836,6 +836,148 @@ input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:
 	width: 100%;
 }
 
+.beginner-opening {
+    border-bottom: 1px solid #ccc;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-bottom: 15px;
+}
+
+.beginner-opening img {
+    float: left;
+    height: auto;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    width: 100px;
+}
+
+.start-using-bitcoin h3 a {
+	color: #555;
+}
+
+.start-using-bitcoin h3 a:hover {
+	color: #2579c6;
+}
+
+.used-for-title {
+	text-align: center;
+}
+
+.quick-answers img {
+    float: left;
+    height: 79px;
+    margin-top: 19px;
+    position: absolute;
+}
+
+.quick-answers h3 {
+    padding-left: 110px;
+}
+
+.quick-answers, .bitcoin-mining, .used-for, .advantages {
+	margin-top: 60px;
+}
+
+.start-using-bitcoin {
+    margin-bottom: 30px;
+    margin-top: 80px;
+}
+
+.start-using-bitcoin .col-md-offset-1 img {
+    height: auto;
+    width: 158px;
+}
+
+.advantages .col-md-4 {
+    margin: 15px 0 !important;
+}
+
+.quick-answers .col-md-5, .quick-answers .col-md-10 {
+    margin-top: 10px;
+}
+
+.what-is-bitcoin {
+	margin-top: 20px;
+}
+
+
+@media (min-width: 996px) {
+
+.advantages {
+    margin-left: 8.3333% !important;
+    margin-right: 8.3333% !important;
+}
+
+}
+
+@media (max-width: 450px) { 
+
+.quick-answers img {
+	display: none;
+}
+
+.quick-answer, .quick-answers h3 {
+	padding-left: 0 !important;
+}
+
+.beginner-opening img {
+    display: none;
+}
+
+} 
+
+@media (max-width: 996px) { 
+
+.quick-answers .col-md-5, .quick-answers .col-md-10, .start-using-bitcoin .col-md-5 {
+    float: left;
+    margin-top: 5px;
+}
+
+.start-using-bitcoin img {
+    float: left !important;
+    height: 99px !important;
+    width: auto !important;
+    margin-right: 15px;
+    margin-top: 19px;
+    position: absolute !important;
+}
+
+.start-desc, .start-using-bitcoin h3 {
+	padding-left: 120px;
+}
+
+}
+
+.bitcoin-mining img {
+	float: left;
+}
+
+.quick-answer {
+    float: left;
+    padding-left: 110px;
+}
+
+.used-for img {
+	float: left;
+}
+
+.start-using-bitcoin img {
+    float: right;
+    height: auto;
+    width: 175px;
+}
+
+.advantage-desc {
+	padding-left: 50px;
+}
+
+.advantages img {
+	float: left;
+	width: 40px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
 
 .contact input[type="submit"]:hover {
 	background: #fff;

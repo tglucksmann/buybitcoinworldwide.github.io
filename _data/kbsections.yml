@@ -1,7 +1,7 @@
-## - kb: Bitcoin for Beginners
-##   icon: beginners.png
-##   url: /kb/category/beginners/      
-##   short: beginners 
+ - kb: Bitcoin for Beginners
+   icon: beginners.png
+   url: /kb/beginners-guide-to-bitcoin/      
+   short: beginners 
 
  - kb: FAQ
    icon: faq.png

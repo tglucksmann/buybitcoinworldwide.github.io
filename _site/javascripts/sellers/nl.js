@@ -6,7 +6,7 @@
     methods: "sepa, usbt, fast, io, ideal, lowfees, ccww, cc, bt, ach",
     hide: "",
     url: "http://buybitcoinww.co/buycoinbase",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbase.png\" alt=\"Coinbase\">Coinbase</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin met je bankrekening. Simpel. Snel. Gemakkelijk.</p>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbase.png\" alt=\"Coinbase\">Coinbase</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin met je bankrekening. Simpel. Snel. Gemakkelijk.</p>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -14,7 +14,7 @@
     methods: "bt",
     hide: "true",
     url: "http://buybitcoinww.co/fast_coin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/sbex.png\" alt=\"Fastcoin.ch\">Fastcoin.ch</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop met SEPA overschrijving of bankoverschrijving in Zwitserland. Snel en eenvouding.</p>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/sbex.png\" alt=\"Fastcoin.ch\">Fastcoin.ch</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop met SEPA overschrijving of bankoverschrijving in Zwitserland. Snel en eenvouding.</p>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -22,7 +22,7 @@
     methods: "ccus, usbt, fast, lowfees, ccww, bt, cc, ach",
     hide: "",
     url: "http://buybitcoinww.co/buy_circle",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/circle.png\" alt=\"Circle\">Circle</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin met een bankrekening of creditcard. Snel en gemakkelijk.</p>\n		<a href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/circle.png\" alt=\"Circle\">Circle</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin met een bankrekening of creditcard. Snel en gemakkelijk.</p>\n		<a href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -30,7 +30,7 @@
     methods: "usbt, lowfees, bt, ach",
     hide: "",
     url: "http://buybitcoinww.co/go_celery",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/celery.png\" alt=\"Celery\">Celery</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin met een Amerikaanse bankrekening of credit/debit card.</p>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/celery.png\" alt=\"Celery\">Celery</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin met een Amerikaanse bankrekening of credit/debit card.</p>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -38,7 +38,7 @@
     methods: "io, bt",
     hide: "true",
     url: "http://buybitcoinww.co/go_celery",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/celery.png\" alt=\"Celery\">Celery</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin met een Amerikaanse bankrekening of credit/debit card.</p>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/celery.png\" alt=\"Celery\">Celery</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin met een Amerikaanse bankrekening of credit/debit card.</p>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -62,7 +62,7 @@
     methods: "sepa, usbt, lowfees, bt",
     hide: "",
     url: "http://buybitcoinww.co/coinbase_exchange",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png\" alt=\"Coinbase Exchange\">Coinbase Exchange</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin uitwisseling in Amerika. Betaal met SEPA overschrijving of ACH overschrijving.</p>\n		<a href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png\" alt=\"Coinbase Exchange\">Coinbase Exchange</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin uitwisseling in Amerika. Betaal met SEPA overschrijving of ACH overschrijving.</p>\n		<a href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -70,7 +70,7 @@
     methods: "fast, cdus, nobank, cash",
     hide: "",
     url: "http://buybitcoinww.co/buybitquick",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitquick.png\" alt=\"BitQuick\">BitQuick</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin snel met contant geld of SEPA overschrijvingen in de EU. 2% toeslag.</p>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitquick.png\" alt=\"BitQuick\">BitQuick</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin snel met contant geld of SEPA overschrijvingen in de EU. 2% toeslag.</p>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -78,7 +78,7 @@
     methods: "sepa, lowfees",
     hide: "",
     url: "http://buybitcoinww.co/buy_bitstamp",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buy_bitstamp\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/stamp.png\" alt=\"Bitstamp\">Bitstamp</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buy_bitstamp\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin op Bitstamp via SEPA of een overschrijving. Toeslag varieert.</p>\n		<a href=\"http://buybitcoinww.co/buy_bitstamp\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buy_bitstamp\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/stamp.png\" alt=\"Bitstamp\">Bitstamp</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buy_bitstamp\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin op Bitstamp via SEPA of een overschrijving. Toeslag varieert.</p>\n		<a href=\"http://buybitcoinww.co/buy_bitstamp\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -86,7 +86,7 @@
     methods: "sepa, io, lowfees",
     hide: "",
     url: "http://buybitcoinww.co/kraken_bitcoin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/kraken.png\" alt=\"Kraken\">Kraken</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin exchange die SEPA storting, bankoverschrijvingen, SWIFT.</p>\n		<a href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/kraken.png\" alt=\"Kraken\">Kraken</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin exchange die SEPA storting, bankoverschrijvingen, SWIFT.</p>\n		<a href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -94,7 +94,7 @@
     methods: "sepa, cash, lowfees",
     hide: "",
     url: "http://buybitcoinww.co/Bitcoin_de",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitcoinde.png\" alt=\"Bitcoin.de\">Bitcoin.de</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop Bitcoin online van andere gebruikers met SEPA bank overschrijvingen.</p>\n		<a href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitcoinde.png\" alt=\"Bitcoin.de\">Bitcoin.de</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop Bitcoin online van andere gebruikers met SEPA bank overschrijvingen.</p>\n		<a href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -110,7 +110,7 @@
     methods: "swift",
     hide: "",
     url: "https://www.coinsetter.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coinsetter.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinsetter.png\" alt=\"Coinsetter\">Coinsetter</a> \n		<a type=\"button\" href=\"https://www.coinsetter.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin uitwisseling in New York. Stort geld met ACH overschrijving of SWIFT.</p>\n		<a href=\"https://www.coinsetter.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coinsetter.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinsetter.png\" alt=\"Coinsetter\">Coinsetter</a> \n		<a type=\"button\" href=\"https://www.coinsetter.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin uitwisseling in New York. Stort geld met ACH overschrijving of SWIFT.</p>\n		<a href=\"https://www.coinsetter.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -118,14 +118,14 @@
     methods: "sepa, fast, cdus, paypal, nobank, lowfees, pp, cash, wmru, mpesa, neosurf",
     hide: "",
     url: "http://buybitcoinww.co/local_bitcoins",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/localbitcoins.png\" alt=\"Local Bitcoins\">Local Bitcoins</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin van lokale dealers. Online of direct. Discreet en snel. 1% toeslag.</p>\n		<a href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/localbitcoins.png\" alt=\"Local Bitcoins\">Local Bitcoins</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin van lokale dealers. Online of direct. Discreet en snel. 1% toeslag.</p>\n		<a href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
     countries: "at",
     methods: "cdeu, cdat, cash",
     hide: "",
-    url: "https://www.bitcoinbon.at/",
+    url: "http://buybitcoinww.co/bitcoinbon",
     html: "      \n\n\n"
   });
 
@@ -133,7 +133,7 @@
     countries: "at",
     methods: "sofort, sepa, sofort",
     hide: "",
-    url: "https://coinfinity.co/",
+    url: "http://buybitcoinww.co/coinfinity",
     html: "      \n\n\n"
   });
 
@@ -142,7 +142,7 @@
     methods: "sepa, ideal, ccww, cc",
     hide: "",
     url: "http://buybitcoinww.co/Clevercoin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/Clevercoin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/clever.png\" alt=\"Clevercoin\">Clevercoin</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/Clevercoin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop Bitcoin met SEPA overschrijving, credit card, of iDEAL.</p>\n		<a href=\"http://buybitcoinww.co/Clevercoin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/Clevercoin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/clever.png\" alt=\"Clevercoin\">Clevercoin</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/Clevercoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop Bitcoin met SEPA overschrijving, credit card, of iDEAL.</p>\n		<a href=\"http://buybitcoinww.co/Clevercoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -150,7 +150,7 @@
     methods: "bt",
     hide: "",
     url: "https://paymium.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://paymium.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/paymium.png\" alt=\"Paymium\">Paymium</a> \n		<a type=\"button\" href=\"https://paymium.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin uitwisseling. Koop bitcoin via bankoverschrijvingen in Frankrijk.</p>\n		<a href=\"https://paymium.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://paymium.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/paymium.png\" alt=\"Paymium\">Paymium</a> \n		<a type=\"button\" href=\"https://paymium.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin uitwisseling. Koop bitcoin via bankoverschrijvingen in Frankrijk.</p>\n		<a href=\"https://paymium.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -158,7 +158,7 @@
     methods: "sepa, sofort",
     hide: "",
     url: "http://buybitcoinww.co/fast_coin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/sbex.png\" alt=\"Fastcoin.ch\">Fastcoin.ch</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop met SEPA overschrijving of bankoverschrijving in Zwitserland. Snel en eenvouding.</p>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/sbex.png\" alt=\"Fastcoin.ch\">Fastcoin.ch</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop met SEPA overschrijving of bankoverschrijving in Zwitserland. Snel en eenvouding.</p>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -198,7 +198,7 @@
     methods: "sepa, swish, swift, bankgiro",
     hide: "",
     url: "https://safello.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://safello.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/safello.png\" alt=\"Safello\">Safello</a> \n		<a type=\"button\" href=\"https://safello.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop Bitcoin met SEPA, Swish, internationale bankoverschrijving, Bankgiro en meer.</p>\n		<a href=\"https://safello.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://safello.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/safello.png\" alt=\"Safello\">Safello</a> \n		<a type=\"button\" href=\"https://safello.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop Bitcoin met SEPA, Swish, internationale bankoverschrijving, Bankgiro en meer.</p>\n		<a href=\"https://safello.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -374,7 +374,7 @@
     methods: "sepa, swift",
     hide: "",
     url: "https://coinfloor.co.uk/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinfloor.png\" alt=\"Coinfloor\">Coinfloor</a> \n		<a type=\"button\" href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin exchange en dealer. Stort via bankoverschrijving, SEPA en meer.</p>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinfloor.png\" alt=\"Coinfloor\">Coinfloor</a> \n		<a type=\"button\" href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin exchange en dealer. Stort via bankoverschrijving, SEPA en meer.</p>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -998,7 +998,7 @@
     methods: "sepa",
     hide: "",
     url: "http://buybitcoinww.co/buybitquick",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitquick.png\" alt=\"BitQuick\">BitQuick</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin snel met contant geld of SEPA overschrijvingen in de EU. 2% toeslag.</p>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitquick.png\" alt=\"BitQuick\">BitQuick</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin snel met contant geld of SEPA overschrijvingen in de EU. 2% toeslag.</p>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1006,7 +1006,7 @@
     methods: "ccus, lowfees, cc",
     hide: "",
     url: "https://www.changetip.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.changetip.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/changetip.png\" alt=\"Changetip\">Changetip</a> \n		<a type=\"button\" href=\"https://www.changetip.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop kleine hoeveelheden bitcoin met een Visa of Mastercard debit/credit card.</p>\n		<a href=\"https://www.changetip.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.changetip.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/changetip.png\" alt=\"Changetip\">Changetip</a> \n		<a type=\"button\" href=\"https://www.changetip.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop kleine hoeveelheden bitcoin met een Visa of Mastercard debit/credit card.</p>\n		<a href=\"https://www.changetip.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1014,7 +1014,7 @@
     methods: "sepa, ccus, swift, fast, lowfees, ccww, cc, astro",
     hide: "",
     url: "http://buybitcoinww.co/cex_io_bitcoin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cex.png\" alt=\"CEX.io\">CEX.io</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin met creditcard, SEPA/ACH overschrijving, contant geld of AstroPay.</p>\n		<a href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cex.png\" alt=\"CEX.io\">CEX.io</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin met creditcard, SEPA/ACH overschrijving, contant geld of AstroPay.</p>\n		<a href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1030,7 +1030,7 @@
     methods: "usbt, lowfees, bt, ach",
     hide: "",
     url: "https://www.snapcard.io/buy-bitcoin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.snapcard.io/buy-bitcoin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/snapcard.png\" alt=\"Snapcard\">Snapcard</a> \n		<a type=\"button\" href=\"https://www.snapcard.io/buy-bitcoin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin met je bankrekening. Simpel. Snel. Gemakkelijk.</p>\n		<a href=\"https://www.snapcard.io/buy-bitcoin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.snapcard.io/buy-bitcoin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/snapcard.png\" alt=\"Snapcard\">Snapcard</a> \n		<a type=\"button\" href=\"https://www.snapcard.io/buy-bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin met je bankrekening. Simpel. Snel. Gemakkelijk.</p>\n		<a href=\"https://www.snapcard.io/buy-bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1062,7 +1062,7 @@
     methods: "sofort, giro, sepa, ccww, neteller,",
     hide: "",
     url: "https://www.coinimal.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coinimal.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinimal.png\" alt=\"Coinimal\">Coinimal</a> \n		<a type=\"button\" href=\"https://www.coinimal.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop Bitcoin met SOFORT, NETELLER, giropay, eps, SEPA en via een online overschrijving.</p>\n		<a href=\"https://www.coinimal.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coinimal.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinimal.png\" alt=\"Coinimal\">Coinimal</a> \n		<a type=\"button\" href=\"https://www.coinimal.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop Bitcoin met SOFORT, NETELLER, giropay, eps, SEPA en via een online overschrijving.</p>\n		<a href=\"https://www.coinimal.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1070,7 +1070,7 @@
     methods: "sepa, okpay, skrill, swift, sofort, onlinebt",
     hide: "",
     url: "https://cubits.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cubits.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cubits.png\" alt=\"Cubits\">Cubits</a> \n		<a type=\"button\" href=\"https://cubits.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin in diverse landen via SEPA, OKPAY, SOFORT en Skrill.</p>\n		<a href=\"https://cubits.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cubits.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cubits.png\" alt=\"Cubits\">Cubits</a> \n		<a type=\"button\" href=\"https://cubits.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin in diverse landen via SEPA, OKPAY, SOFORT en Skrill.</p>\n		<a href=\"https://cubits.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1094,7 +1094,7 @@
     methods: "sepa",
     hide: "",
     url: "https://www.itbit.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.itbit.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/itbit.png\" alt=\"itBit\">itBit</a> \n		<a type=\"button\" href=\"https://www.itbit.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin uitwisseling in New York. Stort met ACH, SEPA, of internationale overschrijving.</p>\n		<a href=\"https://www.itbit.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.itbit.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/itbit.png\" alt=\"itBit\">itBit</a> \n		<a type=\"button\" href=\"https://www.itbit.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin uitwisseling in New York. Stort met ACH, SEPA, of internationale overschrijving.</p>\n		<a href=\"https://www.itbit.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1114,7 +1114,7 @@
   });
 
   window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch",
+    countries: "ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye",
     methods: "okpay, perfectmoney",
     hide: "",
     url: "http://buybitcoinww.co/unichangeme",
@@ -1126,7 +1126,7 @@
     methods: "sepa",
     hide: "",
     url: "https://cryptopay.me/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cryptopay.png\" alt=\"CryptoPay\">CryptoPay</a> \n		<a type=\"button\" href=\"https://cryptopay.me/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin dealer. Koop bitcoin met SEPA of bankoverschrijvingen in Engeland.</p>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cryptopay.png\" alt=\"CryptoPay\">CryptoPay</a> \n		<a type=\"button\" href=\"https://cryptopay.me/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin dealer. Koop bitcoin met SEPA of bankoverschrijvingen in Engeland.</p>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1134,7 +1134,7 @@
     methods: "bt",
     hide: "true",
     url: "https://cryptopay.me/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cryptopay.png\" alt=\"CryptoPay\">CryptoPay</a> \n		<a type=\"button\" href=\"https://cryptopay.me/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin dealer. Koop bitcoin met SEPA of bankoverschrijvingen in Engeland.</p>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cryptopay.png\" alt=\"CryptoPay\">CryptoPay</a> \n		<a type=\"button\" href=\"https://cryptopay.me/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin dealer. Koop bitcoin met SEPA of bankoverschrijvingen in Engeland.</p>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1142,7 +1142,7 @@
     methods: "sepa, io, sofort, trustpay, giro, ideal",
     hide: "",
     url: "https://anycoindirect.eu/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://anycoindirect.eu/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/anycoin.png\" alt=\"Anycoin Direct\">Anycoin Direct</a> \n		<a type=\"button\" href=\"https://anycoindirect.eu/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin dealer. Koop bitcoin met SEPA, Interac Online en vele andere betaalmethodes.</p>\n		<a href=\"https://anycoindirect.eu/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://anycoindirect.eu/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/anycoin.png\" alt=\"Anycoin Direct\">Anycoin Direct</a> \n		<a type=\"button\" href=\"https://anycoindirect.eu/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin dealer. Koop bitcoin met SEPA, Interac Online en vele andere betaalmethodes.</p>\n		<a href=\"https://anycoindirect.eu/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1150,7 +1150,7 @@
     methods: "lowfees, swift",
     hide: "",
     url: "http://buybitcoinww.co/bitfinex_exchange",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/bitfinex_exchange\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/finex.png\" alt=\"Bitfinex\">Bitfinex</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/bitfinex_exchange\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Stort geld via een internationale overschrijving en koop bitcoin op de exchange.</p>\n		<a href=\"http://buybitcoinww.co/bitfinex_exchange\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/bitfinex_exchange\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/finex.png\" alt=\"Bitfinex\">Bitfinex</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/bitfinex_exchange\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Stort geld via een internationale overschrijving en koop bitcoin op de exchange.</p>\n		<a href=\"http://buybitcoinww.co/bitfinex_exchange\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1158,7 +1158,7 @@
     methods: "swift",
     hide: "",
     url: "https://xapo.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://xapo.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/xapo.png\" alt=\"Xapo\">Xapo</a> \n		<a type=\"button\" href=\"https://xapo.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Wereldwijd Bitcoin platform. Koop bitcoin met euro’s via een internationale overschrijving.</p>\n		<a href=\"https://xapo.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://xapo.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/xapo.png\" alt=\"Xapo\">Xapo</a> \n		<a type=\"button\" href=\"https://xapo.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Wereldwijd Bitcoin platform. Koop bitcoin met euro’s via een internationale overschrijving.</p>\n		<a href=\"https://xapo.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1166,7 +1166,7 @@
     methods: "sepa, lowfees, cc, wmru",
     hide: "",
     url: "https://btc-e.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://btc-e.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/btce.png\" alt=\"BTCe\">BTCe</a> \n		<a type=\"button\" href=\"https://btc-e.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin uitwisseling ondersteunende overschrijvingen, SEPA, credit cards.</p>\n		<a href=\"https://btc-e.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://btc-e.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/btce.png\" alt=\"BTCe\">BTCe</a> \n		<a type=\"button\" href=\"https://btc-e.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin uitwisseling ondersteunende overschrijvingen, SEPA, credit cards.</p>\n		<a href=\"https://btc-e.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1182,7 +1182,7 @@
     methods: "sepa, ideal, sofort, io",
     hide: "",
     url: "https://www.happycoins.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.happycoins.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/happy.png\" alt=\"HappyCoins\">HappyCoins</a> \n		<a type=\"button\" href=\"https://www.happycoins.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin dealer. Koop met SEPA bankoverschrijving, iDEAL en andere betalingsmethodes.</p>\n		<a href=\"https://www.happycoins.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.happycoins.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/happy.png\" alt=\"HappyCoins\">HappyCoins</a> \n		<a type=\"button\" href=\"https://www.happycoins.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Bitcoin dealer. Koop met SEPA bankoverschrijving, iDEAL en andere betalingsmethodes.</p>\n		<a href=\"https://www.happycoins.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1190,7 +1190,7 @@
     methods: "nobank, lowfees",
     hide: "",
     url: "http://buybitcoinww.co/mycelium_local_trader",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/mycelium_local_trader\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/mycelium.png\" alt=\"Mycelium Local Trader\">Mycelium Local Trader</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/mycelium_local_trader\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop van lokale dealers via de Mycelium Bitcoin portomonee.</p>\n		<a href=\"http://buybitcoinww.co/mycelium_local_trader\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/mycelium_local_trader\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/mycelium.png\" alt=\"Mycelium Local Trader\">Mycelium Local Trader</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/mycelium_local_trader\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop van lokale dealers via de Mycelium Bitcoin portomonee.</p>\n		<a href=\"http://buybitcoinww.co/mycelium_local_trader\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1198,7 +1198,7 @@
     methods: "",
     hide: "",
     url: "https://shapeshift.io/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://shapeshift.io/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/shapeshift.png\" alt=\"ShapeShift\">ShapeShift</a> \n		<a type=\"button\" href=\"https://shapeshift.io/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin met Litecoin, Dogecoin, altcoins en andere digitale betaalmiddelen.</p>\n		<a href=\"https://shapeshift.io/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://shapeshift.io/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/shapeshift.png\" alt=\"ShapeShift\">ShapeShift</a> \n		<a type=\"button\" href=\"https://shapeshift.io/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Koop bitcoin met Litecoin, Dogecoin, altcoins en andere digitale betaalmiddelen.</p>\n		<a href=\"https://shapeshift.io/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1206,7 +1206,7 @@
     methods: "paypal, pp",
     hide: "",
     url: "https://bitcoin-otc.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bitcoin-otc.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitcoinotc.png\" alt=\"bitcoin-otc\">bitcoin-otc</a> \n		<a type=\"button\" href=\"https://bitcoin-otc.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Over-de-toonbank marktplaats voor P2P uitwisseling van bitcoin.</p>\n		<a href=\"https://bitcoin-otc.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bitcoin-otc.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitcoinotc.png\" alt=\"bitcoin-otc\">bitcoin-otc</a> \n		<a type=\"button\" href=\"https://bitcoin-otc.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n		</h4>\n		<p>Over-de-toonbank marktplaats voor P2P uitwisseling van bitcoin.</p>\n		<a href=\"https://bitcoin-otc.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Koop Bitcoin</a>\n</div>\n\n\n"
   });
 
 }).call(this);

@@ -6,7 +6,7 @@
     methods: "sepa, usbt, fast, io, ideal, lowfees, ccww, cc, bt, ach",
     hide: "",
     url: "http://buybitcoinww.co/buycoinbase",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbase.png\" alt=\"Coinbase\">Coinbase</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.</p>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbase.png\" alt=\"Coinbase\">Coinbase</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.</p>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -14,7 +14,7 @@
     methods: "bt",
     hide: "true",
     url: "http://buybitcoinww.co/fast_coin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/sbex.png\" alt=\"Fastcoin.ch\">Fastcoin.ch</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно.</p>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/sbex.png\" alt=\"Fastcoin.ch\">Fastcoin.ch</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно.</p>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -22,7 +22,7 @@
     methods: "ccus, usbt, fast, lowfees, ccww, bt, cc, ach",
     hide: "",
     url: "http://buybitcoinww.co/buy_circle",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/circle.png\" alt=\"Circle\">Circle</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.</p>\n		<a href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/circle.png\" alt=\"Circle\">Circle</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.</p>\n		<a href=\"http://buybitcoinww.co/buy_circle\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -30,7 +30,7 @@
     methods: "usbt, lowfees, bt, ach",
     hide: "",
     url: "http://buybitcoinww.co/go_celery",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/celery.png\" alt=\"Celery\">Celery</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.</p>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/celery.png\" alt=\"Celery\">Celery</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.</p>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -38,7 +38,7 @@
     methods: "io, bt",
     hide: "true",
     url: "http://buybitcoinww.co/go_celery",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/celery.png\" alt=\"Celery\">Celery</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.</p>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/celery.png\" alt=\"Celery\">Celery</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.</p>\n		<a href=\"http://buybitcoinww.co/go_celery\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -62,7 +62,7 @@
     methods: "sepa, usbt, lowfees, bt",
     hide: "",
     url: "http://buybitcoinww.co/coinbase_exchange",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png\" alt=\"Coinbase Exchange\">Coinbase Exchange</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Базирана в САЩ биткойн борса. Захранете чрез SEPA превод или ACH банков превод.</p>\n		<a href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png\" alt=\"Coinbase Exchange\">Coinbase Exchange</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Базирана в САЩ биткойн борса. Захранете чрез SEPA превод или ACH банков превод.</p>\n		<a href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -70,7 +70,7 @@
     methods: "fast, cdus, nobank, cash",
     hide: "",
     url: "http://buybitcoinww.co/buybitquick",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitquick.png\" alt=\"BitQuick\">BitQuick</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн бързо с депозит в брой или SEPA превод в ЕС. 2% такса.</p>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitquick.png\" alt=\"BitQuick\">BitQuick</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн бързо с депозит в брой или SEPA превод в ЕС. 2% такса.</p>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -78,7 +78,7 @@
     methods: "sepa, lowfees",
     hide: "",
     url: "http://buybitcoinww.co/buy_bitstamp",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buy_bitstamp\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/stamp.png\" alt=\"Bitstamp\">Bitstamp</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buy_bitstamp\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от Bitstamp чрез SEPA или банков превод. Таксите варират.</p>\n		<a href=\"http://buybitcoinww.co/buy_bitstamp\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buy_bitstamp\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/stamp.png\" alt=\"Bitstamp\">Bitstamp</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buy_bitstamp\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от Bitstamp чрез SEPA или банков превод. Таксите варират.</p>\n		<a href=\"http://buybitcoinww.co/buy_bitstamp\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -86,7 +86,7 @@
     methods: "sepa, io, lowfees",
     hide: "",
     url: "http://buybitcoinww.co/kraken_bitcoin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/kraken.png\" alt=\"Kraken\">Kraken</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн борса, поддържаща SEPA депозити, банкови преводи, SWIFT, или JPY банков депозит.</p>\n		<a href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/kraken.png\" alt=\"Kraken\">Kraken</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн борса, поддържаща SEPA депозити, банкови преводи, SWIFT, или JPY банков депозит.</p>\n		<a href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -94,7 +94,7 @@
     methods: "sepa, cash, lowfees",
     hide: "",
     url: "http://buybitcoinww.co/Bitcoin_de",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitcoinde.png\" alt=\"Bitcoin.de\">Bitcoin.de</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн онлайн от други потребители чрез банкови преводи SEPA.</p>\n		<a href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitcoinde.png\" alt=\"Bitcoin.de\">Bitcoin.de</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн онлайн от други потребители чрез банкови преводи SEPA.</p>\n		<a href=\"http://buybitcoinww.co/Bitcoin_de\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -110,7 +110,7 @@
     methods: "swift",
     hide: "",
     url: "https://www.coinsetter.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coinsetter.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinsetter.png\" alt=\"Coinsetter\">Coinsetter</a> \n		<a type=\"button\" href=\"https://www.coinsetter.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Базирана в Ню Йорк биткойн борса. Депозирайте пари чрез ACH превод или SWIFT.</p>\n		<a href=\"https://www.coinsetter.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coinsetter.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinsetter.png\" alt=\"Coinsetter\">Coinsetter</a> \n		<a type=\"button\" href=\"https://www.coinsetter.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Базирана в Ню Йорк биткойн борса. Депозирайте пари чрез ACH превод или SWIFT.</p>\n		<a href=\"https://www.coinsetter.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -118,14 +118,14 @@
     methods: "sepa, fast, cdus, paypal, nobank, lowfees, pp, cash, wmru, mpesa, neosurf",
     hide: "",
     url: "http://buybitcoinww.co/local_bitcoins",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/localbitcoins.png\" alt=\"Local Bitcoins\">Local Bitcoins</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от местни дилъри, онлайн или лично. Бързо и анонимно. 1% такса.</p>\n		<a href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/localbitcoins.png\" alt=\"Local Bitcoins\">Local Bitcoins</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от местни дилъри, онлайн или лично. Бързо и анонимно. 1% такса.</p>\n		<a href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
     countries: "at",
     methods: "cdeu, cdat, cash",
     hide: "",
-    url: "https://www.bitcoinbon.at/",
+    url: "http://buybitcoinww.co/bitcoinbon",
     html: "      \n\n\n"
   });
 
@@ -133,7 +133,7 @@
     countries: "at",
     methods: "sofort, sepa, sofort",
     hide: "",
-    url: "https://coinfinity.co/",
+    url: "http://buybitcoinww.co/coinfinity",
     html: "      \n\n\n"
   });
 
@@ -142,7 +142,7 @@
     methods: "sepa, ideal, ccww, cc",
     hide: "",
     url: "http://buybitcoinww.co/Clevercoin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/Clevercoin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/clever.png\" alt=\"Clevercoin\">Clevercoin</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/Clevercoin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн чрез SEPA банков превод, кредитна карта или iDEAL.</p>\n		<a href=\"http://buybitcoinww.co/Clevercoin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/Clevercoin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/clever.png\" alt=\"Clevercoin\">Clevercoin</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/Clevercoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн чрез SEPA банков превод, кредитна карта или iDEAL.</p>\n		<a href=\"http://buybitcoinww.co/Clevercoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -158,7 +158,7 @@
     methods: "sepa, sofort",
     hide: "",
     url: "http://buybitcoinww.co/fast_coin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/sbex.png\" alt=\"Fastcoin.ch\">Fastcoin.ch</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно.</p>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/sbex.png\" alt=\"Fastcoin.ch\">Fastcoin.ch</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно.</p>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -198,7 +198,7 @@
     methods: "sepa, swish, swift, bankgiro",
     hide: "",
     url: "https://safello.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://safello.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/safello.png\" alt=\"Safello\">Safello</a> \n		<a type=\"button\" href=\"https://safello.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн чрез SEPA, Swish, международен банков превод, Bankgiro и много други възможности.</p>\n		<a href=\"https://safello.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://safello.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/safello.png\" alt=\"Safello\">Safello</a> \n		<a type=\"button\" href=\"https://safello.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн чрез SEPA, Swish, международен банков превод, Bankgiro и много други възможности.</p>\n		<a href=\"https://safello.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -374,7 +374,7 @@
     methods: "sepa, swift",
     hide: "",
     url: "https://coinfloor.co.uk/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinfloor.png\" alt=\"Coinfloor\">Coinfloor</a> \n		<a type=\"button\" href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн борса и брокер. Депозирайте чрез банков превод, SEPA и други.</p>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinfloor.png\" alt=\"Coinfloor\">Coinfloor</a> \n		<a type=\"button\" href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн борса и брокер. Депозирайте чрез банков превод, SEPA и други.</p>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -470,7 +470,7 @@
     methods: "cash, bt",
     hide: "",
     url: "https://www.satoshitango.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.satoshitango.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/satoshitango.png\" alt=\"SatoshiTango\">SatoshiTango</a> \n		<a type=\"button\" href=\"https://www.satoshitango.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн платформа. Поддържа растящ брой страни от Южна Америка и Европа.</p>\n		<a href=\"https://www.satoshitango.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.satoshitango.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/satoshitango.png\" alt=\"SatoshiTango\">SatoshiTango</a> \n		<a type=\"button\" href=\"https://www.satoshitango.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн платформа. Поддържа растящ брой страни от Южна Америка и Европа.</p>\n		<a href=\"https://www.satoshitango.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -558,7 +558,7 @@
     methods: "sepa, egopay",
     hide: "",
     url: "https://www.btcchina.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.btcchina.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/lakebtc.png\" alt=\"LakeBTC\">LakeBTC</a> \n		<a type=\"button\" href=\"https://www.btcchina.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн борса в Китай. Депозирайте чрез банков превод или SEPA.</p>\n		<a href=\"https://www.btcchina.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.btcchina.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/lakebtc.png\" alt=\"LakeBTC\">LakeBTC</a> \n		<a type=\"button\" href=\"https://www.btcchina.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн борса в Китай. Депозирайте чрез банков превод или SEPA.</p>\n		<a href=\"https://www.btcchina.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -574,7 +574,7 @@
     methods: "sepa, swift, okpay",
     hide: "",
     url: "https://gatecoin.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://gatecoin.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/gatecoin.png\" alt=\"Gatecoin\">Gatecoin</a> \n		<a type=\"button\" href=\"https://gatecoin.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн борса в Хонг Конг. Депозирайте чрез  SEPA превод, SWIFT и OKPAY.</p>\n		<a href=\"https://gatecoin.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://gatecoin.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/gatecoin.png\" alt=\"Gatecoin\">Gatecoin</a> \n		<a type=\"button\" href=\"https://gatecoin.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн борса в Хонг Конг. Депозирайте чрез  SEPA превод, SWIFT и OKPAY.</p>\n		<a href=\"https://gatecoin.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -606,7 +606,7 @@
     methods: "",
     hide: "",
     url: "http://buyer.md/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buyer.md/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/buyermd.png\" alt=\"Buyer.md\">Buyer.md</a> \n		<a type=\"button\" href=\"http://buyer.md/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн брокер. Buyer.md купува биткойн на биткойн борса и продава на клиенти. Таксата е 7%.</p>\n		<a href=\"http://buyer.md/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buyer.md/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/buyermd.png\" alt=\"Buyer.md\">Buyer.md</a> \n		<a type=\"button\" href=\"http://buyer.md/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн брокер. Buyer.md купува биткойн на биткойн борса и продава на клиенти. Таксата е 7%.</p>\n		<a href=\"http://buyer.md/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -806,7 +806,7 @@
     methods: "cc, cash",
     hide: "",
     url: "https://btcu.biz/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://btcu.biz/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/btcubiz.png\" alt=\"btcu.biz\">btcu.biz</a> \n		<a type=\"button\" href=\"https://btcu.biz/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете чрез кредитна карта или депозит в брой от хиляди автомати на територията на Украйна.</p>\n		<a href=\"https://btcu.biz/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://btcu.biz/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/btcubiz.png\" alt=\"btcu.biz\">btcu.biz</a> \n		<a type=\"button\" href=\"https://btcu.biz/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете чрез кредитна карта или депозит в брой от хиляди автомати на територията на Украйна.</p>\n		<a href=\"https://btcu.biz/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -814,7 +814,7 @@
     methods: "cash",
     hide: "",
     url: "http://kuna.com.ua/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://kuna.com.ua/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/kuna.png\" alt=\"Kuna\">Kuna</a> \n		<a type=\"button\" href=\"http://kuna.com.ua/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн брокер. Купете биткойн директно от агенция Kuna Bitcoin.</p>\n		<a href=\"http://kuna.com.ua/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://kuna.com.ua/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/kuna.png\" alt=\"Kuna\">Kuna</a> \n		<a type=\"button\" href=\"http://kuna.com.ua/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн брокер. Купете биткойн директно от агенция Kuna Bitcoin.</p>\n		<a href=\"http://kuna.com.ua/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -910,7 +910,7 @@
     methods: "cash",
     hide: "",
     url: "http://coinatmradar.com/bitcoin_atm/248/bitcoin-atm-skyhook-belgrade-appetite-restaurant/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/248/bitcoin-atm-skyhook-belgrade-appetite-restaurant/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/skyhook.png\" alt=\"Bitcoin ATM Belgrade\">Bitcoin ATM Belgrade</a> \n		<a type=\"button\" href=\"http://coinatmradar.com/bitcoin_atm/248/bitcoin-atm-skyhook-belgrade-appetite-restaurant/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от биткойн автомат Skyhook Bitcoin в Белград, Сърбия.</p>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/248/bitcoin-atm-skyhook-belgrade-appetite-restaurant/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/248/bitcoin-atm-skyhook-belgrade-appetite-restaurant/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/skyhook.png\" alt=\"Bitcoin ATM Belgrade\">Bitcoin ATM Belgrade</a> \n		<a type=\"button\" href=\"http://coinatmradar.com/bitcoin_atm/248/bitcoin-atm-skyhook-belgrade-appetite-restaurant/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от биткойн автомат Skyhook Bitcoin в Белград, Сърбия.</p>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/248/bitcoin-atm-skyhook-belgrade-appetite-restaurant/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -918,7 +918,7 @@
     methods: "cash",
     hide: "",
     url: "http://coinatmradar.com/bitcoin_atm/214/bitcoin-atm-lamassu-budapest-club-anker/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/214/bitcoin-atm-lamassu-budapest-club-anker/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/lamassu.png\" alt=\"Bitcoin ATM Budapest\">Bitcoin ATM Budapest</a> \n		<a type=\"button\" href=\"http://coinatmradar.com/bitcoin_atm/214/bitcoin-atm-lamassu-budapest-club-anker/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от биткойн автомат Lamassu Bitcoin в Будапеща, Унгария.</p>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/214/bitcoin-atm-lamassu-budapest-club-anker/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/214/bitcoin-atm-lamassu-budapest-club-anker/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/lamassu.png\" alt=\"Bitcoin ATM Budapest\">Bitcoin ATM Budapest</a> \n		<a type=\"button\" href=\"http://coinatmradar.com/bitcoin_atm/214/bitcoin-atm-lamassu-budapest-club-anker/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от биткойн автомат Lamassu Bitcoin в Будапеща, Унгария.</p>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/214/bitcoin-atm-lamassu-budapest-club-anker/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -926,7 +926,7 @@
     methods: "cash",
     hide: "",
     url: "http://coinatmradar.com/bitcoin_atm/456/bitcoin-atm-bitaccess-budapest-stop-shop-mall/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/456/bitcoin-atm-bitaccess-budapest-stop-shop-mall/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitaccess.png\" alt=\"Bitcoin ATM Budapest\">Bitcoin ATM Budapest</a> \n		<a type=\"button\" href=\"http://coinatmradar.com/bitcoin_atm/456/bitcoin-atm-bitaccess-budapest-stop-shop-mall/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от биткойн автомат BitAccess Bitcoin в Будапеща, Унгария.</p>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/456/bitcoin-atm-bitaccess-budapest-stop-shop-mall/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/456/bitcoin-atm-bitaccess-budapest-stop-shop-mall/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitaccess.png\" alt=\"Bitcoin ATM Budapest\">Bitcoin ATM Budapest</a> \n		<a type=\"button\" href=\"http://coinatmradar.com/bitcoin_atm/456/bitcoin-atm-bitaccess-budapest-stop-shop-mall/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от биткойн автомат BitAccess Bitcoin в Будапеща, Унгария.</p>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/456/bitcoin-atm-bitaccess-budapest-stop-shop-mall/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -934,7 +934,7 @@
     methods: "cash",
     hide: "",
     url: "http://coinatmradar.com/bitcoin_atm/527/bitcoin-atm-genesis-coin-acharnes-orizontes-bookstore/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/527/bitcoin-atm-genesis-coin-acharnes-orizontes-bookstore/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/genesiscoin.png\" alt=\"Bitcoin ATM Acharnes\">Bitcoin ATM Acharnes</a> \n		<a type=\"button\" href=\"http://coinatmradar.com/bitcoin_atm/527/bitcoin-atm-genesis-coin-acharnes-orizontes-bookstore/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от биткойн автомат Genesis Coin Bitcoin в Ахарнес, Гърция.</p>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/527/bitcoin-atm-genesis-coin-acharnes-orizontes-bookstore/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/527/bitcoin-atm-genesis-coin-acharnes-orizontes-bookstore/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/genesiscoin.png\" alt=\"Bitcoin ATM Acharnes\">Bitcoin ATM Acharnes</a> \n		<a type=\"button\" href=\"http://coinatmradar.com/bitcoin_atm/527/bitcoin-atm-genesis-coin-acharnes-orizontes-bookstore/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от биткойн автомат Genesis Coin Bitcoin в Ахарнес, Гърция.</p>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/527/bitcoin-atm-genesis-coin-acharnes-orizontes-bookstore/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -942,7 +942,7 @@
     methods: "cash",
     hide: "",
     url: "http://coinatmradar.com/bitcoin_atm/618/bitcoin-atm-btcpoint-athens-hostel-of-erasmus-students/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/618/bitcoin-atm-btcpoint-athens-hostel-of-erasmus-students/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/btcpoint.png\" alt=\"Bitcoin ATM Athens\">Bitcoin ATM Athens</a> \n		<a type=\"button\" href=\"http://coinatmradar.com/bitcoin_atm/618/bitcoin-atm-btcpoint-athens-hostel-of-erasmus-students/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от биткойн автомат BTCPoint Bitcoin в Атина, Гърция.</p>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/618/bitcoin-atm-btcpoint-athens-hostel-of-erasmus-students/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/618/bitcoin-atm-btcpoint-athens-hostel-of-erasmus-students/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/btcpoint.png\" alt=\"Bitcoin ATM Athens\">Bitcoin ATM Athens</a> \n		<a type=\"button\" href=\"http://coinatmradar.com/bitcoin_atm/618/bitcoin-atm-btcpoint-athens-hostel-of-erasmus-students/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от биткойн автомат BTCPoint Bitcoin в Атина, Гърция.</p>\n		<a href=\"http://coinatmradar.com/bitcoin_atm/618/bitcoin-atm-btcpoint-athens-hostel-of-erasmus-students/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -974,7 +974,7 @@
     methods: "cash",
     hide: "",
     url: "http://bitcoinromania.ro/bancomat/cumparati-bitcoin-prin-zebra-pay-si-bitcoinromania-peste-800-de-locatii-din-tara/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://bitcoinromania.ro/bancomat/cumparati-bitcoin-prin-zebra-pay-si-bitcoinromania-peste-800-de-locatii-din-tara/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/btcromania.png\" alt=\"Bitcoin Romania\">Bitcoin Romania</a> \n		<a type=\"button\" href=\"http://bitcoinromania.ro/bancomat/cumparati-bitcoin-prin-zebra-pay-si-bitcoinromania-peste-800-de-locatii-din-tara/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от някой от над 800-те терминала на ZebraPay на територията на Румъния.</p>\n		<a href=\"http://bitcoinromania.ro/bancomat/cumparati-bitcoin-prin-zebra-pay-si-bitcoinromania-peste-800-de-locatii-din-tara/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://bitcoinromania.ro/bancomat/cumparati-bitcoin-prin-zebra-pay-si-bitcoinromania-peste-800-de-locatii-din-tara/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/btcromania.png\" alt=\"Bitcoin Romania\">Bitcoin Romania</a> \n		<a type=\"button\" href=\"http://bitcoinromania.ro/bancomat/cumparati-bitcoin-prin-zebra-pay-si-bitcoinromania-peste-800-de-locatii-din-tara/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн от някой от над 800-те терминала на ZebraPay на територията на Румъния.</p>\n		<a href=\"http://bitcoinromania.ro/bancomat/cumparati-bitcoin-prin-zebra-pay-si-bitcoinromania-peste-800-de-locatii-din-tara/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -982,7 +982,7 @@
     methods: "bt",
     hide: "",
     url: "https://bitcoinxromania.com/en/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bitcoinxromania.com/en/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/btcxromania.png\" alt=\"BitcoinXRomania\">BitcoinXRomania</a> \n		<a type=\"button\" href=\"https://bitcoinxromania.com/en/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн борса. Депозиране чрез банков превод. 0.5% такса на всички транзакции.</p>\n		<a href=\"https://bitcoinxromania.com/en/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bitcoinxromania.com/en/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/btcxromania.png\" alt=\"BitcoinXRomania\">BitcoinXRomania</a> \n		<a type=\"button\" href=\"https://bitcoinxromania.com/en/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн борса. Депозиране чрез банков превод. 0.5% такса на всички транзакции.</p>\n		<a href=\"https://bitcoinxromania.com/en/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -998,7 +998,7 @@
     methods: "sepa",
     hide: "",
     url: "http://buybitcoinww.co/buybitquick",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitquick.png\" alt=\"BitQuick\">BitQuick</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн бързо с депозит в брой или SEPA превод в ЕС. 2% такса.</p>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitquick.png\" alt=\"BitQuick\">BitQuick</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн бързо с депозит в брой или SEPA превод в ЕС. 2% такса.</p>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1014,7 +1014,7 @@
     methods: "sepa, ccus, swift, fast, lowfees, ccww, cc, astro",
     hide: "",
     url: "http://buybitcoinww.co/cex_io_bitcoin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cex.png\" alt=\"CEX.io\">CEX.io</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн чрез кредитна карта, SEPA/ACH банков превод, в брой, или чрез AstroPay.</p>\n		<a href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cex.png\" alt=\"CEX.io\">CEX.io</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн чрез кредитна карта, SEPA/ACH банков превод, в брой, или чрез AstroPay.</p>\n		<a href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1038,7 +1038,7 @@
     methods: "ccus, ccww, cc",
     hide: "",
     url: "http://buybitcoinww.co/purse_io",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/purse_io\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/purse.png\" alt=\"Purse.io\">Purse.io</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/purse_io\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн чрез кредитна карта или карта за подарък от Amazon. Таксите варират.</p>\n		<a href=\"http://buybitcoinww.co/purse_io\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/purse_io\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/purse.png\" alt=\"Purse.io\">Purse.io</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/purse_io\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн чрез кредитна карта или карта за подарък от Amazon. Таксите варират.</p>\n		<a href=\"http://buybitcoinww.co/purse_io\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1062,7 +1062,7 @@
     methods: "sofort, giro, sepa, ccww, neteller,",
     hide: "",
     url: "https://www.coinimal.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coinimal.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinimal.png\" alt=\"Coinimal\">Coinimal</a> \n		<a type=\"button\" href=\"https://www.coinimal.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн чрез SOFORT, NETELLER, giropay, eps, SEPA, и онлайн банков превод.</p>\n		<a href=\"https://www.coinimal.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coinimal.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinimal.png\" alt=\"Coinimal\">Coinimal</a> \n		<a type=\"button\" href=\"https://www.coinimal.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн чрез SOFORT, NETELLER, giropay, eps, SEPA, и онлайн банков превод.</p>\n		<a href=\"https://www.coinimal.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1070,7 +1070,7 @@
     methods: "sepa, okpay, skrill, swift, sofort, onlinebt",
     hide: "",
     url: "https://cubits.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cubits.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cubits.png\" alt=\"Cubits\">Cubits</a> \n		<a type=\"button\" href=\"https://cubits.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн в голям брой страни чрез SEPA, OKPAY, SOFORT и Skrill.</p>\n		<a href=\"https://cubits.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cubits.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cubits.png\" alt=\"Cubits\">Cubits</a> \n		<a type=\"button\" href=\"https://cubits.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн в голям брой страни чрез SEPA, OKPAY, SOFORT и Skrill.</p>\n		<a href=\"https://cubits.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1094,7 +1094,7 @@
     methods: "sepa",
     hide: "",
     url: "https://www.itbit.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.itbit.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/itbit.png\" alt=\"itBit\">itBit</a> \n		<a type=\"button\" href=\"https://www.itbit.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн борса. Депозирайте чрез ACH превод, SEPA, или международен банков превод.</p>\n		<a href=\"https://www.itbit.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.itbit.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/itbit.png\" alt=\"itBit\">itBit</a> \n		<a type=\"button\" href=\"https://www.itbit.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн борса. Депозирайте чрез ACH превод, SEPA, или международен банков превод.</p>\n		<a href=\"https://www.itbit.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1114,7 +1114,7 @@
   });
 
   window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch",
+    countries: "ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye",
     methods: "okpay, perfectmoney",
     hide: "",
     url: "http://buybitcoinww.co/unichangeme",
@@ -1126,7 +1126,7 @@
     methods: "sepa",
     hide: "",
     url: "https://cryptopay.me/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cryptopay.png\" alt=\"CryptoPay\">CryptoPay</a> \n		<a type=\"button\" href=\"https://cryptopay.me/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн брокер. Купете чрез SEPA или банков превод във Великобритания.</p>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cryptopay.png\" alt=\"CryptoPay\">CryptoPay</a> \n		<a type=\"button\" href=\"https://cryptopay.me/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн брокер. Купете чрез SEPA или банков превод във Великобритания.</p>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1134,7 +1134,7 @@
     methods: "bt",
     hide: "true",
     url: "https://cryptopay.me/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cryptopay.png\" alt=\"CryptoPay\">CryptoPay</a> \n		<a type=\"button\" href=\"https://cryptopay.me/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн брокер. Купете чрез SEPA или банков превод във Великобритания.</p>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cryptopay.png\" alt=\"CryptoPay\">CryptoPay</a> \n		<a type=\"button\" href=\"https://cryptopay.me/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн брокер. Купете чрез SEPA или банков превод във Великобритания.</p>\n		<a href=\"https://cryptopay.me/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1142,7 +1142,7 @@
     methods: "sepa, io, sofort, trustpay, giro, ideal",
     hide: "",
     url: "https://anycoindirect.eu/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://anycoindirect.eu/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/anycoin.png\" alt=\"Anycoin Direct\">Anycoin Direct</a> \n		<a type=\"button\" href=\"https://anycoindirect.eu/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн брокер. Купете биткойн чрез SEPA, Interac Online и много други възможности за плащане.</p>\n		<a href=\"https://anycoindirect.eu/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://anycoindirect.eu/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/anycoin.png\" alt=\"Anycoin Direct\">Anycoin Direct</a> \n		<a type=\"button\" href=\"https://anycoindirect.eu/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн брокер. Купете биткойн чрез SEPA, Interac Online и много други възможности за плащане.</p>\n		<a href=\"https://anycoindirect.eu/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1150,7 +1150,7 @@
     methods: "lowfees, swift",
     hide: "",
     url: "http://buybitcoinww.co/bitfinex_exchange",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/bitfinex_exchange\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/finex.png\" alt=\"Bitfinex\">Bitfinex</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/bitfinex_exchange\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Депозирайте средства чрез международен банков превод и купете биткойн на борсата.</p>\n		<a href=\"http://buybitcoinww.co/bitfinex_exchange\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/bitfinex_exchange\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/finex.png\" alt=\"Bitfinex\">Bitfinex</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/bitfinex_exchange\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Депозирайте средства чрез международен банков превод и купете биткойн на борсата.</p>\n		<a href=\"http://buybitcoinww.co/bitfinex_exchange\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1158,7 +1158,7 @@
     methods: "swift",
     hide: "",
     url: "https://xapo.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://xapo.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/xapo.png\" alt=\"Xapo\">Xapo</a> \n		<a type=\"button\" href=\"https://xapo.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Международна биткойн платформа. Купете биткойн срещу евро чрез международен банков превод.</p>\n		<a href=\"https://xapo.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://xapo.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/xapo.png\" alt=\"Xapo\">Xapo</a> \n		<a type=\"button\" href=\"https://xapo.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Международна биткойн платформа. Купете биткойн срещу евро чрез международен банков превод.</p>\n		<a href=\"https://xapo.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1166,7 +1166,7 @@
     methods: "sepa, lowfees, cc, wmru",
     hide: "",
     url: "https://btc-e.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://btc-e.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/btce.png\" alt=\"BTCe\">BTCe</a> \n		<a type=\"button\" href=\"https://btc-e.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн платформа поддържаща банкови преводи, SEPA, кредитни карти, webmoney.ru.</p>\n		<a href=\"https://btc-e.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://btc-e.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/btce.png\" alt=\"BTCe\">BTCe</a> \n		<a type=\"button\" href=\"https://btc-e.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн платформа поддържаща банкови преводи, SEPA, кредитни карти, webmoney.ru.</p>\n		<a href=\"https://btc-e.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1182,7 +1182,7 @@
     methods: "sepa, ideal, sofort, io",
     hide: "",
     url: "https://www.happycoins.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.happycoins.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/happy.png\" alt=\"HappyCoins\">HappyCoins</a> \n		<a type=\"button\" href=\"https://www.happycoins.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн брокер. Купете биткойн чрез SEPA банков превод, iDEAL и много други възможности за плащане.</p>\n		<a href=\"https://www.happycoins.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.happycoins.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/happy.png\" alt=\"HappyCoins\">HappyCoins</a> \n		<a type=\"button\" href=\"https://www.happycoins.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн брокер. Купете биткойн чрез SEPA банков превод, iDEAL и много други възможности за плащане.</p>\n		<a href=\"https://www.happycoins.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1190,7 +1190,7 @@
     methods: "nobank, lowfees",
     hide: "",
     url: "http://buybitcoinww.co/mycelium_local_trader",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/mycelium_local_trader\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/mycelium.png\" alt=\"Mycelium Local Trader\">Mycelium Local Trader</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/mycelium_local_trader\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете от местни търговци чрез Mycelium биткойн портфейл.</p>\n		<a href=\"http://buybitcoinww.co/mycelium_local_trader\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/mycelium_local_trader\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/mycelium.png\" alt=\"Mycelium Local Trader\">Mycelium Local Trader</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/mycelium_local_trader\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете от местни търговци чрез Mycelium биткойн портфейл.</p>\n		<a href=\"http://buybitcoinww.co/mycelium_local_trader\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1198,7 +1198,7 @@
     methods: "",
     hide: "",
     url: "https://shapeshift.io/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://shapeshift.io/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/shapeshift.png\" alt=\"ShapeShift\">ShapeShift</a> \n		<a type=\"button\" href=\"https://shapeshift.io/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн чрез Litecoin, Dogecoin, altcoins и други дигитални валути.</p>\n		<a href=\"https://shapeshift.io/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://shapeshift.io/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/shapeshift.png\" alt=\"ShapeShift\">ShapeShift</a> \n		<a type=\"button\" href=\"https://shapeshift.io/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете биткойн чрез Litecoin, Dogecoin, altcoins и други дигитални валути.</p>\n		<a href=\"https://shapeshift.io/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1206,7 +1206,7 @@
     methods: "paypal, pp",
     hide: "",
     url: "https://bitcoin-otc.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bitcoin-otc.com/\" rel=\"nofollow\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitcoinotc.png\" alt=\"bitcoin-otc\">bitcoin-otc</a> \n		<a type=\"button\" href=\"https://bitcoin-otc.com/\" rel=\"nofollow\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Свободен пазар за размяна на биткойн между потребители.</p>\n		<a href=\"https://bitcoin-otc.com/\" rel=\"nofollow\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bitcoin-otc.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitcoinotc.png\" alt=\"bitcoin-otc\">bitcoin-otc</a> \n		<a type=\"button\" href=\"https://bitcoin-otc.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Свободен пазар за размяна на биткойн между потребители.</p>\n		<a href=\"https://bitcoin-otc.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
   });
 
 }).call(this);

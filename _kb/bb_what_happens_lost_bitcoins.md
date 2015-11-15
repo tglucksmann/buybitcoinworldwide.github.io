@@ -12,11 +12,9 @@ categories:
 - faq
 weight: 4
 ---
-Bitcoins are stored in a digital wallet. Each [Bitcoin wallet](https://www.buybitcoinworldwide.com/wallets/) contains many addresses, or in some cases, one address. Each address contains a public key and private key. The public key is used to receive payments, and the private key unlocks the funds that the public key contains. 
+[Bitcoin private keys](/kb/what-is-a-bitcoin-private-key/) are the secret digital codes which allow bitcoins to be spent. If a private key is lost or destroyed, and there is no backup, bitcoins in the address corresponding to the private key are gone forever. 
 
-If a private key is lost, and there is no backup of the wallet, the bitcoins in the wallet are lost forever. 
-
-There’s no way to know for sure which bitcoins have been lost. All address balances are visible, but dormant coins that haven’t been moved in years can’t be proven to be lost.  
+There’s no way to know for sure which bitcoins have been lost. All Bitcoin address balances are visible on the blockchain, but dormant coins does not equal lost coins.  
 
 Because there are only 21 million bitcoins, lost bitcoins decrease the total supply and make every other bitcoin worth slightly more. Bitcoin’s creator, Satoshi Nakamoto, described this best [in a forum post](https://bitcointalk.org/index.php?topic=198.msg1647#msg1647):
 

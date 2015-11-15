@@ -54,7 +54,7 @@ Just about anything and everything. Major companies like Dell, Microsoft and Ove
 
 ## Who Created Bitcoin?
 
-Nobody knows for sure. Bitcoin’s creator used the pseudonym “Satoshi Nakomoto” to announce and discuss his invention. By disguising his identity, the creator protected himself from criminals or any group which might pressure him to change Bitcoin to their liking. Satoshi suddenly disappeared in 2011, leaving the project in the hands of other developers. If Satoshi returns, even he would need the community’s agreement before he could alter Bitcoin.
+Nobody knows for sure. Bitcoin’s creator used the pseudonym “Satoshi Nakamoto” to announce and discuss his invention. By disguising his identity, the creator protected himself from criminals or any group which might pressure him to change Bitcoin to their liking. Satoshi suddenly disappeared in 2011, leaving the project in the hands of other developers. If Satoshi returns, even he would need the community’s agreement before he could alter Bitcoin.
 
 ## Is Bitcoin Safe?
 
@@ -88,5 +88,5 @@ There are 3 standard ways to get Bitcoin:
 
 This site features an extensive [Knowledge Base](/kb/) which provides comprehensive information on Bitcoin. If you’re still new to Bitcoin, we particularly recommend the following articles:
 
-*   [What is a Bitcoin Wallet?(/kb/what-is-a-bitcoin-wallet/)
+*   [What is a Bitcoin Wallet?](/kb/what-is-a-bitcoin-wallet/)
 *   [How to Store and Protect your Bitcoins](/kb/how-to-store-and-protect-bitcoins/)
