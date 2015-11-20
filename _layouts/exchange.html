@@ -2,7 +2,88 @@
 layout: default
 hide_sidebar: true
 ---
-<div class="post-header">
-  <h1 class="post-title-main"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+<div class="exchange-article {{ page.exchange }}-exchange">
+
+<div class="breadcrumbs">
+	<a href="/"><i class="fa fa-home"></i>Buy Bitcoin Worldwide</a> &#155; 
+	<a href="/exchanges/">Exchanges</a> &#155; 
+	<strong><a href="{{ page.url }}">{{ page.title }}</a></strong>
+	</div>	
+
+<div class="row content-with-sidebar col-md-9">	
+<div class="exchange-header-back">
+<div class="exchange-header {{ page.exchange }}-exchange">
+	  <img class="exchange-logo" src="{{ "/img/exchanges/" | prepend: site.baseurl }}{{ page.thumb }}">
+	  <h1 class="ctitle"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
+	  <!-- <div class="exchange-info"> 
+	 	<div class="exchange-info-link"><i class="fa fa-fw fa-link fa-lg"></i> <a rel="nofollow" href="{{ page.website_url }}">{{ page.website }}</a></div>
+	 </div> -->
 </div>
-  {{ content }}
+</div>
+<div class="exchange-content {{ page.exchange }}-exchange entry-content">            
+	{{ content }} 
+</div>
+</div>
+
+
+
+<div class="row sidebar-add exchange-sidebar col-md-3">
+
+<!-- <a type="button" href="https://github.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/blob/master/_exchanges/{{ page.contribute }}.md" rel="nofollow" target="_blank" class="btn btn-primary"><i class="fa fa-pencil"></i> Improve this Page</a> -->
+
+<div class="list-group vitals">
+	 	      {% if page.location != null %}
+	 		  <span class="list-group-item"><i class="fa fa-map-marker fa-fw"></i>&nbsp; {{ page.location }}</span>
+	 	      {% endif %}
+			  <a rel="nofollow" class="list-group-item" href="{{ page.website_url }}"><i class="fa fa-link fa-fw"></i>&nbsp; <span>{{ page.website }}</span></a>
+			  {% if page.twitter != null %}
+			  <a rel="nofollow" class="list-group-item" href="{{ page.twitter_url }}"><i class="fa fa-twitter fa-fw"></i>&nbsp; <span>@{{ page.twitter }}</span></a>
+			  {% endif %}
+			  {% if page.facebook != null %}
+			  <a rel="nofollow" class="list-group-item" href="{{ page.facebook_url }}"><i class="fa fa-facebook fa-fw"></i>&nbsp; <span>{{ page.facebook }}</span></a>
+			  {% endif %}
+</div>
+
+<a type="button" href="{{ page.website_url }}" rel="nofollow" target="_blank" class="btn btn-success"><i class="fa fa-bitcoin"></i> Buy Bitcoin at {{ page.title }}</a>
+
+{% if page.pro1 != null %}
+<div class="exchange-pros">
+<div class="exchange-pros-title">Pros</div>
+{% endif %}
+
+{% if page.pro1 != null %}
+<li class="exchange-pro">{{ page.pro1 }}</li>
+{% endif %}
+{% if page.pro2 != null %}
+<li class="exchange-pro">{{ page.pro2 }}</li>
+{% endif %}
+{% if page.pro3 != null %}
+<li class="exchange-pro">{{ page.pro3 }}</li>
+{% endif %}
+
+{% if page.pro1 != null %}
+</div>
+{% endif %}
+
+{% if page.con1 != null %}
+<div class="exchange-pros">
+<div class="exchange-pros-title">Cons</div>
+{% endif %}
+
+{% if page.con1 != null %}
+<li class="exchange-pro">{{ page.con1 }}</li>
+{% endif %}
+{% if page.con2 != null %}
+<li class="exchange-pro">{{ page.con2 }}</li>
+{% endif %}
+{% if page.con3 != null %}
+<li class="exchange-pro">{{ page.con3 }}</li>
+{% endif %}
+
+{% if page.con1 != null %}
+</div>
+{% endif %}
+
+</div>	
+	
+</div>

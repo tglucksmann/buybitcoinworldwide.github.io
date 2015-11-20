@@ -1309,29 +1309,39 @@ blockquote {
     margin: 0 15px 0 0;
 }
 
+.exchange-article .exchange-logo {
+	width: 60px;
+	float: left;
+    margin: -6px 15px 0 0;
+}
+
 .wallet-header-back {
 	margin-bottom: 15px;
 }
 
-.wallet-article .wallet-info {
+.exchange-header-back {
+	margin-bottom: 30px;
+}
+
+.wallet-article .wallet-info, .exchange-article .exchange-info {
 	font-size: 15px;
 	font-weight: 400;
 }
 
-.wallet-article .bg-success {
+.wallet-article .bg-success, .exchange-article .bg-success {
     background-color: #dff0d8 !important;
 }
 
-.wallet-article .bg-danger {
+.wallet-article .bg-danger, .exchange-article .bg-danger {
     background-color: #f2dede !important;
 }
 
-.wallet-article .list-group-item {
+.wallet-article .list-group-item, .exchange-article .list-group-item {
     padding: 5px 12px;
     font-size: 16px;
 }
 
-.wallet-info-link a {
+.wallet-info-link a, .exchange-info-link a {
 	color: #555;
 }
 
@@ -1342,16 +1352,63 @@ blockquote {
     margin-top: -110px;
 }
 
-.wallet-article .wallet-info-link {
+@media (min-width: 992px) { 
+
+.exchange-sidebar {
+	padding-right: 0px !important;
+	width: 28% !important;
+	margin: 0;
+}
+
+}
+
+.exchange-article .list-group {
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+
+.exchange-article .list-group a {
+	color: #555;
+}
+
+.exchange-sidebar .btn {
+	color: #fff;
+	white-space: normal;
+	width: 100%;
+	margin-bottom: 25px;
+}
+
+.exchange-pros-title {
+    border-bottom: 1px solid #ccc;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    padding-bottom: 7px;
+    text-align: left;
+}
+
+.exchange-pros {
+	margin-bottom: 25px;
+}
+
+.exchange-pro {
+    font-size: 16.5px;
+    margin-bottom: 5px;
+    margin-left: 17px;
+}
+
+.wallet-article .wallet-info-link, .exchange-article .exchange-info-link {
     display: inline;
     margin: 0 20px 0 0;
 }
 
-.wallet-article .ctitle {
+.wallet-article .ctitle, .exchange-article .ctitle {
 	margin-top: 7px;
 }
 
-.wallet-article .ctitle a {
+.wallet-article .ctitle a, .exchange-article .ctitle a {
 	color: #555;
 }
 
@@ -1370,6 +1427,7 @@ blockquote {
     margin-bottom: 15px;
     padding: 5px 0 5px 45px;
     font-size: 33px;
+    color: #555;
 }
 
 .note {
@@ -1408,6 +1466,14 @@ blockquote {
 	width: 100%;
 	margin: 5px 0 40px;
 	float: left;
+}
+
+.gsst_a {
+    display: none !important;
+}
+
+.kb-what-is-mining {
+	max-width: 250px !important;
 }
 
 @media (max-width: 991px) { 

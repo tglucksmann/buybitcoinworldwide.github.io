@@ -154,7 +154,6 @@
 ##   desc_ccww_ru: Coinhouse принимает кредитные и дебетовые карты с поддержкой 3D Secure в пределах еврозоны (SEPA). Биткоины доставляются мгновенно. Сервисом управляет Ledger, широко известная в биткоин-среде компания, специализирующаяся на защите инфорации. Комиссия составляет от 6 до 10%, в зависимости от объёма покупки.
 ##   desc_ccww_es: Coinhouse puede procesar tarjetas de crédito y débito 3Dsecure en toda la zona SEPA (Zona única de pagos en euros). La entrega es inmediata. Este servicio es operado por Ledger, una compañía de seguridad muy reconocida en el mundo del bitcoin. Las comisiones oscilan entre 6% y 10% dependiendo del volumen de la compra.
 ##   desc_ccww_de: Coinhouse kann 3D-Sichere Kreditkarten und Debitkarten  in der SEPA Zone verarbeiten.Die Lieferung von Bitcoins ist unmittelbar. Dieser Dienst wird von Ledger, einer bekannten Sicherheitsfirma im Bitcoinraum betrieben. Gebühren laufen von 6 bis 10%, je nach Kaufvolumen.
-##   desc_neosurf: Coinhouse will let you buy bitcoin with a Neosurf prepaid card. Neosurf cards can be purchased at over <a href="http://www.neosurf.com/en_GB/application/findcard">70,000</a> locations across Europe. Coinhouse charges a 17% fee for all purchases made with a Neosurf card. Coinhouse is located in Paris, France and is operated by Ledger, a Bitcoin security company. 
    
  - name: CoinMama
    url: http://buybitcoinww.co/CoinMama_Bitcoin
@@ -356,6 +355,13 @@
    desc_bg: Купете биткойн от местни дилъри, онлайн или лично. Бързо и анонимно. 1% такса.
    desc_ru: Купить биткоин у местных посредников, онлайн или лично (в "оффлайн"). Сбор в размере 1%.
    desc_uk: Купити біткоін у місцевих посередників, онлайн або особисто (в "оффлайн"). Сбор в размере 1%.
+
+ - name: CoinMama
+   url: http://buybitcoinww.co/CoinMama_Bitcoin
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
+   po: ccww, cc
+   desc: Bitcoin broker. Buy bitcoin with a credit card or debit card instantly.  
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mx, ar, br, bo, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, ru, uk, au, il, ae 
    
 ##### Austria ####################################################   
 
@@ -1112,7 +1118,7 @@
    desc: Buy bitcoin with cash deposit, bank transfer, SEPA, and more.
    url: http://anxpro.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/anxbtc.png
-   countries: hk, us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
+   countries: hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    po: sepa
    desc_es: Comprar Bitcoin con un depósito de efectivo, transferencia bancaria, SEPA y más.
    desc_ar:  شراء بيتكوين بالإيداع النقدي، أو بحوالة مصرفية، أو SEPA، وغير ذلك من الطرق الكثيرة.
@@ -1749,8 +1755,10 @@
  - name: Coinhouse
    desc: Buy bitcoins with NeoSurf prepaid gift cards. High limits available. 
    url: http://buybitcoinww.co/coinhouse
+   po: neosurf
    icon: https://www.buybitcoinworldwide.com/img/buy/coinhouse.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
+   desc_neosurf: Coinhouse will let you buy bitcoin with a Neosurf prepaid card. Neosurf cards can be purchased at over <a href="http://www.neosurf.com/en_GB/application/findcard">70,000</a> locations across Europe. Coinhouse charges a 17% fee for all purchases made with a Neosurf card. Coinhouse is located in Paris, France and is operated by Ledger, a Bitcoin security company. 
    
  - name: Coinimal
    desc: Buy bitcoin with SOFORT, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
@@ -1877,13 +1885,6 @@
    desc_zh: 对于那些没有银行账户的顾客，可以使用汇票或个人支票购买比特币。
    desc_ru: Купить биткоин денежным переводом или с помощью именного чека. 
    desc_uk: Купити біткоіни грошовим переказом або за допомогою іменного чека. 
- 
- - name: CoinMama
-   url: http://buybitcoinww.co/CoinMama_Bitcoin
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
-   po: ccww, cc
-   desc: Bitcoin broker. Buy bitcoin with a credit card or debit card instantly.  
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mx, ar, br, bo, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, ru, uk, au, il, ae 
 
  - name: Unichange.me
    desc: Buy bitcoin with OKPay, Perfect Money, Litecoin, and more.  

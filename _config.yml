@@ -14,7 +14,9 @@ collections:
   kb:
     output: true
   wallets:
-    output: true     
+    output: true 
+  exchanges:
+    output: true       
 
 exclude:
   - "README.md"
