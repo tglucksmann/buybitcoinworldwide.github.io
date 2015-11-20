@@ -17,7 +17,7 @@ hide_sidebar: true
     {% for album in pages %}
 	<div class="wallet-index-wrap">
 		<a href="{{ album.url | prepend: site.baseurl }}">
-        <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/wallets/" | prepend: site.baseurl }}{{ album.thumb }}">
+        <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/exchanges/" | prepend: site.baseurl }}{{ album.thumb }}">
         <h3 class="ctitle">{{ album.title }}</h3></a>               
     </div>
      {% endfor %}
