@@ -3,7 +3,7 @@ layout: exchange
 title:  "Coinbase"
 permalink: /exchanges/coinbase/
 exchange: coinbase
-desc: Coinbase is a web wallet which allows for easy buying and selling of Bitcoin with a connected bank account. Coinbase is a good choice for new Bitcoin users.
+desc: Coinbase is the world's largest Bitcoin broker. Use Coinbase to buy bitcoin easily in over 30 supported countries. 
 thumb: coinbase.png
 lang: en
 seotitle: "Coinbase Review: The World's Largest Bitcoin Broker"
@@ -23,7 +23,7 @@ con1: Limited payment methods
 con2: 
 con3:
 ---
-Coinbase is a Bitcoin company based in San Francisco. Coinbase is the world's largest Bitcoin broker, and also offers an exchange, wallet, and developer API. Here we'll review its brokerage services. 
+Coinbase is a Bitcoin company based in San Francisco. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, wallet, and developer API. Here we'll review its brokerage services. 
 
 ## Payment Methods Accepted
 Coinbase supports 30+ countries. The payment methods available depend on your country. 
@@ -40,7 +40,7 @@ Users in Singapore can buy with Xfers local bank transfer.
 Users must provide full identity verification and many personal details. 
 
 ## Limits & Liquidity
-Coinbase offers very high limits. Limits depend on your account level, which is determined by how much information you have verified. Fully verified U.S. customers may buy up to $50,000 worth of bitcoin daily. 
+[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} offers very high limits. Limits depend on your account level, which is determined by how much information you have verified. Fully verified U.S. customers may buy up to $50,000 worth of bitcoin daily. 
 
 European customers may have a maximum of €30,000 euro in their account at any time. 
 
@@ -60,12 +60,12 @@ Coinbase charges a flat 1% fee on all purchases.
 Canadian customers must pay a $1 fee on any transfers of CAD to a bank account. European users buying with a 3D secure debit card will be charged a 3% fee instead of 1%. 
 
 ## Supported Countries
-Coinbase offers its brokerage services in the United States, United Kingdom, Canada, Singapore, and the following European countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Liechtenstein, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland.
+[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} offers its brokerage services in the United States, United Kingdom, Canada, Singapore, and the following European countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Liechtenstein, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland.
 
 Coinbase plans to enter the Latin American market in 2016. 
 
 ## Customer Support
-Coinbase has a [knowledge base](https://support.coinbase.com/) and [email support](https://support.coinbase.com/customer/portal/emails/new). [Coinbase "Community"](https://community.coinbase.com/) can be used to ask questions and get support help. 
+[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} has a [knowledge base](https://support.coinbase.com/) and [email support](https://support.coinbase.com/customer/portal/emails/new). [Coinbase "Community"](https://community.coinbase.com/) can be used to ask questions and get support help. 
 
 ## Past Issues
 

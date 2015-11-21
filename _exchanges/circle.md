@@ -3,7 +3,7 @@ layout: exchange
 title:  "Circle"
 permalink: /exchanges/circle/
 exchange: circle
-desc: 
+desc: Circle is a Bitcoin broker offering its services in the United States. Customers can buy bitcoin with a bank account, credit card, or debit card.
 thumb: circle.png
 lang: en
 seotitle: "Review: Circle, Bitcoin Broker with Great Rates"

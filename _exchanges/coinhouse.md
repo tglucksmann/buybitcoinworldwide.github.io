@@ -3,10 +3,10 @@ layout: exchange
 title:  "Coinhouse"
 permalink: /exchanges/coinhouse/
 exchange: coinhouse
-desc: 
+desc: Coinhouse is a Bitcoin broker operated by Ledger, a Bitcoin security company. Coinhouse users can buy bitcoin with a credit card or Neosurf prepaid card.
 thumb: coinhouse.png
 lang: en
-seotitle: "Coinhouse Review: Buy Bitcoin with a Credit Card"
+seotitle: "Coinhouse Review: Buy Bitcoins Fast in Europe"
 website: coinhouse.io
 website_url: http://buybitcoinww.co/coinhouse
 contribute: coinhouse
@@ -22,7 +22,7 @@ con3:
 Coinhouse is a Bitcoin broker operated by [Ledger](/wallets/ledger-nano/), a Bitcoin security company. 
 
 ## Payment Methods Accepted
-Coinhouse users can [buy bitcoin with a credit card](/en/buy-bitcoin-credit-debit-card/) or Neosurf prepaid card.  
+[Coinhouse](http://buybitcoinww.co/coinhouse){:rel="nofollow"} users can [buy bitcoin with a credit card](/en/buy-bitcoin-credit-debit-card/) or Neosurf prepaid card.  
 
 ## Supported Countries
 At this time, only citizens of [France](/en/fr/) can buy bitcoin with a credit card at Coinhouse. Coinhouse plans to allow all European users to buy bitcoin with a credit card in early 2016. 
@@ -39,7 +39,7 @@ After complete account verification, users can buy up to €500 per day, and €
 Delivery of bitcoin is instant. 
 
 ## Reputation
-Coinhouse is a regulated company and follows all KYC and AML laws.  
+[Coinhouse](http://buybitcoinww.co/coinhouse){:rel="nofollow"} is a regulated company and follows all KYC and AML laws.  
 
 ## Fees
 Fees are determined by your total buying volume. As follows: 
@@ -58,5 +58,5 @@ Fees are determined by your total buying volume. As follows:
 * more than 10,000€ : 6% 
 
 ## Customer Support
-Coinhouse offers support via email: support@coinhouse.io. You can also call +33 9 67 30 01 71. 
+[Coinhouse](http://buybitcoinww.co/coinhouse){:rel="nofollow"} offers support via email: support@coinhouse.io. You can also call +33 9 67 30 01 71. 
 
