@@ -22,6 +22,17 @@ pro3: Instant buy available with credit card as backup
 con1: Limited payment methods
 con2: 
 con3:
+summary: Coinbase is the world's largest Bitcoin broker. Use Coinbase to buy bitcoin easily in over 30 supported countries. 
+privacy_score: 1
+privacy_width: 10
+limits_score: 8
+limits_width: 80
+speed_score: 9
+speed_width: 90
+reputation_score: 9
+reputation_width: 90
+fees_score: 8.5
+fees_width: 85
 ---
 Coinbase is a Bitcoin company based in San Francisco. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, wallet, and developer API. Here we'll review its brokerage services. 
 

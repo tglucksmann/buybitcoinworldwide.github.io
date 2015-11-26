@@ -20,8 +20,99 @@ hide_sidebar: true
 	 </div> -->
 </div>
 </div>
-<div class="exchange-content {{ page.exchange }}-exchange entry-content">            
+<div class="exchange-content {{ page.exchange }}-exchange entry-content">   
+	<div class="exchange-summary">{{ page.summary }}</div>
+	
+	<div class="exchange-ratings">
+	
+		<div class="privacy-score single-rating">
+			<div class="rating-title">Privacy &nbsp;|&nbsp; <a href="#privacy">More Details  &#155;</a> <div class="score">{{ page.privacy_score }}</div></div>
+			<div class="rating-bar-outer">
+				<div class="rating-bar-inner" style="{% if page.privacy_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.privacy_width }}%; {% if page.privacy_score >= 8.5 %} background: #2b8000; {% elsif page.privacy_score < 8.5 and page.privacy_score >= 7 %} background: #ace600; {% elsif page.privacy_score < 7 and page.privacy_score >= 5 %} background: #ffb41a; {% elsif page.privacy_score < 5 and page.privacy_score >= 2.5 %} background: #ff8080; {% elsif page.privacy_score < 2.5 %} background: #ff1a1a; {% endif %}">
+				</div>	
+			</div>
+		</div>
+		
+		<div class="limits-score single-rating">
+			<div class="rating-title">Limits & Liquidity &nbsp;|&nbsp; <a href="#limits--liquidity">More Details  &#155;</a> <div class="score">{{ page.limits_score }}</div></div>
+			<div class="rating-bar-outer">
+				<div class="rating-bar-inner" style="{% if page.limits_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.limits_width }}%; {% if page.limits_score >= 8.5 %} background: #2b8000; {% elsif page.limits_score < 8.5 and page.limits_score >= 7 %} background: #ace600; {% elsif page.limits_score < 7 and page.limits_score >= 5 %} background: #ffb41a; {% elsif page.limits_score < 5 and page.limits_score >= 2.5 %} background: #ff8080; {% elsif page.limits_score < 2.5 %} background: #ff1a1a; {% endif %}">
+				</div>	
+			</div>
+		</div>
+		
+		<div class="speed-score single-rating">
+			<div class="rating-title">Speed &nbsp;|&nbsp; <a href="#speed">More Details  &#155;</a> <div class="score">{{ page.speed_score }}</div></div>
+			<div class="rating-bar-outer">
+				<div class="rating-bar-inner" style="{% if page.speed_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.speed_width }}%; {% if page.speed_score >= 8.5 %} background: #2b8000; {% elsif page.speed_score < 8.5 and page.speed_score >= 7 %} background: #ace600; {% elsif page.speed_score < 7 and page.speed_score >= 5 %} background: #ffb41a; {% elsif page.speed_score < 5 and page.speed_score >= 2.5 %} background: #ff8080; {% elsif page.speed_score < 2.5 %} background: #ff1a1a; {% endif %}">
+				</div>	
+			</div>
+		</div>
+		
+		<div class="reputation-score single-rating">
+			<div class="rating-title">Reputation & Regulation &nbsp;|&nbsp; <a href="#reputation">More Details  &#155;</a> <div class="score">{{ page.reputation_score }}</div></div>
+			<div class="rating-bar-outer">
+				<div class="rating-bar-inner" style="{% if page.reputation_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.reputation_width }}%; {% if page.reputation_score >= 8.5 %} background: #2b8000; {% elsif page.reputation_score < 8.5 and page.reputation_score >= 7 %} background: #ace600; {% elsif page.reputation_score < 7 and page.reputation_score >= 5 %} background: #ffb41a; {% elsif page.reputation_score < 5 and page.reputation_score >= 2.5 %} background: #ff8080; {% elsif page.reputation_score < 2.5 %} background: #ff1a1a; {% endif %}">
+				</div>	
+			</div>
+		</div>
+		
+		<div class="fees-score single-rating">
+			<div class="rating-title">Fees &nbsp;|&nbsp; <a href="#fees">More Details  &#155;</a> <div class="score">{{ page.fees_score }}</div></div>
+			<div class="rating-bar-outer">
+				<div class="rating-bar-inner" style="{% if page.fees_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.fees_width }}%; {% if page.fees_score >= 8.5 %} background: #2b8000; {% elsif page.fees_score < 8.5 and page.fees_score >= 7 %} background: #ace600; {% elsif page.fees_score < 7 and page.fees_score >= 5 %} background: #ffb41a; {% elsif page.fees_score < 5 and page.fees_score >= 2.5 %} background: #ff8080; {% elsif page.fees_score < 2.5 %} background: #ff1a1a; {% endif %}">
+				</div>	
+			</div>
+		</div>
+		
+	
+	</div>
+	
+	{% if page.pro1 != null %}
+	<div class="row">
+	<div class="exchange-pros col-md-6">
+	<div class="exchange-pros-title">Pros</div>
+	{% endif %}
+	
+	{% if page.pro1 != null %}
+	<li class="exchange-pro">{{ page.pro1 }}</li>
+	{% endif %}
+	{% if page.pro2 != null %}
+	<li class="exchange-pro">{{ page.pro2 }}</li>
+	{% endif %}
+	{% if page.pro3 != null %}
+	<li class="exchange-pro">{{ page.pro3 }}</li>
+	{% endif %}
+	
+	{% if page.pro1 != null %}
+	</div>
+	{% endif %}
+	
+	{% if page.con1 != null %}
+	<div class="exchange-pros col-md-6">
+	<div class="exchange-pros-title">Cons</div>
+	{% endif %}
+	
+	{% if page.con1 != null %}
+	<li class="exchange-pro">{{ page.con1 }}</li>
+	{% endif %}
+	{% if page.con2 != null %}
+	<li class="exchange-pro">{{ page.con2 }}</li>
+	{% endif %}
+	{% if page.con3 != null %}
+	<li class="exchange-pro">{{ page.con3 }}</li>
+	{% endif %}
+	
+	{% if page.con1 != null %}
+	</div>
+	</div>
+	{% endif %}
+	
+	<a type="button" href="{{ page.website_url }}" rel="nofollow" target="_blank" class="btn exchange-btn-top btn-success"><i class="fa fa-bitcoin"></i> Buy Bitcoin at {{ page.title }}</a>
+         
 	{{ content }} 
+	<a type="button" href="{{ page.website_url }}" rel="nofollow" target="_blank" class="btn exchange-btn-bottom btn-success"><i class="fa fa-bitcoin"></i> Visit {{ page.website }}</a>
+
 </div>
 </div>
 
@@ -45,44 +136,6 @@ hide_sidebar: true
 </div>
 
 <a type="button" href="{{ page.website_url }}" rel="nofollow" target="_blank" class="btn btn-success"><i class="fa fa-bitcoin"></i> Buy Bitcoin at {{ page.title }}</a>
-
-{% if page.pro1 != null %}
-<div class="exchange-pros">
-<div class="exchange-pros-title">Pros</div>
-{% endif %}
-
-{% if page.pro1 != null %}
-<li class="exchange-pro">{{ page.pro1 }}</li>
-{% endif %}
-{% if page.pro2 != null %}
-<li class="exchange-pro">{{ page.pro2 }}</li>
-{% endif %}
-{% if page.pro3 != null %}
-<li class="exchange-pro">{{ page.pro3 }}</li>
-{% endif %}
-
-{% if page.pro1 != null %}
-</div>
-{% endif %}
-
-{% if page.con1 != null %}
-<div class="exchange-pros">
-<div class="exchange-pros-title">Cons</div>
-{% endif %}
-
-{% if page.con1 != null %}
-<li class="exchange-pro">{{ page.con1 }}</li>
-{% endif %}
-{% if page.con2 != null %}
-<li class="exchange-pro">{{ page.con2 }}</li>
-{% endif %}
-{% if page.con3 != null %}
-<li class="exchange-pro">{{ page.con3 }}</li>
-{% endif %}
-
-{% if page.con1 != null %}
-</div>
-{% endif %}
 
 </div>	
 	

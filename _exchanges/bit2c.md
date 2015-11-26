@@ -20,6 +20,17 @@ pro3:
 con1: Limited liquidity
 con2: 
 con3:
+summary: Bit2C is an Israeli Bitcoin exchange, allowing its users to buy bitcoin via local bank transfer or credit card.  
+privacy_score: 1
+privacy_width: 10
+limits_score: 7
+limits_width: 70
+speed_score: 8
+speed_width: 80
+reputation_score: 10
+reputation_width: 100
+fees_score: 9
+fees_width: 90
 ---
 Bit2C is an Israeli Bitcoin exchange.
 

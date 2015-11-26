@@ -18,8 +18,19 @@ pro3: After intial verification, bitcoin is delivered instantly
 con1: Fees range from 6-10%
 con2: 
 con3:
----
-Coinhouse is a Bitcoin broker operated by [Ledger](/wallets/ledger-nano/), a Bitcoin security company. 
+summary: Coinhouse is a Bitcoin broker operated by Ledger, a Bitcoin security company. Coinhouse allows users to buy bitcoin with a 3D secure credit or debit card, or with Neosurf prepaid cards. 
+privacy_score: 1
+privacy_width: 10
+limits_score: 5
+limits_width: 50
+speed_score: 9
+speed_width: 90
+reputation_score: 10
+reputation_width: 100
+fees_score: 7
+fees_width: 70
+--- 
+Coinhouse is a Bitcoin broker operated by Ledger, a Bitcoin security company. Coinhouse allows users to buy bitcoin with a 3D secure credit or debit card, or with Neosurf prepaid cards. 
 
 ## Payment Methods Accepted
 [Coinhouse](http://buybitcoinww.co/coinhouse){:rel="nofollow"} users can [buy bitcoin with a credit card](/en/buy-bitcoin-credit-debit-card/) or Neosurf prepaid card.  

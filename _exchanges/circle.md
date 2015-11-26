@@ -20,6 +20,17 @@ pro3: Easy way for new users to buy bitcoin
 con1: Limited to $300 worth of purchases per week
 con2: Some customers may be able to raise limit to $3,000 per week
 con3: Sends count towards buying limit
+summary: Circle is a Bitcoin broker and Bitcoin wallet platform.
+privacy_score: 1
+privacy_width: 10
+limits_score: 3
+limits_width: 30
+speed_score: 8.5
+speed_width: 85
+reputation_score: 9
+reputation_width: 90
+fees_score: 10
+fees_width: 100
 ---
 Circle is a Bitcoin broker and [Bitcoin wallet](/wallets/) platform. This page reviews Circles Bitcoin brokerage services (go here to see a [review of Circle's Bitcoin wallet](/wallets/circle/)).
 

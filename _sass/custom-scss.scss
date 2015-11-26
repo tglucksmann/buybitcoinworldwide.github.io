@@ -1313,6 +1313,7 @@ blockquote {
 	width: 60px;
 	float: left;
     margin: -6px 15px 0 0;
+    border-radius: 5px;
 }
 
 .wallet-header-back {
@@ -1373,6 +1374,11 @@ blockquote {
 	color: #555;
 }
 
+.exchange-article .exchange-btn-bottom {
+	width: 100%;
+	margin-top: 15px;
+}
+
 .exchange-sidebar .btn {
 	color: #fff;
 	white-space: normal;
@@ -1380,13 +1386,54 @@ blockquote {
 	margin-bottom: 25px;
 }
 
+.rating-bar-outer {
+    background: #f6f6f6 none repeat scroll 0 0;
+    border-radius: 12px;
+    height: 16px;
+    width: 100%;
+}
+
+.rating-bar-inner {
+    border-radius: 12px 0 0 12px;
+    float: left;
+    height: 16px;
+}
+
+.rating-title {
+    font-size: 15px;
+    margin-bottom: 3px;
+}
+
+.exchange-ratings {
+	margin-bottom: 30px;
+}
+
+.score {
+    float: right;
+    font-size: 15px;
+    font-weight: bold;
+    padding-right: 2px;
+}
+
+.single-rating {
+	margin-bottom: 12px;
+}
+
+.exchange-summary {
+    margin-bottom: 20px;
+}
+
+.exchange-article .exchange-btn-top {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
 .exchange-pros-title {
-    border-bottom: 1px solid #ccc;
-    font-size: 20px;
+    border-bottom: 0 solid #ccc;
+    font-size: 16px;
     font-weight: 600;
-    margin-bottom: 10px;
-    padding-bottom: 7px;
-    text-align: left;
+    padding-bottom: 5px;
+    text-transform: uppercase;
 }
 
 .exchange-pros {
