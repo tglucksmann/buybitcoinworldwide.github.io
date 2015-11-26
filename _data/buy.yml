@@ -34,7 +34,7 @@
    desc_uk: Купити біткоін за допомогою Вашого банківського рахунку. Легко, швидко, зручно. Збір у розмірі 1%.
 
  - name: VirWoX
-   desc: Bitcoin exchange and broker. Easy way to buy bitcoin in five supported countries. 
+   desc: Digital curreny exchange. The easiest way to buy bitcoin with PayPal.  
    url: http://buybitcoinww.co/bitcoin_virwox
    icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
    po: paypal
@@ -355,13 +355,6 @@
    desc_bg: Купете биткойн от местни дилъри, онлайн или лично. Бързо и анонимно. 1% такса.
    desc_ru: Купить биткоин у местных посредников, онлайн или лично (в "оффлайн"). Сбор в размере 1%.
    desc_uk: Купити біткоін у місцевих посередників, онлайн або особисто (в "оффлайн"). Сбор в размере 1%.
-
- - name: CoinMama
-   url: http://buybitcoinww.co/CoinMama_Bitcoin
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
-   po: ccww, cc
-   desc: Bitcoin broker. Buy bitcoin with a credit card or debit card instantly.  
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mx, ar, br, bo, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, ru, uk, au, il, ae 
    
 ##### Austria ####################################################   
 
@@ -671,6 +664,15 @@
    desc_ar:  شراء بيتكوين مباشرة من Bits of Gold، أكبر وسيط بيتكوين في إسرائيل.
    desc_ru: Купить биткоин у Bit of Gold, крупнейшего биткоин-брокера в Израиле.
    desc_uk: Купити біткоіни у Bit of Gold, найбільшого біткоіни-брокера в Ізраїлі.
+   
+##### VirWox ####################################################  
+
+ - name: VirWoX
+   desc: Buy Second Life Lindens, and trade them for bitcoin. One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a>.  
+   url: http://buybitcoinww.co/bitcoin_virwox
+   icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
+   countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx
+   po: pp   
    
 ##### Egypt ####################################################  
 
@@ -1605,24 +1607,12 @@
    
 ####################################################   
 
- - name: BitQuick
-   desc: Buy bitcoin quickly with cash deposits or SEPA transfers in the EU. 
-   url: http://buybitcoinww.co/buybitquick
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
-   po: sepa
-   desc_es: Comprar Bitcoin rápidamente con depósitos en efectivo o transferencias SEPA en la UE.  
-   desc_ar:  شراء بيتكوين بسرعة بالإيداعات النقدية أو بتحويلات SEPA في الاتحاد الأوروبي. الرسوم 2٪.
-   desc_fr: Achetez rapidement des bitcoins dans l'UE par dépôts d'espèces ou virements SEPA.
-   desc_el: Αγοράστε bitcoin γρήγορα με κατάθεση μετρητών ή εμβάσματα SEPA εντός ΕΕ. Τέλος 2%.
-   desc_nl: Koop bitcoin snel met contant geld of SEPA overschrijvingen in de EU. 2% toeslag.
-   desc_it: Acquista rapidamente Bitcoin con depositi in contanti o trasferimenti SEPA nell’UE.
-   desc_pt_br: Compre Bitcoins através de depósito em dinheiro ou transferência bancária SEPA na União Europeia. 
-   desc_de: Bitcoin schnell mit Bareinzahlungen oder SEPA Überweisungen in der EU kaufen. 2% Gebühr.
-   desc_zh: 在欧洲以现金交存或国家环保总局转账快速购买比特币。费率为2％。
-   desc_bg: Купете биткойн бързо с депозит в брой или SEPA превод в ЕС. 2% такса.
-   desc_ru: Купить биткоин быстро денежным вкладом или SEPA-платежом в ЕС. Сбор - 2%.
-   desc_uk: Купити біткоін швидко грошовим внеском або SEPA-платежем в ЄС. Збір - 2%.
+ - name: CoinMama
+   url: http://buybitcoinww.co/CoinMama_Bitcoin
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
+   po: cc
+   desc: Bitcoin broker. Buy bitcoin with a credit card or debit card instantly.  
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mx, ar, br, bo, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, ru, uk, au, il, ae 
 
  - name: Changetip
    desc: Buy small amounts of bitcoin with a Visa or Mastercard debit/credit card. 
@@ -1744,13 +1734,6 @@
    desc_ru: Купить биткоин с помощью кредитной карты или подарочной картой Amazon. Сборы могут меняться.
    desc_uk: Купити біткоіни за допомогою кредитної карти або подарунковою карткою Amazon. 
    desc_it: Con Purse.io è possibile acquistare Bitcoin con una carta di credito ma non direttamente.
-
- - name: VirWoX
-   desc: Buy Second Life Lindens, and trade them for bitcoin. One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a>.  
-   url: http://buybitcoinww.co/bitcoin_virwox
-   icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
-   countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx
-   po: pp
 
  - name: Coinhouse
    desc: Buy bitcoins with NeoSurf prepaid gift cards. High limits available. 
@@ -1947,6 +1930,25 @@
    desc_bg: Биткойн брокер. Купете биткойн чрез SEPA, Interac Online и много други възможности за плащане.
    desc_ru: Биткоин-брокер. Купить биткоин с помощью SEPA, INTERAC Online или множеством других способов.
    desc_uk: Біткоіни-брокер. Купити біткоіни за допомогою SEPA, INTERAC Online або безліччю інших способів.
+
+ - name: BitQuick
+   desc: Buy bitcoin quickly with cash deposits or SEPA transfers in the EU. 
+   url: http://buybitcoinww.co/buybitquick
+   icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
+   po: sepa
+   desc_es: Comprar Bitcoin rápidamente con depósitos en efectivo o transferencias SEPA en la UE.  
+   desc_ar:  شراء بيتكوين بسرعة بالإيداعات النقدية أو بتحويلات SEPA في الاتحاد الأوروبي. الرسوم 2٪.
+   desc_fr: Achetez rapidement des bitcoins dans l'UE par dépôts d'espèces ou virements SEPA.
+   desc_el: Αγοράστε bitcoin γρήγορα με κατάθεση μετρητών ή εμβάσματα SEPA εντός ΕΕ. Τέλος 2%.
+   desc_nl: Koop bitcoin snel met contant geld of SEPA overschrijvingen in de EU. 2% toeslag.
+   desc_it: Acquista rapidamente Bitcoin con depositi in contanti o trasferimenti SEPA nell’UE.
+   desc_pt_br: Compre Bitcoins através de depósito em dinheiro ou transferência bancária SEPA na União Europeia. 
+   desc_de: Bitcoin schnell mit Bareinzahlungen oder SEPA Überweisungen in der EU kaufen. 2% Gebühr.
+   desc_zh: 在欧洲以现金交存或国家环保总局转账快速购买比特币。费率为2％。
+   desc_bg: Купете биткойн бързо с депозит в брой или SEPA превод в ЕС. 2% такса.
+   desc_ru: Купить биткоин быстро денежным вкладом или SEPA-платежом в ЕС. Сбор - 2%.
+   desc_uk: Купити біткоін швидко грошовим внеском або SEPA-платежем в ЄС. Збір - 2%.
    
  - name: Bitfinex
    desc: Deposit funds with an international wire transfer and buy bitcoin on the exchange.

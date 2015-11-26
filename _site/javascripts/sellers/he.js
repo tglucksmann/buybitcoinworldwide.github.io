@@ -122,14 +122,6 @@
   });
 
   window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mx, ar, br, bo, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, ru, uk, au, il, ae",
-    methods: "ccww, cc",
-    hide: "",
-    url: "http://buybitcoinww.co/CoinMama_Bitcoin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/CoinMama_Bitcoin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinmama.png\" alt=\"CoinMama\"></a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/CoinMama_Bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"http://buybitcoinww.co/CoinMama_Bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
     countries: "at",
     methods: "cdeu, cdat, cash",
     hide: "",
@@ -295,6 +287,14 @@
     hide: "",
     url: "https://www.bitsofgold.co.il",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.bitsofgold.co.il\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitsofgold.png\" alt=\"Bits of Gold\">ביטס אוף גולד</a> \n		<a type=\"button\" href=\"https://www.bitsofgold.co.il\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\">קנה ביטקוין ישירות מBits of Gold דרך העברה בנקאית. ברוקר הביטקוין הגדול בישראל.</p>\n		<a type=\"button\" href=\"https://www.bitsofgold.co.il\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx",
+    methods: "pp",
+    hide: "",
+    url: "http://buybitcoinww.co/bitcoin_virwox",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/virwox.png\" alt=\"VirWoX\"></a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1002,11 +1002,11 @@
   });
 
   window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "sepa",
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mx, ar, br, bo, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, ru, uk, au, il, ae",
+    methods: "cc",
     hide: "",
-    url: "http://buybitcoinww.co/buybitquick",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitquick.png\" alt=\"BitQuick\"></a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
+    url: "http://buybitcoinww.co/CoinMama_Bitcoin",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/CoinMama_Bitcoin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinmama.png\" alt=\"CoinMama\"></a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/CoinMama_Bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"http://buybitcoinww.co/CoinMama_Bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1047,14 +1047,6 @@
     hide: "",
     url: "http://buybitcoinww.co/purse_io",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/purse_io\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/purse.png\" alt=\"Purse.io\"></a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/purse_io\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"http://buybitcoinww.co/purse_io\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx",
-    methods: "pp",
-    hide: "",
-    url: "http://buybitcoinww.co/bitcoin_virwox",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/virwox.png\" alt=\"VirWoX\"></a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -1143,6 +1135,14 @@
     hide: "",
     url: "https://anycoindirect.eu/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://anycoindirect.eu/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/anycoin.png\" alt=\"Anycoin Direct\"></a> \n		<a type=\"button\" href=\"https://anycoindirect.eu/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"https://anycoindirect.eu/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
+    methods: "sepa",
+    hide: "",
+    url: "http://buybitcoinww.co/buybitquick",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitquick.png\" alt=\"BitQuick\"></a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p class=\"hebrew\"></p>\n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
