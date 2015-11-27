@@ -6,7 +6,8 @@ exchange: coinbase
 desc: Coinbase is the world's largest Bitcoin broker. Use Coinbase to buy bitcoin easily in over 30 supported countries. 
 thumb: coinbase.png
 lang: en
-seotitle: "Coinbase Review: The World's Largest Bitcoin Broker"
+cat: broker
+seotitle: "Coinbase Review: Buy Bitcoin in Over 30 Countries"
 website: coinbase.com
 website_url: http://buybitcoinww.co/buycoinbase
 twitter: coinbase
@@ -20,9 +21,9 @@ pro1: High liquidity and buying limits
 pro2: Easy way for new users to buy bitcoin
 pro3: Instant buy available with credit card as backup
 con1: Limited payment methods
-con2: 
+con2: May track how its users spend bitcoin
 con3:
-summary: Coinbase is the world's largest Bitcoin broker. Use Coinbase to buy bitcoin easily in over 30 supported countries. 
+summary: Coinbase, available to users in over 30 countries, is the world's largest Bitcoin broker. Customers can buy bitcoin with a connected bank account, SEPA transfer, Interac Online, and many more payment methods. 
 privacy_score: 1
 privacy_width: 10
 limits_score: 8
@@ -34,7 +35,7 @@ reputation_width: 90
 fees_score: 8.5
 fees_width: 85
 ---
-Coinbase is a Bitcoin company based in San Francisco. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, wallet, and developer API. Here we'll review its brokerage services. 
+Coinbase is a Bitcoin company based in San Francisco. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, [wallet](/wallets/coinbase/), and developer API. Here we'll review its brokerage services. 
 
 ## Payment Methods Accepted
 Coinbase supports 30+ countries. The payment methods available depend on your country. 
@@ -56,9 +57,9 @@ Users must provide full identity verification and many personal details.
 European customers may have a maximum of €30,000 euro in their account at any time. 
 
 ## Speed
-U.S. customers will receive their bitcoins five business days from placing an order. Instant buy becomes possible if a credit card is added to the account as a backup payment method. Instant buy will allow you to buy up $1,000 worth of bitcoin per week. 
+U.S. customers will receive their bitcoins five business days from placing an order. Instant buy becomes possible if a credit card is added to the account as a backup payment method. Instant buy will allow fully verified users to buy up to $1,000 worth of bitcoin per week. Level 2 users with instant buy are able to instantly buy up to $100 worth of bitcoin per week.  
 
-Candian EFT purchases take four days to complete. Interac Online purchases are instant.
+Canadian EFT purchases take four days to complete. Interac Online purchases are instant.
 
 European users paying with SEPA transfer will receive bitcoin within 1-3 days. 
 

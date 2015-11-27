@@ -356,6 +356,15 @@
    desc_ru: Купить биткоин у местных посредников, онлайн или лично (в "оффлайн"). Сбор в размере 1%.
    desc_uk: Купити біткоін у місцевих посередників, онлайн або особисто (в "оффлайн"). Сбор в размере 1%.
    
+##### VirWox ####################################################  
+
+ - name: VirWoX
+   desc: Buy Second Life Lindens, and trade them for bitcoin. One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a>.  
+   url: http://buybitcoinww.co/bitcoin_virwox
+   icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
+   countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx
+   po: pp, cc, skrill, okpay
+   
 ##### Austria ####################################################   
 
  - name: bitcoinbon
@@ -371,7 +380,7 @@
    url: http://buybitcoinww.co/coinfinity
    icon: https://www.buybitcoinworldwide.com/img/buy/coinfinity.png
    countries: at
-   po: sofort, sepa, sofort
+   po: sofort, sepa
    desc_de: Österreichischer Bitcoin-Broker. Bitcoins mit SOFORT Überweisung oder Banküberweisung kaufen.
 
 ##### France ####################################################
@@ -420,7 +429,7 @@
 ##### Switzerland ####################################################   
 
  - name: Fastcoin.ch
-   desc: Buy with SEPA transfer or bank transfer in Switzerland.  Fast and convenient. 
+   desc: Buy with SEPA transfer or bank transfer in Switzerland. Fast and convenient. 
    url: http://buybitcoinww.co/fast_coin
    icon: https://www.buybitcoinworldwide.com/img/buy/sbex.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb   
@@ -663,16 +672,7 @@
    ar: yes
    desc_ar:  شراء بيتكوين مباشرة من Bits of Gold، أكبر وسيط بيتكوين في إسرائيل.
    desc_ru: Купить биткоин у Bit of Gold, крупнейшего биткоин-брокера в Израиле.
-   desc_uk: Купити біткоіни у Bit of Gold, найбільшого біткоіни-брокера в Ізраїлі.
-   
-##### VirWox ####################################################  
-
- - name: VirWoX
-   desc: Buy Second Life Lindens, and trade them for bitcoin. One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a>.  
-   url: http://buybitcoinww.co/bitcoin_virwox
-   icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
-   countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx
-   po: pp   
+   desc_uk: Купити біткоіни у Bit of Gold, найбільшого біткоіни-брокера в Ізраїлі.  
    
 ##### Egypt ####################################################  
 

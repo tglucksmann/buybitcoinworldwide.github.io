@@ -15,11 +15,43 @@ hide_sidebar: true
 <div class="wallets-centered">
 	{% assign pages = site.exchanges | sort:"weight"  %}
     {% for album in pages reversed %}
+    {% if album.cat contains 'broker' %}
 	<div class="wallet-index-wrap">
 		<a href="{{ album.url | prepend: site.baseurl }}">
         <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/exchanges/" | prepend: site.baseurl }}{{ album.thumb }}">
         <h3 class="ctitle">{{ album.title }}</h3></a>               
     </div>
+    {% endif %}
+     {% endfor %}
+</div>
+
+<h2 class="index-hardware-wallets wallet-index-title"><span>P2P Exchanges</span></h2>
+<div class="wallet-group">P2P Bitcoin exchanges offer escrow services and match buyers and sellers.</div>
+<div class="wallets-centered">
+	{% assign pages = site.exchanges | sort:"weight"  %}
+    {% for album in pages reversed %}
+    {% if album.cat contains 'p2p' %}
+	<div class="wallet-index-wrap">
+		<a href="{{ album.url | prepend: site.baseurl }}">
+        <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/exchanges/" | prepend: site.baseurl }}{{ album.thumb }}">
+        <h3 class="ctitle">{{ album.title }}</h3></a>               
+    </div>
+     {% endif %}
+     {% endfor %}
+</div>
+
+<h2 class="index-hardware-wallets wallet-index-title"><span>Exchanges</span></h2>
+<div class="wallet-group">Bitcoin exchanges user orderbooks to match buyers and sellers. </div>
+<div class="wallets-centered">
+	{% assign pages = site.exchanges | sort:"weight"  %}
+    {% for album in pages reversed %}
+    {% if album.cat contains 'exchange' %}
+	<div class="wallet-index-wrap">
+		<a href="{{ album.url | prepend: site.baseurl }}">
+        <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/exchanges/" | prepend: site.baseurl }}{{ album.thumb }}">
+        <h3 class="ctitle">{{ album.title }}</h3></a>               
+    </div>
+     {% endif %}
      {% endfor %}
 </div>
                         

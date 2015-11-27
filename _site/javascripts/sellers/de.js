@@ -122,6 +122,14 @@
   });
 
   window.sellers.push({
+    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx",
+    methods: "pp, cc, skrill, okpay",
+    hide: "",
+    url: "http://buybitcoinww.co/bitcoin_virwox",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
     countries: "at",
     methods: "cdeu, cdat, cash",
     hide: "",
@@ -131,7 +139,7 @@
 
   window.sellers.push({
     countries: "at",
-    methods: "sofort, sepa, sofort",
+    methods: "sofort, sepa",
     hide: "",
     url: "http://buybitcoinww.co/coinfinity",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/coinfinity\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinfinity.png\" alt=\"Coinfinity\">Coinfinity</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/coinfinity\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Bitcoin kaufen</a>\n		</h4>\n		<p>Österreichischer Bitcoin-Broker. Bitcoins mit SOFORT Überweisung oder Banküberweisung kaufen.</p>\n		<a href=\"http://buybitcoinww.co/coinfinity\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Bitcoin kaufen</a>\n</div>\n\n\n"
@@ -286,14 +294,6 @@
     methods: "bt, cash, cc",
     hide: "",
     url: "https://www.bitsofgold.co.il",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx",
-    methods: "pp",
-    hide: "",
-    url: "http://buybitcoinww.co/bitcoin_virwox",
     html: "      \n\n\n"
   });
 

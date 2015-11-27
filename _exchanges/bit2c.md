@@ -6,6 +6,7 @@ exchange: bit2c
 desc: Bit2C is an Israeli Bitcoin exchange, allowing its users to buy bitcoin via local bank transfer or credit card. 
 thumb: bit2c.png
 lang: en
+cat: exchange
 seotitle: "Bit2C Review: Israel's Largest Bitcoin Exchange"
 website: bit2c.co.il
 website_url: http://buybitcoinww.co/bit2c
@@ -32,25 +33,25 @@ reputation_width: 100
 fees_score: 9
 fees_width: 90
 ---
-Bit2C is an Israeli Bitcoin exchange.
+Bit2C is an Israeli Bitcoin exchange founded in 2013. The exchange is available in four languages: Hebrew, English, Russian, and Arabic. 
 
 ## Payment Methods Accepted
-Bit2C users can buy bitcoin with a credit card or bank transfer. 
+Customers can fund their accounts via credit card or Israeli bank transfer. Deposits via bank transfer are free. Credit card deposits will be charged with a 5% fee. 
 
 ## Supported Countries
 Bit2C is available to residents of Israel. 
 
 ## Privacy
-Bit2C requires full identity verification. Pictures of your I.D. is required. 
+Bit2C requires full identity verification. Pictures of your I.D. are required. 
 
 ## Limits & Liquidity
-Deposits are limited to ₪1,000,000 per day.  
+Deposits are limited to ₪1,000,000 per day. Your Israeli bank may limit the amount you can deposit, but Bit2C has very high limits.  
 
 ## Speed
 Funds deposited via bank transfer will take around 24 hours to be credited to your account. Credit card deposits are instant.  
 
 ## Reputation
-Bit2C is the largest Bitcoin exchange in Israel and fully regulated. 
+Bit2C is the largest Bitcoin exchange in Israel and in full compliance with all regulations. 
 
 ## Fees
 Fees depend on your trading volume, and range from 0.6% per trade, all the way down to 0% per trade. Shekel withdrawals to an Israeli bank account cost ₪60. 

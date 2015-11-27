@@ -27,7 +27,8 @@ include_javascript:
       <label for="payment_method"><i class="fa fa-fw fa-money"></i> Payment Method:</label>
       <select id="payment_method" class="form-control">
         <option value="">All</option>
-        {% for method in site.data.pmethods %}
+        {% assign paymentmethods = (site.data.pmethods | sort: 'pmethod') %}
+        {% for method in paymentmethods %}
           <option value="{{method.short}}">{{method.pmethod}}</option>
         {% endfor %}
       </select>

@@ -11,14 +11,15 @@ website: coinhouse.io
 website_url: http://buybitcoinww.co/coinhouse
 contribute: coinhouse
 location: Paris, France
+cat: broker
 weight: 8
 pro1: Buy bitcoin with a credit card
 pro2: Buy bitcoin with Neosurf prepaid cards
-pro3: After intial verification, bitcoin is delivered instantly
+pro3: After initial verification, bitcoin is delivered instantly
 con1: Fees range from 6-10%
 con2: 
 con3:
-summary: Coinhouse is a Bitcoin broker operated by Ledger, a Bitcoin security company. Coinhouse allows users to buy bitcoin with a 3D secure credit or debit card, or with Neosurf prepaid cards. 
+summary: Coinhouse, based in Paris, France, allows users to buy bitcoin with a 3D secure credit or debit card, or with Neosurf prepaid cards. 
 privacy_score: 1
 privacy_width: 10
 limits_score: 5
@@ -44,10 +45,10 @@ All EU residents may [buy bitcoin with Neosurf](/en/buy-bitcoin-neosurf/).
 Users must provide full identity verification, including a selfie, picture of an ID, and proof of address. 
 
 ## Limits & Liquidity
-After complete account verification, users can buy up to €500 per day, and €2,000. This limit may be increased if requested. 
+After complete account verification, users can buy up to €500 per day, and up to €2,000 per week. This limit may be increased if requested. 
 
 ## Speed
-Delivery of bitcoin is instant. 
+After initial verification, which may take a few hours, delivery of bitcoin is instant. 
 
 ## Reputation
 [Coinhouse](http://buybitcoinww.co/coinhouse){:rel="nofollow"} is a regulated company and follows all KYC and AML laws.  

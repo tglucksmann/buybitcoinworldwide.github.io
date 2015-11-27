@@ -122,6 +122,14 @@
   });
 
   window.sellers.push({
+    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx",
+    methods: "pp, cc, skrill, okpay",
+    hide: "",
+    url: "http://buybitcoinww.co/bitcoin_virwox",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
     countries: "at",
     methods: "cdeu, cdat, cash",
     hide: "",
@@ -131,7 +139,7 @@
 
   window.sellers.push({
     countries: "at",
-    methods: "sofort, sepa, sofort",
+    methods: "sofort, sepa",
     hide: "",
     url: "http://buybitcoinww.co/coinfinity",
     html: "      \n\n\n"
@@ -287,14 +295,6 @@
     hide: "",
     url: "https://www.bitsofgold.co.il",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.bitsofgold.co.il\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitsofgold.png\" alt=\"Bits of Gold\">Bits of Gold</a> \n		<a type=\"button\" href=\"https://www.bitsofgold.co.il\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>شراء بيتكوين مباشرة من Bits of Gold، أكبر وسيط بيتكوين في إسرائيل.</p>\n		<a href=\"https://www.bitsofgold.co.il\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx",
-    methods: "pp",
-    hide: "",
-    url: "http://buybitcoinww.co/bitcoin_virwox",
-    html: "      \n\n\n"
   });
 
   window.sellers.push({

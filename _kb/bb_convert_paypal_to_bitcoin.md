@@ -3,7 +3,7 @@ layout: kb
 lang: en
 author: jordantuwiner
 permalink: "/kb/paypal-to-bitcoin/"
-seotitle: "How to Convert PayPal to Bitcoin"
+seotitle: "PayPal to Bitcoin: Convert your PayPal Funds to BTC"
 title: "How to Convert PayPal to Bitcoin"
 desc: Learn the easiest way to convert your PayPal balance to bitcoin.
 faq: paypaltobitcoin
@@ -100,7 +100,7 @@ The process is the same here. Simply enter the amount of BTC you want to buy and
 
 ## 13. Buy bitcoin!
 
-That's it! You should now see your balance in BTC displayed in the top left of the screen. 
+That's it! You should now see your balance in BTC displayed in the top left of the screen. You've succesfully converted PayPal to bitcoin. 
 
 ![buy bitcoin][13]{: .img-responsive .kb-helper}
 

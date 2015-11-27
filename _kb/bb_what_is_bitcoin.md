@@ -16,6 +16,8 @@ Bitcoin is electronic money which can be securely exchanged over the internet. J
 
 Sending bitcoins is a lot like sending an email. Instead of messages, money can be rapidly sent to any registered address. Like email, no special knowledge is required. Basic computer or smartphone skills are all it takes to use Bitcoin. And as long as you keep your passwords safe, nobody else can access your bitcoins.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gc2en3nHxA4" frameborder="0" allowfullscreen></iframe>
+<br />
 Bitcoin is called many things: **peer-to-peer currency** (as it runs on a network protocol where users connect only to other users), **digital cash** (as it’s directly transferred to your trading partner), **private money** (as it’s issued and verified by network users) and **cryptocurrency** (as it’s secured by [cryptography](https://en.wikipedia.org/wiki/Cryptography)).
 
 ## What Bitcoin Does and How
@@ -64,7 +66,7 @@ The lead developers can’t change Bitcoin’s code without consensus from the c
 
 ## Is Bitcoin Legal?
 
-There are very few nations which outright ban Bitcoin. It’s entirely unregulated in many countries. Those nations which do regulate it generally use a light touch. Consult [this list](https://en.wikipedia.org/wiki/Legality_of_Bitcoins_by_country) for further details.
+There are very few nations which outright ban Bitcoin. It’s entirely unregulated in many countries. Those nations which do regulate it generally use a light touch. Consult [this list](https://en.wikipedia.org/wiki/Legality_of_Bitcoins_by_country){:rel="nofollow"} for further details.
 
 ## Is Bitcoin a Scam or Ponzi Scheme?
 
@@ -78,9 +80,9 @@ This website exists to help you find the most convenient option for your locatio
 
 There are 3 standard ways to get Bitcoin:
 
-1.  Purchase from a variety of exchanges around the world. One of the most popular exchanges for North Americans and Europeans is [Coinbase](http://buybitcoinww.co/buycoinbase), which makes the buying process simple for new users.
+1.  Purchase from a variety of exchanges around the world. One of the most popular exchanges for North Americans and Europeans is [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"}, which makes the buying process simple for new users.
 
-2.  Buy directly from Bitcoin holders, aided by services like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins).
+2.  Buy directly from Bitcoin holders, aided by services like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"}.
 
 3.  Sell goods or provide services for Bitcoin.
 

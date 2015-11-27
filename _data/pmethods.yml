@@ -25,6 +25,15 @@
  - pmethod: AstroPay
    short: astro
    
+ - pmethod: OKPAY
+   short: okpay 
+   
+ - pmethod: Skrill
+   short: skrill
+
+ - pmethod: Interac Online
+   short: io
+   
  - pmethod: webmoney.ru
    short: wmru
    
@@ -32,4 +41,7 @@
    short: mpesa  
  
  - pmethod: Neosurf
-   short: neosurf     
+   short: neosurf   
+   
+ - pmethod: PerfectMoney
+   short: perfectmoney     

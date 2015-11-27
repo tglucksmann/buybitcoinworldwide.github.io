@@ -15,6 +15,8 @@ weight: 9
 ---
 For someone to store and transact bitcoin, they must own a [Bitcoin wallet](/wallets/). Although the analogy of a wallet may seem like a good fit for a digital currency, the reality is that a normal, physical cash wallet is quite different from a Bitcoin wallet. These two objects protect different types of property. In fact, some would argue that a Bitcoin wallet holds no money in it whatsoever.
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/WGpatcqhArU" frameborder="0" allowfullscreen></iframe>
+
 ## Storing Private Keys
 
 The object that a Bitcoin user needs to secure is not their bitcoin, but the private keys that unlock their bitcoin on the blockchain. With a Bitcoin wallet, no bitcoin is stored on the local computer or in a bank somewhere. All bitcoin exists on the decentralized ledger, known as the Bitcoin blockchain.

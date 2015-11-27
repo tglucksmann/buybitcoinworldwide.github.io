@@ -122,6 +122,14 @@
   });
 
   window.sellers.push({
+    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx",
+    methods: "pp, cc, skrill, okpay",
+    hide: "",
+    url: "http://buybitcoinww.co/bitcoin_virwox",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
     countries: "at",
     methods: "cdeu, cdat, cash",
     hide: "",
@@ -131,7 +139,7 @@
 
   window.sellers.push({
     countries: "at",
-    methods: "sofort, sepa, sofort",
+    methods: "sofort, sepa",
     hide: "",
     url: "http://buybitcoinww.co/coinfinity",
     html: "      \n\n\n"
@@ -286,14 +294,6 @@
     methods: "bt, cash, cc",
     hide: "",
     url: "https://www.bitsofgold.co.il",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx",
-    methods: "pp",
-    hide: "",
-    url: "http://buybitcoinww.co/bitcoin_virwox",
     html: "      \n\n\n"
   });
 

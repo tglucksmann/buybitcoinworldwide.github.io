@@ -122,6 +122,14 @@
   });
 
   window.sellers.push({
+    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx",
+    methods: "pp, cc, skrill, okpay",
+    hide: "",
+    url: "http://buybitcoinww.co/bitcoin_virwox",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/virwox.png\" alt=\"VirWoX\">VirWoX</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy Second Life Lindens, and trade them for bitcoin. One of the few ways to <a href=\"/en/buy-bitcoin-paypal/\">buy bitcoin with PayPal</a>.</p>\n		<a href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
     countries: "at",
     methods: "cdeu, cdat, cash",
     hide: "",
@@ -131,7 +139,7 @@
 
   window.sellers.push({
     countries: "at",
-    methods: "sofort, sepa, sofort",
+    methods: "sofort, sepa",
     hide: "",
     url: "http://buybitcoinww.co/coinfinity",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/coinfinity\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinfinity.png\" alt=\"Coinfinity\">Coinfinity</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/coinfinity\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Austrian Bitcoin broker. Buy bitcoin via SEPA transfer or SOFORT.</p>\n		<a href=\"http://buybitcoinww.co/coinfinity\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
@@ -158,7 +166,7 @@
     methods: "sepa, sofort",
     hide: "",
     url: "http://buybitcoinww.co/fast_coin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/sbex.png\" alt=\"Fastcoin.ch\">Fastcoin.ch</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy with SEPA transfer or bank transfer in Switzerland.  Fast and convenient.</p>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/sbex.png\" alt=\"Fastcoin.ch\">Fastcoin.ch</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy with SEPA transfer or bank transfer in Switzerland. Fast and convenient.</p>\n		<a href=\"http://buybitcoinww.co/fast_coin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -287,14 +295,6 @@
     hide: "",
     url: "https://www.bitsofgold.co.il",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.bitsofgold.co.il\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitsofgold.png\" alt=\"Bits of Gold\">Bits of Gold</a> \n		<a type=\"button\" href=\"https://www.bitsofgold.co.il\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy Bitcoin directly from Bits of Gold, the largest Bitcoin broker in Israel.</p>\n		<a href=\"https://www.bitsofgold.co.il\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx",
-    methods: "pp",
-    hide: "",
-    url: "http://buybitcoinww.co/bitcoin_virwox",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/virwox.png\" alt=\"VirWoX\">VirWoX</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy Second Life Lindens, and trade them for bitcoin. One of the few ways to <a href=\"/en/buy-bitcoin-paypal/\">buy bitcoin with PayPal</a>.</p>\n		<a href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({

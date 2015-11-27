@@ -6,6 +6,7 @@ exchange: circle
 desc: Circle is a Bitcoin broker offering its services in the United States. Customers can buy bitcoin with a bank account, credit card, or debit card.
 thumb: circle.png
 lang: en
+cat: broker
 seotitle: "Review: Circle, Bitcoin Broker with Great Rates"
 website: circle.com
 website_url: http://buybitcoinww.co/buy_circle
@@ -20,7 +21,7 @@ pro3: Easy way for new users to buy bitcoin
 con1: Limited to $300 worth of purchases per week
 con2: Some customers may be able to raise limit to $3,000 per week
 con3: Sends count towards buying limit
-summary: Circle is a Bitcoin broker and Bitcoin wallet platform.
+summary: Circle is a Bitcoin broker offering its services in the United States. Customers can buy bitcoin with a bank account, credit card, or debit card.
 privacy_score: 1
 privacy_width: 10
 limits_score: 3
@@ -34,8 +35,10 @@ fees_width: 100
 ---
 Circle is a Bitcoin broker and [Bitcoin wallet](/wallets/) platform. This page reviews Circles Bitcoin brokerage services (go here to see a [review of Circle's Bitcoin wallet](/wallets/circle/)).
 
+Founded in 2013, Circle is a digital money company. Its goal is to make the transfer of money easier and cheaper.  
+
 ## Payment Methods Accepted
-Circle accepts three payment methods: bank account (ACH transfer), credit card, or debit card. 
+Circle accepts three payment methods: bank account (ACH transfer), credit card, or debit card. There are no fees when paying with a debit card or [ACH bank transfer](/en/buy-bitcoin-ach-bank-transfer-united-states/). There is a 3% fee for purchases made with a credit card.   
 
 ## Privacy
 Circle requires identity verification and personal details. 

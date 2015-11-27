@@ -351,9 +351,14 @@ html, body {
 	color: #e6e6e6;
 }
 
-.navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-brand {
+.navbar-inverse .navbar-brand {
     color: #fff;
     font-weight: 300;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    font-weight: 400;
 }
 
 .navbar-nav > li > a {

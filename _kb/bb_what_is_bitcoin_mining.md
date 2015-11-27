@@ -15,6 +15,8 @@ weight: 9
 ---
 If “mining” sounds like a process which extracts value from Bitcoin, nothing could be further from the truth! Miners are the backbone of the Bitcoin network. Without miners, the network would collapse and lose all value. The role of miners is to secure the network and to process every Bitcoin transaction. Miners achieve this by solving a computational problem which allows them to chain together _blocks_ of transactions (hence Bitcoin’s famous “blockchain”). For this service, miners are rewarded with newly-created Bitcoins and transaction fees.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
+
 ## The Blockchain
 
 To understand mining, it’s first necessary to understand the Bitcoin blockchain. All Bitcoin transactions are recorded in the blockchain, in a linear, time-stamped series of bundled transactions known as _blocks._ The blockchain is essentially a public ledger, which is freely shared, continually updated and under no central control.
