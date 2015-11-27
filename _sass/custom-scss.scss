@@ -270,9 +270,6 @@ html, body {
 .index-continent-menu li {
     margin: 7px 3px !important;
 }
-.navbar-nav {
-    float: left !important;
-}
 .footer-right {
 		margin: 15px 0 0;
 	}
@@ -328,7 +325,7 @@ html, body {
     
 }
 
-@media (max-width: 948px) { 
+@media (max-width: 968px) { 
 	.navbar-nav {
 		float: left !important;
 	}
@@ -1417,6 +1414,10 @@ blockquote {
 
 .single-rating {
 	margin-bottom: 12px;
+}
+
+.kb-medium-img {
+	max-width: 450px;
 }
 
 .exchange-summary {
