@@ -64,7 +64,6 @@
  - country: Mexico
    short: mx
    na: yes
-   pop: yes
    es: yes
    country_es: México
    ar: yes
@@ -341,7 +340,6 @@
  - country: Greece
    short: gr
    eu: yes  
-   pop: yes
    es: yes
    country_es: Grecia
    it: yes
@@ -613,7 +611,6 @@
  - country: Sweden
    short: se
    eu: yes    
-   pop: yes 
    es: yes
    country_es: Suecia
    ar: yes
@@ -686,7 +683,6 @@
  - country: Argentina
    short: ar
    sa: yes
-   pop: yes
    es: yes
    country_es: Argentina
    ar: yes
@@ -1031,7 +1027,6 @@
  - country: Hong Kong
    short: hk
    as: yes  
-   pop: yes
    zh: yes
    country_zh: 香港
 
@@ -1052,8 +1047,8 @@
 
  - country: Japan
    short: jp
-   pop: yes
    as: yes
+   pop: yes
    zh: yes
    country_zh: 日本
 
@@ -1118,7 +1113,6 @@
  - country: Philippines
    short: ph
    as: yes
-   pop: yes
 
  - country: Singapore
    short: sg
@@ -1129,7 +1123,6 @@
 
  - country: South Korea
    short: kr
-   pop: yes
    as: yes
 
  - country: Sri Lanka
@@ -1153,7 +1146,6 @@
  - country: Thailand
    short: th
    as: yes
-   pop: yes
    zh: yes
    country_zh: 泰国
 

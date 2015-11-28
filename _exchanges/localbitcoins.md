@@ -33,6 +33,11 @@ fees_width: 90
 ---
 [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} is a P2P Bitcoin exchange. Buyers and sellers agree on trade terms, and LocalBitcoins is used as escrow. 
 
+The average buy price on [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} is usually 5-10% higher than the average global rate. 
+
+The difference between Local Bitcoins and most exchanges is that [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} does not require personal information when making trades. Unlike other exchanges, which require ID verification and personal information, Local Bitcoins allows you to buy bitcoin without connecting your name to the bitcoin you’re buying. The 5-10% premium is simply the cost people are willing to pay for privacy when buying bitcoins. 
+
+
 ## Payment Methods Accepted
 LocalBitcoins users are free to accept any payment methods. The payment methods available to buyers will depend on what's available in your area. 
 
@@ -56,15 +61,3 @@ LocalBitcoins was one of the first P2P Bitcoin exchanges, and the largest one to
 
 ## Customer Support
 LocalBitcoins offers support via [email](https://localbitcoins.com/support/request/?indicator=4). 
-
-## Frequently Asked Questions
-
-**Why does Local Bitcoins have a higher price than other exchanges?**
-
-The average buy price on [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} is usually 5-10% higher than the average global rate. 
-
-The difference between Local Bitcoins and most exchanges is that [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} does not require personal information when making trades. Unlike other exchanges, which require ID verification and personal information, Local Bitcoins allows you to buy bitcoin without connecting your name to the bitcoin you’re buying. 
-
-The 5-10% premium is simply the cost people are willing to pay for privacy when buying bitcoins. 
-
-

@@ -3,7 +3,7 @@
    url: /en/buy-bitcoin-credit-debit-card/
    desc: Buy bitcoin online with a credit or debit card.  
    
- - pmethod: ACH Bank Transfer
+ - pmethod: ACH Transfer
    icon: bank
    url: /en/buy-bitcoin-ach-bank-transfer-united-states/
    desc: Buy bitcoin online via ACH bank transfer.  

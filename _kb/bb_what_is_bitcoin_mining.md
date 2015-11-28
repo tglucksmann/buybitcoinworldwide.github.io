@@ -23,7 +23,7 @@ To understand mining, it’s first necessary to understand the Bitcoin blockchai
 
 ## Isn’t Mining a Waste of Electricity?
 
-Certain orthodox economists have criticized mining as wasteful. It must be kept in mind however that this electricity is expended on useful work: enabling a monetary network worth billions (and potentially trillions) of dollars! Compared to the carbon emissions from just the cars of PayPal’s employees as they commute to work, Bitcoin’s environmental impact is negligible. As Bitcoin could easily replace PayPal, credit card companies, banks and the bureaucrats who regulate them all, it begs the question: isn’t traditional finance a waste? Not just of electricity, but of money, time and human resources!
+Certain orthodox economists have criticized mining as wasteful. It must be kept in mind however that this electricity is expended on useful work: enabling a monetary network worth billions (and potentially trillions) of dollars! Compared to the carbon emissions from just the cars of PayPal’s employees as they commute to work, Bitcoin’s environmental impact is negligible. As Bitcoin could easily replace [PayPal](/en/buy-bitcoin-paypal/), credit card companies, banks and the bureaucrats who regulate them all, it begs the question: isn’t traditional finance a waste? Not just of electricity, but of money, time and human resources!
 
 ## The Mining Process
 

@@ -48,20 +48,54 @@ home: yes
 </div>
 <hr>
 
+<h2 class="home-featured-header">Popular Guides and Articles</h2>
+<h4 class="all-countries"><a href="/kb/">View All Articles &#155;</a></h4>
+<div class="container-fluid advantages">
+<div class="row">
+<div class="col-md-4 col-sm-6 col-xs-12">
+<img src="/img/kbindex/beginners.png">
+<div class="advantage-desc"><b><a href="/kb/how-to-buy-bitcoin/">How to Buy Bitcoin</a></b><br> A step-by-step guide that shows you how to buy bitcoin.</div> 
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12">
+<img src="/img/kbindex/investment.png"> 
+<div class="advantage-desc"><b><a href="/kb/investing-in-bitcoin/">Investing in Bitcoin</a></b><br> Why Bitcoin needs to be taken seriously as an investment.</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12">
+<img src="/img/kbindex/general.png">
+<div class="advantage-desc"><b><a href="/kb/beginners-guide-to-bitcoin/">Beginner's Guide to Bitcoin</a></b><br> Learn the basics of Bitcoin: how to use it and how it works.</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12">
+<img src="/img/kbindex/secure.png">
+<div class="advantage-desc"><b><a href="/kb/how-to-store-and-protect-bitcoins/">How to Store Bitcoins</a></b><br>Learn the basics of Bitcoin security and how to store your bitcoins.</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12">
+<img src="/img/kbindex/piggy.png">
+<div class="advantage-desc"><b><a href="/kb/what-is-a-bitcoin-wallet/">What is a Bitcoin Wallet?</a></b><br> Without a Bitcoin wallet, you can’t receive, store, or spend bitcoins. </div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12">
+<img src="/img/kbindex/economics.png">
+<div class="advantage-desc"><b><a href="/kb/is-bitcoin-money/">Is Bitcoin Money?</a></b><br>A brief overview of money and why Bitcoin fits the bill.</div>
+</div>
+</div>
+</div>
+<hr>
+
 <h2 class="home-featured-header">Buy Bitcoin with these Popular Payment Methods</h2>
-<h4 class="all-countries"><a href="/en/payment-methods/">View All Payment Methods &#155;</a></h4>
+<h4 class="all-countries"><a href="/coinfind/">View All Payment Methods &#155;</a></h4>
 <div class="container">
 <div class="row">
 <div class="pmethods-index">
 {% for pmethod in site.data.paymentmethods %}
-	<a class="col-md-4 col-sm-6" href="{{ pmethod.url }}">
+	<a class="col-md-2 col-sm-4" href="{{ pmethod.url }}">
 	<i class="fa fa-4x fa-{{ pmethod.icon }}"></i>
 	<div class="payment-method">{{ pmethod.pmethod }}</div>
-	<div class="payment-method-desc">{{ pmethod.desc }}</div>
 	</a>	
 {% endfor %}	
 </div>
 </div>
+</div>
+
+
 </div>
 
 </div>

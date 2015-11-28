@@ -20,7 +20,7 @@ People view Bitcoin as "digital gold". Many believe its scarcity and utility wil
 ## Buying Online
 In many cases customers can save money by using bitcoin over other payment methods. Merchants save money by accepting Bitcoin instead of credit cards, which can save them 2-3% on each transaction. These savings are often passed on to customers. 
 
-At [Purse.io](http://buybitcoinww.co/purse_io){:rel="nofollow"} you can use Bitcoin to get a discount of up to 25% on anything from Amazon.com. [Gyft](https://www.gyft.com/){:rel="nofollow"} is a gift card reseller and gives you 3% back on each purchase made with Bitcoin, compared to 2% for PayPal and only 1% with credit or debit card. 
+At [Purse.io](http://buybitcoinww.co/purse_io){:rel="nofollow"} you can use Bitcoin to get a discount of up to 25% on anything from Amazon.com. [Gyft](https://www.gyft.com/){:rel="nofollow"} is a gift card reseller and gives you 3% back on each purchase made with Bitcoin, compared to 2% for [PayPal](/en/buy-bitcoin-paypal/) and only 1% with credit or debit card. 
 
 ## Security
 Bitcoin transactions are “push” transactions, while credit card transactions are “pull” transactions. Every time you swipe your credit card, you must trust that the merchant will keep your card information secure. With Bitcoin, you simply send bitcoin to an address and the merchant receives no other information—only bitcoin. 
