@@ -36,7 +36,17 @@ fees_width: 90
 Bit2C is an Israeli Bitcoin exchange founded in 2013. The exchange is available in four languages: Hebrew, English, Russian, and Arabic. 
 
 ## Payment Methods Accepted
-Customers can fund their accounts via credit card or Israeli bank transfer. Deposits via bank transfer are free. Credit card deposits will be charged with a 5% fee. 
+
+{::options parse_block_html="true" /}
+<div class="table-responsive">
+
+| Payment Method | Funds Available | Currency            | Fees |
+|----------------|-----------------|---------------------|------|
+| Credit Card    | immediately     | NIS                 | 5%   |
+| Bank Transfer  | within 2 days   | NIS                 | free |
+{:.table-striped .table-bordered .table-hover .exchange-pmethods-table}
+
+</div>
 
 ## Supported Countries
 Bit2C is available to residents of Israel. 

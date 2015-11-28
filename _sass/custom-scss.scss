@@ -377,6 +377,25 @@ html, body {
 }
 }
 
+.exchange-content .table-responsive {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.exchange-pmethods-table {
+    font-size: 16px;
+    text-align: center;
+    width: 100%;
+}
+
+.exchange-pmethods-table td, .exchange-pmethods-table th {
+	padding: 5px !important;
+}
+
+.exchange-pmethods-table th {
+	text-align: center;
+}
+
 .guides-exchange li {
     clear: both;
     color: #ccc;

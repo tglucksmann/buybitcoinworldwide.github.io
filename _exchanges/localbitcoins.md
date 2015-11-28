@@ -3,7 +3,7 @@ layout: exchange
 title:  "LocalBitcoins"
 permalink: /exchanges/localbitcoins/
 exchange: localbitcoins
-desc: 
+desc: LocalBitcoins is a P2P Bitcoin exchange. Buyers and sellers agree on trade terms, and LocalBitcoins is used as escrow.
 thumb: localbitcoins.png
 lang: en
 seotitle: "LocalBitcoins Review: Fast, Private, and Easy"
@@ -59,11 +59,9 @@ LocalBitcoins offers support via [email](https://localbitcoins.com/support/reque
 
 ## Frequently Asked Questions
 
-#### Why does Local Bitcoins have a higher price than other exchanges?
+**Why does Local Bitcoins have a higher price than other exchanges?**
 
-[LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} provides a fast and easy way to buy bitcoins. 
-
-The average buy price on Local Bitcoins is usually 5-10% higher than the average global rate. 
+The average buy price on [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} is usually 5-10% higher than the average global rate. 
 
 The difference between Local Bitcoins and most exchanges is that [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} does not require personal information when making trades. Unlike other exchanges, which require ID verification and personal information, Local Bitcoins allows you to buy bitcoin without connecting your name to the bitcoin you’re buying. 
 

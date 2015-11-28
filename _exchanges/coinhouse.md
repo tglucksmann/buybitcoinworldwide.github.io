@@ -34,7 +34,18 @@ fees_width: 70
 Coinhouse is a Bitcoin broker operated by Ledger, a Bitcoin security company. Coinhouse allows users to buy bitcoin with a 3D secure credit or debit card, or with Neosurf prepaid cards. 
 
 ## Payment Methods Accepted
-[Coinhouse](http://buybitcoinww.co/coinhouse){:rel="nofollow"} users can [buy bitcoin with a credit card](/en/buy-bitcoin-credit-debit-card/) or Neosurf prepaid card.  
+
+{::options parse_block_html="true" /}
+<div class="table-responsive">
+
+| Payment Method | Funds Available | Currencies Accepted | Fees  |
+|----------------|-----------------|---------------------|-------|
+| 3D Secure Credit Card    | immediately     | EUR                 | 6-10% |
+| 3D Secure Debit Card     | immediately     | EUR                 | 6-10% |
+| Neosurf                  | immediately     | EUR                 | 17%   |
+{:.table-striped .table-bordered .table-hover .exchange-pmethods-table}
+
+</div>
 
 ## Supported Countries
 At this time, only citizens of [France](/en/fr/) can buy bitcoin with a credit card at Coinhouse. Coinhouse plans to allow all European users to buy bitcoin with a credit card in early 2016. 

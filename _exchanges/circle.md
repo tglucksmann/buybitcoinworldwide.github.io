@@ -38,7 +38,18 @@ Circle is a Bitcoin broker and [Bitcoin wallet](/wallets/) platform. This page r
 Founded in 2013, Circle is a digital money company. Its goal is to make the transfer of money easier and cheaper.  
 
 ## Payment Methods Accepted
-Circle accepts three payment methods: bank account (ACH transfer), credit card, or debit card. There are no fees when paying with a debit card or [ACH bank transfer](/en/buy-bitcoin-ach-bank-transfer-united-states/). There is a 3% fee for purchases made with a credit card.   
+
+{::options parse_block_html="true" /}
+<div class="table-responsive">
+
+| Payment Method | Funds Available | Currency | Fees |
+|----------------|-----------------|----------|------|
+| Credit Card    | instant         | USD      | 3%   |
+| Debit Card     | instant         | USD      | free |
+| Bank Transfer  | 3-5 days        | USD      | free |
+{:.table-striped .table-bordered .table-hover .exchange-pmethods-table}
+
+</div>
 
 ## Privacy
 Circle requires identity verification and personal details. 
