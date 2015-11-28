@@ -24,7 +24,7 @@ One of the most basic rules when using Bitcoin is to make sure you have control 
 
 The wallet you should use depends on your needs. Users in need of secure, long term storage should use a paper wallet, or a hardware wallet like [TREZOR](/wallets/trezor/) or [Ledger Nano](/wallets/ledger-nano/). If you intend to make frequent Bitcoin transactions, a hot wallet is slightly less secure but better for day-to-day transactions. Read our guide on [how to store bitcoins](/kb/how-to-store-and-protect-bitcoins/) for more details. It’s up to you to decide which wallet fits your needs. 
 
-Before you buy bitcoins, we’ll say it again: have a plan, secure your bitcoins, and don’t store them with third parties!
+Before you buy bitcoins, we’ll say it again: have a plan, secure your bitcoins, and don’t store them with third parties! If the whole idea of a Bitcoin wallet is still confusing, read our post: [What is a Bitcoin wallet?](/kb/what-is-a-bitcoin-wallet/)
 
 ## Find an Exchange
 
@@ -64,7 +64,7 @@ You can use our [CoinFind](/coinfind/) tool to find an exchange in your country.
 
 **Fees –** How much does the exchange charge for its services? ATMs have the highest fees at about 7% per transaction. Brokers and P2P exchanges usually charge a flat fee of around 1%. Exchanges generally have the lowest fees at about 0.2-0.5% per trade. 
 
-**Payment Method –** How can pay for the bitcoins? We cover this in depth in the next section.
+**Payment Method –** How can you pay for the bitcoins? We cover this in depth in the next section.
 
 ## Payment Methods
 
@@ -109,7 +109,7 @@ There are many scams related to Bitcoin. These scammers target new Bitcoiners an
 
 ![physical bitcoins](/img/icons/paypal.png){: .img-responsive .halfimg-right }
 
-Physical bitcoins are physical, metal coins with a Bitcoin private key embedded inside. While this sounds like a good idea, it requires that you place trust in the creator of the physical bitcoin. The creator of the physical bitcoin could create two copies of the private key; keep one for himself, and give one to you. If you intend to save your physical bitcoin, the creator could at anytime steal the funds and leave you with nothing. 
+Physical bitcoins are physical, metal coins with a Bitcoin private key embedded inside. While this sounds like a good idea, you must trust the creator of the physical bitcoin. The creator could create two copies of the private key; keep one for himself, and give one to you. If you intend to save your physical bitcoin, the creator could at anytime steal the funds and leave you with nothing. It's best to stay way from physical bitcoins.
 
 ## Move your Bitcoins
 

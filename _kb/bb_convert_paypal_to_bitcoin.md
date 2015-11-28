@@ -14,15 +14,15 @@ weight: 1
 ---
 PayPal is the most common way to pay online. It seems there should be an easy way to [buy bitcoin with PayPal](/en/buy-bitcoin-paypal/), but there isn't. PayPal actually forbids the sale of bitcoins for PayPal merchants. Because Bitcoin transactions are irreversible and PayPal transactions are reversible, there would be a very high fraud rate for anyone selling bitcoins for PayPal. 
 
-We're going to show you the easiest way to convert your PayPal balance to bitcoin: [VirWox](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"}. Using VirWox you’ll end up paying around 9% in fees, but keep in mind this is the cheapest way to convert PayPal to bitcoin. You may need to wait a couple days after opening an account before you can use this method; read more [here](https://www.virwox.com/help.php?r=fbbb7#_Levels_and_Limits){:rel="nofollow"}. 
+We're going to show you the easiest way to convert your PayPal balance to bitcoin: [VirWoX](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"}. Using VirWoX you’ll end up paying around 9% in fees, but keep in mind this is the cheapest way to convert PayPal to bitcoin. You may need to wait a couple days after opening an account before you can use this method; read more [here](https://www.virwox.com/help.php?r=fbbb7#_Levels_and_Limits){:rel="nofollow"}. 
 
-[VirWox](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"} stands for Virtual World Exchange, and mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can't [buy bitcoin](/) with PayPal directly at [VirWox](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"}, but it's possible to first buy Second Life Lindens (SLL) and then trade your Second Life Lindens for Bitcoin.
+[VirWoX](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"} stands for Virtual World Exchange, and mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can't [buy bitcoin](/) with PayPal directly at [VirWoX](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"}, but it's possible to first buy Second Life Lindens (SLL) and then trade your Second Life Lindens for Bitcoin.
 
-## 1. [Open an account](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"} on [VirWox](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"}
+## 1. [Open an account](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"} on [VirWoX](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"}
 
 From the home page, click on "Not registered yet?"
 
-![register VirWox][1]{: .img-responsive .kb-helper}
+![register VirWoX][1]{: .img-responsive .kb-helper}
 
 ## 2. Enter the details for your account
 
@@ -68,9 +68,9 @@ Sign in to PayPal.
 
 ![login to paypal][8]{: .img-responsive .kb-helper}
 
-## 9. Verify acccount balance
+## 9. Verify account balance
 
-If you followed PayPal's directions succesfully, you should now see a balance in your VirWox account. Note that the amount displayed in your VirWox account may be slightly less than the amount you entered in step 7. This is because PayPal charges a 2.9% + $0.30 fee per deposit. 
+If you followed PayPal's directions successfully, you should now see a balance in your VirWoX account. Note that the amount displayed in your VirWoX account may be slightly less than the amount you entered in step 7. This is because PayPal charges a 2.9% + $0.30 fee per deposit. 
 
 After this, click on "USD/SLL". If you deposited with Euro then click "EUR/SLL". 
 
