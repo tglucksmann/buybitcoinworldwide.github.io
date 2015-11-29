@@ -99,17 +99,20 @@ html, body {
 
 .kb-article .sidebar-add li {
 	padding: 4px 0;
+	clear: both;
 }
 
 .kb-article .sidebar-add .fa {
-    display: inline-block;
-    margin-right: 5px;
+    float: left;
+    margin-right: 4px;
+    margin-top: 5px;
 }
 
 .kb-article .sidebar-add ul a {
     color: #536066;
-    display: inline-table;
+    display: inline-block;
     font-weight: 400;
+    margin-left: 8px;
     width: 86%;
 }
 
@@ -384,6 +387,10 @@ html, body {
 
 .home-page-cont .advantages {
     margin-top: 0px;
+}
+
+.home-page-cont .advantages a {
+    color: #555;
 }
 
 .exchange-pmethods-table {

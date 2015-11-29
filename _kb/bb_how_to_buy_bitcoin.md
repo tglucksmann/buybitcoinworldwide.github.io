@@ -3,7 +3,7 @@ layout: kb
 lang: en
 author: jordantuwiner
 permalink: "/kb/how-to-buy-bitcoin/"
-seotitle: "How to Buy Bitcoin Made Simple: A Step-by-Step Guide"
+seotitle: "How to Buy Bitcoin: A Step-by-Step Guide"
 title: "How to Buy Bitcoin"
 desc: This step-by-step guide teaches you how to buy bitcoin. Learn how to find the right Bitcoin exchange and get your first bitcoins today.   
 faq: howtobuybitcoin
@@ -44,7 +44,7 @@ You can use our [CoinFind](/coinfind/) tool to find an exchange in your country.
 
 **P2P Exchanges –** Exchanges like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} are escrow services that simply match users. Buyers and sellers are free to agree on a price and payment method, and LocalBitcoins ensures that neither party is scammed by holding the payments in escrow until the trade is complete. Other examples of P2P exchanges include [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"}. 
 
-**ATMs –** Bitcoin ATMs let you buy bitcoin with cash. You simply insert cash into the machine, and get bitcoins sent to your wallet. Some ATMs require personal information, some none. Use [CoinATM Radar](http://coinatmradar.com/) to find a Bitcoin ATM near you. 
+**ATMs –** Bitcoin ATMs let you buy bitcoin with cash. You simply insert cash into the machine, and get bitcoins sent to your wallet. Some ATMs require personal information, some none. Use [Coin ATM Radar](http://coinatmradar.com/) to find a Bitcoin ATM near you. 
 
 ## Things to Consider 
 
@@ -54,7 +54,7 @@ You can use our [CoinFind](/coinfind/) tool to find an exchange in your country.
 
 **Amount –** If you need to buy a large amount of bitcoins then you’ll have to look at big brokers or exchanges, like [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} or [BitStamp](http://buybitcoinww.co/buy_bitstamp){:rel="nofollow"}. These exchanges handle high volumes and offer lots of liquidity. 
 
-**Speed –** How fast do you need access to your bitcoins? Bitcoin ATMs can be the fastest way to buy bitcoin if you’re lucky enough to have one in your area. P2P options like [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"} or [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} can be a good way to buy small amounts fast. Some brokers, like [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} and [Circle](http://buybitcoinww.co/buy_circle){:rel="nofollow"}, offer instant buys with bank transfer, credit card, or debit card. 
+**Speed –** How fast do you need access to your bitcoins? Do you need to [buy bitcoin instantly](/kb/buy-bitcoin-instantly/)? Bitcoin ATMs can be the fastest way to buy bitcoin if you’re lucky enough to have one in your area. P2P options like [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"} or [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} can be a good way to buy small amounts fast. Some brokers, like [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} and [Circle](http://buybitcoinww.co/buy_circle){:rel="nofollow"}, offer instant buys with bank transfer, credit card, or debit card. 
 
 **Exchange Rate** – There is no official Bitcoin price. Bitcoin exchanges are used to get an accurate idea of the price of bitcoin. So, naturally, Bitcoin exchanges usually have the best exchange rate. Bitcoin brokers buy bitcoin from exchanges and sell them. So, while Bitcoin brokers will generally offer you a price close to that of Bitcoin exchanges, there will usually be a fee on top. Use [BitcoinAverage](http://bitcoinaverage.com/) or [CoinDesk](http://coindesk.com/price) to see the average price of Bitcoin.  
 
@@ -80,7 +80,7 @@ In order to buy bitcoins, you’ll need to exchange your local currency, like th
 
 **Bitcoin ATMs –** There are many companies that make Bitcoin ATMs, and each model has different features. For example, some Bitcoin ATMs simply let you insert cash and get bitcoins, without identity verification. This is a good way to buy bitcoin privately. Some ATMs require a picture of a government issued ID and a fingerprint scan. The downside to buying bitcoin from a Bitcoin ATM is that most Bitcoin ATMs have high markups on both the buy and sell side (usually 3-7%), and you’re often limited to a very small amount of bitcoin. However, this is the price people are willing to pay to buy bitcoins privately. Use [Coin ATM Radar](http://coinatmradar.com/) to find a Bitcoin ATM near you. 
 
-**PayPal –** There is no way to directly [buy bitcoins with PayPal](/kb/paypal-to-bitcoin/). Under PayPal’s terms and conditions merchants are not allowed to sell bitcoins for PayPal. However, there are a few hacks to get around this. You can buy other digital items with PayPal and sell those items for bitcoin. For example, at [VirWoX](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"} you can buy Second Life Lindens, another digital currency, and exchange the Lindens for bitcoin. Read our guide on converting your [PayPal balance to bitcoin](/kb/paypal-to-bitcoin/). Keep in mind that buying bitcoin with PayPal usually comes with an even higher markup than Bitcoin ATMs or credit cards and is not recommended. 
+**PayPal –** There is no way to directly [buy bitcoins with PayPal](/en/buy-bitcoin-paypal/). Under PayPal’s terms and conditions merchants are not allowed to sell bitcoins for PayPal. However, there are a few hacks to get around this. You can buy other digital items with PayPal and sell those items for bitcoin. For example, at [VirWoX](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"} you can buy Second Life Lindens, another digital currency, and exchange the Lindens for bitcoin. Read our guide on converting your [PayPal balance to bitcoin](/kb/paypal-to-bitcoin/). Keep in mind that buying bitcoin with PayPal usually comes with an even higher markup than Bitcoin ATMs or credit cards and is not recommended. 
 
 ## Things to Remember
 
