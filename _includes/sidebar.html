@@ -2,35 +2,19 @@
 
   <div class="pmethods-sidebar">
 
-		<a href="/en/buy-bitcoin-credit-debit-card/"><div class="sidebar-image-wrap"><img src="/img/icons/ccus.jpg"></div>
-		<h4 class="help-article-title">Credit/Debit Card</h4></a>
-	
-		<a href="/en/buy-bitcoin-ach-bank-transfer-united-states/"><div class="sidebar-image-wrap"><img src="/img/icons/ach.png"></div>
-		<h4 class="help-article-title">ACH Bank Transfer</h4></a>
-	
-		<a href="/en/buy-bitcoin-paypal/"><div class="sidebar-image-wrap"><img src="/img/icons/paypal.png"></div>
-		<h4 class="help-article-title">PayPal</h4></a>
-
-		<a href="/en/buy-bitcoin-cash-deposit-united-states/"><div class="sidebar-image-wrap"><img src="/img/icons/sepa.png"></div>
-		<h4 class="help-article-title">Cash Deposit</h4></a>
-	
-		<a href="/en/buy-bitcoin-sepa-transfer/"><div class="sidebar-image-wrap"><img src="/img/icons/sepa1.png"></div>
-		<h4 class="help-article-title">SEPA Transfer</h4></a>
-	
-		<a href="/en/buy-bitcoin-interac-online/"><div class="sidebar-image-wrap"><img src="/img/icons/io.png"></div>
-		<h4 class="help-article-title">Interac® Online</h4></a>
+		{% for pmethod in site.data.paymentmethods %}
+		  <a href="{{ pmethod.url }}">
+		    <i class="fa fa-fw fa-{{ pmethod.icon }}"></i>
+		    <div class="payment-method">{{ pmethod.pmethod }}</div>
+		  </a>	
+		{% endfor %}
   </div>
-
-<h3 class="not-first">Guides</h3>
-<div class="pmethods-sidebar-1">
-		<div class="guide-div">
-		<a href="/en/buy-bitcoin-fast/"><div class="sidebar-image-wrap"><img src="/img/icons/truck.png"></div>
-		<h4 class="help-article-title">How to Buy Bitcoin Fast</h4></a>
-		</div>
-	
-		<div class="guide-div">
-		<a href="/en/buy-bitcoin-without-bank-account/"><div class="sidebar-image-wrap"><img src="/img/icons/sepa.png"></div>
-		<h4 class="help-article-title">How to Buy Bitcoin without a Bank Account</h4></a>
-		</div>
-
-  </div>
+  
+  <div class="guides-exchange guides-exchange-pm">
+<h3>Guides</h3>
+	{% for article in site.data.guidessidebar %}
+		<li>
+			<a class="guide-link" href="{{ article.url }}">{{ article.title }}</a>	
+		</li>
+	{% endfor %}
+</div>

@@ -7,6 +7,11 @@
    icon: bank
    url: /en/buy-bitcoin-ach-bank-transfer-united-states/
    desc: Buy bitcoin online via ACH bank transfer.  
+
+ - pmethod: PayPal
+   icon: paypal
+   url: /en/buy-bitcoin-paypal/
+   desc: Buy bitcoin online via PayPal.  
    
  - pmethod: Cash Deposit
    icon: money 
@@ -21,9 +26,4 @@
  - pmethod: Interac Online
    icon: exchange 
    url: /en/buy-bitcoin-interac-online/
-   desc: Buy bitcoin online in Canada with Interac Online. 
-   
- - pmethod: PayPal
-   icon: paypal
-   url: /en/buy-bitcoin-paypal/
-   desc: Buy bitcoin online via PayPal.    
+   desc: Buy bitcoin online in Canada with Interac Online.   

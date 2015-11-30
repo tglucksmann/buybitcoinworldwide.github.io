@@ -1788,7 +1788,7 @@
    desc_bg: Купете биткойн в голям брой страни чрез SEPA, OKPAY, SOFORT и Skrill.
 
  - name: Trucoin
-   desc: Buy bitcoin with a credit card instantly in over 30 US states.
+   desc: <a href="https://www.buybitcoinworldwide.com/kb/buy-bitcoin-instantly/">Buy bitcoin instantly</a> with a credit or debit card in over 30 US states.
    url: https://trucoin.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/trucoin.png
    countries: us

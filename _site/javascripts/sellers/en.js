@@ -1078,7 +1078,7 @@
     methods: "ccus, fast, ccww, cc",
     hide: "",
     url: "https://trucoin.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://trucoin.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/trucoin.png\" alt=\"Trucoin\">Trucoin</a> \n		<a type=\"button\" href=\"https://trucoin.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy bitcoin with a credit card instantly in over 30 US states.</p>\n		<a href=\"https://trucoin.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://trucoin.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/trucoin.png\" alt=\"Trucoin\">Trucoin</a> \n		<a type=\"button\" href=\"https://trucoin.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p><a href=\"https://www.buybitcoinworldwide.com/kb/buy-bitcoin-instantly/\">Buy bitcoin instantly</a> with a credit or debit card in over 30 US states.</p>\n		<a href=\"https://trucoin.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({

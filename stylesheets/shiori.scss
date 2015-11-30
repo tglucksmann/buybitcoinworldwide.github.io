@@ -178,6 +178,25 @@ h3 {
   }
 }
 
+.share-page {
+    text-align: center;
+    background: #2579c6;
+    color: #fff;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 10px 0;
+
+    a {
+        font-weight: 700;
+        color: #fff;
+        margin-left: 10px;
+
+        &:hover {
+            border-bottom: 0;
+        }
+    }
+}
+
 @media(max-width: $screen-xs-max) {
   .navbar-header {
     text-align: center;
