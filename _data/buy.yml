@@ -40,10 +40,10 @@
    po: paypal
    desc_paypal: VirWoX stands for Virtual World Exchange, and mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can't buy Bitcoin with PayPal directly at VirWoX, but it's possible to first buy Second Life Lindens (SLL) and then trade your SLL for Bitcoin. This process works perfectly, but in the end will cost you about 7% in fees.   
  
- - name: Fastcoin.ch
-   desc: Buy with SEPA transfer or bank transfer in Switzerland.  Fast and convenient. 
-   url: http://buybitcoinww.co/fast_coin
-   icon: https://www.buybitcoinworldwide.com/img/buy/sbex.png
+ - name: Bity
+   desc: Fast and easy way to buy bitcoin. Buy up to 250 €/CHF a day with phone verification.
+   url: http://bity.com/
+   icon: https://www.buybitcoinworldwide.com/img/buy/bity.png
    countries: ch
    po: bt
    hide: yes
@@ -426,12 +426,19 @@
    desc_ru: Биткоин-биржа. Купить биткоин банковским переводом во Франции.
    desc_uk: Біткоін-біржа. Купити біткоіни банківським переказом у Франції.
 
+ - name: Bitboat
+   desc: Buy bitcoin fast with cash in Spain, Italy, France, Belgium, Cyprus, and Romania. 
+   url: https://www.bitboat.net/en
+   icon: https://www.buybitcoinworldwide.com/img/buy/bitboat.png
+   countries: fr, it, es, be, pt, cy, ro, ca
+   po: cash, neocode, mandatcompte, ricaricapostepay, jiffypay, engreso, neosurf
+
 ##### Switzerland ####################################################   
 
- - name: Fastcoin.ch
-   desc: Buy with SEPA transfer or bank transfer in Switzerland. Fast and convenient. 
-   url: http://buybitcoinww.co/fast_coin
-   icon: https://www.buybitcoinworldwide.com/img/buy/sbex.png
+ - name: Bity
+   desc: Fast and easy way to buy bitcoin. Buy up to 250€ a day with phone verification. 
+   url: https://bity.com/
+   icon: https://www.buybitcoinworldwide.com/img/buy/bity.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb   
    po: sepa, sofort
    ar: yes
@@ -790,7 +797,7 @@
    desc_ar:  الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.
    
  - name: Bittylicious
-   desc: Buy very small amounts of bitcoin via Barclays Pingit, bank transfer, or credit/debit card.
+   desc: Buy bitcoin instantly via Barclays Pingit, bank transfer, or credit/debit card.
    url: https://bittylicious.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/bittylicious.png
    countries: gb

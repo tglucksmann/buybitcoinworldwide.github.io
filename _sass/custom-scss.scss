@@ -98,14 +98,19 @@ html, body {
 }
 
 .kb-article .sidebar-add li {
-	padding: 4px 0;
+	padding: 0;
 	clear: both;
+}
+
+.kb-article .guides-exchange-pm li {
+    clear: both;
+    padding: 4px 0 !important;
 }
 
 .kb-article .sidebar-add .fa {
     float: left;
     margin-right: 4px;
-    margin-top: 5px;
+    margin-top: 9px;
 }
 
 .kb-article .sidebar-add ul a {
@@ -120,6 +125,11 @@ html, body {
 	float: left;
     margin-right: 6px;
     margin-top: 4px;
+}
+
+.pmethod-btn-bottom {
+	width: 100%;
+	margin-bottom: 15px;
 }
 
 .sidebar-add .pmethods-sidebar a {
@@ -1257,7 +1267,7 @@ iframe {
 
 .sidebar-add .not-first {
 	margin-top: 40px;
-}
+} 
 
 .sidebar-add h4 {
     margin-bottom: 15px;

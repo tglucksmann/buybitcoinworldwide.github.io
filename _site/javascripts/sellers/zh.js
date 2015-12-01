@@ -13,7 +13,7 @@
     countries: "ch",
     methods: "bt",
     hide: "true",
-    url: "http://buybitcoinww.co/fast_coin",
+    url: "http://bity.com/",
     html: "      \n\n\n"
   });
 
@@ -162,10 +162,18 @@
   });
 
   window.sellers.push({
+    countries: "fr, it, es, be, pt, cy, ro, ca",
+    methods: "cash, neocode, mandatcompte, ricaricapostepay, jiffypay, engreso, neosurf",
+    hide: "",
+    url: "https://www.bitboat.net/en",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
     countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb",
     methods: "sepa, sofort",
     hide: "",
-    url: "http://buybitcoinww.co/fast_coin",
+    url: "https://bity.com/",
     html: "      \n\n\n"
   });
 

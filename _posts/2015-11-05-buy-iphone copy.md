@@ -6,7 +6,7 @@ permalink: "/blog/buy-an-iphone-with-bitcoin/"
 seotitle: "How to Buy an iPhone with Bitcoin"
 title: "How to Buy an iPhone with Bitcoin"
 desc: Buying an iPhone with bitcoins can save you over $100 dollars. 
-summary: Learn how to buy an iPhone with bitcoin and save money in the process. 
+summary: Learn how to buy an iPhone with bitcoin and save over $100 dollars while doing so.  
 categories: 
 - shopping
 - saving
