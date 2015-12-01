@@ -24,7 +24,7 @@ One of the most basic rules when using Bitcoin is to make sure you have control 
 
 The wallet you should use depends on your needs. Users in need of secure, long term storage should use a paper wallet, or a hardware wallet like [TREZOR](/wallets/trezor/) or [Ledger Nano](/wallets/ledger-nano/). If you intend to make frequent Bitcoin transactions, a hot wallet is slightly less secure but better for day-to-day transactions. Read our guide on [how to store bitcoins](/kb/how-to-store-and-protect-bitcoins/) for more details. It’s up to you to decide which wallet fits your needs. 
 
-Before you buy bitcoins, we’ll say it again: have a plan, secure your bitcoins, and don’t store them with third parties! If the whole idea of a Bitcoin wallet is still confusing, read our post: [What is a Bitcoin wallet?](/kb/what-is-a-bitcoin-wallet/)
+Before you [buy bitcoins](http://www.coindesk.com/information/how-can-i-buy-bitcoins/){:target="_blank"}, we’ll say it again: have a plan, secure your bitcoins, and don’t store them with third parties! If the whole idea of a Bitcoin wallet is still confusing, read our post: [What is a Bitcoin wallet?](/kb/what-is-a-bitcoin-wallet/)
 
 ## Find an Exchange
 
@@ -76,7 +76,7 @@ In order to buy bitcoins, you’ll need to exchange your local currency, like th
 
 ![cash](/img/icons/sepa.png){: .img-responsive .halfimg-right }
 
-**Cash Deposit –** Cash deposit is often one of the fastest ways to buy bitcoin. Cash deposits are verified very quickly, and services like [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow" target="_blank"} often deliver your bitcoins within a couple hours. Cash deposit lets you buy bitcoins privately because no personal information is required. Use [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow" target="_blank"} or [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow" target="_blank"} to buy bitcoin with cash deposit. 
+**Cash Deposit –** Cash deposit is often one of the fastest ways to buy bitcoin. Cash deposits are verified very quickly, and services like [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow" target="_blank"} often deliver your bitcoins within a couple hours. Cash deposit lets you buy bitcoins privately because no personal information is required. Use [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow" target="_blank"} or [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow" target="_blank"} to buy bitcoin with cash deposit. LocalBitcoins offers helpful a [first time buyer's guide](https://localbitcoins.com/guides/how-to-buy-bitcoins){:target="_blank"} if you decide to buy with cash deposit.
 
 **Bitcoin ATMs –** There are many companies that make Bitcoin ATMs, and each model has different features. For example, some Bitcoin ATMs simply let you insert cash and get bitcoins, without identity verification. This is a good way to buy bitcoin privately. Some ATMs require a picture of a government issued ID and a fingerprint scan. The downside to buying bitcoin from a Bitcoin ATM is that most Bitcoin ATMs have high markups on both the buy and sell side (usually 3-7%), and you’re often limited to a very small amount of bitcoin. However, this is the price people are willing to pay to buy bitcoins privately. Use [Coin ATM Radar](http://coinatmradar.com/) to find a Bitcoin ATM near you. 
 

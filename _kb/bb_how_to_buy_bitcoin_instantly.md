@@ -44,7 +44,7 @@ There are two main reasons that P2P exchanges offer a near instant way to buy bi
 
 2. Cash payments are irreversible. Once cash is in someone’s bank account, the buyer of bitcoin has no way to reverse the transaction. So the seller can feel confident that he received payment for bitcoins, and release the bitcoins to the buyer.  
 
-P2P exchanges offer a fast way to buy bitcoins, but P2P exchange rates may be a bit higher than the global average Bitcoin exchange rate. People are willing to pay more to buy bitcoins both more privately and faster. The markup is usually somewhere around 5-10% on [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow" target="_blank"}. [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow" target="_blank"} generally has rates close to market. Check the against a Bitcoin price index like Bitcoin Average or the CoinDesk BPI.  
+P2P exchanges offer a fast way to buy bitcoins, but P2P exchange rates may be a bit higher than the global average Bitcoin exchange rate. People are willing to pay more to buy bitcoins both more privately and faster. The markup is usually somewhere around 5-10% on [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow" target="_blank"}. [BitQuick](https://www.bitquick.co/){:target="_blank"} generally has rates close to market. Check the against a Bitcoin price index like Bitcoin Average or the CoinDesk BPI.  
 
 ## Bitcoin ATMs  
 
@@ -250,7 +250,7 @@ Once you've purchased your bitcoins, we suggest sending your bitcoins to a walle
 
 U.S. residents must wait five days for purchases at [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow" target="_blank"} to complete. This is because when you buy bitcoin with a bank transfer, Coinbase must wait until the transfer has completed. Just like with PayPal, when accepting reversible payment methods, companies must be extra certain that they’ve received payment before sending bitcoins.  
 
-[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow" target="_blank"} understands that people want bitcoin instantly. Users can add a Visa or Mastercard credit card--only credit card, not debit card—as a backup payment method. This helps Coinbase because now if you’re bank transfer doesn’t go through, they still have a way to charge you for the bitcoins. Users with Level 1 verification and a backup credit card on their account will be able to buy up to $100 worth of bitcoin instantly per week. Fully verified users with a backup credit card will be able to buy up to $1,000 worth of bitcoin instantly per week.  
+[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow" target="_blank"} understands that people want bitcoin instantly. Users can add a Visa or Mastercard credit card--only credit card, not debit card—as a backup payment method. This helps Coinbase because now if you’re bank transfer doesn’t go through, they still have a way to charge you for the bitcoins. Users with Level 1 verification and a backup credit card on their account will be able to buy up to $100 worth of bitcoin instantly per week. Fully verified users with a backup credit card will be able to [buy up to $1,000 worth of bitcoin instantly](http://www.coindesk.com/coinbase-makes-instant-bitcoin-buying-available-in-26-countries/){:target="_blank"} per week.  
 
 It may be a pain to wait five days, but at least you give yourself the option to buy bitcoin instantly for future purchases. Here’s how to add a credit card to your account:  
 

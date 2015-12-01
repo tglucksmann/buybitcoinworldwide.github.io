@@ -5,9 +5,320 @@
     <description></description>
     <link>https://www.buybitcoinworldwide.com/</link>
     <atom:link href="https://www.buybitcoinworldwide.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 30 Nov 2015 01:52:51 +0200</pubDate>
-    <lastBuildDate>Mon, 30 Nov 2015 01:52:51 +0200</lastBuildDate>
+    <pubDate>Tue, 01 Dec 2015 14:21:54 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Dec 2015 14:21:54 +0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>55 Bitcoin Experts Share Their Knowledge</title>
+        <description>&lt;p&gt;Bitcoin.com organized over 100 AMAs (ask me anything) on the Bitcoin.com forum. A wealth if knowledge was shared as industry leaders answered thousands of questions. &lt;/p&gt;
+
+&lt;p&gt;It’s easy to browse the AMAs on the forum, but to save you time we’ve gathered the best of the best and organized the best content so you can still reap the benefits of the AMAs even if you weren’t able to participate. &lt;/p&gt;
+
+&lt;p&gt;If you want, jumpy directly to a topic:&lt;/p&gt;
+
+&lt;h2 id=&quot;bitcoin-development&quot;&gt;Bitcoin Development&lt;/h2&gt;
+
+&lt;p&gt;The block size debate has caused Bitcoin development to become controversial. Bitcoin.com hosted Mike Hearn and Gavin Andersen, the two developers behind Bitcoin XT. &lt;/p&gt;
+
+&lt;p&gt;Gavin expressed frustration with the Bitcoin Core developers’ supposed inability to work out a solution to the block size debate: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Mike and I have been really frustrated by “the other side’s” unwillingness to meaningfully engage. I’m still trying, but (as I said in a private email this morning) it is impossible to collaborate if one side refuses to communicate.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Mike Hearn echoed Gavin’s thoughts:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At this point I think the best way for Bitcoin to survive and remain viable is if an industry alliance formed to get rid of Bitcoin Core. That alliance would have to include miners. I don’t know if such an alliance might happen - what I’ve been hearing from industry and miners when I talk to them is that they’re incredibly frustrated with Bitcoin Core. That project and its people are literally popular with nobody right now. But the miners in particular are very scared of switching to anything else, for a variety of reasons. I don’t know how strong the ‘fear factor’ will end up being.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Charlie Lee, the creator of Liteocin and a developer at Coinbase, offered his thoughts on the BIP 101 proposal that Gavin and Mike support: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I do not agree with Brian (Coinbase’s CEO) w.r.t. supporting BIP101. I think BIP101 is way too aggressive and will hurt Bitcoin in the long run in terms of decreased security and decentralization. Brian wants Bitcoin’s usage to grow, so he wants to push the decision to get something done about the block size limit. But I am definitely not in favor of implementing a solution before we reach some sort of consensus. I have trust in the core devs to reach a solution, and will haphazardly choose the nuclear option of forking the bitcoin protocol.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jeff Garzik, a Bitcoin Core developer, sees complacency as the biggest threat to Bitcoin: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is the early day of bitcoin, and we should not get stuck - developmentally or psychologically - where we are today. We have so much farther to go.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bitcoin-economics&quot;&gt;Bitcoin Economics&lt;/h2&gt;
+
+&lt;p&gt;When asked what effect the reward halving may have on Bitcoin’s price, Andreas Antonoplous explained that he can’t predict price, but the price of Bitcoin depends on many other factors: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The reward halving will change the inflation rate in bitcoin. How that affects the overall economy depends on the conditions of all the other parameters in the economy: price, adoption, transaction volume, hash rate, difficulty, investments, other currencies, world market conditions, etc. “&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bitcoin-wallets-and-security&quot;&gt;Bitcoin Wallets and Security&lt;/h2&gt;
+
+&lt;p&gt;The CEOs of the two most popular hardware wallets both participated in AMAs. Alena Venora of Trezor, and Eric Levahdgd of Ledger. Mobile wallet developers Aaron Vonshine and Paul&lt;/p&gt;
+
+&lt;p&gt;Kristen Atlas, developer at Blockchain.info and found of the Open Bitcoin Privacy Project, answered the following when asked the most important security tip for new Bitcoiners: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When using centralized services that hold your private keys, get your funds out as fast as possible, regardless of the company’s reputation. No one has figured out how to hold onto customer funds safely yet.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Eric Larchevêque, the CEO of Bitcoin security company Ledger, was asked for his thoughts on the future of Bitcoin hardware wallets:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If we require hardware wallets, it’s because generale purpose computers and smartphones are currenctly insecure. With the development of Trusted Execution Environment (TEE) technology, we may not need dedicated secure devices anymore in a few years. The TEE is basically a virtualization of a secure element running in isolation from the main OS, and is right now available in high end Samsung phone (such as the S6). For more information, you can refer to the Ledger Trustlet.
+Regarding new usages, independently of the product form factor, we are evolving from pure hardware wallet (like the Ledger Nano) to personal security/privacy devices (like the Ledger Blue). These products will not only secure your digital assets, but also manage your digital identities (FIDO) and help build secure communications (for instance having encrypted Slack channels, managed in real time by the Blue, so you can protect your trade secret whilst benefiting the coolness of Slack).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Larchevêque explained that he wouldn’t recommend storing a large amount of bitcoins on a single hardware wallet:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Finally, I wouldn’t recommend to use a hardware wallet (whatever it is) to hold a considerable amount of bitcoins. If you had one ton of gold, would you keep it home? Even if you had the best safe of the world, you would still have the risk of someone coming home and putting a gun on your children. My recommendation would be to use multisignature with different hardware wallets.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Paul Puey, the CEO of Airbitz, explained how his wallet stands out against more centralized services like Coinbase:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Airbitz is a fully private, zero-knowledge, autonomous software application that allows users to send, secure, and receive bitcoin with no 3rd party. Users of Airbitz fully control their private keys and do not even need Airbitz the company in order to send or receive value. The Airbitz software on their phone directly connects to bitcoin nodes and multiple 3rd party APIs to provide bitcoin functionality. Since Airbitz does not hold user funds, all funds in a user’s Airbitz wallet are available to spend at the user’s discretion.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Puey also explained how Airbitz is ready to add support for protocols built on top of Bitcoin like the Lightning Network: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We’re super excited about the Lightning network and other payment channel proposals. Airbitz should actually be one of the few wallets that work well with it. Unlike on-chain transactions, the Lightning network requires recipients to hold and secure data for each transaction, for some amount of time. Loss of that data could mean loss of funds. This means that wallets that utilize a 12-24 word backup will no longer be sufficient to truly back up a users funds. Airbitz saw the advantage of providing encrypted, backed up, and synchronized data for the wallet. This allows us to secure Lightning network transactions in ways most other wallets can’t.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Thomas Voegtlin is the creator of the Electrum Bitcoin wallet, and also stated that he’s excited about integrating Lightning Network into Electrum: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I am looking forward to new developments in the direction of scalability, e.g. Lightning Network. If the Lightning Network turns out to work, integrating it with Electrum will be an exciting challenge.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Voegtlin also noted that Electrum was the first wallet to use HD wallets:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Electrum was the first wallet to use the concepts developed by Greg Maxwell. This idea has been used in HD wallets and BIP32. Electrum was also the first wallet to come with a seed phrase (sequence of English words) that allows you to restore your wallet (later used in BIP39).”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;buying-bitcoin&quot;&gt;Buying Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;CEOs from some of the largest Bitcoin brokers were included in the AMAs, including Jeremy Allaire of Circle and Wences Ceseras of Xapo. &lt;/p&gt;
+
+&lt;p&gt;Cesuras called himself pro-bitcoin and still buys bitcoin today: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I am one of the most biased pro-Bitcoin people you can find so I am always buying.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bitcoin-trading&quot;&gt;Bitcoin Trading&lt;/h2&gt;
+
+&lt;p&gt;Chinese Bitcoin exchanges often come under fire for letting users trade with no fees. Many claim that no fees leads to wash trades, which creates fake volume across Chinese exchanges. Bobby Lee is the CEO of BTCC, one of the largest Bitcoin exchanges in China, explained why Chinese exchanges all have no fees:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I think the Chinese-based exchanges went with a zero-fee model because competition is fierce in this market. As it’s not regulated, the barrier-to-entry is also low. So it’s natural to use pricing as a competitive advantage to undercut based on price. Foreseeing this trend, we decided in September of 2013 to take the plunge, and eliminated trading commissions from BTCChina. So it’s not a cultural thing, but rather caused by the local business environment. I predict that there will be other markets that also gravitate to zero-fees, especially if those markets have low barriers to entry, and have low regulatory hurdles. “ &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Stephen Pair, the CEO of Bitcoin payment processor BitPay, explained how BitPay liquidates the coins it receives from its merchants:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To clarify, we sell coins that are sent to us from the customers of our merchants. Without being specific, we sell on a number of exchanges where we are satisfied with their management and regulatory compliance. We also sell to some direct commercial buyers (usually an investment fund), but that’s less convenient as it requires us to negotiate a price (and not surprisingly, they are always looking for a good deal). It’s usually more convenient for them and us to use an exchange instead.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bitcoin-mining&quot;&gt;Bitcoin Mining&lt;/h2&gt;
+
+&lt;p&gt;Garzik was asked about Bitcoin miners and the possible threat the pose to the network. He explained that economic incentives help prevent selfish mining and attacks by miners: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The main safeguard is economic. Miners are paid in bitcoin. There are always selfish mining strategies - but they are self defeating long term, as it attacks one’s own stream of income. Collusion is possible; part of the strength of Proof-of-Work is that new miners and new mining pools may enter the game at any time, and exit the game at any time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bitcoin-price&quot;&gt;Bitcoin Price&lt;/h2&gt;
+
+&lt;p&gt;Andreas Antonoplous explained that the price of Bitcoin is complex and that it’s impossible to explain all price movements: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bitcoin’s price is a chaotic system that reflects thousands of inputs in a way that no one can predict. Providing root-cause analysis of price movements is a fool’s game. It is neither verifiable, nor predictive and therefore it is not science but mysticism. Bitcoin’s market cap is tiny and it operates globally on a 24/7 basis. That makes for a sentiment-driven, high-volatility price. It will continue to be volatile until it is much much bigger and has very well developed derivatives markets.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Stephen Pair was asked how the changing in Bitcoin price affects volume: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;These price rallies are helpful to our business because it’s a catalyst for people to look for ways of spending their Bitcoin. After the rally is over, volumes tail off again, but they usually settle at a higher baseline than before the rally. That’s because people that have found new ways of spending Bitcoin tend to become repeat buyers even after the rally has subsided.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Many claim that China and chinese capitals controls are one of the main factors behind Bitcoin’s rising price. However, Bobby Lee, the CEO of Chinese Bitcoin exchange BTCC, explained that this isn’t the case: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;However, I don’t think tight capital controls are behind the recent surge in bitcoin price and transaction volumes. The reason is a simple insight that only a few insiders understand: when people in China buy bitcoins, the CNY they use to do so actually does not leave the country! Instead, the seller of the bitcoins takes “possession” of the CNY that was used for the bitcoin purchase. The seller can withdraw the CNY from BTCC and do whatever they please with it. If the seller wants to exchange the CNY for foreign currency, he/she would still need to do that at a bank or bureau de change, which both enforce capital controls. So in the end, the CNY used to buy or sell bitcoin from our exchange stays within China, and we don’t directly move any Chinese money abroad.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tuur Demeester, CEO of Adamant research, offered up his thoughts on what will happen to Bitcoin’s price over the next 12 months: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I think that in 2016 we are going to see a rally in Bitcoin during which the $1,000 level may be challenged (I give this a 60% chance*) or exceeded (I give that a 40% chance) […] &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is one thing that I’m keeping in mind for myself, and that is that every phase in Bitcoin is different from the ones before. This year will not be the same as any of the previous years in Bitcoin. If anything, I’m preparing myself to be surprised.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bitcoin-payment-processors&quot;&gt;Bitcoin Payment Processors&lt;/h2&gt;
+
+&lt;p&gt;Stephen Pair was asked to explain the biggest challenges that BitPay faces: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I think the biggest challenge has been staying focused. There is so much opportunity in this space that it’s easy to let yourself get distracted. We spend a lot of time discussing what we won’t do. For small businesses (and really all businesses), the most important thing is to demonstrate the value of accepting Bitcoin. Whether that’s faster payments, cheaper payments, or reaching new markets, you have to understand their needs and determine whether Bitcoin can add value. The individual Bitcoin enthusiast can simply try and find more ways to incorporate Bitcoin into their daily or weekly spending routines. They can ask businesses they frequent to accept Bitcoin, but you don’t want to be pushy and try and force them to do something they aren’t interested in. I think at the end of the day, the most important thing is to keep improving the infrastructure and ease of use of Bitcoin.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Pair also revealed that BitPay’s volumes are on a steady uptrend: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We don’t share this number, but I will say that our monthly transactions have been steadily and substantially increasing every month for the last 7 or 8 months and we are at all time highs in monthly transactions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Charlie Lee, the creator of Litecoin and an engineer at Coinbase, offered his thoughts on Bitcoin merchants and Bitcoin payment processing: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The bitcoin merchant business is a tough one. As can be seen from the difficulties at BitPay. This is a chicken and egg problem. Paying with bitcoin needs to be simpler and cheaper than paying with credit cards. It currently is neither simpler (qr codes) or cheaper (no rebates). Until it is simpler and cheaper, people won’t use it. If people don’t use it, there are no incentives for merchants to accept it. Those that do are doing it mainly for marketing purposes. And there’s no reason for them to pass along their savings to their users. Without a discount, there’s no reason for users to purchase bitcoin just to spend it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bitcoin-privacy&quot;&gt;Bitcoin Privacy&lt;/h2&gt;
+
+&lt;p&gt;Kristog Atlas, a developer at Blockchain.info and founder of the Open Bitcoin Privacy Project, explain which developments in Bitcoin privacy he is most excited about:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Most of the developments in that space lately have been bad news, but there are a few good ones. Academics are getting more involved with Bitcoin privacy research and have contributed new p2p protocols such as CoinShuffle and CoinParty. We’re also finally figuring out that these protocols require economic consideration, and so JoinMarket is a major advancement. I think a decentralized protocol that deals with the issue of input merging will catch on one day soon and make a big dent. This is an ongoing area of research for me.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Atlas stated that while no wallet is particularly strong in privacy, that there are a few he considers as the best options: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I don’t think any wallet client is doing a great job with privacy right now, but some of the wallets I prefer are:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Mobile: Airbitz, Mycelium, and Breadwallet.
+Desktop: Electrum for its easy use in Tails Linux, Armory for beefier machines.”&lt;/p&gt;
+
+&lt;p&gt;Thomas , the creator of Electrum, explained some of the reasons why Bitcoin wallet developers may be hesitant to add more privacy features to wallets:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;My understanding is that this might be considered as money laundering in some regulations, and that promoting this could jeopardize the entire project. I might change my position if there is some clarification of the legal situation.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bitcoins-early-days&quot;&gt;Bitcoin’s Early Days&lt;/h2&gt;
+
+&lt;p&gt;Marti Nallimi was the first person to contact Satoshi and helped develop both Bitcoin and the bitcoin.org website. He explains: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Back in 2009 when I was studying computer science at Helsinki University of Technology, I was looking into the possibility of decentralized monetary systems as a means of actually changing the world for the better - giving people the control over their own life and money. Bitcoin, recently published, was the only completely decentralized and feasible option out there. I emailed Satoshi offering my help and ended up working on bitcoin.org, setting up the Bitcointalk forums and also contributing to the Bitcoin release 0.2.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bitcoin-regulation&quot;&gt;Bitcoin Regulation&lt;/h2&gt;
+
+&lt;p&gt;Bobby Lee, the CEO of BTCC, a Chinese Bitcoin exchange and mining pool, provided some brief insight on the regulatory environment in China: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With the current regulatory climate in China, there are no specific legal challenges in setting up a bitcoin exchange. We are still in the “pre-regulatory” age for bitcoin exchanges in China.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bitstamp CEO offered his thoughts on how regulators should tackle Bitcoin:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Policy making needs to be interest neutral and is never up to a single decision maker so I would recommend a wider discussion. It is also a slow and comprehensive process so I do not imagine that a single meeting can spark a revolution, but it is a start. Department of Justice hosted something similar couple weeks ago. It started a dialog, that is important.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;economics&quot;&gt;Economics&lt;/h2&gt;
+
+&lt;p&gt;Patrick Byrne, the CEO of Overstock.com, was asked if he says a deflationary or inflationary more likely in the short term: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As things destabilize around the world, wealth flows to the US in pursuit of our political stability (haha). This will drive the dollar higher. But the failure of the underlying economy and the coming home to roost of the irresponsible Fed policies of recent decades will finally create a falling dollar. Where it’s bottom is, no one knows…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bitcoin-gambling&quot;&gt;Bitcoin Gambling&lt;/h2&gt;
+
+&lt;p&gt;Edward Miroslav is the founder of Prime Dice and claims that it’s the largest Bitcoin gambling site. He backs up this statement with the following: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;1) Number of deposits/withdrawals we receive (Can be compared to other sites on http://www.walletexplorer.com)
+2) Volume of BTC we have wagered daily (Average of 2k BTC a day this year) - Viewable on http://www.thebitcoinstrip.com &amp;amp; http://www.dicesites.com
+3) Number of individual bets (10 million+ a day) which can also be viewed on http://www.thebitcoinstrip.com &amp;amp; http://www.dicesites.com
+4) Alexa traffic ranking&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Miroslav then went on to explain why he believes Bitcoin dice sites seem to by the favorite type of gambling amongst Bitcoin users: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There are options for typical gambling such as slots, table games etc. but the Bitcoin community seems to favour dice. I’m not sure why exactly, but I’d personally choose dice too if I was going to gamble - The house edge is the lowest, it’s simple, it offers an extremely large range of odds and has the strongest implication of provable fairness out of any other games.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;private-blockchains&quot;&gt;Private Blockchains&lt;/h2&gt;
+
+&lt;p&gt;Circle’s CEO, Jeremy Allaire, spoke out against private blockchains: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Right now, we’re just not really interested in all of these “permissioned blockchain” type projects, it’s really frankly quite boring – e.g. new forms of transaction and messaging and audit trail middleware for back office settlement. We’re interested in an open internet of value exchange, built on open standards, distributed and decentralized protocols, that is permissionless to innovate on, with broad open source foundations. That’s really the revolutionary part of this, and a big part of the motivation for starting Circle in early 2013.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Xapo CEO Wences Cesaras also spoke out against private blockchains: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People saying “I am interested in Blockchain but not Bitcoin” are like people saying “I really like the browser but not the Internet”. Well, the browser would not work without the internet and the Blockchain would not work if the miners where not being paid with bitcoins. But a lot of people miss that.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;why-bitcoin&quot;&gt;Why Bitcoin?&lt;/h2&gt;
+&lt;p&gt;I collected some of the most interesting responses to the basic question: “why is Bitcoin important?” or “why does Bitcoin interest you?”&lt;/p&gt;
+
+&lt;p&gt;Roger Ver offered some powerful words on why Bitcoin is important:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;My hope is that Bitcoin will empower individuals to have 100% complete control over their own finances and that governments with whither away into nothingness while the services that they offer are replaced by voluntary interactions in the market. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jeremy Allaire: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Yes, we are certainly big advocates for the use of the bitcoin network as a kind of behind the scenes value transfer protocol for the internet, akin to something like SMTP for for value. realize it’s not the perfect analogy.” &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When asked what he finds entertaining about Bitcoin, Cesara stated: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;That it feels more like a crusade than an economic phenomenon.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Patrick Byrne is the founder of Overstock.com, the first of many billion dollar companies to accept Bitcoin. He explained why Bitcoin in particular interests him: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I was excited about the technology for its political implications. Civilization has acquired centralized institutions like barnacles throughout its history. The blockchain represents our chance to scrape them off the hull of civilization.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When asked what he sees as the biggest threat to Bitcoin, Andreas Antonopolous explained the principles that make Bitcoin what it is: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The biggest threat to bitcoin is forgetting the core principles of openness, decentralization and privacy. If we abandon those principles, then bitcoin will have to be replaced by another system that supports those principles. The national currencies and banking systems are rapidly heading towards totalitarian control and surveillance. We need a safe haven alternative to big-brother-money. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Satoshi Labs CEO Alena explained what she sees as the important aspects of Bitcoin:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bitcoin gives us the opportunity of free expression, ownership and trade.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The above is just a tiny fraction of the wealth of knowledge that has been shared in these AMAs. Thanks to Roger Ver for organizing and coordinating them! There are many featured AMAs that we weren’t able to include here. If you want to see the full list of AMAs, head over to the Bitcoin Forum; https://forum.bitcoin.com/announces/bitcoin-com-ama-event-full-schedule-t1665.html &lt;/p&gt;
+
+&lt;p&gt;Note that there are 50 or so AMAs schedule on the Bitcoin.com forums, with more leading industry experts. Look out for part two!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
+        <link>https://www.buybitcoinworldwide.com/blog/buy-an-iphone-with-bitcoin/</link>
+        <guid isPermaLink="true">https://www.buybitcoinworldwide.com/blog/buy-an-iphone-with-bitcoin/</guid>
+        
+        
+        <category>shopping</category>
+        
+        <category>saving</category>
+        
+      </item>
     
       <item>
         <title>How to Buy an iPhone with Bitcoin</title>
