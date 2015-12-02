@@ -11,7 +11,7 @@
 
   window.sellers.push({
     countries: "ch",
-    methods: "bt",
+    methods: "bt, sepa",
     hide: "true",
     url: "http://bity.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://bity.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bity.png\" alt=\"Bity\">Bity</a> \n		<a type=\"button\" href=\"http://bity.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно.</p>\n		<a href=\"http://bity.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
@@ -122,10 +122,58 @@
   });
 
   window.sellers.push({
-    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx",
+    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb",
     methods: "pp, cc, skrill, okpay",
     hide: "",
     url: "http://buybitcoinww.co/bitcoin_virwox",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt, sepa, ccww",
+    hide: "",
+    url: "https://www.coincorner.com/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt, cc",
+    hide: "",
+    url: "https://bittylicious.com/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
+    methods: "sepa, swift",
+    hide: "",
+    url: "https://coinfloor.co.uk/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinfloor.png\" alt=\"Coinfloor\">Coinfloor</a> \n		<a type=\"button\" href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн борса и брокер. Депозирайте чрез банков превод, SEPA и други.</p>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "cash",
+    hide: "",
+    url: "https://bitbargain.co.uk/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt",
+    hide: "",
+    url: "https://quickbitcoin.co.uk/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt",
+    hide: "",
+    url: "https://cryptomate.co.uk",
     html: "      \n\n\n"
   });
 
@@ -366,54 +414,6 @@
     methods: "bt",
     hide: "",
     url: "https://www.surbtc.com/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt, sepa, ccww",
-    hide: "",
-    url: "https://www.coincorner.com/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt, cc",
-    hide: "",
-    url: "https://bittylicious.com/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "sepa, swift",
-    hide: "",
-    url: "https://coinfloor.co.uk/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinfloor.png\" alt=\"Coinfloor\">Coinfloor</a> \n		<a type=\"button\" href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Биткойн борса и брокер. Депозирайте чрез банков превод, SEPA и други.</p>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "cash",
-    hide: "",
-    url: "https://bitbargain.co.uk/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt",
-    hide: "",
-    url: "https://quickbitcoin.co.uk/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt",
-    hide: "",
-    url: "https://cryptomate.co.uk",
     html: "      \n\n\n"
   });
 

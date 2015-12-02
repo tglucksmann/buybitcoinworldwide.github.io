@@ -381,8 +381,14 @@ html, body {
     font-weight: 300;
 }
 
-.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-nav > li > a:hover {
+.navbar-inverse .navbar-nav > li > a:hover {
 	color: #e6e6e6;
+	opacity: 0.7;
+}
+
+.navbar-inverse .navbar-brand:hover {
+	color: #e6e6e6;
+	text-decoration: underline;
 }
 
 .navbar-inverse .navbar-brand {

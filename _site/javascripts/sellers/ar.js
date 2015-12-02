@@ -11,7 +11,7 @@
 
   window.sellers.push({
     countries: "ch",
-    methods: "bt",
+    methods: "bt, sepa",
     hide: "true",
     url: "http://bity.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://bity.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bity.png\" alt=\"Bity\">Bity</a> \n		<a type=\"button\" href=\"http://bity.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.</p>\n		<a href=\"http://bity.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
@@ -122,11 +122,59 @@
   });
 
   window.sellers.push({
-    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx",
+    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb",
     methods: "pp, cc, skrill, okpay",
     hide: "",
     url: "http://buybitcoinww.co/bitcoin_virwox",
     html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt, sepa, ccww",
+    hide: "",
+    url: "https://www.coincorner.com/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coincorner.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/ccoiner.png\" alt=\"CoinCorner\">CoinCorner</a> \n		<a type=\"button\" href=\"https://www.coincorner.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.</p>\n		<a href=\"https://www.coincorner.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt, cc",
+    hide: "",
+    url: "https://bittylicious.com/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bittylicious.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bittylicious.png\" alt=\"Bittylicious\">Bittylicious</a> \n		<a type=\"button\" href=\"https://bittylicious.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>شراء كميات صغيرة جدًا من بيتكوين عبر باركليز Pingit، أو عبر التحويل المصرفي أو ببطاقة الائتمان / الخصم.</p>\n		<a href=\"https://bittylicious.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
+    methods: "sepa, swift",
+    hide: "",
+    url: "https://coinfloor.co.uk/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinfloor.png\" alt=\"Coinfloor\">Coinfloor</a> \n		<a type=\"button\" href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>صرافة بيتكوين ووسطاؤه. الإيداع عن طريق التحويل المصرفي، أو SEPA، وغير ذلك الكثير.</p>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "cash",
+    hide: "",
+    url: "https://bitbargain.co.uk/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bitbargain.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitbargain.png\" alt=\"BitBargain\">BitBargain</a> \n		<a type=\"button\" href=\"https://bitbargain.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>أسواق P2P لبيع بيتكوين وشرائه. طرق الدفع المتعددة المتاحة.</p>\n		<a href=\"https://bitbargain.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt",
+    hide: "",
+    url: "https://quickbitcoin.co.uk/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://quickbitcoin.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/quickuk.png\" alt=\"QuickBitcoin\">QuickBitcoin</a> \n		<a type=\"button\" href=\"https://quickbitcoin.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>وسيط بيتكوين. شراء بيتكوين في أقل من ساعة عن طريق التحويل المصرفي عبر الإنترنت.</p>\n		<a href=\"https://quickbitcoin.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt",
+    hide: "",
+    url: "https://cryptomate.co.uk",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cryptomate.co.uk\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cryptomate.png\" alt=\"CryptoMate\">CryptoMate</a> \n		<a type=\"button\" href=\"https://cryptomate.co.uk\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>وسيط بيتكوين. شراء بيتكوين بالتحويلات المصرفية عبر الإنترنت في المملكة المتحدة.</p>\n		<a href=\"https://cryptomate.co.uk\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -367,54 +415,6 @@
     hide: "",
     url: "https://www.surbtc.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.surbtc.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/surbtc.png\" alt=\"surBTC\">surBTC</a> \n		<a type=\"button\" href=\"https://www.surbtc.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>صرافة بيتكوين. الإيداع عبر الإنترنت من خلال التحويل المصرفي. تختلف الرسوم.</p>\n		<a href=\"https://www.surbtc.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt, sepa, ccww",
-    hide: "",
-    url: "https://www.coincorner.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coincorner.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/ccoiner.png\" alt=\"CoinCorner\">CoinCorner</a> \n		<a type=\"button\" href=\"https://www.coincorner.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.</p>\n		<a href=\"https://www.coincorner.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt, cc",
-    hide: "",
-    url: "https://bittylicious.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bittylicious.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bittylicious.png\" alt=\"Bittylicious\">Bittylicious</a> \n		<a type=\"button\" href=\"https://bittylicious.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>شراء كميات صغيرة جدًا من بيتكوين عبر باركليز Pingit، أو عبر التحويل المصرفي أو ببطاقة الائتمان / الخصم.</p>\n		<a href=\"https://bittylicious.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "sepa, swift",
-    hide: "",
-    url: "https://coinfloor.co.uk/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinfloor.png\" alt=\"Coinfloor\">Coinfloor</a> \n		<a type=\"button\" href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>صرافة بيتكوين ووسطاؤه. الإيداع عن طريق التحويل المصرفي، أو SEPA، وغير ذلك الكثير.</p>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "cash",
-    hide: "",
-    url: "https://bitbargain.co.uk/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bitbargain.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitbargain.png\" alt=\"BitBargain\">BitBargain</a> \n		<a type=\"button\" href=\"https://bitbargain.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>أسواق P2P لبيع بيتكوين وشرائه. طرق الدفع المتعددة المتاحة.</p>\n		<a href=\"https://bitbargain.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt",
-    hide: "",
-    url: "https://quickbitcoin.co.uk/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://quickbitcoin.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/quickuk.png\" alt=\"QuickBitcoin\">QuickBitcoin</a> \n		<a type=\"button\" href=\"https://quickbitcoin.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>وسيط بيتكوين. شراء بيتكوين في أقل من ساعة عن طريق التحويل المصرفي عبر الإنترنت.</p>\n		<a href=\"https://quickbitcoin.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt",
-    hide: "",
-    url: "https://cryptomate.co.uk",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cryptomate.co.uk\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cryptomate.png\" alt=\"CryptoMate\">CryptoMate</a> \n		<a type=\"button\" href=\"https://cryptomate.co.uk\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>وسيط بيتكوين. شراء بيتكوين بالتحويلات المصرفية عبر الإنترنت في المملكة المتحدة.</p>\n		<a href=\"https://cryptomate.co.uk\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({

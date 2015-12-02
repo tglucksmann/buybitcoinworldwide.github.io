@@ -11,7 +11,7 @@
 
   window.sellers.push({
     countries: "ch",
-    methods: "bt",
+    methods: "bt, sepa",
     hide: "true",
     url: "http://bity.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://bity.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bity.png\" alt=\"Bity\">Bity</a> \n		<a type=\"button\" href=\"http://bity.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Fast and easy way to buy bitcoin. Buy up to 250 €/CHF a day with phone verification.</p>\n		<a href=\"http://bity.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
@@ -122,11 +122,59 @@
   });
 
   window.sellers.push({
-    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx",
+    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb",
     methods: "pp, cc, skrill, okpay",
     hide: "",
     url: "http://buybitcoinww.co/bitcoin_virwox",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/virwox.png\" alt=\"VirWoX\">VirWoX</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy Second Life Lindens, and trade them for bitcoin. One of the few ways to <a href=\"/en/buy-bitcoin-paypal/\">buy bitcoin with PayPal</a>.</p>\n		<a href=\"http://buybitcoinww.co/bitcoin_virwox\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt, sepa, ccww",
+    hide: "",
+    url: "https://www.coincorner.com/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coincorner.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/ccoiner.png\" alt=\"CoinCorner\">CoinCorner</a> \n		<a type=\"button\" href=\"https://www.coincorner.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy using GBP bank transfer, SEPA transfer, or with credit/debit card.</p>\n		<a href=\"https://www.coincorner.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt, cc",
+    hide: "",
+    url: "https://bittylicious.com/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bittylicious.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bittylicious.png\" alt=\"Bittylicious\">Bittylicious</a> \n		<a type=\"button\" href=\"https://bittylicious.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy bitcoin instantly via Barclays Pingit, instant UK bank transfer, or credit/debit card.</p>\n		<a href=\"https://bittylicious.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
+    methods: "sepa, swift",
+    hide: "",
+    url: "https://coinfloor.co.uk/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinfloor.png\" alt=\"Coinfloor\">Coinfloor</a> \n		<a type=\"button\" href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Bitcoin exchange and broker. Deposit via bank transfer, SEPA, and more.</p>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "cash",
+    hide: "",
+    url: "https://bitbargain.co.uk/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bitbargain.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitbargain.png\" alt=\"BitBargain\">BitBargain</a> \n		<a type=\"button\" href=\"https://bitbargain.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>P2P marketplace for buying and selling bitcoin. Multiple payment methods available.</p>\n		<a href=\"https://bitbargain.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt",
+    hide: "",
+    url: "https://quickbitcoin.co.uk/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://quickbitcoin.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/quickuk.png\" alt=\"QuickBitcoin\">QuickBitcoin</a> \n		<a type=\"button\" href=\"https://quickbitcoin.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Bitcoin broker. Buy bitcoin in under an hour via online bank transfer.</p>\n		<a href=\"https://quickbitcoin.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt",
+    hide: "",
+    url: "https://cryptomate.co.uk",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cryptomate.co.uk\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cryptomate.png\" alt=\"CryptoMate\">CryptoMate</a> \n		<a type=\"button\" href=\"https://cryptomate.co.uk\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Bitcoin broker. Buy bitcoin quickly with UK online bank transfers.</p>\n		<a href=\"https://cryptomate.co.uk\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -367,54 +415,6 @@
     hide: "",
     url: "https://www.surbtc.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.surbtc.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/surbtc.png\" alt=\"surBTC\">surBTC</a> \n		<a type=\"button\" href=\"https://www.surbtc.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Bitcoin exchange. Deposit online via bank transfer. Fee varies.</p>\n		<a href=\"https://www.surbtc.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt, sepa, ccww",
-    hide: "",
-    url: "https://www.coincorner.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coincorner.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/ccoiner.png\" alt=\"CoinCorner\">CoinCorner</a> \n		<a type=\"button\" href=\"https://www.coincorner.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy using GBP bank transfer, SEPA transfer, or with credit/debit card.</p>\n		<a href=\"https://www.coincorner.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt, cc",
-    hide: "",
-    url: "https://bittylicious.com/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bittylicious.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bittylicious.png\" alt=\"Bittylicious\">Bittylicious</a> \n		<a type=\"button\" href=\"https://bittylicious.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy bitcoin instantly via Barclays Pingit, bank transfer, or credit/debit card.</p>\n		<a href=\"https://bittylicious.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "sepa, swift",
-    hide: "",
-    url: "https://coinfloor.co.uk/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinfloor.png\" alt=\"Coinfloor\">Coinfloor</a> \n		<a type=\"button\" href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Bitcoin exchange and broker. Deposit via bank transfer, SEPA, and more.</p>\n		<a href=\"https://coinfloor.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "cash",
-    hide: "",
-    url: "https://bitbargain.co.uk/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bitbargain.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitbargain.png\" alt=\"BitBargain\">BitBargain</a> \n		<a type=\"button\" href=\"https://bitbargain.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>P2P marketplace for buying and selling bitcoin. Multiple payment methods available.</p>\n		<a href=\"https://bitbargain.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt",
-    hide: "",
-    url: "https://quickbitcoin.co.uk/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://quickbitcoin.co.uk/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/quickuk.png\" alt=\"QuickBitcoin\">QuickBitcoin</a> \n		<a type=\"button\" href=\"https://quickbitcoin.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Bitcoin broker. Buy bitcoin in under an hour via online bank transfer.</p>\n		<a href=\"https://quickbitcoin.co.uk/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt",
-    hide: "",
-    url: "https://cryptomate.co.uk",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cryptomate.co.uk\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cryptomate.png\" alt=\"CryptoMate\">CryptoMate</a> \n		<a type=\"button\" href=\"https://cryptomate.co.uk\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Bitcoin broker. Buy bitcoin quickly with UK online bank transfers.</p>\n		<a href=\"https://cryptomate.co.uk\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({

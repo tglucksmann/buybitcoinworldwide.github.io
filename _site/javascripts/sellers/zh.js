@@ -11,7 +11,7 @@
 
   window.sellers.push({
     countries: "ch",
-    methods: "bt",
+    methods: "bt, sepa",
     hide: "true",
     url: "http://bity.com/",
     html: "      \n\n\n"
@@ -122,10 +122,58 @@
   });
 
   window.sellers.push({
-    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx",
+    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb",
     methods: "pp, cc, skrill, okpay",
     hide: "",
     url: "http://buybitcoinww.co/bitcoin_virwox",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt, sepa, ccww",
+    hide: "",
+    url: "https://www.coincorner.com/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt, cc",
+    hide: "",
+    url: "https://bittylicious.com/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
+    methods: "sepa, swift",
+    hide: "",
+    url: "https://coinfloor.co.uk/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "cash",
+    hide: "",
+    url: "https://bitbargain.co.uk/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt",
+    hide: "",
+    url: "https://quickbitcoin.co.uk/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb",
+    methods: "bt",
+    hide: "",
+    url: "https://cryptomate.co.uk",
     html: "      \n\n\n"
   });
 
@@ -366,54 +414,6 @@
     methods: "bt",
     hide: "",
     url: "https://www.surbtc.com/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt, sepa, ccww",
-    hide: "",
-    url: "https://www.coincorner.com/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt, cc",
-    hide: "",
-    url: "https://bittylicious.com/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "sepa, swift",
-    hide: "",
-    url: "https://coinfloor.co.uk/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "cash",
-    hide: "",
-    url: "https://bitbargain.co.uk/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt",
-    hide: "",
-    url: "https://quickbitcoin.co.uk/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt",
-    hide: "",
-    url: "https://cryptomate.co.uk",
     html: "      \n\n\n"
   });
 

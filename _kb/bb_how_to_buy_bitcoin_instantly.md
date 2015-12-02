@@ -14,7 +14,7 @@ weight: 9
 ---
 Unfortunately, it can be somewhat difficult to buy bitcoin instantly. Bitcoin payments are irreversible, while most forms of payment used today are reversible. This means that in order to buy bitcoin instantly, you have to use other irreversible forms of payment like cash.
 
-Fortunately, some companies have figured out ways to hedge their risk. Today, it’s also possible to buy bitcoin instantly with a credit card or debit card.  
+Fortunately, some companies have figured out ways to hedge their risk. Today, it’s even possible to [buy bitcoin](https://en.bitcoin.it/wiki/Buying_Bitcoins_%28the_newbie_version%29) instantly with a credit card or debit card.  
 
 ## Peer-to-peer Trade
 
@@ -22,15 +22,15 @@ Fortunately, some companies have figured out ways to hedge their risk. Today, it
 
 Peer-to-peer (P2P) Bitcoin exchanges are a great way to get bitcoin instantly. A P2P trade usually works something like this:
 
-1. A buyer and seller use a site like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow" target="_blank"} or [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow" target="_blank"} and agree on a price.
+1. A buyer and seller use a site like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} or [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"} and agree on a price.
 
-2. The seller’s bitcoins are held by the site (in this case [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow" target="_blank"} or [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow" target="_blank"}) and only released to the buyer upon confirmation of payment.
+2. The seller’s bitcoins are held by the site (in this case LocalBitcoins or BitQuick) and only released to the buyer upon confirmation of payment.
 
 3. The buyer deposits cash into the seller’s bank account.
 
 4. The seller confirms payment.
 
-5. The site ([LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow" target="_blank"} or [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow" target="_blank"}) releases the bitcoins to the buyer.
+5. The site (LocalBitcoins or BitQuick) releases the bitcoins to the buyer.
 
 6. The seller got cash, and the buyer got bitcoins. The trade is complete!  
 
@@ -44,7 +44,7 @@ There are two main reasons that P2P exchanges offer a near instant way to buy bi
 
 2. Cash payments are irreversible. Once cash is in someone’s bank account, the buyer of bitcoin has no way to reverse the transaction. So the seller can feel confident that he received payment for bitcoins, and release the bitcoins to the buyer.  
 
-P2P exchanges offer a fast way to buy bitcoins, but P2P exchange rates may be a bit higher than the global average Bitcoin exchange rate. People are willing to pay more to buy bitcoins both more privately and faster. The markup is usually somewhere around 5-10% on [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow" target="_blank"}. [BitQuick](https://www.bitquick.co/){:target="_blank"} generally has rates close to market. Check the against a Bitcoin price index like Bitcoin Average or the CoinDesk BPI.  
+P2P exchanges offer a fast way to buy bitcoins, but P2P exchange rates may be a bit higher than the global average Bitcoin exchange rate. People are willing to pay more to buy bitcoins both more privately and faster. The markup is usually somewhere around 5-10% on [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"}. [BitQuick](https://www.bitquick.co/){:target="_blank"} generally has rates close to market. Check the against a Bitcoin price index like Bitcoin Average or the CoinDesk BPI.  
 
 ## Bitcoin ATMs  
 
@@ -78,11 +78,11 @@ Some ATMs may require verification, like a picture of an ID or a finger print sc
 
 While credit card payments are actually very slow and can take up to 90 days to complete, it’s possible to buy bitcoin instantly with a credit or debit card.  
 
-[Circle](http://buybitcoinww.co/buy_circle){:rel="nofollow" target="_blank"} is the only place that lets U.S. customers buy bitcoin instantly with a credit card or debit card. Both credit and debit card purchases are instant at Circle. The only difference is debit card purchases are free, while credit card purchases come with a 3% fee.
+[Circle](http://buybitcoinww.co/buy_circle){:rel="nofollow"} is the only place that lets U.S. customers buy bitcoin instantly with a credit card or debit card. Both credit and debit card purchases are instant at Circle. The only difference is debit card purchases are free, while credit card purchases come with a 3% fee.
 
 Here’s a step-by-step guide on [how to buy bitcoin](/kb/how-to-buy-bitcoin/) instantly with a credit or debit card on Circle.
 
-## 1. [Create an Account](http://buybitcoinww.co/buy_circle){:rel="nofollow" target="_blank"} on [Circle](http://buybitcoinww.co/buy_circle){:rel="nofollow" target="_blank"}
+## 1. [Create an Account](http://buybitcoinww.co/buy_circle){:rel="nofollow"} on Circle
 
 Once you create an account, confirm your personal details an login. Once you've logged in, continue to the next step.
 
@@ -114,9 +114,9 @@ That’s it! Now you can buy bitcoin instantly with your credit or debit card on
 
 ## ChangeTip
 
-[Changetip](https://www.changetip.com/){:rel="nofollow" target="_blank"} is another great option to buy bitcoin instantly with a credit card in the United States. ChangeTip is a social tipping service, that lets people send small amounts of money to other people on the web. With ChangeTip you can buy up to $40 worth of bitcoin instantly with a credit or debit card. Here’s how:
+Changetip is another great option to buy bitcoin instantly with a credit card in the United States. ChangeTip is a social tipping service, that lets people send small amounts of money to other people on the web. With ChangeTip you can buy up to $40 worth of bitcoin instantly with a credit or debit card. Here’s how:
 
-## 1. Create an account on [Changetip](https://www.changetip.com/){:rel="nofollow" target="_blank"}
+## 1. Create an account on [Changetip](https://www.changetip.com/)
 
 You can login with Facebook, Twitter, or Reddit. Once you create an account, login.   
 
@@ -146,19 +146,19 @@ If you’re card was verified, you’ll now be able to select how much bitcoin y
 
 That’s it! Note that ChangeTip charges an 8.3% fee per purchase. Still, if you need bitcoin fast this is a good option.  
 
-If you’re not a U.S. resident, [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow" target="_blank"} lets European users buy bitcoin instantly with a 3D secure credit or debit card. Coinbase charges a flat 3% fee on each purchase.  
+If you’re not a U.S. resident, [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} lets European users buy bitcoin instantly with a 3D secure credit or debit card. Coinbase charges a flat 3% fee on each purchase.  
 
 Some more places to buy bitcoin instantly with a credit or debit card: Coinmama (worldwide), Coinhouse (France), Coinimal (Europe).  
 
 ## Buy Bitcoin Instantly with PayPal  
 
-PayPal is the most common way to pay online. So, obviously there is an easy way to [buy bitcoin with PayPal](/en/buy-bitcoin-paypal/), right? Unfortunately there isn’t. PayPal actually bans the sale of bitcoins for PayPal merchants. Because Bitcoin transactions are irreversible and PayPal transactions are reversible, there would be a very high fraud rate for anyone selling bitcoins for PayPal.  
+PayPal is the most common way to pay online. So, obviously there is an [easy way to buy bitcoin with PayPal](/en/buy-bitcoin-paypal/), right? Unfortunately there isn’t. PayPal actually bans the sale of bitcoins for PayPal merchants. Because Bitcoin transactions are irreversible and PayPal transactions are reversible, there would be a very high fraud rate for anyone selling bitcoins for PayPal.  
 
-We’re going to show you the easiest way to convert your PayPal balance to bitcoin: [VirWoX](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow" target="_blank"}. Using VirWoX you’ll end up paying around 9% in fees, but keep in mind this is the cheapest way to convert PayPal to bitcoin. You may need to wait a couple days after opening an account before you can use this method; read more here.  
+We’re going to show you the easiest way to convert your PayPal balance to bitcoin: VirWoX. Using VirWoX you’ll end up paying around 9% in fees, but keep in mind this is the cheapest way to convert PayPal to bitcoin. You may need to wait a couple days after opening an account before you can use this method; read more here.  
 
-[VirWoX](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow" target="_blank"} stands for Virtual World Exchange, and mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can’t buy bitcoin with PayPal directly at VirWoX, but it’s possible to first buy Second Life Lindens (SLL) and then trade your Second Life Lindens for Bitcoin.
+[VirWoX](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"} stands for Virtual World Exchange, and mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can’t buy bitcoin with PayPal directly at VirWoX, but it’s possible to first buy Second Life Lindens (SLL) and then trade your Second Life Lindens for Bitcoin.
 
-## 1. [Open an account](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow" target="_blank"} on [VirWoX](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow" target="_blank"}
+## 1. [Open an account](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"} on VirWoX
 
 From the home page, click on "Not registered yet?"
 
@@ -248,15 +248,15 @@ Once you've purchased your bitcoins, we suggest sending your bitcoins to a walle
 
 ## Coinbase  
 
-U.S. residents must wait five days for purchases at [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow" target="_blank"} to complete. This is because when you buy bitcoin with a bank transfer, Coinbase must wait until the transfer has completed. Just like with PayPal, when accepting reversible payment methods, companies must be extra certain that they’ve received payment before sending bitcoins.  
+U.S. residents must wait five days for purchases at Coinbase to complete. This is because when you buy bitcoin with a bank transfer, Coinbase must wait until the transfer has completed. Just like with PayPal, when accepting reversible payment methods, companies must be extra certain that they’ve received payment before sending bitcoins.  
 
-[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow" target="_blank"} understands that people want bitcoin instantly. Users can add a Visa or Mastercard credit card--only credit card, not debit card—as a backup payment method. This helps Coinbase because now if you’re bank transfer doesn’t go through, they still have a way to charge you for the bitcoins. Users with Level 1 verification and a backup credit card on their account will be able to buy up to $100 worth of bitcoin instantly per week. Fully verified users with a backup credit card will be able to [buy up to $1,000 worth of bitcoin instantly](http://www.coindesk.com/coinbase-makes-instant-bitcoin-buying-available-in-26-countries/){:target="_blank"} per week.  
+[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} understands that people want bitcoin instantly. Users can add a Visa or Mastercard credit card--only credit card, not debit card—as a backup payment method. This helps Coinbase because now if you’re bank transfer doesn’t go through, they still have a way to charge you for the bitcoins. Users with Level 1 verification and a backup credit card on their account will be able to buy up to $100 worth of bitcoin instantly per week. Fully verified users with a backup credit card will be able to [buy up to $1,000 worth of bitcoin instantly](http://www.coindesk.com/coinbase-launches-instant-bitcoin-buying-and-selling/) per week. Additionally, users in supported states can [store USD in their account for instant use](https://www.cryptocoinsnews.com/buy-bitcoins-instantly-using-coinbase-usd-wallets/). 
 
 It may be a pain to wait five days, but at least you give yourself the option to buy bitcoin instantly for future purchases. Here’s how to add a credit card to your account:  
 
-## 1. [Create an Account](http://buybitcoinww.co/buycoinbase){:rel="nofollow" target="_blank"} on [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow" target="_blank"}
+## 1. [Create an Account](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} on Coinbase
 
-Once you [create an account](http://buybitcoinww.co/buycoinbase){:rel="nofollow" target="_blank"}, login. 
+Once you create an account, login. 
 
 ## 2. From the accounts page, click on “Buy/Sell Bitcoin”
 
@@ -282,7 +282,7 @@ Once you [create an account](http://buybitcoinww.co/buycoinbase){:rel="nofollow"
 
 ![coinbase][22]{: .img-responsive .kb-helper}
 
-That’s it! You’ll now be able to buy bitcoin instantly on [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow" target="_blank"}. Remember, you’ll be limited to $100 or $1,000 worth of bitcoin instantly per week depending on your level of verification.
+That’s it! You’ll now be able to buy bitcoin instantly on [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"}. Remember, you’ll be limited to $100 or $1,000 worth of bitcoin instantly per week depending on your level of verification.
 
 ## Interac Online  
 
@@ -290,7 +290,7 @@ Canadian customers can use Interac Online to buy bitcoin instantly at over 10 di
 
 ## United Kingdom   
 
-UK customers can get bitcoins in a few minutes using [Bittylicious](https://bittylicious.com/){:target="_blank"}. All you need to do is create an account, decide how much bitcoin you want to buy, and then send a bank transfer. Most transfers take a few minutes to confirm.
+UK customers can get bitcoins in a few minutes using [Bittylicious](https://bittylicious.com/). All you need to do is create an account, decide how much bitcoin you want to buy, and then send a bank transfer. Most transfers take a few minutes to confirm.
 
 ## Tips on Buying  
 

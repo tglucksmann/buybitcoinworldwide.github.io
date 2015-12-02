@@ -45,7 +45,7 @@
    url: http://bity.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/bity.png
    countries: ch
-   po: bt
+   po: bt, sepa
    hide: yes
    ar: yes
    desc_ar:  الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.
@@ -362,8 +362,72 @@
    desc: Buy Second Life Lindens, and trade them for bitcoin. One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a>.  
    url: http://buybitcoinww.co/bitcoin_virwox
    icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
-   countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx
+   countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb
    po: pp, cc, skrill, okpay
+
+##### England ####################################################  
+
+ - name: CoinCorner
+   desc: Buy using GBP bank transfer, SEPA transfer, or with credit/debit card. 
+   url: https://www.coincorner.com/
+   icon: https://www.buybitcoinworldwide.com/img/buy/ccoiner.png
+   countries: gb
+   po: bt, sepa, ccww
+   ar: yes
+   desc_ar:  الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.
+   
+ - name: Bittylicious
+   desc: Buy bitcoin instantly via Barclays Pingit, instant UK bank transfer, or credit/debit card.
+   url: https://bittylicious.com/
+   icon: https://www.buybitcoinworldwide.com/img/buy/bittylicious.png
+   countries: gb
+   po: bt, cc
+   ar: yes
+   desc_ar:  شراء كميات صغيرة جدًا من بيتكوين عبر باركليز Pingit، أو عبر التحويل المصرفي أو ببطاقة الائتمان / الخصم.
+   
+ - name: Coinfloor
+   desc: Bitcoin exchange and broker. Deposit via bank transfer, SEPA, and more.
+   url: https://coinfloor.co.uk/
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinfloor.png
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
+   po: sepa, swift
+   ar: yes
+   desc_ar:  صرافة بيتكوين ووسطاؤه. الإيداع عن طريق التحويل المصرفي، أو SEPA، وغير ذلك الكثير.
+   desc_fr: Bourse d'échange et courtier bitcoin. Faites des dépôts par virement bancaire, SEPA, et plus encore.
+   desc_nl: Bitcoin exchange en dealer. Stort via bankoverschrijving, SEPA en meer.
+   desc_it: Società di cambio e broker di Bitcoin. Deposita tramite bonifico bancario, SEPA e altro.
+   desc_el: Ανταλλακτήριο bitcoin και μεσίτης. Καταθέσεις μέσω τραπεζικής μεταφοράς, SEPA και άλλα.
+   desc_pt_br: Casas de câmbio e negociantes de Bitcoins. Deposite via transferência bancária, SEPA e outros métodos.
+   desc_de: Bitcoin Börse und Broker. Einzahlen über Banküberweisungen, SEPA und mehr.
+   desc_bg: Биткойн борса и брокер. Депозирайте чрез банков превод, SEPA и други.
+   
+ - name: BitBargain
+   desc: P2P marketplace for buying and selling bitcoin. Multiple payment methods available.
+   url: https://bitbargain.co.uk/
+   icon: https://www.buybitcoinworldwide.com/img/buy/bitbargain.png
+   countries: gb 
+   po: cash
+   ar: yes
+   desc_ar:  أسواق P2P لبيع بيتكوين وشرائه. طرق الدفع المتعددة المتاحة.
+   
+ - name: QuickBitcoin
+   desc: Bitcoin broker. Buy bitcoin in under an hour via online bank transfer. 
+   url: https://quickbitcoin.co.uk/
+   icon: https://www.buybitcoinworldwide.com/img/buy/quickuk.png
+   countries: gb 
+   po: bt
+   ar: yes
+   desc_ar:  وسيط بيتكوين. شراء بيتكوين في أقل من ساعة عن طريق التحويل المصرفي عبر الإنترنت.   
+   
+ - name: CryptoMate
+   desc: Bitcoin broker. Buy bitcoin quickly with UK online bank transfers. 
+   url: https://cryptomate.co.uk
+   icon: https://www.buybitcoinworldwide.com/img/buy/cryptomate.png
+   countries: gb  
+   po: bt         
+   ar: yes
+   desc_ar:  وسيط بيتكوين. شراء بيتكوين بالتحويلات المصرفية عبر الإنترنت في المملكة المتحدة.
+   
    
 ##### Austria ####################################################   
 
@@ -784,69 +848,6 @@
    ar: yes
    desc_ar:  صرافة بيتكوين. الإيداع عبر الإنترنت من خلال التحويل المصرفي. تختلف الرسوم.
    desc_de: Bitcoin Börse. Geld online über Banküberweisungen einzahlen. Gebühr variiert.
-   
-##### England ####################################################  
-
- - name: CoinCorner
-   desc: Buy using GBP bank transfer, SEPA transfer, or with credit/debit card. 
-   url: https://www.coincorner.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/ccoiner.png
-   countries: gb
-   po: bt, sepa, ccww
-   ar: yes
-   desc_ar:  الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.
-   
- - name: Bittylicious
-   desc: Buy bitcoin instantly via Barclays Pingit, bank transfer, or credit/debit card.
-   url: https://bittylicious.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bittylicious.png
-   countries: gb
-   po: bt, cc
-   ar: yes
-   desc_ar:  شراء كميات صغيرة جدًا من بيتكوين عبر باركليز Pingit، أو عبر التحويل المصرفي أو ببطاقة الائتمان / الخصم.
-   
- - name: Coinfloor
-   desc: Bitcoin exchange and broker. Deposit via bank transfer, SEPA, and more.
-   url: https://coinfloor.co.uk/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinfloor.png
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
-   po: sepa, swift
-   ar: yes
-   desc_ar:  صرافة بيتكوين ووسطاؤه. الإيداع عن طريق التحويل المصرفي، أو SEPA، وغير ذلك الكثير.
-   desc_fr: Bourse d'échange et courtier bitcoin. Faites des dépôts par virement bancaire, SEPA, et plus encore.
-   desc_nl: Bitcoin exchange en dealer. Stort via bankoverschrijving, SEPA en meer.
-   desc_it: Società di cambio e broker di Bitcoin. Deposita tramite bonifico bancario, SEPA e altro.
-   desc_el: Ανταλλακτήριο bitcoin και μεσίτης. Καταθέσεις μέσω τραπεζικής μεταφοράς, SEPA και άλλα.
-   desc_pt_br: Casas de câmbio e negociantes de Bitcoins. Deposite via transferência bancária, SEPA e outros métodos.
-   desc_de: Bitcoin Börse und Broker. Einzahlen über Banküberweisungen, SEPA und mehr.
-   desc_bg: Биткойн борса и брокер. Депозирайте чрез банков превод, SEPA и други.
-   
- - name: BitBargain
-   desc: P2P marketplace for buying and selling bitcoin. Multiple payment methods available.
-   url: https://bitbargain.co.uk/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitbargain.png
-   countries: gb 
-   po: cash
-   ar: yes
-   desc_ar:  أسواق P2P لبيع بيتكوين وشرائه. طرق الدفع المتعددة المتاحة.
-   
- - name: QuickBitcoin
-   desc: Bitcoin broker. Buy bitcoin in under an hour via online bank transfer. 
-   url: https://quickbitcoin.co.uk/
-   icon: https://www.buybitcoinworldwide.com/img/buy/quickuk.png
-   countries: gb 
-   po: bt
-   ar: yes
-   desc_ar:  وسيط بيتكوين. شراء بيتكوين في أقل من ساعة عن طريق التحويل المصرفي عبر الإنترنت.   
-   
- - name: CryptoMate
-   desc: Bitcoin broker. Buy bitcoin quickly with UK online bank transfers. 
-   url: https://cryptomate.co.uk
-   icon: https://www.buybitcoinworldwide.com/img/buy/cryptomate.png
-   countries: gb  
-   po: bt         
-   ar: yes
-   desc_ar:  وسيط بيتكوين. شراء بيتكوين بالتحويلات المصرفية عبر الإنترنت في المملكة المتحدة.
    
 ##### Singapore ####################################################   
 
