@@ -18,7 +18,7 @@ Bitcoin as an advanced payment system and computing network is undeniably comple
 
 ## How is Bitcoin Received?
 
-All that’s needed to receive payments is a [Bitcoin wallet](https://www.buybitcoinworldwide.com/kb/what-is-a-bitcoin-wallet/) and an address. There’s a wide selection of Bitcoin wallets available for [free download](https://www.buybitcoinworldwide.com/wallets/), suitable for all major devices and operating systems. After installing the wallet, generating or selecting a receiving address is the first step to receiving payments.
+All that’s needed to receive payments is a [Bitcoin wallet](/kb/what-is-a-bitcoin-wallet/) and an address. There’s a wide selection of Bitcoin wallets available for [free download](/wallets/), suitable for all major devices and operating systems. After installing the wallet, generating or selecting a receiving address is the first step to receiving payments.
 
 Addresses may be securely shared, with anyone and everyone. An address can be communicated as either a 34 character strings beginning with a 1 or 3, as in _1SAWZzCfWMGPqJUGA1thfrKiRMkP5c8Vh_, or as a QR code of that same address:
 
@@ -44,13 +44,13 @@ Unlike a bank account, your Bitcoin balance can never go below zero.
 
 ## Bitcoin Wallet Security
 
-A wallet’s owner is entirely responsible for its security. The most important point is to back up your [private key](/kb/what-is-a-bitcoin-private-key/), without which the wallet’s bitcoins cannot be spent. Many wallets will allow you to protect this private key with a password, which is recommended.
+A wallet’s owner is entirely responsible for its security. The most important point is to [back up your private key](/kb/what-is-a-bitcoin-private-key/), without which the wallet’s bitcoins cannot be spent. Many wallets will allow you to protect this private key with a password, which is recommended.
 
-If you accumulate a significant amount of bitcoins, it’s really essential that you backup your wallet in a secure way. Consult our [guide](https://www.buybitcoinworldwide.com/kb/how-to-store-and-protect-bitcoins/) for further information on wallet security, as well as your specific wallet’s documentation for detailed instructions on password protection and backup creation.
+If you accumulate a significant amount of bitcoins, it’s really essential that you backup your wallet in a secure way. [Consult our guide](/kb/how-to-store-and-protect-bitcoins/) for further information on wallet security, as well as your specific wallet’s documentation for detailed instructions on password protection and backup creation.
 
 ## Bitcoin Network Security
 
-Even the highest level of wallet security would be useless if the Bitcoin network wasn’t secure. Fortunately, security is an area in which Bitcoin excels. By some [estimates](http://qntra.net/2015/11/venture-capital-fuels-stupidity-in-bitcoin-not-innovation/), nearly half a million dollars is spent daily to verify and record Bitcoin transactions. This sum covers electricity costs alone and not the initial investment in computing hardware, which is sufficient to make Bitcoin the world’s most powerful decentralised supercomputer.
+Even the highest level of wallet security would be useless if the Bitcoin network wasn’t secure. Fortunately, security is an area in which Bitcoin excels. [By some estimates](http://qntra.net/2015/11/venture-capital-fuels-stupidity-in-bitcoin-not-innovation/), nearly half a million dollars is spent daily to verify and record Bitcoin transactions. This sum covers electricity costs alone and not the initial investment in computing hardware, which is sufficient to make Bitcoin the world’s most powerful decentralised supercomputer.
 
 The greatest vulnerability in Bitcoin remains the inexperienced user. The greatest protection against [scammers](/kb/avoid-bitcoin-scams/), hackers and accidental loss is education.
 

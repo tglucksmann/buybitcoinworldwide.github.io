@@ -12,7 +12,7 @@ categories:
 - faq
 weight: 5
 ---
-Paper money, and coins, are easy to fake. Someone who finds a good way to print counterfeit bills can do so on a mass scale, and isn’t always discovered right away. It can also be hard to verify precious metals and doing so often comes at a high cost. 
+Paper money and coins are easy to fake. Someone who finds a good way to print counterfeit bills can do so on a mass scale, and isn’t always discovered right away. It can also be hard to verify precious metals and doing so often comes at a high cost. 
 
 There are no counterfeit bitcoins because Bitcoin uses cryptography to verify transactions. Math, not people, verifies Bitcoin transactions. 
 

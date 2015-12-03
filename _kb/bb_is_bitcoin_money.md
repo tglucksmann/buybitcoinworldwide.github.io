@@ -13,13 +13,13 @@ categories:
 - economics
 weight: 8
 ---
-Bitcoin has become a rather controversial topic for those interested in economics and finance. Some view it as the best form of money that has ever existed, while others contend that bitcoin could never be considered as good as cash or gold. It’s important to look at the classical definition of money before coming to a decision on this matter, but it should also be remembered that the definition of money can also evolve over time as new technologies emerge.
+Bitcoin has become a rather controversial topic for those interested in economics and finance. [Some view it as the best form of money](http://bigthink.com/think-tank/why-bitcoin-is-the-best-form-of-money-weve-ever-seen-with-wences-casares) that has ever existed, while others contend that bitcoin could never be considered as good as cash or gold. It’s important to look at the classical definition of money before coming to a decision on this matter, but it should also be remembered that the definition of money can also evolve over time as new technologies emerge.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IP0jCjyrew8" frameborder="0" allowfullscreen></iframe>
 
 ## Functions of Money
 
-There are three main functions of money. As of now, bitcoin is mainly used as a store of value, but that could change over time. Here is a closer look at bitcoin’s current ability to function as a money:
+There are three [main functions of money](https://www.stlouisfed.org/education/economic-lowdown-podcast-series/episode-9-functions-of-money). As of now, bitcoin is mainly used as a store of value, but that could change over time. Here is a closer look at bitcoin’s current ability to function as a money:
 
 * **Store of Value** - A store of value is a commodity or asset that is able to hold its value over time. Essentially, people are storing their wealth or savings in a specific asset. While the bitcoin price has been extremely volatile over the short term, its long-term trajectory has been up. Many people have started to put a portion of their savings into bitcoin to protect (and perhaps increase) their wealth over time.
 
@@ -39,7 +39,7 @@ According to the Federal Reserve Bank of St. Louis, there are six generally acce
 
 **4.	Uniformity/Fungibility** - Every money unit must be equal to all others for a form of money to be useful. It needs to be easy to confirm the authenticity of a money, and a money’s history should also not be able to be tracked. Bitcoin is likely the hardest money to counterfeit in the world’s history because the authenticity of a bitcoin is checked by the network whenever a new payment is made. The ability to track Bitcoin payments through the blockchain is an issue right now because it could cause governments or other individuals to decide that bitcoin associated with criminal activities or thefts are less desireable. Privacy enhancements for bitcoin are in the works, and they could eventually improve its fungibility.
 
-**5.	Limited Supply -** Having a limited supply is another area where bitcoin shines. This is the first money that has a limited supply by design. Even gold could run into trouble if a large amount were found in a short period of time. Looking further into the future, asteroid mining could also cause problems for the precious metal. With bitcoin, there is nothing left up to chance.
+**5.	Limited Supply -** [Having a limited supply](https://en.bitcoin.it/wiki/Controlled_supply) is another area where bitcoin shines. This is the first money that has a limited supply by design. Even gold could run into trouble if a large amount were found in a short period of time. Looking further into the future, asteroid mining could also cause problems for the precious metal. With bitcoin, there is nothing left up to chance.
 
 **6.	Acceptability -** Acceptability is one other area where bitcoin still has issues. Although some big name merchants, such as Overstock and Microsoft, have decided to accept payments made via the peer-to-peer digital cash system, the majority of daily purchases still cannot be made with bitcoin. Bitcoin debit cards have the potential to bridge the gap here, but a Bitcoin debit card with global reach and high limits is still unavailable.
 

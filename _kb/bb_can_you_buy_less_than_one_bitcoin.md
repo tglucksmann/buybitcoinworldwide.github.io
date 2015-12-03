@@ -18,10 +18,10 @@ Each bitcoin is divisible to the 8th decimal place, meaning each bitcoin can be 
 
 ![buy less than one bitcoin](https://www.buybitcoinworldwide.com/img/icons/paypal.png)
 
-When [buying Bitcoin](https://www.buybitcoinworldwide.com/), you don't have to buy a full bitcoin and can easily buy less than one.
+When buying Bitcoin, you don't have to buy a full bitcoin and can easily buy less than one.
 
 Most brokers will let you specify the amount of fiat currency you want to spend and in exchange sell you the equivalent amount of Bitcoin. For example, if one bitcoin is worth $250, and you want to buy $125 worth of bitcoin, you'll receive 0.50 bitcoin--assuming there are no fees. 
 
 Vice-versa, most Bitcoin brokers also let you specify the amount of bitcoin you want and will charge you the equivalent in fiat. For example, if you want to buy 0.25 bitcoin and 1 bitcoin is $300, you'll be charged $75. 
 
-So, yes, it's 100% possible to buy less than one bitcoin. Companies like [Coinbase](http://buybitcoinww.co/coinbase_bitcoin){:rel="nofollow"} and [Celery](http://buybitcoinww.co/go_celery){:rel="nofollow"} will let you buy as little as $1 and $5 worth of bitcoin, respectively.
+So, yes, it's 100% possible to buy less than one bitcoin. Companies like [Coinbase](http://buybitcoinww.co/coinbase_bitcoin){:rel="nofollow"} will let you buy as little as $1 worth of bitcoin.

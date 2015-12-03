@@ -25,19 +25,19 @@ Let’s look to gold as an example currency. There is a limited amount of gold o
 
 ![bitcoin inflation rate][inflationchart]{: .img-responsive .kb-helper}
 
-In addition to being scarce, bitcoins are useful. Bitcoin provides sound and predictable [monetary policy](http://nakamotoinstitute.org/mempool/the-bitcoin-central-banks-perfect-monetary-policy/){:rel="nofollow"} that can be verified by anyone. Bitcoin’s sound monetary policy is one of its most important features. It’s possible to see when new bitcoins are created or how many bitcoins are in circulation. Bitcoins can be sent from anywhere in the world to anywhere else in the world. No bank can block payments or close your account. Bitcoin is censorship resistant money.  Bitcoin makes cross border payments possible, and also provides an easy way for people to escape failed government monetary policy. 
+In addition to being scarce, bitcoins are useful. Bitcoin provides sound and predictable [monetary policy](http://nakamotoinstitute.org/mempool/the-bitcoin-central-banks-perfect-monetary-policy/) that can be verified by anyone. Bitcoin’s sound monetary policy is one of its most important features. It’s possible to see when new bitcoins are created or how many bitcoins are in circulation. Bitcoins can be sent from anywhere in the world to anywhere else in the world. No bank can block payments or close your account. Bitcoin is censorship resistant money.  Bitcoin makes cross border payments possible, and also provides an easy way for people to escape failed government monetary policy. 
 
 The internet made information global and easy to access. A sound, global currency like Bitcoin will have the same impact on finance and the global economy. If you understand the potential impact of Bitcoin, it won't be hard to hard to understand why investing in bitcoin may be a good idea. 
 
 ## Bitcoin's Price
-There is no official Bitcoin price. Bitcoin’s price is set by whatever people are willing to pay. [CoinDesk's price index](http://www.coindesk.com/price/){:rel="nofollow"} is a good resource. 
+There is no official Bitcoin price. Bitcoin’s price is set by whatever people are willing to pay. [CoinDesk's price index](http://www.coindesk.com/price/) is a good resource. 
 
 Bitcoin’s price is generally shown as the cost of one bitcoin. However, exchanges will let you buy any amount, and you can [buy less than one bitcoin](/kb/buy-less-than-one-bitcoin/). Below is a chart showing Bitcoin's entire price history:
 
 ![bitcoin price history][bitcoinprice]{: .img-responsive .kb-helper}
 
 ## When is the right time to buy? 
-As with any market, nothing is for sure. Throughout its history, Bitcoin has generally increased in value at a very fast pace, followed by a slow, steady downfall until it stabilizes. Use tools like [Bitcoin Wisdom](https://bitcoinwisdom.com/){:rel="nofollow"} or [Cryptowatch](https://cryptowat.ch/){:rel="nofollow"} to analyze charts and understand Bitcoin’s price history. 
+As with any market, nothing is for sure. Throughout its history, Bitcoin has generally increased in value at a very fast pace, followed by a slow, steady downfall until it stabilizes. Use tools like [Bitcoin Wisdom](https://bitcoinwisdom.com/) or [Cryptowatch](https://cryptowat.ch/) to analyze charts and understand Bitcoin’s price history. 
 
 Bitcoin is global and not affected by any single country’s financial situation or stability. For example, speculation about the Chinese Yuan devaluating has, in the past, caused more demand from China, which also pulled up the exchange rate on U.S. and Europe based exchanges. 
 
@@ -51,7 +51,7 @@ The difficulty of buying bitcoins depends on your country. Developed countries h
 ## How to Secure Bitcoins
 As with anything valuable, hackers, thieves, and scammers will all be after your bitcoins, so securing your bitcoins is necessary. If you’re serious about investing in bitcoin and see yourself buying a significant amount, we recommend using Bitcoin wallets that were built with security in mind. 
 
-* **Paper Wallet** – a paper wallet is a single bitcoin address and bitcoin private key printed on a piece of paper. [Read more about paper wallets](https://en.bitcoin.it/wiki/Paper_wallet){:rel="nofollow"} or [guide](http://www.coindesk.com/information/paper-wallet-tutorial/){:rel="nofollow"} on how to create a secure paper wallet. 
+* **Paper Wallet** – a paper wallet is a single bitcoin address and bitcoin private key printed on a piece of paper. [Read more about paper wallets](https://en.bitcoin.it/wiki/Paper_wallet) or [guide](http://www.coindesk.com/information/paper-wallet-tutorial/) on how to create a secure paper wallet. 
 * **TREZOR** – TREZOR is a hardware wallet that was built to secure bitcoins. It generates your Bitcoin private keys offline. Read more about [TREZOR](/wallets/trezor/) or [buy one](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"}. 
 * **Ledger** – Ledger is a Bitcoin security company that offers a slew of secure Bitcoin storage devices. We currently see the Ledger Nano as Ledger’s most secure wallet. Read more about the [Ledger Nano](/wallets/ledger-nano/) or [buy one](http://buybitcoinww.co/Ledger_Wallet){:rel="nofollow"}. 
 

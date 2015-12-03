@@ -11,7 +11,7 @@ categories:
 - faq
 weight: 5
 ---
-Bitcoins are stored in [Bitcoin wallets](/wallets/), which contain private keys. A private key is similar to a password in that it gives you the ability to spend from a certain Bitcoin address. A private key is like the key to a vault. Without the private key to a corresponding Bitcoin address, it’s impossible to spend from that address. If private keys are destroyed, and no backup is available, these specific bitcoins are gone forever.
+Bitcoins [are stored in Bitcoin wallets](/wallets/), which contain private keys. A private key is similar to a password in that it gives you the ability to spend from a certain Bitcoin address. A private key is like the key to a vault. Without the private key to a corresponding Bitcoin address, it’s impossible to spend from that address. If private keys are destroyed, and no backup is available, these specific bitcoins are gone forever.
 
 {:refdef: .note}
 Bitcoin addresses are generated randomly. The total amount of possible Bitcoin addresses is so high, that it’s impossible to randomly generate the same address.  

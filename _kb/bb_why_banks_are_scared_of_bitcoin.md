@@ -12,9 +12,9 @@ categories:
 - traditionalf
 weight: 6
 ---
-Banks today provide many services, such as holding money, securing money, making loans, and making payments. Because Bitcoin eliminates the need for these services, banks hate Bitcoin in the same way horse and buggy companies hated car companies.
+Banks today provide many services, such as holding money, securing money, making loans, and making payments. Because Bitcoin eliminates the need for these services, [banks hate Bitcoin](http://fortune.com/2014/11/20/why-banks-fear-bitcoin/) in the same way horse and buggy companies hated car companies.
 
-Satoshi Nakamoto, the creator of Bitcoin, [cited many of the problems with banks](http://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/#selection-33.0-33.479){:rel="nofollow"}: 
+Satoshi Nakamoto, the creator of Bitcoin, [cited many of the problems with banks](http://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/#selection-33.0-33.479): 
 
 > Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts.
 

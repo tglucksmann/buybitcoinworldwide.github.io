@@ -28,7 +28,7 @@ People buy bitcoin for a number of reasons. If you see the value in a specific u
 
 If you want to buy [bitcoin as an investment](/kb/investing-in-bitcoin/) you need to understand the economics of Bitcoin and the risks involved. 
 
-Bitcoin’s supply is capped at 21 million. Combine scarcity with utility--bitcoin can be sent anywhere in the world—and you can see why some investors are extremely bullish. Because of this combination many people call bitcoin “digital gold”. Some consider it to be the “[greatest form of money we’ve ever seen](http://bigthink.com/think-tank/why-bitcoin-is-the-best-form-of-money-weve-ever-seen-with-wences-casares){:rel="nofollow"}”. 
+Bitcoin’s supply is capped at 21 million. Combine scarcity with utility--bitcoin can be sent anywhere in the world—and you can see why some investors are extremely bullish. Because of this combination many people call bitcoin “digital gold”. Some consider it to be the “[greatest form of money we’ve ever seen](http://bigthink.com/think-tank/why-bitcoin-is-the-best-form-of-money-weve-ever-seen-with-wences-casares)”. 
 
 Bitcoin can also be stored with no bank or third party. Bitcoin can’t be confiscated, your account can’t be frozen, and there are no limits on how much money you can send or receive. Bitcoin’s supply is capped and can’t be [inflated by government](/kb/hedge-against-inflation-with-bitcoin). These properties make Bitcoin less restrictive than any other payment system or currency, and storing your wealth in money with these properties adds enormous value for some people. 
 

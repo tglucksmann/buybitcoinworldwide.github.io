@@ -17,7 +17,7 @@ Note that Satoshi’s true identity is still unknown. Satoshi may have been a ma
 
 ## Does Satoshi Still Have his Wallet? 
 
-The first question people ask about Satoshi’s holdings is whether or not he still has the private key to access his coins. Satoshi never discussed his holdings, but, in reply to another user who deleted his wallet, Satoshi said: 
+The first question people ask about Satoshi’s holdings is whether or not he still [has the private key](/kb/what-is-a-bitcoin-private-key/) to access his coins. Satoshi never discussed his holdings, but, in reply to another user who deleted his wallet, Satoshi said: 
 
 > “Sigh... why delete a wallet instead of moving it aside and keeping the old copy just in case?  You should never delete a wallet.”
 
@@ -25,5 +25,5 @@ Based on this, many feel certain that Satoshi still controls the entirety of his
 
 ## Would Satoshi spend his fortune? 
 
-Many wonder if Satoshi would ever sell, spend, or move his coins. This question is harder to answer. Satoshi is an anonymous person or group of people. Spending some of the 1 million coins would bring a lot of attention towards Satoshi and potentially jeopardize his identity and the anonymity that he clearly valued. 
+Many wonder if Satoshi would ever sell, spend, or move his coins. This question is harder to answer. Satoshi is an anonymous person or group of people. Spending some of the 1 million coins would bring a lot of attention towards Satoshi and [potentially jeopardize his identity and the anonymity](https://en.wikipedia.org/wiki/Satoshi_Nakamoto#Uncertainty) that he clearly valued. 
  

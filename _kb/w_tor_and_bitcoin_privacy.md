@@ -12,9 +12,9 @@ categories:
 - privacy
 weight: 7
 ---
-Bitcoin wallets need to both transmit and query data from the blockchain. Because Bitcoin is a peer-to-peer network, your IP address is often exposed in the process of sending or requesting data when using a [Bitcoin wallet](/wallets/).
+Bitcoin wallets need to both transmit and query data from the blockchain. Because Bitcoin is a peer-to-peer network, [your IP address is often exposed](http://www.coindesk.com/anonymous-bitcoin-backgrounder-policymakers/) in the process of sending or requesting data when using a Bitcoin wallet.
 
-Tor is a web browser that prevents websites from connecting your browsing activity to your real-world location and IP address by rotating your connection through a global network of nodes. Many Bitcoin wallets allow you to route your traffic through Tor. While Tor does help protect your privacy and identity somewhat, it isn't always the perfect solution.
+[Tor is a web browser](https://www.torproject.org/) that prevents websites from connecting your browsing activity to your real-world location and IP address by rotating your connection through a global network of nodes. Many Bitcoin wallets allow you to route your traffic through Tor. While Tor does help protect your privacy and identity somewhat, it isn't always the perfect solution.
 
 Tor is useful when paired with Bitcoin because it shields your node or wallet's real IP address and real-world location from network peers. A node run through Tor also prevents an ISP from seeing any Bitcoin related activity.
 
