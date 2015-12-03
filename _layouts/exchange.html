@@ -26,7 +26,7 @@ hide_sidebar: true
 	<div class="exchange-ratings">
 	
 		<div class="privacy-score single-rating">
-			<div class="rating-title">Privacy &nbsp;|&nbsp; <a href="#privacy">More Details  &#155;</a> <div class="score">{{ page.privacy_score }}</div></div>
+			<div class="rating-title">Privacy &nbsp;|&nbsp; <a href="#privacy">Details  &#155;</a> <div class="score">{{ page.privacy_score }}</div></div>
 			<div class="rating-bar-outer">
 				<div class="rating-bar-inner" style="{% if page.privacy_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.privacy_width }}%; {% if page.privacy_score >= 8.5 %} background: #2b8000; {% elsif page.privacy_score < 8.5 and page.privacy_score >= 7 %} background: #ace600; {% elsif page.privacy_score < 7 and page.privacy_score >= 5 %} background: #ffb41a; {% elsif page.privacy_score < 5 and page.privacy_score >= 2.5 %} background: #ff8080; {% elsif page.privacy_score < 2.5 %} background: #ff1a1a; {% endif %}">
 				</div>	
@@ -34,7 +34,7 @@ hide_sidebar: true
 		</div>
 		
 		<div class="limits-score single-rating">
-			<div class="rating-title">Limits & Liquidity &nbsp;|&nbsp; <a href="#limits--liquidity">More Details  &#155;</a> <div class="score">{{ page.limits_score }}</div></div>
+			<div class="rating-title">Limits & Liquidity &nbsp;|&nbsp; <a href="#limits--liquidity">Details  &#155;</a> <div class="score">{{ page.limits_score }}</div></div>
 			<div class="rating-bar-outer">
 				<div class="rating-bar-inner" style="{% if page.limits_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.limits_width }}%; {% if page.limits_score >= 8.5 %} background: #2b8000; {% elsif page.limits_score < 8.5 and page.limits_score >= 7 %} background: #ace600; {% elsif page.limits_score < 7 and page.limits_score >= 5 %} background: #ffb41a; {% elsif page.limits_score < 5 and page.limits_score >= 2.5 %} background: #ff8080; {% elsif page.limits_score < 2.5 %} background: #ff1a1a; {% endif %}">
 				</div>	
@@ -42,7 +42,7 @@ hide_sidebar: true
 		</div>
 		
 		<div class="speed-score single-rating">
-			<div class="rating-title">Speed &nbsp;|&nbsp; <a href="#speed">More Details  &#155;</a> <div class="score">{{ page.speed_score }}</div></div>
+			<div class="rating-title">Speed &nbsp;|&nbsp; <a href="#speed">Details  &#155;</a> <div class="score">{{ page.speed_score }}</div></div>
 			<div class="rating-bar-outer">
 				<div class="rating-bar-inner" style="{% if page.speed_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.speed_width }}%; {% if page.speed_score >= 8.5 %} background: #2b8000; {% elsif page.speed_score < 8.5 and page.speed_score >= 7 %} background: #ace600; {% elsif page.speed_score < 7 and page.speed_score >= 5 %} background: #ffb41a; {% elsif page.speed_score < 5 and page.speed_score >= 2.5 %} background: #ff8080; {% elsif page.speed_score < 2.5 %} background: #ff1a1a; {% endif %}">
 				</div>	
@@ -50,7 +50,7 @@ hide_sidebar: true
 		</div>
 		
 		<div class="reputation-score single-rating">
-			<div class="rating-title">Reputation & Regulation &nbsp;|&nbsp; <a href="#reputation">More Details  &#155;</a> <div class="score">{{ page.reputation_score }}</div></div>
+			<div class="rating-title">Reputation & Regulation &nbsp;|&nbsp; <a href="#reputation">Details  &#155;</a> <div class="score">{{ page.reputation_score }}</div></div>
 			<div class="rating-bar-outer">
 				<div class="rating-bar-inner" style="{% if page.reputation_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.reputation_width }}%; {% if page.reputation_score >= 8.5 %} background: #2b8000; {% elsif page.reputation_score < 8.5 and page.reputation_score >= 7 %} background: #ace600; {% elsif page.reputation_score < 7 and page.reputation_score >= 5 %} background: #ffb41a; {% elsif page.reputation_score < 5 and page.reputation_score >= 2.5 %} background: #ff8080; {% elsif page.reputation_score < 2.5 %} background: #ff1a1a; {% endif %}">
 				</div>	
@@ -58,7 +58,7 @@ hide_sidebar: true
 		</div>
 		
 		<div class="fees-score single-rating">
-			<div class="rating-title">Fees &nbsp;|&nbsp; <a href="#fees">More Details  &#155;</a> <div class="score">{{ page.fees_score }}</div></div>
+			<div class="rating-title">Fees &nbsp;|&nbsp; <a href="#fees">Details  &#155;</a> <div class="score">{{ page.fees_score }}</div></div>
 			<div class="rating-bar-outer">
 				<div class="rating-bar-inner" style="{% if page.fees_score == 10 %} border-radius: 12px !important; {% endif %} width: {{ page.fees_width }}%; {% if page.fees_score >= 8.5 %} background: #2b8000; {% elsif page.fees_score < 8.5 and page.fees_score >= 7 %} background: #ace600; {% elsif page.fees_score < 7 and page.fees_score >= 5 %} background: #ffb41a; {% elsif page.fees_score < 5 and page.fees_score >= 2.5 %} background: #ff8080; {% elsif page.fees_score < 2.5 %} background: #ff1a1a; {% endif %}">
 				</div>	
@@ -139,11 +139,13 @@ hide_sidebar: true
 
 <div class="guides-exchange">
 <h3>Guides</h3>
+<ul>
 	{% for article in site.data.guidessidebar %}
 		<li>
 			<a class="guide-link" href="{{ article.url }}">{{ article.title }}</a>	
 		</li>
 	{% endfor %}
+</ul>
 </div>
 
 </div>	

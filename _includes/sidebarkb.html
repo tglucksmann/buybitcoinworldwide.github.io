@@ -10,11 +10,13 @@
 
 <div class="guides-exchange guides-exchange-pm">
 <h3>Guides</h3>
+<ul>
 	{% for article in site.data.guidessidebar %}
 		<li>
 			<a class="guide-link" href="{{ article.url }}">{{ article.title }}</a>	
 		</li>
 	{% endfor %}
+</ul>
 </div>
 
 <h3 class="not-first">Secure your Bitcoins!</h3>

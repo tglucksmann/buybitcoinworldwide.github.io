@@ -91,12 +91,6 @@ html, body {
     direction: rtl;
 }
 
-.kb-article .sidebar-add ul {
-	list-style: none;
-	padding-left: 1px;
-	font-size: 15px !important;
-}
-
 .kb-article .sidebar-add li {
 	padding: 0;
 	clear: both;
@@ -107,6 +101,12 @@ html, body {
     padding: 0px 0 !important;
 }
 
+.guides-exchange ul {
+	padding-left: 4px;
+	margin-bottom: 0px;
+	clear: both; 
+}
+
 .kb-article .sidebar-add .fa {
     float: left;
     margin-right: 4px;
@@ -115,10 +115,7 @@ html, body {
 
 .kb-article .sidebar-add ul a {
     color: #536066;
-    display: inline-block;
     font-weight: 400;
-    margin-left: 8px;
-    width: 86%;
 }
 
 .pmethods-sidebar .fa {
@@ -445,10 +442,8 @@ html, body {
 }
 
 .guides-exchange li {
-    clear: both;
     color: #ccc;
     margin: 5px 0 0 15px;
-    padding: 0 !important;
 }
 
 .guides-exchange .guide-link {
