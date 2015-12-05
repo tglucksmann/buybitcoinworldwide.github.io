@@ -57,6 +57,12 @@ As with anything valuable, hackers, thieves, and scammers will all be after your
 
 Bitcoins should only be kept in wallets that you control. If you leave $5,000 worth of gold coins with a friend, your friend could easily run off with your coins and you might not see them again. Because Bitcoin is on the internet, they are even easier to steal and much harder to return and trace. Bitcoin itself is secure, but bitcoins are only as secure as the wallet storing them. Investing in bitcoin is no joke, and securing your investment should be your top priority. 
 
+## Should you Invest in Bitcoin Mining?
+
+The Bitcoin mining industry has grown at a rapid pace. Mining, which could once be done on the average home computer, is now only done profitably in specialized data centers. These datacenters are warehouses, filled with computers built for the sole purpose of mining Bitcoin. Today, it costs millions of dollars to even start a profitable mining operation. 
+
+[Bitcoin miners](/kb/what-is-bitcoin-mining/) are no longer a profitable investment for new Bitcoin users. If you want a small miner to play around with the network, go for it. But don’t treat your home mining operation as an investment or expect to get a return.  
+
 ## Final Thoughts
 It’s important to understand how Bitcoin works before investing any money. Bitcoin is still new and it can take months to understand the true impact Bitcoin can have on the world. Take some time to understand Bitcoin, how it works, how to secure bitcoins, and about how [Bitcoin differs from fiat money](/kb/why-bitcoin-is-good-money/). Use our [knowledge base](/kb/) to learn more. 
 

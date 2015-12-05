@@ -907,14 +907,6 @@
 
   window.sellers.push({
     countries: "in",
-    methods: "bt, cash",
-    hide: "",
-    url: "https://www.bitquick.in/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "in",
     methods: "bt",
     hide: "",
     url: "https://coinsecure.in/",

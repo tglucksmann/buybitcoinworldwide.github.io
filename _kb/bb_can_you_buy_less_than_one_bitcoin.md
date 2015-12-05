@@ -16,6 +16,8 @@ Yes, it is possible to buy less than one bitcoin.
 
 Each bitcoin is divisible to the 8th decimal place, meaning each bitcoin can be split into 100,000,000 pieces. Each unit of bitcoin, or 0.00000001 bitcoin, is called a satoshi. 
 
+**Read more:** [How to Buy Bitcoin](/kb/how-to-buy-bitcoin/)
+
 ![buy less than one bitcoin](https://www.buybitcoinworldwide.com/img/icons/paypal.png)
 
 When buying Bitcoin, you don't have to buy a full bitcoin and can easily buy less than one.

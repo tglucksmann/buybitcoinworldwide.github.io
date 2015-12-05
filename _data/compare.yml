@@ -1,0 +1,28 @@
+ - title: Coinbase U.S.
+   api: 
+   url: http://buybitcoinww.co/buycoinbase
+   pm: bt, cc, cash
+   time: instant-5 days
+   img: coinbase.png
+   
+ - title: Coinbase Europe
+   api: 
+   url: http://buybitcoinww.co/buycoinbase
+   pm: cc, sepa
+   time: instant-5 days
+   img: coinbase.png
+   
+ - title: LocalBitcoins
+   api: 
+   url: http://buybitcoinww.co/buycoinbase
+   pm: paypal, cash
+   time: instant
+   img: localbitcoins.png
+      
+ - title: Bitstamp
+   api: 
+   url: http://buybitcoinww.co/buycoinbase
+   pm: sepa, swift
+   time: 2-4 days
+   img: coinhouse.png
+   

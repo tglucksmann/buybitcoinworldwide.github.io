@@ -105,3 +105,8 @@ Coinbase plans to enter the Latin American market in 2016.
 
 There have been reports that it [tracks](http://cointelegraph.com/news/113207/coinbase-is-tracking-how-users-spend-their-bitcoins) how its users spend bitcoin.
 
+## Frequently Asked Questions
+
+**Can you buy bitcoins with PayPal on Coinbase?**
+
+Coinbase [does not accept PayPal](/en/buy-bitcoin-paypal/). Coinbase only accepts the payment methods listed above.

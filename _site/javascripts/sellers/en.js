@@ -907,14 +907,6 @@
 
   window.sellers.push({
     countries: "in",
-    methods: "bt, cash",
-    hide: "",
-    url: "https://www.bitquick.in/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.bitquick.in/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitquick.png\" alt=\"BitQuick.in\">BitQuick.in</a> \n		<a type=\"button\" href=\"https://www.bitquick.in/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy bitcoin quickly via an NEFT/RTGS tranfer, IMPS transfer or cash deposit.</p>\n		<a href=\"https://www.bitquick.in/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "in",
     methods: "bt",
     hide: "",
     url: "https://coinsecure.in/",

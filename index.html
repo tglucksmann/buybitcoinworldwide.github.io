@@ -1,33 +1,46 @@
 ---
-hide_sidebar: true
+layout: home
+permalink: "/"
+title: Buy Bitcoin Worldwide
+seotitle: Buy Bitcoin Worldwide
 lang: en
-permalink: "/en/"
-title: Buy Bitcoin Worldwide Country Index
-seotitle: Buy Bitcoin Worldwide Country Index
-desc: Find a country on the Buy Bitcoin Worldwide country index, and get a complete list of places to buy bitcoin in your selected country. 
+desc: "We help you buy bitcoin. Whether it be finding an exchange, getting the best price, or learning the basics of Bitcoin: we're here to help!"
+home: yes
 ---
 {% assign lang = site.data.translations[page.lang] %}
 
-<div class="well well-home">
-<div class="well-message">{{ lang.sitedesc }}</div>
-
-<ul class="index-continent-menu">
-<li><a class="btn btn-sm btn-primary" href="#na">{{ lang.namerica }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="#eu">{{ lang.europe }}</a></li> 
-<li><a class="btn btn-sm btn-primary" href="#sa">{{ lang.samerica }}</a></li> 
-<li><a class="btn btn-sm btn-primary" href="#ca">{{ lang.camerica }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="#oc">{{ lang.oceania }}</a></li>  
-<li><a class="btn btn-sm btn-primary" href="#me">{{ lang.meast }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="#as">{{ lang.asia }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="#af">{{ lang.africa }}</a></li>
-</ul>
+<div class="container-fluid home-mapimg">
+<div class="map-title">Buy Bitcoin Worldwide</div>
+<div class="map-desc"></div>
+<a href="/find-exchange/" class="call-to-buy">Find an exchange &#155;</a>
 </div>
 
-<h2 class="home-header"><a href="#na" id="na">{{ lang.buy }} {{ lang.in }} {{ lang.namerica }}</a></h2>
+<div class="container home-featured"> 
+	<div class="row">
+		<div class="col-md-4">
+			<img src="/img/icons/bitcoinworld.png">
+			<h4><a href="/en/">Buy Bitcoin in your Country &#155;</a></h4>
+			<div class="home-featured-desc">Use our country index, available in 13 languages, to find a country. Once on a country page you'll see a list of places to buy bitcoin in that country.</div>
+		</div>
+		<div class="col-md-4">
+			<img src="/img/icons/coinfind.png">
+			<h4><a href="/coinfind/">Find a Bitcoin Exchange &#155;</a></h4>
+			<div class="home-featured-desc">CoinFind helps you narrow down companies and find the perfect place to buy bitcoin. Enter a country and payment method, get a list of matching companies.</div>
+		</div>
+		<div class="col-md-4">
+			<img src="/img/icons/wallet.png">
+			<h4><a href="/wallets/">Find a Bitcoin Wallet &#155;</a></h4>
+			<div class="home-featured-desc">If you're buying bitcoins, you'll need a place to put them. Use our reviews to find a Bitcoin wallet that fits your needs.</div>
+		</div>
+	</div>
+</div>
+
+<h2 class="home-featured-header">Buy Bitcoin in these Popular Countries</h2>
+<h4 class="all-countries"><a href="/en/">View All Countries &#155;</a></h4>
 <div class="container">
 <div class="row">
 {% for country in site.data.countries %}
-{% if country.na == true %}
+{% if country.pop == true %}
 {% include index-list.html %}
 {% endif %}
 {% endfor %}
@@ -35,85 +48,55 @@ desc: Find a country on the Buy Bitcoin Worldwide country index, and get a compl
 </div>
 <hr>
 
-<h2 class="home-header"><a href="#eu" id="eu">{{ lang.buy }} {{ lang.in }} {{ lang.europe }}</a></h2>
-<div class="container">
+<h2 class="home-featured-header">Popular Guides and Articles</h2>
+<h4 class="all-countries"><a href="/kb/">View All Articles &#155;</a></h4>
+<div class="container-fluid advantages">
 <div class="row">
-{% for country in site.data.countries %}
-{% if country.eu == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
+<div class="col-md-4 col-sm-6 col-xs-12">
+<img src="/img/kbindex/beginners.png">
+<div class="advantage-desc"><b><a href="/kb/how-to-buy-bitcoin/">How to Buy Bitcoin</a></b><br> A step-by-step guide that shows you how to buy bitcoin.</div> 
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12">
+<img src="/img/kbindex/investment.png"> 
+<div class="advantage-desc"><b><a href="/kb/investing-in-bitcoin/">Investing in Bitcoin</a></b><br> Why Bitcoin needs to be taken seriously as an investment.</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12">
+<img src="/img/kbindex/general.png">
+<div class="advantage-desc"><b><a href="/kb/beginners-guide-to-bitcoin/">Beginner's Guide to Bitcoin</a></b><br> Learn the basics of Bitcoin: how to use it and how it works.</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12">
+<img src="/img/kbindex/secure.png">
+<div class="advantage-desc"><b><a href="/kb/how-to-store-and-protect-bitcoins/">How to Store Bitcoins</a></b><br>Learn the basics of Bitcoin security and how to store your bitcoins.</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12">
+<img src="/img/kbindex/piggy.png">
+<div class="advantage-desc"><b><a href="/kb/what-is-a-bitcoin-wallet/">What is a Bitcoin Wallet?</a></b><br> Without a Bitcoin wallet, you can’t receive, store, or spend bitcoins. </div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12">
+<img src="/img/kbindex/economics.png">
+<div class="advantage-desc"><b><a href="/kb/is-bitcoin-money/">Is Bitcoin Money?</a></b><br>A brief overview of money and why Bitcoin fits the bill.</div>
+</div>
 </div>
 </div>
 <hr>
 
-<h2 class="home-header"><a href="#sa" id="sa">{{ lang.buy }} {{ lang.in }} {{ lang.samerica }}</a></h2>
+<h2 class="home-featured-header">Buy Bitcoin with these Popular Payment Methods</h2>
+<h4 class="all-countries"><a href="/coinfind/">View All Payment Methods &#155;</a></h4>
 <div class="container">
 <div class="row">
-{% for country in site.data.countries %}
-{% if country.sa == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
+<div class="pmethods-index">
+{% for pmethod in site.data.paymentmethods %}
+	<a class="col-md-2 col-sm-4" href="{{ pmethod.url }}">
+	<i class="fa fa-4x fa-{{ pmethod.icon }}"></i>
+	<div class="payment-method">{{ pmethod.pmethod }}</div>
+	</a>	
+{% endfor %}	
 </div>
+</div>
+</div>
+
+
+</div>
+
 </div>
 <hr>
-
-<h2 class="home-header"><a href="#ca" id="ca">{{ lang.buy }} {{ lang.in }} {{ lang.camerica }}</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.ca == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
-</div>
-</div>
-<hr>
-
-<h2 class="home-header"><a href="#oc" id="oc">{{ lang.buy }} {{ lang.in }} {{ lang.oceania }}</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.oc == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
-</div>
-</div>
-<hr>
-
-<h2 class="home-header"><a href="#me" id="me">{{ lang.buy }} {{ lang.in }} {{ lang.the }} {{ lang.meast }}</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.me == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
-</div>
-</div>
-<hr>
-
-<h2 class="home-header"><a href="#as" id="as">{{ lang.buy }} {{ lang.in }} {{ lang.asia }}</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.as == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
-</div>
-</div>
-<hr>
-
-<h2 class="home-header"><a href="#af" id="af">{{ lang.buy }} {{ lang.in }} {{ lang.africa }}</a></h2>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.af == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
-</div>
-</div>

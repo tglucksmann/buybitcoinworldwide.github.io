@@ -1464,14 +1464,6 @@
    countries: in    
    po: bt
    desc_pt_br: Plataforma Indiana de Bitcoins. Compre Bitcoins usando qualquer tipo de conta bancária indiana.
-  
- - name: BitQuick.in
-   desc: Buy bitcoin quickly via an NEFT/RTGS tranfer, IMPS transfer or cash deposit.
-   url: https://www.bitquick.in/
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
-   countries: in 
-   po: bt, cash
-   desc_pt_br: Compre Bitcoins rapidamente por transferência NEFT/RTGS, IMPS ou depósito em dinheiro.
    
  - name: coinsecure
    desc: Indian Bitcoin exchange and trading platform. 0.3% fee and a number of deposit options. 

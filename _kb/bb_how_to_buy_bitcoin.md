@@ -3,7 +3,7 @@ layout: kb
 lang: en
 author: jordantuwiner
 permalink: "/kb/how-to-buy-bitcoin/"
-seotitle: "How to Buy Bitcoin: What You Need to Know"
+seotitle: "How to Buy Bitcoin: The Definitive Guide"
 title: "How to Buy Bitcoin"
 desc: This step-by-step guide teaches you how to buy bitcoin. Learn how to find the right Bitcoin exchange and get your first bitcoins today.   
 faq: howtobuybitcoin
@@ -16,7 +16,7 @@ This step-by-step guide is going to teach you how to buy bitcoin. It may seem co
 
 ## Find a Wallet
 
-[What is a Bitcoin wallet](/kb/what-is-a-bitcoin-wallet/)? It's the first step to using Bitcoin. Without a wallet, you can’t receive, store, or spend bitcoins. So before you learn how to buy bitcoin, you’ll need a Bitcoin wallet. 
+[What is a Bitcoin wallet](/kb/what-is-a-bitcoin-wallet/)? Obtaining a Bitcoin wallet is the first step to using Bitcoin. Without a wallet, you can’t receive, store, or spend bitcoins. So before you learn how to buy bitcoin, you’ll need a Bitcoin wallet. 
 
 ![bitcoin wallet](/img/icons/wallet1.png){: .img-responsive .halfimg-right }
 
@@ -24,7 +24,7 @@ One of the most basic rules when using Bitcoin is to make sure you have control 
 
 The wallet you should use depends on your needs. Users in need of secure, long term storage should use a paper wallet, or a hardware wallet like [TREZOR](/wallets/trezor/) or [Ledger Nano](/wallets/ledger-nano/). If you intend to make frequent Bitcoin transactions, a hot wallet is slightly less secure but better for day-to-day transactions. Read our guide on [how to store bitcoins](/kb/how-to-store-and-protect-bitcoins/) for more details. It’s up to you to decide which wallet fits your needs. 
 
-Before you [buy bitcoins](http://www.coindesk.com/information/how-can-i-buy-bitcoins/){:target="_blank"}, we’ll say it again: have a plan, secure your bitcoins, and don’t store them with third parties! If the whole idea of a Bitcoin wallet is still confusing, [read our post](/kb/what-is-a-bitcoin-wallet/) on Bitcoin wallets. 
+Before you [buy bitcoins](http://www.coindesk.com/information/how-can-i-buy-bitcoins/){:target="_blank"}: have a plan, secure your bitcoins, and don’t store them with third parties! If the whole idea of a Bitcoin wallet is still confusing, [read our post](/kb/what-is-a-bitcoin-wallet/) on Bitcoin wallets. 
 
 ## Find an Exchange
 
@@ -32,7 +32,7 @@ Before you [buy bitcoins](http://www.coindesk.com/information/how-can-i-buy-bitc
 
 In Bitcoin’s early years, there were only a few exchanges in Asia. Today, most developed countries have at least one Bitcoin exchange. The ease of buying bitcoin in your country will depend on how developed your country is. For example, countries like the [United States](/en/us/), [United Kingdom](/en/gb/), and [Canada](/en/ca/) have many Bitcoin exchanges, while countries like Ethiopia have no local exchange. 
 
-You can use our tool to [find an exchange in your country](/find-exchange/). Narrowing down the best exchange that’s available to you is the next step. Each user has different needs, and there is no “best Bitcoin exchange”. The best way to buy bitcoins is different for each user. For example, if you need a large amount of bitcoins than an exchange with high limits and liquidity is essential. If you need to buy bitcoins privately, then methods like ATM or cash deposit, where no personal information is required, will be better.
+You can use our tool to [find an exchange in your country](/find-exchange/). Narrowing down the best exchange that’s available to you is the next step. Each user has different needs, and there is no “best Bitcoin exchange”. The best way to buy bitcoins is different for each user. For example, if you need a large amount of bitcoins than an exchange with high limits and liquidity is essential. If you need to buy bitcoins privately, then methods like ATM or cash deposit, where no personal information is required, may be better.
 
 ## Types of Exchanges
 
@@ -40,7 +40,7 @@ You can use our tool to [find an exchange in your country](/find-exchange/). Nar
 
 **Broker –** Bitcoin brokers sell bitcoin for a fixed price. Brokers often have high limits and can accept many [payment methods](/en/payment-methods/). In most cases brokers will require personal information and identity verification before you can buy bitcoins. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world’s largest Bitcoin broker. 
 
-**Exchange –** Bitcoin exchanges don’t sell bitcoin, but match buyers and sellers. For example, someone who wants to sell Bitcoin sends one bitcoin to an exchange. The seller puts in a sell order for $300. When a buyer agrees to pay $300, the seller will receive $300 and the buyer of the bitcoin receives the one bitcoin. Some of the largest Bitcoin exchanges are [BitStamp](https://www.bitstamp.net/), [Kraken](https://www.kraken.com/), and [BitFinex](https://www.bitfinex.com/). 
+**Exchange –** Bitcoin exchanges don’t sell bitcoin, but match buyers and sellers. For example, say someone who wants to sell one bitcoin for $300. The seller puts in a sell order for $300. When a buyer agrees to pay $300, the seller will receive $300 and the buyer of the bitcoin receives the one bitcoin. Some of the largest Bitcoin exchanges are [BitStamp](https://www.bitstamp.net/), [Kraken](https://www.kraken.com/), and [BitFinex](https://www.bitfinex.com/). 
 
 **P2P Exchanges –** Exchanges like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} are escrow services that simply match users. Buyers and sellers are free to agree on a price and payment method, and LocalBitcoins ensures that neither party is scammed by holding the payments in escrow until the trade is complete. Other examples of P2P exchanges include [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"}. 
 
@@ -91,6 +91,14 @@ Understand these basic principles in order to prevent yourself from losing money
 * **Don’t store bitcoins in a hot wallet.** We recommend the above wallets for secure storage, because wallets used on your phone or computer may be vulnerable to hackers. Wallets on your phone or computer are fine for small, day-to-day amounts and spending, but not for large amounts of funds.
  
 * **Understand how to send and receive bitcoins.** Bitcoin transactions are irreversible. If you send bitcoins to the wrong address, you won’t get them back. 
+
+## When is the Right Time to Buy?
+
+As with any market, nothing is for sure. Throughout its history Bitcoin has increased in value at a very fast pace, followed by a slow, steady downfall. Use tools like [Bitcoin Wisdom](https://bitcoinwisdom.com/markets/bitstamp/btcusd) or [Cryptowatch](https://cryptowat.ch/bitfinex/btcusd) to analyze charts and understand Bitcoin’s price history.
+
+## Why does Buying Bitcoin take so long?
+
+Long wait times are usually a problem with existing payment systems, not with Bitcoin. Bitcoin transactions only take about 10 minutes to confirm. But, bank transfers in the U.S. can take up to five days to complete. This means a merchant can't realease bitcoins to a customer until five days have passed unless they are willing to take on risk.  
 
 ## How to Avoid Scams
 

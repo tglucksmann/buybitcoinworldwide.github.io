@@ -3,7 +3,7 @@ layout: kb
 lang: en
 author: jordantuwiner
 permalink: "/kb/buy-bitcoin-instantly/"
-seotitle: "5 Simple Ways to Buy Bitcoin Instantly"
+seotitle: "Buy Bitcoin Instantly: 7 Ways to Get Bitcoins Now"
 title: "How to Buy Bitcoin Instantly"
 desc: Learn how to buy bitcoin instantly with multiple payment methods in our step-by-step guide. We’ll teach you how to get bitcoin fast, usually in a few hours. 
 faq: buybitcoininstantly
@@ -48,7 +48,7 @@ P2P exchanges offer a fast way to buy bitcoins, but P2P exchange rates may be a 
 
 ## Bitcoin ATMs  
 
-Bitcoin ATMs are another great way to buy bitcoins instantly. While you may have to physically drive or walk to the ATM, once you reach the ATM you can buy bitcoins instantly. You’ll need to be lucky enough to have a Bitcoin ATM in your area. Thankfully, Use [Coin ATM Radar](http://coinatmradar.com/) keeps track of Bitcoin ATMs around the world and makes it easy to locate an ATM in your area. You can do the following to check if there is a Bitcoin ATM near you:
+Bitcoin ATMs are another great way to buy bitcoins instantly. While you may have to physically drive or walk to the ATM, once you reach the ATM you can buy bitcoins instantly. You’ll need to be lucky enough to have a Bitcoin ATM in your area. Use [Coin ATM Radar](http://coinatmradar.com/) keeps track of Bitcoin ATMs around the world and makes it easy to locate an ATM in your area. You can do the following to check if there is a Bitcoin ATM near you:
 
 ## 1. Go to [CoinATMRadar.com](http://coinatmradar.com/)  
 
