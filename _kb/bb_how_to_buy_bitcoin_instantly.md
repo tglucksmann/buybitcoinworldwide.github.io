@@ -10,13 +10,24 @@ faq: buybitcoininstantly
 categories: 
 - kb
 - buying
-weight: 9
+weight: 9 
 ---
 Unfortunately, it can be somewhat difficult to buy bitcoin instantly. Bitcoin payments are irreversible, while most forms of payment used today are reversible. This means that in order to buy bitcoin instantly, you have to use other irreversible forms of payment like cash.
 
 Fortunately, some companies have figured out ways to hedge their risk. Today, it’s even possible to [buy bitcoin](https://en.bitcoin.it/wiki/Buying_Bitcoins_%28the_newbie_version%29) instantly with a credit card or debit card.  
 
-## Peer-to-peer Trade
+If you already know which payment method you want to use, jump to a section: 
+
+<p class="jump-buttons">
+<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#peer-to-peer-trade-cash" type="button">Buy Instantly with Cash</a>
+<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#credit-card-or-debit-card" type="button">Buy with Credit/Debit Card</a>
+<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#buy-bitcoin-instantly-with-paypal" type="button">Buy Instantly with PayPal</a>
+<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#coinbase" type="button">Buy Instantly in Europe</a>
+<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#interac-online" type="button">Buy Instantly in Canada</a>
+<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#united-kingdom" type="button">Buy Instantly in the UK</a>
+</p>
+
+## Peer-to-peer Trade (Cash)
 
 ![localbitcoins][32]{: .img-responsive .kb-helper}
 
@@ -46,7 +57,7 @@ There are two main reasons that P2P exchanges offer a near instant way to buy bi
 
 P2P exchanges offer a fast way to buy bitcoins, but P2P exchange rates may be a bit higher than the global average Bitcoin exchange rate. People are willing to pay more to buy bitcoins both more privately and faster. The markup is usually somewhere around 5-10% on [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"}. [BitQuick](https://www.bitquick.co/){:target="_blank"} generally has rates close to market. Check the against a Bitcoin price index like Bitcoin Average or the CoinDesk BPI.  
 
-## Bitcoin ATMs  
+## Bitcoin ATMs (Cash)
 
 Bitcoin ATMs are another great way to buy bitcoins instantly. While you may have to physically drive or walk to the ATM, once you reach the ATM you can buy bitcoins instantly. You’ll need to be lucky enough to have a Bitcoin ATM in your area. Use [Coin ATM Radar](http://coinatmradar.com/) keeps track of Bitcoin ATMs around the world and makes it easy to locate an ATM in your area. You can do the following to check if there is a Bitcoin ATM near you:
 
@@ -247,6 +258,8 @@ That's it! You should now see your balance in BTC displayed in the top left of t
 Once you've purchased your bitcoins, we suggest sending your bitcoins to a wallet you own. In the future, try to buy bitcoin using other [payment methods](/en/payment-methods/) to avoid fees. 
 
 ## Coinbase  
+
+_This section explains how U.S. users can buy bitcoin instantly at Coinbase. However, European users can also buy instantly at Coinbase with a 3D secure debit or credit card._
 
 U.S. residents must wait five days for purchases at Coinbase to complete. This is because when you buy bitcoin with a bank transfer, Coinbase must wait until the transfer has completed. Just like with PayPal, when accepting reversible payment methods, companies must be extra certain that they’ve received payment before sending bitcoins.  
 

@@ -7,6 +7,7 @@
    desc_fast: Coinbase lets you buy bitcoin with a connected bank account via ACH bank transfer. The bitcoin bought in your first purchase will only be available to you after five days. However, if you add a credit card to your account all purchases after your initial purchase will have your bitcoin delivered instantly. Coinbase is available in the United States and most of Europe.  
    desc_ach: Coinbase is the world's largest bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. Coinbase charges a flat 1% fee on all transactions, which is the standard among U.S. Bitcoin brokers. You'll have to wait five days to receive your bitcoin. If you add a Visa or Mastercard credit card to your account all bitcoin purchases besides your first will be delivered instantly.  
    desc_achshort: The world's largest Bitcoin broker. Buy bitcoin via ACH. Easy and convenient. 
+   desc_ccww_short: Buy bitcoin with a 3D secure credit or debit card in Europe. 
    desc_usbankshort: The world's largest Bitcoin broker. Buy bitcoin with a connected bank account. 
    desc_ccww: Coinbase is the world's largest Bitcoin broker. At Coinbase you can buy up to €100 of bitcoin per day instantly with a 3D secure credit or debit card in Europe or the United Kingdom. Coinbase charges a flat 3% fee on all purchases via credit or debit card. Coinbase's 3% fee on credit card purchases is the lowest among Bitcoin brokers servicing European customers. If you buy more than $100 or €100 worth of bitcoin through <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">this link</a> you'll get $10 or €10 worth of bitcoin as a bonus (this can be done in multiple purchases, i.e. two purchases of €50 each).
    desc_ccww_fr: Coinbase est le courtier Bitcoin le plus important au monde. Chez Coinbase, vous pouvez acheter jusqu'à 100€ de bitcoins par jour avec une carte de crédit ou de débit 3D Secure en Europe et dans le Royaume-Uni. Coinbase facture une commission forfaitaire de 3% sur tous les achats effectués par carte de crédit ou de débit. La commission de 3% que Coinbase facture sur les achats par carte de crédit est la moins élevée de tous les courtiers Bitcoin offrant leurs services aux clients européens. Si vous achetez pour plus de $100 ou 100€ de bitcoins à partir de <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">ce lien</a>, vous obtiendrez un bonus de bitcoins d'une valeur de $10 ou 10€ (cela peut s'effectuer lors de plusieurs achats, par ex - 2 achats de 50€ chacun).
@@ -63,12 +64,13 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/circle.png
    countries: us
    po: ccus, usbt, fast, lowfees, ccww, bt, cc, ach
+   desc_ccww_short: Buy bitcoin with a credit or debit card instantly in the United States. 
    desc_fast: Circle lets you buy bitcoin with a credit card, debit card, or ACH bank transfer. Purchases of bitcoin made with a debit card are available instantly. Circle is currently only available in the United States.
    desc_ccus: Circle lets you buy bitcoin with a debit card instantly with no fee. If you use a credit card you'll have to pay a 3% fee, and wait a few days to receive your coins. Limited to $300 worth of bitcoin per week.
    desc_ach: Circle lets you connect a bank account and buy via ACH transfer. Circle doesn't officially charge a fee, but its exchange rate is usually 0.5% higher than Bitcoin exchanges. Bitcoin will be delivered within 1-4 days.
    desc_achshort: Buy bitcoin with your bank account via ACH transfer. Limited to $300 per week.
    desc_usbankshort: Buy bitcoin with your bank account via ACH transfer. Limited to $300 per week.
-   desc_ccww: Circle lets you buy bitcoin with a debit card instantly with no fee. If you use a credit card you'll have to pay a 3% fee and wait a few days to receive your coins. Circle is currently only available in the United States, but some users in Europe and South America have had success using the service as well. Purchasing through Circle is the only way to buy bitcoin with a debit card with no fees. However, you're limited to $300 worth of bitcoin per week.
+   desc_ccww: Circle lets you buy bitcoin with a credit or debit card instantly with no fee. If you use a credit card you'll have to pay a 3% fee. Circle is currently only available in the United States. Purchasing through Circle is the only way to buy bitcoin with a debit card with no fees. You're initial buy limit is $300 of bitcoin per week although this limit can be raised if requested.
    es: yes
    desc_es: Comprar Bitcoin de forma instantánea con una cuenta bancaria o tarjeta de crédito. Sin comisiones.
    ar: yes
@@ -165,6 +167,7 @@
    desc_es: CoinMama es un corredor de bitcoin que se especializa en la compra de bitcoin con tarjeta de crédito o débito.
    desc_de: Bitcoin-Broker, der spezialisiert im Ermöglichen des Kaufs von Bitcoins mit einer Kredit- oder Debitkarte ist.
    desc_ccww: CoinMama is a bitcoin broker that specializes in letting you buy bitcoin with a credit card or debit card. You'll be charged a 10% fee due to the risks and processing fees that come with credit card payments. It's possible buy up to $520 worth of bitcoin per day. After your account is verified and a purchase is made you will receive your bitcoin within a few hours. Use <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">this link</a> to get 5% off your order. CoinMama is not available to residents of the United States.  
+   desc_ccww_short: Buy bitcoin with a credit card anywhere in the world besides the United States.
    desc_ccww_fr: CoinMama est un courtier Bitcoin dont la spécialité est de vous permettre d'acheter des bitcoins avec une carte de crédit ou de débit. Vous y serez facturé une commission de 10% à cause des risques et des frais de traitement découlant des paiements par carte de crédit. Il est possible d'y acheter jusqu'à $520 de bitcoins par jour. Une fois votre compte vérifié et l'achat effectué, vous recevrez vos bitcoins en l'espace de quelques heures. Utilisez <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">ce lien</a> pour bénéficier de 5% de remise sur votre commande. CoinMama n'est pas disponible pour les résidents des États-Unis.
    desc_ccww_it: CoinMama è un broker di Bitcoin specializzato nel lasciar acquistare Bitcoin tramite carta di credito o carta di debito. Verrà applicata una commissione del 10% per i rischi e per le commissioni connesse ai pagamenti con carta di credito. È possibile acquistare fino a un valore di $520 di Bitcoin al giorno. Dopo la verifica dell’account e l’esecuzione di un acquisto, si riceveranno Bitcoin entro poche ore. Utilizzare <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5"questo link</a> per ottenere uno sconto del 5% sull’ordine. CoinMama non è disponibile per coloro che risiedono negli Stati Uniti.
    desc_ccww_ptbr: CoinMama é uma corretora de bitcoin especializada na compra de bitcoin com cartão de crédito ou débito. Você será cobrado uma taxa de 10% devido aos riscos e taxas de processamento que vem com pagamentos do cartão de crédito. Você pode comprar até $520 de bitcoin por dia. Depois que sua conta é verificada e uma compra é feita você receberá seu bitcoin em dentro de algumas horas. Use <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">este link</a> para ganhar 5% de desconto no seu pedido. CoinMama não está disponível para os residentes dos Estados Unidos.
@@ -369,6 +372,7 @@
 
  - name: CoinCorner
    desc: Buy using GBP bank transfer, SEPA transfer, or with credit/debit card. 
+   desc_ccww_short: 
    url: https://www.coincorner.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/ccoiner.png
    countries: gb
@@ -455,6 +459,7 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/clever.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
    po: sepa, ideal, ccww, cc
+   desc_ccww_short: Buy bitcoin instantly with a credit or debit card in the UK or Europe.  
    desc_ccww: Clevercoin is a Bitcoin broker located in France. Residents of Europe can buy bitcoin with a credit card for a 3.6% fee plus €0.30. Initial limit is €250 per day. Your limit is increased the more you purchase, and can reach €2,500 per day.
    desc_ccww_fr: Clevercoin est un courtier Bitcoin basé en France. Les résidents de l'union européenne peuvent acheter des bitcoins avec une carte de crédit pour une commission de 3.6% + 0.30€. Bien que la limite d'achat soit initialement de 250€ par jour, plus vous achetez, plus cette limite s'étend, jusqu'à atteindre 2,500€ par jour.
    desc_ccww_it: Clevercoin è un broker di Bitcoin situato in Francia. Coloro che risiedono in Europa possono acquistare Bitcoin con una carta di credito con una commissione del 3,6% più €0.30. Il limite iniziale è pari a €250 al giorno. Il tuo limite viene aumentato con l’aumentare degli acquisti e può raggiungere €2.500 al giorno.
@@ -1642,6 +1647,7 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/cex.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, tr, cn, hk, ar, br, cl, mx, co, pe, uy  
    po: sepa, ccus, swift, fast, lowfees, ccww, cc, astro
+   desc_ccww_short: Buy bitcoin with a Visa or Mastercard credit or debit card from nearly any country. 
    desc_fast: CEX.io lets you buy bitcoin with a credit card, ACH bank transfer, or SEPA transfer. Purchases made with a credit card give you access to your bitcoin immediately. CEX.io works in the United States, Europe, and some countries in South America. 
    desc_ccus: CEX.io lets you buy bitcoin with a credit card, and your bitcoin will be available immediately. CEX.io works in the United States, Europe, and some countries in South America.
    desc_ccww: CEX.io lets you buy bitcoin with a credit or debit card, and your bitcoin will be available immediately. CEX.io works in the United States, Europe, and some countries in South America.
@@ -1748,7 +1754,8 @@
    url: https://www.coinimal.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinimal.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
-   po: sofort, giro, sepa, ccww, neteller, 
+   po: sofort, giro, sepa, ccww, neteller
+   desc_ccww_short: Buy bitcoin with a Visa or Mastercard credit or debit card via Neteller. 
    desc_ccww: Coinimal is a Bitcoin broker located in Austria. You can buy bitcoin with a credit card indirectly via NETELLER for a 7% fee. Coinimal is available to residents of the EU.
    desc_ccww_fr: Coinimal est un courtier Bitcoin basé en Autriche. Vous pouvez y acheter indirectement des bitcoins avec une carte de crédit à travers NETELLER pour une commission de 7%. Coinimal est disponible pour les résidents de l'UE.
    desc_ccww_ptbr: Coinimal é uma corretora de Bitcoins localizada na Áustria. Você pode comprar bitcoin com cartão de crédito indiretamente via NETELLER por uma taxa de 7%. Coinimal está disponível para residentes da UE.
@@ -2042,6 +2049,15 @@
    desc_bg: Биткойн брокер. Купете биткойн чрез SEPA банков превод, iDEAL и много други възможности за плащане.
    desc_ru: Биткоин-брокер. Купить биткоин с помощью SEPA-платежа, iDEAL и других способов оплаты.
    desc_uk: Біткоін-брокер. Купити біткоіни за допомогою SEPA-платежу, iDEAL та інших способів оплати.
+
+ - name: Coinhouse
+   desc: Buy bitcoins instantly with a 3D secure credit or debit card in France.  
+   url: http://buybitcoinww.co/coinhouse
+   po: ccww
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinhouse.png
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
+   desc_ccww: Citizens of France can buy bitcoin with a 3D secure credit or debit card at Coinhouse. The fees range from 6-10% depending on your total buy volume. <a href="/exchanges/coinhouse/">Learn more</a>.
+
 
  - name: 247Exchange
    url: http://buybitcoinww.co/247exchange

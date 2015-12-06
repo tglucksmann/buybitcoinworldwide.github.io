@@ -1059,7 +1059,7 @@
 
   window.sellers.push({
     countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "sofort, giro, sepa, ccww, neteller,",
+    methods: "sofort, giro, sepa, ccww, neteller",
     hide: "",
     url: "https://www.coinimal.com/",
     html: "      \n\n\n"
@@ -1174,6 +1174,14 @@
     methods: "sepa, ideal, sofort, io",
     hide: "",
     url: "https://www.happycoins.com/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
+    methods: "ccww",
+    hide: "",
+    url: "http://buybitcoinww.co/coinhouse",
     html: "      \n\n\n"
   });
 

@@ -1059,7 +1059,7 @@
 
   window.sellers.push({
     countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "sofort, giro, sepa, ccww, neteller,",
+    methods: "sofort, giro, sepa, ccww, neteller",
     hide: "",
     url: "https://www.coinimal.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coinimal.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinimal.png\" alt=\"Coinimal\">Coinimal</a> \n		<a type=\"button\" href=\"https://www.coinimal.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>شراء بيتكوين بـ EPS وgiropay و NETELLER وSOFORT وSEPA و SEPA، والتحويل المصرفي عبر الإنترنت.</p>\n		<a href=\"https://www.coinimal.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
@@ -1175,6 +1175,14 @@
     hide: "",
     url: "https://www.happycoins.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.happycoins.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/happy.png\" alt=\"HappyCoins\">HappyCoins</a> \n		<a type=\"button\" href=\"https://www.happycoins.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>وسيط بيتكوين. الشراء بتحويل بنكي SEPA، و iDEAL، وغيرها من طرق الدفع الأخرى.</p>\n		<a href=\"https://www.happycoins.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
+    methods: "ccww",
+    hide: "",
+    url: "http://buybitcoinww.co/coinhouse",
+    html: "      \n\n\n"
   });
 
   window.sellers.push({

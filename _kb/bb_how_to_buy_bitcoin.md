@@ -12,9 +12,23 @@ categories:
 - buying
 weight: 9.2
 ---
-This step-by-step guide teaches you how to buy bitcoin. It may seem complicated, but by the end you'll understand 1) [where to buy bitcoins](/where-to-buy-bitcoins/) 2) how to [find the right exchange](/find-exchange/) 3) where to store your bitcoins after you buy and 4) mistakes to avoid when buying.
+You want to learn how to buy bitcoin? You're in the right place. The short answer to your question is: 
 
-Each Bitcoin buyer has different needs. There is no “best Bitcoin exchange”. For example, if you need a large amount of bitcoins than an exchange with high limits and liquidity is essential. If you need to buy bitcoins privately, then methods like ATM or cash deposit, where no personal information is required, may be better. The next three sections will explain what factors must be considered. 
+[Find a Bitcoin exchange](/find-exchange/) and trade your fiat currency, like the U.S. dollar or Euro, for bitcoins. 
+
+![how to buy bitcoin](/img/icons/bitcoinsbig.png){: .img-responsive .halfimg-right }
+
+For the long answer, read this guide and by the end you'll understand:
+
+1. [Where and how to buy bitcoin](/where-to-buy-bitcoins/) 
+
+2. How to find the right exchange 
+
+3. Where to store your bitcoins after you buy
+
+4. Mistakes to avoid when buying
+
+Every buyer has unique needs. There is no “best Bitcoin exchange”. Before you read, consider what's important for you in an exchange. For example, if you need a large amount of bitcoins than an exchange with high limits and liquidity is essential. If you need to buy bitcoins privately, then methods like ATM or cash deposit, where no personal information is required, may be better. The next three sections will explain what factors must be considered. 
 
 ## Types of Exchanges
 
@@ -92,7 +106,7 @@ Before you [buy bitcoins](http://www.coindesk.com/information/how-can-i-buy-bitc
 
 ## Things to Remember
 
-Understand these basic principles in order to prevent yourself from losing money: 
+Now that you know how to buy bitcoin, understand these basic principles in order to prevent yourself from losing money: 
 
 * **Control your coins.** Don’t leave bitcoins on an exchange. Some exchanges, like Circle and Coinbase, allow you to buy and sell bitcoin, but also provide “wallet” services. However, these wallets don’t give you full control of your bitcoins and act more like banks. As we mentioned earlier, don’t store your bitcoins on these exchanges, even if the exchange offers a wallet service. Buy your bitcoins, and move them to a wallet you control. For long term, secure storage, use a paper wallet or hardware wallet like TREZOR or Ledger.
  

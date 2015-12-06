@@ -667,11 +667,21 @@ html, body {
     margin: 0 0 0 10px !important;
 }
 
+.buybitcoininstantly .btn-xs {
+	padding: 3px 5px;
+	margin: 5px 0;
+}
+
+.buybitcoininstantly #peer-to-peer-trade {
+	margin-top: 10px;
+	float: left;
+}
+
 .footer-english .row h4 {
     display: block;
     font-size: 24px;
-    margin: 0 auto;
-    padding: 25px 0 5px;
+    margin: 0 auto !important;
+    padding: 25px 15px 5px 0 !important;
     text-align: center;
 }
 
@@ -1448,6 +1458,10 @@ iframe {
 	padding-left: 15px;
 }
 
+.jump-buttons {
+	float: left;
+}
+
 .sidebar-image-wrap {
     float: left;
     width: 54px;
@@ -1840,6 +1854,11 @@ blockquote {
     margin-top: 19px;
 }
 
+.buybitcoininstantly .btn-xs {
+    margin: 5px 0.5% !important;
+    width: 49% !important;
+}
+
 }
 
 @media (min-width: 992px) {
@@ -1848,6 +1867,11 @@ blockquote {
 	display: none !important;
 }
 
+.buybitcoininstantly .btn-xs  {
+	margin: 5px 1.3% 5px 0 !important;
+    width: 32% !important;
+    }
+
 }
 
 @media (max-width: 500px) {
@@ -1855,6 +1879,12 @@ blockquote {
     margin: 0 0 15px !important;
     width: 100% !important;
 }
+
+.row .buybitcoininstantly .btn-xs {
+    margin: 5px 0 !important;
+    width: 100% !important;
+}
+
 }
 
 @media (max-width: 600px) {
