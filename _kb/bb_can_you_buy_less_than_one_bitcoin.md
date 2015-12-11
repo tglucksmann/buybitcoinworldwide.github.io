@@ -26,4 +26,4 @@ Most brokers will let you specify the amount of fiat currency you want to spend 
 
 Vice-versa, most Bitcoin brokers also let you specify the amount of bitcoin you want and will charge you the equivalent in fiat. For example, if you want to buy 0.25 bitcoin and 1 bitcoin is $300, you'll be charged $75. 
 
-So, yes, it's 100% possible to buy less than one bitcoin. Companies like [Coinbase](http://buybitcoinww.co/coinbase_bitcoin){:rel="nofollow"} will let you buy as little as $1 worth of bitcoin.
+So, yes, it's 100% possible to buy less than one bitcoin. Companies like [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} will let you buy as little as $1 worth of bitcoin.

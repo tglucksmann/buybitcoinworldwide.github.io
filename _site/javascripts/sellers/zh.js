@@ -59,10 +59,10 @@
 
   window.sellers.push({
     countries: "us, gb",
-    methods: "sepa, usbt, lowfees, bt",
+    methods: "sepa, usbt, lowfees, bt, ach",
     hide: "",
-    url: "http://buybitcoinww.co/coinbase_exchange",
-    html: "      \n<div class=\"col-md-6 buy-info buy-info-zh\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png\" alt=\"Coinbase Exchange\">Coinbase Exchange</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> 购买比特币</a>\n		</h4>\n		<p>美国比特币交易所。以国家环保总局或ACH银行转账增资。</p>\n		<a href=\"http://buybitcoinww.co/coinbase_exchange\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> 购买比特币</a>\n</div>\n\n\n"
+    url: "http://buybitcoinww.co/buycoinbase",
+    html: "      \n<div class=\"col-md-6 buy-info buy-info-zh\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png\" alt=\"Coinbase Exchange\">Coinbase Exchange</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> 购买比特币</a>\n		</h4>\n		<p>美国比特币交易所。以国家环保总局或ACH银行转账增资。</p>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> 购买比特币</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -71,6 +71,14 @@
     hide: "",
     url: "http://buybitcoinww.co/buybitquick",
     html: "      \n<div class=\"col-md-6 buy-info buy-info-zh\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitquick.png\" alt=\"BitQuick\">BitQuick</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> 购买比特币</a>\n		</h4>\n		<p>在欧洲以现金交存或国家环保总局转账快速购买比特币。费率为2％。</p>\n		<a href=\"http://buybitcoinww.co/buybitquick\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> 购买比特币</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "gb, be, dk, fi, lu, nl, pl, sk, es, au, bg, cy, ee, fr, gr, hu, it, mt, nz, pt, si, se, at, ca, cz, de, ie, mc, nor, sm, ch, za",
+    methods: "bt, sepa, ccww, cc",
+    hide: "",
+    url: "http://buybitcoinww.co/coincorner",
+    html: "      \n\n\n"
   });
 
   window.sellers.push({
@@ -126,14 +134,6 @@
     methods: "pp, cc, skrill, okpay",
     hide: "",
     url: "http://buybitcoinww.co/bitcoin_virwox",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "gb",
-    methods: "bt, sepa, ccww",
-    hide: "",
-    url: "https://www.coincorner.com/",
     html: "      \n\n\n"
   });
 
@@ -1035,7 +1035,7 @@
 
   window.sellers.push({
     countries: "us",
-    methods: "usbt, lowfees, bt, ach",
+    methods: "usbt, lowfees, bt",
     hide: "",
     url: "https://www.snapcard.io/buy-bitcoin",
     html: "      \n\n\n"

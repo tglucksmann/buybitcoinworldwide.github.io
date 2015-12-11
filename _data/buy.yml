@@ -185,10 +185,11 @@
    
  - name: Coinbase Exchange
    desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or <a href="/en/buy-bitcoin-ach-bank-transfer-united-states/">ACH bank transfer</a>.
-   url: http://buybitcoinww.co/coinbase_exchange
+   url: http://buybitcoinww.co/buycoinbase
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png
    countries: us, gb   
-   po: sepa, usbt, lowfees, bt
+   po: sepa, usbt, lowfees, bt, ach
+   desc_achshort: Fund your Coinbase exchange account via ACH bank transfer.  
    desc_ach: Coinbase Exchange is only available in <a rel="nofollow" href="https://support.coinbase.com/customer/portal/articles/1826671-what-countries-us-states-are-supported-for-coinbase-exchange-">certrain U.S. States</a>. You can fund your account via ACH transfer.  
    es: yes
    name_es: Coinbase Exchange
@@ -228,6 +229,16 @@
    desc_bg: Купете биткойн бързо с депозит в брой или SEPA превод в ЕС. 2% такса.
    desc_ru: Купить биткоин быстро денежным вкладом или SEPA-платежом в ЕС. Сбор - 2%.
    desc_uk: Купити біткоін швидко грошовим внеском або SEPA-платежем в ЄС. Збір - 2%.
+
+ - name: CoinCorner
+   desc: Buy bitcoin in the UK and Europe with SEPA, credit/debit card, or GBP bank transfer. 
+   desc_ccww_short: Buy bitcoin in the UK and Europe with debit card or credit card. 
+   url: http://buybitcoinww.co/coincorner
+   icon: https://www.buybitcoinworldwide.com/img/buy/ccoiner.png
+   countries: gb, be, dk, fi, lu, nl, pl, sk, es, au, bg, cy, ee, fr, gr, hu, it, mt, nz, pt, si, se, at, ca, cz, de, ie, mc, nor, sm, ch, za
+   po: bt, sepa, ccww, cc
+   ar: yes
+   desc_ar:  الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.
 
  - name: Bitstamp
    desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
@@ -369,17 +380,7 @@
    po: pp, cc, skrill, okpay
 
 ##### England ####################################################  
-
- - name: CoinCorner
-   desc: Buy using GBP bank transfer, SEPA transfer, or with credit/debit card. 
-   desc_ccww_short: 
-   url: https://www.coincorner.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/ccoiner.png
-   countries: gb
-   po: bt, sepa, ccww
-   ar: yes
-   desc_ar:  الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.
-   
+  
  - name: Bittylicious
    desc: Buy bitcoin instantly via Barclays Pingit, instant UK bank transfer, or credit/debit card.
    url: https://bittylicious.com/
@@ -1701,8 +1702,7 @@
    url: https://www.snapcard.io/buy-bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/snapcard.png
    countries: us
-   po: usbt, lowfees, bt, ach
-   desc_achshort: Buy bitcoin with your bank account via ACH transfer. 0.5% fee. 
+   po: usbt, lowfees, bt
    desc_usbankshort: Buy bitcoin with a connected U.S. bank account. 0.5% fee. 
    desc_ach: Snapcard lets you buy bitcoin with a connected bank account via ACH transfer. Snapcard charges a flat 0.5% fee on all purchases. 
    desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable.
