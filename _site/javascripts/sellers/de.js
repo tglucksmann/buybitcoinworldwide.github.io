@@ -962,6 +962,14 @@
   });
 
   window.sellers.push({
+    countries: "nl",
+    methods: "ideal, mastercash",
+    hide: "",
+    url: "http://buybitcoinww.co/bitonic_nl",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
     countries: "pl",
     methods: "sepa, bt",
     hide: "",

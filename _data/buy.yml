@@ -1539,7 +1539,7 @@
    name_it: Bitcoin ATM Atene
    desc_it: Acquista Bitcoin dal BTCPoint Bitcoin ATM ad Atene, Grecia. 
    desc_bg: Купете биткойн от биткойн автомат BTCPoint Bitcoin в Атина, Гърция.
-   
+
 ##### Croatia ####################################################      
 
  - name: BitKonan
@@ -1551,6 +1551,15 @@
    desc_it: Cambio di Bitcoin in Croazia. Deposita tramite bonifico bancario o SEPA in Croazia.
    desc_ru: Биткоин-биржа в Хорватии. Депозит PLN через Хорватский банк или SEPA-платежом.
    desc_uk: Біткоін-біржа в Хорватії. Депозит PLN через Хорватський банк або SEPA-платежем.
+   
+##### Netherlands ####################################################      
+
+ - name: Bitonic
+   desc: Fasy and easy way to buy bitcoins in the Netherlands with iDEAL or MasterCash      
+   url: http://buybitcoinww.co/bitonic_nl
+   icon: https://www.buybitcoinworldwide.com/img/buy/bitonic.png
+   countries: nl
+   po: ideal, mastercash
    
 ##### Poland ####################################################      
    

@@ -962,6 +962,14 @@
   });
 
   window.sellers.push({
+    countries: "nl",
+    methods: "ideal, mastercash",
+    hide: "",
+    url: "http://buybitcoinww.co/bitonic_nl",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/bitonic_nl\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitonic.png\" alt=\"Bitonic\">Bitonic</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/bitonic_nl\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Fasy and easy way to buy bitcoins in the Netherlands with iDEAL or MasterCash</p>\n		<a href=\"http://buybitcoinww.co/bitonic_nl\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
     countries: "pl",
     methods: "sepa, bt",
     hide: "",
