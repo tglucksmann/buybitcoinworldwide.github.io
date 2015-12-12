@@ -5,12 +5,12 @@ author: stevenhay
 permalink: "/kb/earn-bitcoins/"
 seotitle: "Earn Bitcoins: 29 Unique Ways to Acquire Bitcoin"
 title: "How to Earn Bitcoins"
-desc: Learn how to buy bitcoin instantly with multiple payment methods in our step-by-step guide. We’ll teach you how to get bitcoin fast, usually in a few hours. 
-faq: buybitcoininstantly
+desc: Learn where and how to earn bitcoins online. At the end of this guide you'll know new ways to put more bitcoins into your wallet. 
+faq: earnbitcoins
 categories: 
 - kb
 - general
-weight: 9 
+weight: 8.5
 ---
 ![earn bitcoins][5]{: .img-responsive .kb-helper}
  
