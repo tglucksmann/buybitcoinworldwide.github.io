@@ -22,7 +22,7 @@ Demeester believes 2016 could be the year Bitcoin returns to its 2013 price leve
 
 Demeester stated that traditional market volatility and increased interest in Bitcoin as a speculative asset could create demand for bitcoins. Demeester went on to say that Bitcoin's block halving could be another reason for a price increase.  
 
-> The block reward halving of summer 2016, which will cut the Bitcoin money supply down from about 10% to about 50% per annum."
+> The block reward halving of summer 2016, which will cut the Bitcoin money supply down from about 10% to about 50% per annum.
 
 ## What is Bitcoin? 
 
