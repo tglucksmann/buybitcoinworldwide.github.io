@@ -13,7 +13,7 @@ categories:
 ---
 It’s no secret: at Buy Bitcoin Worldwide, we’re holders. We value our bitcoins, and don’t go looking to spend them. However, if a merchant offers a large discount for paying with bitcoins then it may be worth it to spend bitcoins instead of fiat currency. 
 
-We want to show you an example of when one might want to spend bitcoins instead of holding them. The iPhone is a commonly used, somewhat expensive device. We’ll use it as an example to show you the kind of discounts that are out there for Bitcoin users. 
+We want to show you an example of when one might want to spend bitcoins instead of holding them. The iPhone is a commonly used, somewhat expensive device. We’ll show how to buy an iPhone with bitcoin as an example of the discounts out there for Bitcoin users. 
 
 An iPhone, purchased without a contract, costs hundreds of dollars. By spending bitcoins you can easily save over $100 dollars, or more, if you're not in a rush and are patient. 
 
@@ -32,5 +32,3 @@ If you're in a rush, [Purse.io](http://buybitcoinww.co/purse_io) offers an insta
 If you want to buy an iPhone in person, or prefer to buy from somewhere other than Amazon, [Gyft](https://www.gyft.com/) is a good option. Gyft is a digital gift card reseller that gives you 3% back on each purchase made with Bitcoin. The 3% is given to you in the form of Gyft Points. Your Gyft points can be saved and put towards future purchases like an iPhone. To buy the iPhone with Gyft you can buy a gift card for use at eBay, Target, Amazon, or Best Buy. 
 
 It’s clear that Bitcoin offers some amazing opportunities for discounts and arbitrage. Be sure to take advantage of it whenever possible. Remember, your bitcoins are valuable and better than fiat money. Merchants should have to offer you a discount in order to get you to spend your bitcoins. 
-
-**More:** [Which countries mine the most bitcoins?](/kb/which-countries-mine-export-most-bitcoins/)

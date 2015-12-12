@@ -588,6 +588,41 @@ html, body {
 	margin-bottom: 15px;
 }
 
+.sidebar-add .sidebar-blog li {
+    clear: both;
+    list-style: outside none none;
+}
+
+.sidebar-add .sidebar-blog .fa {
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.sidebar-add .sidebar-blog ul {
+    padding-left: 1px;
+}
+
+.blog-index-wrap {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 25px;
+}
+
+.blog-index-wrap h1 { 
+    font-size: 22px;
+}
+
+.blog-title {
+    font-size: 28px !important;
+}
+
+.sidebar-add .sidebar-blog ul a {
+    color: #536066;
+    display: inline-block;
+    font-weight: 400;
+    width: 85%;
+}
+
 @media (max-width: 420px) { 
 
 .about-page .logo-about {

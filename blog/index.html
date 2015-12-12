@@ -8,6 +8,7 @@ hide_sidebar: true
 blog_index: true
 ---
 {% for post in paginator.posts %}
+<div class="blog-index-wrap">
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
     <span class="date">{{ page.date | date: '%B %d, %Y' }}</span>
@@ -15,6 +16,7 @@ blog_index: true
   <div class="content">
     {{ post.summary }}
   </div>
+</div>
 {% endfor %}
 
 <div class="pagination">
