@@ -5,7 +5,7 @@ author: jordantuwiner
 permalink: "/kb/buy-large-amounts-of-bitcoin/"
 seotitle: "How to Buy Large Amounts of Bitcoin"
 title: "How to Buy Large Amounts of Bitcoin"
-desc:    
+desc: Learn where and how to buy large amounts of bitcoins, from both exchanges and brokers. 
 faq: buylargeamounts
 categories: 
 - kb
