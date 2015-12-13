@@ -28,7 +28,7 @@ For the long answer, read this guide and by the end you'll understand:
 
 4. Mistakes to avoid when buying
 
-Every buyer has unique needs. There is no “best Bitcoin exchange”. Before you read, consider what's important for you in an exchange. For example, if you need a large amount of bitcoins than an exchange with high limits and liquidity is essential. If you need to buy bitcoins privately, then methods like ATM or cash deposit, where no personal information is required, may be better. The next three sections will explain what factors must be considered. 
+Every buyer has unique needs. There is no “best Bitcoin exchange”. Before you read, consider what's important for you in an exchange. For example, if you need a large amount of bitcoins than an exchange with high limits and liquidity is essential. If you need to purchase bitcoins privately, then methods like ATM or cash deposit, where no personal information is required, may be better. The next three sections will explain what factors must be considered. 
 
 ## Types of Exchanges
 
@@ -42,7 +42,7 @@ There are different kinds of Bitcoin exchanges. Some exchanges require you to me
 
 **Peer-to-peer (P2P) Exchanges –** Exchanges like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} are escrow services that simply match users. Buyers and sellers are free to agree on a price and payment method, and LocalBitcoins ensures that neither party is scammed by holding the payments in escrow until the trade is complete. Other examples of P2P exchanges include [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"}. 
 
-**ATMs –** Bitcoin ATMs let you buy bitcoin with cash. You simply insert cash into the machine, and get bitcoins sent to your wallet. Some ATMs require personal information. Use [Coin ATM Radar](http://coinatmradar.com/) to find a Bitcoin ATM near you. 
+**ATMs –** Bitcoin ATMs let you purchase bitcoin with cash. You simply insert cash into the machine, and get bitcoins sent to your wallet. Some ATMs require personal information. Use [Coin ATM Radar](http://coinatmradar.com/) to find a Bitcoin ATM near you. 
 
 ## Things to Consider 
 
@@ -54,7 +54,7 @@ The idea of a Bitcoin ATM may sound nice. But, did you know that most Bitcoin AT
 
 **Amount –** If you need to buy a large amount of bitcoins then you’ll have to look at big brokers or exchanges, like [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} or [BitStamp](https://www.bitstamp.net/){:rel="nofollow"}. These exchanges handle high volumes and offer lots of liquidity. 
 
-**Speed –** How fast do you need access to your bitcoins? Do you need to [buy bitcoin instantly](/kb/buy-bitcoin-instantly/)? Bitcoin ATMs can be the fastest way to buy bitcoin if you’re lucky enough to have one in your area. P2P options like [BitQuick](https://www.bitquick.co/) or [LocalBitcoins](https://localbitcoins.com/) can be a good way to buy small amounts fast. Some brokers, like [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} and [Circle](http://buybitcoinww.co/buy_circle){:rel="nofollow"}, offer instant buys with bank transfer, credit card, or debit card. 
+**Speed –** How fast do you need access to your bitcoins? Do [you need to buy bitcoin instantly](/kb/buy-bitcoin-instantly/)? Bitcoin ATMs can be the fastest way to purchase bitcoin if you’re lucky enough to have one in your area. P2P options like [BitQuick](https://www.bitquick.co/) or [LocalBitcoins](https://localbitcoins.com/) can be a good way to buy small amounts fast. Some brokers, like [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} and [Circle](http://buybitcoinww.co/buy_circle){:rel="nofollow"}, offer instant buys with bank transfer, credit card, or debit card. 
 
 **Exchange Rate** – There is no official Bitcoin price. Bitcoin exchanges are used to get an accurate idea of the price of bitcoin. So, naturally, Bitcoin exchanges usually have the best exchange rate. Bitcoin brokers buy bitcoin from exchanges and sell them. So, while Bitcoin brokers will generally offer you a price close to that of Bitcoin exchanges, there will usually be an additional fee. Use [BitcoinAverage](http://bitcoinaverage.com/) or [CoinDesk](http://coindesk.com/price) to see the average price of Bitcoin.  
 

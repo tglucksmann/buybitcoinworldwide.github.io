@@ -95,7 +95,7 @@ At this stage of Bitcoin’s development, it’s likely that only major corporat
 
 ## Mining Hardware
 
-When Satoshi released Bitcoin, he intended it to be mined on computer [CPU](https://en.wikipedia.org/wiki/Central_processing_unit)s. However, enterprising coders soon discovered they could get more hashing power from[graphic cards](https://en.wikipedia.org/wiki/Graphics_processing_unit) and wrote mining software to allow this. GPUs were surpassed in turn by [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)s (Application Specific Integrated Circuits). Nowadays all serious Bitcoin mining is performed on ASICs, usually in thermally-regulated data-centres with access to low-cost electricity. Economies of scale have thus led to the concentration of mining power into fewer hands than originally intended.
+When Satoshi released Bitcoin, he intended it to be mined on computer [CPU](https://en.wikipedia.org/wiki/Central_processing_unit)s. However, enterprising coders soon discovered they could get more hashing power from [graphic cards](https://en.wikipedia.org/wiki/Graphics_processing_unit) and wrote mining software to allow this. GPUs were surpassed in turn by [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)s (Application Specific Integrated Circuits). Nowadays all serious Bitcoin mining is performed on ASICs, usually in thermally-regulated data-centres with access to low-cost electricity. Economies of scale have thus led to the concentration of mining power into fewer hands than originally intended.
 
 ## Mining Pools
 

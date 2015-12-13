@@ -402,7 +402,7 @@
   });
 
   window.sellers.push({
-    countries: "ar",
+    countries: "ar, br",
     methods: "cash",
     hide: "",
     url: "https://ripio.com/",
@@ -493,8 +493,8 @@
     countries: "br",
     methods: "bt",
     hide: "",
-    url: "https://www.bitinvest.com.br/",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.bitinvest.com.br/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/mercado.png\" alt=\"Mercado Bitcoin\">Mercado Bitcoin</a> \n		<a type=\"button\" href=\"https://www.bitinvest.com.br/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers. Fee varies.</p>\n		<a href=\"https://www.bitinvest.com.br/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+    url: "https://www.mercadobitcoin.com.br/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.mercadobitcoin.com.br/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/mercado.png\" alt=\"Mercado Bitcoin\">Mercado Bitcoin</a> \n		<a type=\"button\" href=\"https://www.mercadobitcoin.com.br/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers. Fee varies.</p>\n		<a href=\"https://www.mercadobitcoin.com.br/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({

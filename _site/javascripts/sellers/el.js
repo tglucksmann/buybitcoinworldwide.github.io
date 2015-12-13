@@ -402,7 +402,7 @@
   });
 
   window.sellers.push({
-    countries: "ar",
+    countries: "ar, br",
     methods: "cash",
     hide: "",
     url: "https://ripio.com/",
@@ -493,7 +493,7 @@
     countries: "br",
     methods: "bt",
     hide: "",
-    url: "https://www.bitinvest.com.br/",
+    url: "https://www.mercadobitcoin.com.br/",
     html: "      \n\n\n"
   });
 

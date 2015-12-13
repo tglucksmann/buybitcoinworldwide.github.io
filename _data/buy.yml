@@ -830,7 +830,7 @@
    desc: Buy bitcoin at over 8,000 convenience stores across Argentina. Local, quick, secure. 
    url: https://ripio.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/ripio.png
-   countries: ar
+   countries: ar, br
    po: cash
    es: yes
    name_es: Ripio
@@ -954,7 +954,7 @@
 
  - name: Mercado Bitcoin
    desc: Bitcoin exchange. Buy bitcoin online in Brazil with bank transfers. Fee varies.   
-   url: https://www.bitinvest.com.br/
+   url: https://www.mercadobitcoin.com.br/
    icon: https://www.buybitcoinworldwide.com/img/buy/mercado.png
    countries: br
    po: bt
