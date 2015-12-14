@@ -1851,6 +1851,14 @@ blockquote {
 	max-width: 250px !important;
 }
 
+/** ATMs **/
+
+.atm-city {
+	font-weight: bold;
+	font-size: 19px;
+}
+
+
 @media (max-width: 991px) { 
 	
 	.wallet-content .vitals {

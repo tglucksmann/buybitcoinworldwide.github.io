@@ -59,7 +59,7 @@ P2P exchanges offer a fast way to buy bitcoins, but P2P exchange rates may be a 
 
 ## Bitcoin ATMs (Cash)
 
-Bitcoin ATMs are another great way to buy bitcoins instantly. While you may have to physically drive or walk to the ATM, once you reach the ATM you can buy bitcoins instantly. You’ll need to be lucky enough to have a Bitcoin ATM in your area. Use [Coin ATM Radar](http://coinatmradar.com/) keeps track of Bitcoin ATMs around the world and makes it easy to locate an ATM in your area. You can do the following to check if there is a Bitcoin ATM near you:
+Bitcoin ATMs are another great way to purchase bitcoins instantly. While you may have to physically drive or walk to the ATM, once you reach the ATM you can buy bitcoins instantly. You’ll need to be lucky enough to have a Bitcoin ATM in your area. Use [Coin ATM Radar](http://coinatmradar.com/) keeps track of Bitcoin ATMs around the world and makes it easy to locate an ATM in your area. You can do the following to check if there is a Bitcoin ATM near you:
 
 ## 1. Go to [CoinATMRadar.com](http://coinatmradar.com/)  
 
@@ -87,7 +87,7 @@ Some ATMs may require verification, like a picture of an ID or a finger print sc
 
 ## Credit Card or Debit Card
 
-While credit card payments are actually very slow and can take up to 90 days to complete, it’s possible to buy bitcoin instantly with a credit or debit card.  
+While credit card payments are actually very slow and can take up to 90 days to complete, it’s possible to buy bitcoin instantly online with a credit or debit card.  
 
 [Circle](http://buybitcoinww.co/buy_circle){:rel="nofollow"} is the only place that lets U.S. customers buy bitcoin instantly with a credit card or debit card. Both credit and debit card purchases are instant at Circle. The only difference is debit card purchases are free, while credit card purchases come with a 3% fee.
 
@@ -299,7 +299,7 @@ That’s it! You’ll now be able to buy bitcoin instantly on [Coinbase](http://
 
 ## Interac Online  
 
-Canadian customers can use Interac Online to buy bitcoin instantly at over 10 different exchanges. View all of the options on our [Interac Online page](/en/buy-bitcoin-interac-online/).  
+Canadian customers can use Interac Online to buy bitcoin instantly online at over 10 different exchanges. View all of the options on our [Interac Online page](/en/buy-bitcoin-interac-online/).  
 
 ## United Kingdom   
 
