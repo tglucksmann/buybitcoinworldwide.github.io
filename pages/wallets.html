@@ -1,60 +1,59 @@
 ---
 layout: page
 permalink: "/wallets/"
-title: Bitcoin Wallets 
+title: Bitcoin Wallets
 lang: en
-seotitle: Bitcoin Wallets
+seotitle: Bitcoin Wallet Reviews - Find the Best Bitcoin Wallets
 desc: A Bitcoin wallet is the first step to owning bitcoin, even before buying it. That's why we help you find a Bitcoin wallet before you buy.
 hide_sidebar: true
 ---
 <div class="post-content wallets-index centered">
-			<p class="browse-wallets-info">Bitcoin wallets (<a href="https://www.buybitcoinworldwide.com/kb/what-is-a-bitcoin-wallet/">what is a Bitcoin wallet?</a>) make payments global, easy, fast, and secure. More importantly, funds stored in true Bitcoin wallets give you full control of your money. Our wallet overviews help you find a Bitcoin wallet to suit your needs.</p>
-			
-			  <h2 class="index-hardware-wallets wallet-index-title"><span>Cold Storage</span></h2>
-			  <div class="wallet-group">Wallets built with security in mind. Your private keys are generated offline in a secure environment. Use cold storage wallets for secure storage.</div>
-			  <div class="wallets-centered">
-             {% assign pages = site.wallets | sort:"weight"  %}
-             {% for album in pages %}
-			{% if album.cat contains 'hardware' %}
-                <div class="wallet-index-wrap">
-                <a href="{{ album.url | prepend: site.baseurl }}">
-                <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/wallets/" | prepend: site.baseurl }}{{ album.thumb }}">
-                <h3 class="ctitle">{{ album.title }}</h3></a>               
-                </div>
-                {% endif %}
-            {% endfor %}
-			  </div>
-			<hr>
-			
-			<h2 class="index-mobile-wallets wallet-index-title"><span>Hot Wallets</span></h2>
-			<div class="wallet-group">Hot wallets give you full control over your private keys, but aren't built for long term secure storage of funds. Private keys are generated on an internet connected device. Treat hot wallets like you would your physical wallet. Hot wallets should only be used for spending money and users who make frequent payments. </div>
-			<div class="wallets-centered">
-            {% assign pages = site.wallets | sort:"weight"  %}
-             {% for album in pages reversed %}
-			{% if album.cat contains 'hot' %}
-                <div class="wallet-index-wrap">
-                <a href="{{ album.url | prepend: site.baseurl }}">
-                <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/wallets/" | prepend: site.baseurl }}{{ album.thumb }}">
-                <h3 class="ctitle">{{ album.title }}</h3></a>               
-                </div>
-                {% endif %}
-            {% endfor %}
-			</div>
-            <hr>
-            
-            <h2 class="index-web-wallets wallet-index-title"><span>Buy/Sell Wallets</span></h2>
-            <div class="wallet-group">Buy/sell wallets are connected to your bank account or credit card. Use these wallets to go in and out of fiat currency. </div>
-            <div class="wallets-centered">
-             {% assign pages = site.wallets | sort:"weight"  %}
-             {% for album in pages %}
-			{% if album.cat contains 'broker' %}
-                <div class="wallet-index-wrap">
-                <a href="{{ album.url | prepend: site.baseurl }}">
-                <img class="wallet-image-index {{ album.wallet }}" src="{{ "/img/wallets/" | prepend: site.baseurl }}{{ album.thumb }}">
-                <h3 class="ctitle">{{ album.title }}</h3></a>               
-                </div>
-                {% endif %}
-            {% endfor %}
-            </div>
+<p class="browse-wallets-info">Bitcoin wallets (<a href="https://www.buybitcoinworldwide.com/kb/what-is-a-bitcoin-wallet/">what is a Bitcoin wallet?</a>) make payments global, easy, fast, and secure. More importantly, funds stored in true Bitcoin wallets give you full control of your money. Our wallet overviews help you find a Bitcoin wallet to suit your needs.</p>
+	
+<h2>Bitcoin Hardware Wallet Overviews</h2>			
+<p>A hardware wallet is a physical device that is built with the sole purpose of securing Bitcoin private keys. Hardware wallets keep private keys away from internet-connected devices and allow users to sign transactions in an offline environment. </p>
+
+	{% assign pages = site.wallets | sort:"weight"  %}
+    {% for wallet in pages reversed %}
+	{% if wallet.tags contains 'hardware' %}
+	{% include wallet-list.html %}
+	{% endif %}
+	{% endfor %}
+
+<h2>Online Bitcoin Wallet Overviews (Web Wallets)</h2>			
+<p>Web wallets store your private keys online, where they are encrypted with a user chosen password. Online bitcoin wallets are accessible from any internet connected device.</p>
+	{% assign pages = site.wallets | sort:"weight"  %}
+    {% for wallet in pages reversed %}
+	{% if wallet.tags contains 'web' %}
+	{% include wallet-list.html %}
+	{% endif %}
+	{% endfor %}
+	
+<h2>Android Bitcoin Wallets</h2>			
+<p>Android offers developers more freedom than iOS. For example, it's only possible to use hardware wallets with Android Bitcoin wallets, because Apple doesn't allow the use of OTG cables. The best Android Bitcoin wallets let users control their private keys.</p>
+	{% assign pages = site.wallets | sort:"weight"  %}
+    {% for wallet in pages reversed %}
+	{% if wallet.tags contains 'android' %}
+	{% include wallet-list.html %}
+	{% endif %}
+	{% endfor %}	
+	
+<h2>iOS and iPhone Bitcoin Wallets</h2>			
+<p>Apple banned <a href="/wallets/">Bitcoin wallets</a> from the App Store in February 2014, but reversed its decision a few months later. Luckily, there are plenty of options for iOS users.</p>
+	{% assign pages = site.wallets | sort:"weight"  %}
+    {% for wallet in pages reversed %}
+	{% if wallet.tags contains 'ios' %}
+	{% include wallet-list.html %}
+	{% endif %}
+	{% endfor %}		
+	
+<h2>Desktop Wallets</h2>			
+<p>Desktop wallets are downloaded and installed on your computer.</p>
+	{% assign pages = site.wallets | sort:"weight"  %}
+    {% for wallet in pages reversed %}
+	{% if wallet.tags contains 'desktop' %}
+	{% include wallet-list.html %}
+	{% endif %}
+	{% endfor %}	
                         
 </div>

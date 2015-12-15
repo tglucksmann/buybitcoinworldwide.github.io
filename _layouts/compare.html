@@ -1,0 +1,74 @@
+---
+layout: default
+hide_sidebar: true
+---
+<div class="post-header">
+  <h1 class="post-title-main compare-title-head"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+</div>
+  {{ content }}
+  	<div class="compare-header">
+  	<div class="col-md-3">Exchange
+  	</div>
+  	<div class="col-md-3">Payment Methods
+  	</div>
+  	<div class="col-md-2">Speed
+  	</div>
+  	<div class="col-md-2 for-header">{{ page.compare_amount }} BTC for
+  	</div>
+  	<div class="col-md-2">Buy
+  	</div>
+  	</div>
+  	
+  	
+  {% for exchange in site.data.compare %}
+		<div class="exchange-compare-line">
+			
+			<div class="col-md-3">
+			<a class="exchange-link-compare" href="{{ exchange.url }}" rel="nofollow" target="_blank">
+				<img src="/img/exchanges/{{ exchange.img }}">
+				<div class="compare-title">
+				{{ exchange.title }}
+				</div>
+			</a>
+			</div>
+			
+			<div class="col-md-3">
+				<div class="compare-pms">
+				<span class="explainer">Pay with: </span>
+				{% if exchange.pm contains 'bt' %}
+				<i class="fa fa-fw fa-1x fa-bank"></i>
+				{% endif %}
+				{% if exchange.pm contains 'sepa' %}
+				<i class="fa fa-fw fa-1x fa-eur"></i>
+				{% endif %}
+				{% if exchange.pm contains 'cc' %}
+				<i class="fa fa-fw fa-1x fa-credit-card"></i>
+				{% endif %}
+				{% if exchange.pm contains 'paypal' %}
+				<i class="fa fa-fw fa-1x fa-paypal"></i>
+				{% endif %}
+				{% if exchange.pm contains 'cash' %}
+				<i class="fa fa-fw fa-1x fa-money"></i>
+				{% endif %}
+				
+				</div>
+			</div>
+			
+			<div class="col-md-2">
+				<div class="compare-time"><span class="explainer">Get bitcoin in: </span>instant-5 days</div>
+			</div>
+			
+			<div class="col-md-2">
+				<div class="compare-price">$365.96 <span class="explainer">for {{ page.compare_amount }} BTC </span></div>
+			</div>
+			
+			<div class="col-md-2">
+				<div class="compare-button">
+				<a type="button" href="{{ exchange.url }}" rel="nofollow" target="_blank" class="btn btn-sm btn-success"><i class="fa fa-bitcoin"></i> Buy Bitcoin</a>
+				</div>
+			</div>
+			
+			
+			
+		</div>
+  {% endfor %}

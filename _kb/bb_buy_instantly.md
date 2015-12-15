@@ -27,7 +27,7 @@ If you already know which payment method you want to use, jump to a section:
 <a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#united-kingdom" type="button">Buy Instantly in the UK</a>
 </p>
 
-## Peer-to-peer Trade (Cash)
+## Buy Bitcoins Instantly with Cash
 
 ![localbitcoins][32]{: .img-responsive .kb-helper}
 
@@ -85,7 +85,7 @@ While Bitcoin ATMs make it easy to buy bitcoin fast, there are some downsides. B
 
 Some ATMs may require verification, like a picture of an ID or a finger print scan. These ATMs are a bit slower. Coin ATM Radar provides details on each ATM so be sure to check if the Bitcoin ATM near you requires verification.  
 
-## Credit Card or Debit Card
+## Buy Bitcoin Instantly with Credit Card or Debit Card
 
 While credit card payments are actually very slow and can take up to 90 days to complete, it’s possible to buy bitcoin instantly online with a credit or debit card.  
 
@@ -257,7 +257,7 @@ That's it! You should now see your balance in BTC displayed in the top left of t
 
 Once you've purchased your bitcoins, we suggest sending your bitcoins to a wallet you own. In the future, try to buy bitcoin using other [payment methods](/en/payment-methods/) to avoid fees. 
 
-## Coinbase  
+## Buy Bitcoins Instantly at Coinbase  
 
 _This section explains how U.S. users can buy bitcoin instantly at Coinbase. However, European users can also buy instantly at Coinbase with a 3D secure debit or credit card._
 
@@ -297,11 +297,11 @@ Once you create an account, login.
 
 That’s it! You’ll now be able to buy bitcoin instantly on [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"}. Remember, you’ll be limited to $100 or $1,000 worth of bitcoin instantly per week depending on your level of verification.
 
-## Interac Online  
+## Buy Bitcoin Instantly in Canada  
 
 Canadian customers can use Interac Online to buy bitcoin instantly online at over 10 different exchanges. View all of the options on our [Interac Online page](/en/buy-bitcoin-interac-online/).  
 
-## United Kingdom   
+## Buy Bitcoin Instantly in the UK  
 
 UK customers can get bitcoins in a few minutes using [Bittylicious](https://bittylicious.com/). All you need to do is create an account, decide how much bitcoin you want to buy, and then send a bank transfer. Most transfers take a few minutes to confirm.
 

@@ -17,7 +17,7 @@ control_priv_keys: yes
 download_desktop: yes
 download_desktop_url: https://mac.hivewallet.com/
 contribute: hive-mac
-tags: mac, desktop
+tags: nodev
 weight: 0
 summary: Hive Mac is a Bitcoin wallet for OS X. It is officially unsupported and will not receive further updates. We recommend finding an alternative wallet. 
 ---

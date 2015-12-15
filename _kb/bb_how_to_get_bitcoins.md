@@ -39,7 +39,7 @@ Bitcoin ATMs are a decent way to buy bitcoin if you are lucky enough to have one
 
 **PayPal**
 
-There is [no way to directly buy bitcoins with PayPal](/en/buy-bitcoin-paypal/). Under PayPal’s terms and conditions merchants are not allowed to sell bitcoins for PayPal. However, there are a few hacks to get around this. You can buy other digital items with PayPal and sell those items for bitcoin. For example, at VirWoX you can buy Second Life Lindens, another digital currency, and exchange the Lindens for bitcoin.
+There is [no way to directly get bitcoins with PayPal](/en/buy-bitcoin-paypal/). Under PayPal’s terms and conditions merchants are not allowed to sell bitcoins for PayPal. However, there are a few hacks to get around this. You can buy other digital items with PayPal and sell those items for bitcoin. For example, at VirWoX you can buy Second Life Lindens, another digital currency, and exchange the Lindens for bitcoin.
 
 ## Get Paid in Bitcoin or Work for Bitcoin 
 

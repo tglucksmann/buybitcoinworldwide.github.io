@@ -604,7 +604,6 @@
  - country: Spain
    short: es
    eu: yes     
-   pop: yes
    es: yes
    country_es: España
    
@@ -699,7 +698,6 @@
  - country: Brazil
    short: br
    sa: yes  
-   pop: yes
    es: yes
    country_es: Brasil
    ar: yes
@@ -1020,7 +1018,6 @@
  - country: China
    short: cn
    as: yes
-   pop: yes
    zh: yes
    country_zh: 中国
    
@@ -1048,7 +1045,6 @@
  - country: Japan
    short: jp
    as: yes
-   pop: yes
    zh: yes
    country_zh: 日本
 

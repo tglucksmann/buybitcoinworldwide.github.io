@@ -21,7 +21,7 @@ download_ios_url: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftwar
 download_android: yes
 download_android_url: https://play.google.com/store/apps/details?id=com.hivewallet.hive.cordova
 contribute: hive
-tags: iphone, android, ios, mobile
+tags: nodev
 summary: Hive is a Bitcoin wallet for Android, iOS, and the web. It is officially unsupported and will not receive further updates. We recommend finding an alternative wallet. 
 ---
 **Hive Wallet is officially unsupported and will not receive further development.**  

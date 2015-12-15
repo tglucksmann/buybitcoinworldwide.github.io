@@ -7,7 +7,7 @@ desc: Circle is a Bitcoin broker offering its services in the United States. Cus
 thumb: circle.png
 lang: en
 cat: broker
-seotitle: "Review: Circle, Bitcoin Broker with Great Rates"
+seotitle: "Circle Review: Bitcoin Broker with Great Rates"
 website: circle.com
 website_url: http://buybitcoinww.co/buy_circle
 twitter: circlebits
@@ -76,3 +76,29 @@ Circle offers customer support via [email](https://support.circle.com/hc/en-us/r
 
 ## Past Issues
 There have been reports that Circle randomly flags accounts as suspicious. If your account is flagged as suspicious, Circle may remove or limit your ability to buy and sell bitcoin. View more details in [Circle's user agreement](https://support.circle.com/hc/en-us/articles/204691914-It-s-not-you-it-s-me-User-Agreement-Violations-). 
+
+<hr>
+
+## Circle Wallet Review
+
+Circle is a digital money company focused on making money “instant, secure, and free”. Its homepage only briefly mentions Bitcoin, and its wallet doesn’t do much more than receiving and spending.
+
+Accounts may be accessed on Circle’s website and iPhone or Android app. Both apps allow the buying and selling of bitcoin and basic sending and receiving of payments. 
+
+Circle allows its customers to hold funds denominated in bitcoin or USD. Funds held as dollars are still be spent and received through the Bitcoin network.
+
+Circle controls all private keys, and acts more like a bank than a true Bitcoin wallet. Circle should only be used to buy or sell bitcoin, and not to store funds.
+
+##Security
+{: .security .wallet-sections}
+As a web/hot wallet, Circle should not be used to store large amounts of bitcoin. With full control over all accounts and private keys, your funds may be frozen at any time.
+
+Although all bitcoin held is insured, a loss is only covered if something goes wrong on Circle’s end. Your bitcoin is gone if your account is hacked.
+
+Two-factor authentication is required.
+
+##Privacy
+{: .privacy .wallet-sections}
+Your name, phone number, email, and a number of other personal details are required. You must trust Circle’s servers to verify transaction data. Circle knows your addresses and balances at all times and can connect this with your identity. Because of buy/sell features, it must also follow all KYC laws.
+
+Each payment request uses a new address, which helps prevent other users from connecting Bitcoin addresses together.

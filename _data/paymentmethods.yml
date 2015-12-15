@@ -13,9 +13,9 @@
    url: /en/buy-bitcoin-paypal/
    desc: Buy bitcoin online via PayPal.  
    
- - pmethod: Cash Deposit
+ - pmethod: Cash
    icon: money 
-   url: /en/buy-bitcoin-cash-deposit-united-states/
+   url: /en/buy-bitcoins-with-cash/
    desc: Buy bitcoin with cash via local bank deposit.  
    
  - pmethod: SEPA Transfer

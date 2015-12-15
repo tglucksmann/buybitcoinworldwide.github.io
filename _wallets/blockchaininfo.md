@@ -23,7 +23,7 @@ download_ios_url: https://itunes.apple.com/us/app/blockchain-bitcoin-wallet/id49
 download_android: yes
 download_android_url: https://play.google.com/store/apps/details?id=piuk.blockchain.android&hl=en
 contribute: blockchaininfo
-tags: web, android, watchonly, ios, iphone
+tags: web, watchonly
 summary: Blockchain.info is a simple Bitcoin web wallet. Its simplicity makes it a good choice for people opening their first Bitcoin wallet. Blockchain.info wallets can be accessed from any web browser, apps for iPhone and Android, and browser extensions for Firefox and Chrome. 
 weight: 5
 ---
