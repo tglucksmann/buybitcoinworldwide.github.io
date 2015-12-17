@@ -11,7 +11,7 @@ website: virwox.com
 website_url: http://buybitcoinww.co/bitcoin_virwox
 contribute: virwox
 location: Austria
-cat: exchange
+cat: exchange, global
 weight: 5
 pro1: One of the few ways to buy bitcoin with PayPal
 pro2: 
@@ -19,7 +19,8 @@ pro3:
 con1: High fees; about 9% to convert from PayPal to bitcoin
 con2: 
 con3:
-summary: "VirWox offers one of the few ways to buy bitcoin with PayPal: buy buying Second Life Lindens with PayPal, and then trading the Second Life Lindens for bitcoin. "
+summary: "VirWox offers one of the few ways to buy bitcoin with PayPal: buy buying Second Life Lindens with PayPal, and then trading the Second Life Lindens for bitcoin."
+summarylong: "VirWox offers one of the few ways to buy bitcoin with PayPal: buy buying Second Life Lindens with PayPal, and then trading the Second Life Lindens for bitcoin."
 privacy_score: 2
 privacy_width: 20
 limits_score: 3

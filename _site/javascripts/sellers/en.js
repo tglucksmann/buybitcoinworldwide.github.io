@@ -1042,6 +1042,14 @@
   });
 
   window.sellers.push({
+    countries: "us, ca, de, fr, au, gb, it, ch, cz, ru, uk",
+    methods: "fast, cdus, nobank, cash",
+    hide: "",
+    url: "http://coinatmradar.com/",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://coinatmradar.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/car.png\" alt=\"Coin ATM Radar\">Coin ATM Radar</a> \n		<a type=\"button\" href=\"http://coinatmradar.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Coin ATM Radar helps you locate Bitcoin ATMs in your area to <a href=\"/en/buy-bitcoins-with-cash/\">buy bitcoins with cash</a>.</p>\n		<a href=\"http://coinatmradar.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
     countries: "us",
     methods: "usbt, lowfees, bt",
     hide: "",
@@ -1094,7 +1102,7 @@
     methods: "fast, cdus, nobank, lowfees, cash",
     hide: "",
     url: "http://buybitcoinww.co/wall_of_coins",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/wall_of_coins\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/wallofcoins.png\" alt=\"Wall of Coins\">Wall of Coins</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/wall_of_coins\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy bitcoin via <a href=\"/en/buy-bitcoin-cash-deposit-united-states/\">cash deposit</a> at a number of US banks nationwide.</p>\n		<a href=\"http://buybitcoinww.co/wall_of_coins\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/wall_of_coins\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/wallofcoins.png\" alt=\"Wall of Coins\">Wall of Coins</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/wall_of_coins\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy bitcoin with cash deposit at a number of US banks nationwide.</p>\n		<a href=\"http://buybitcoinww.co/wall_of_coins\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({

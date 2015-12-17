@@ -1042,6 +1042,14 @@
   });
 
   window.sellers.push({
+    countries: "us, ca, de, fr, au, gb, it, ch, cz, ru, uk",
+    methods: "fast, cdus, nobank, cash",
+    hide: "",
+    url: "http://coinatmradar.com/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
     countries: "us",
     methods: "usbt, lowfees, bt",
     hide: "",

@@ -6,7 +6,7 @@ exchange: coinbase
 desc: Coinbase is the world's largest Bitcoin broker. Use Coinbase to buy bitcoin easily in over 30 supported countries. 
 thumb: coinbase.png
 lang: en
-cat: broker
+cat: broker, popular
 seotitle: "Coinbase Review: Buy Bitcoin in Over 30 Countries"
 website: coinbase.com
 website_url: http://buybitcoinww.co/buycoinbase
@@ -24,6 +24,7 @@ con1: Limited payment methods
 con2: May track how its users spend bitcoin
 con3:
 summary: Coinbase, available to users in over 30 countries, is the world's largest Bitcoin broker. Customers can buy bitcoin with a connected bank account, SEPA transfer, Interac Online, and many more payment methods. 
+summarylong: Coinbase is the world's largest Bitcoin broker, available in the United States, Canada, Singapore, and most of Europe. Customers can buy bitcoin with a connected bank account, SEPA transfer, Interac Online, iDEAL, and many more payment methods depending on location. 
 privacy_score: 1
 privacy_width: 10
 limits_score: 8

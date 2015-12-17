@@ -6,7 +6,7 @@ exchange: bit2c
 desc: Bit2C is an Israeli Bitcoin exchange, allowing its users to buy bitcoin via local bank transfer or credit card. 
 thumb: bit2c.png
 lang: en
-cat: exchange
+cat: exchange, israel
 seotitle: "Bit2C Review: Israel's Largest Bitcoin Exchange"
 website: bit2c.co.il
 website_url: http://buybitcoinww.co/bit2c
@@ -21,7 +21,8 @@ pro3:
 con1: Limited liquidity
 con2: 
 con3:
-summary: Bit2C is an Israeli Bitcoin exchange, allowing its users to buy bitcoin via local bank transfer or credit card.  
+summary: Bit2C is an Israeli Bitcoin exchange, allowing its users to buy bitcoin via local bank transfer or credit card.
+summarylong: Bit2C is an Israeli Bitcoin exchange, where users can buy bitcoin via local bank transfer or credit card.  
 privacy_score: 1
 privacy_width: 10
 limits_score: 7

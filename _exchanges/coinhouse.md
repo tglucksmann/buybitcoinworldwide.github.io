@@ -11,7 +11,7 @@ website: coinhouse.io
 website_url: http://buybitcoinww.co/coinhouse
 contribute: coinhouse
 location: Paris, France
-cat: broker
+cat: broker, france
 weight: 8
 pro1: Buy bitcoin with a credit card
 pro2: Buy bitcoin with Neosurf prepaid cards
@@ -19,7 +19,8 @@ pro3: After initial verification, bitcoin is delivered instantly
 con1: Fees range from 6-10%
 con2: 
 con3:
-summary: Coinhouse, based in Paris, France, allows users to buy bitcoin with a 3D secure credit or debit card, or with Neosurf prepaid cards. 
+summary: Coinhouse, based in Paris, France, lets users in France buy bitcoin with a 3D secure credit card or debit card, or with Neosurf prepaid cards.
+summarylong: Coinhouse, based in Paris, France, lets users buy bitcoin with a 3D secure credit card or debit card, or with Neosurf prepaid cards. Coinhouse has plans to expand its service to the rest of Europe in early-2016. 
 privacy_score: 1
 privacy_width: 10
 limits_score: 5
