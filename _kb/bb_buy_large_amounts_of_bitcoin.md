@@ -44,7 +44,7 @@ Like Genesis, itBit isn’t open to everyone. Most of its clients include miners
 
 ## Coinbase
 
-[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is a good option for individuals who want to buy large amounts of bitcoin. It’s also one of the easiest ways to buy bitcoin in the U.S., Canada, or Europe.
+[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is a good option for individuals who want to buy large quantities of bitcoin. It’s also one of the easiest ways to buy bitcoin in the U.S., Canada, or Europe.
 
 Fully verified users can buy up to $50,000 worth of bitcoin per day on Coinbase, through a connected bank account via ACH bank transfer, or with a wire transfer.  
 
@@ -92,7 +92,7 @@ Bitstamp is a good option for European users, who can deposit via SEPA transfer.
 
 ## Xapo
 
-[Xapo](https://xapo.com/) is another place to buy bitcoin via SWIFT. Xapo is a trusted company, backed by a number of VC companies including Ribbit capital.  
+[Xapo](https://xapo.com/) is another place to buy large amounts of bitcoin via SWIFT. Xapo is a trusted company, backed by a number of VC companies including Ribbit capital.  
 
 It’s easy to buy upwards of $50,000 worth of bitcoin with Xapo.
 

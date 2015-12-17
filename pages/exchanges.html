@@ -44,14 +44,6 @@ hide_sidebar: true
 	{% include exchange-list.html %}
 	{% endif %}
 	{% endfor %}
-	
-<h2>Bitcoin Exchanges in Israel</h2>			
-	{% assign pages = site.exchanges | sort:"weight"  %}
-    {% for exchange in pages reversed %}
-	{% if exchange.cat contains 'israel' %}
-	{% include exchange-list.html %}
-	{% endif %}
-	{% endfor %}	
                                       
                         
 </div>

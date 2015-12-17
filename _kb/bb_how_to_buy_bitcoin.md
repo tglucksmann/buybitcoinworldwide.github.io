@@ -46,7 +46,7 @@ There are different kinds of Bitcoin exchanges. Some exchanges require you to me
 
 ## Things to Consider 
 
-The idea of a Bitcoin ATM may sound nice. But, did you know that most Bitcoin ATMs charge fees in excess of 7%? Because of this, it's important to consider the following when finding an exchange:
+The idea of a Bitcoin ATM may sound nice. But, did you know that most Bitcoin ATMs charge a a 5-10% fee? Because of factors like this, it's important to consider the following when finding an exchange or place to buy:
 
 **Privacy –** If you need to buy bitcoins privately, you can already cross off a number of payment methods: bank transfer, credit card, PayPal, or any other method that requires personal or identifying information. ATMs and P2P exchanges like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} or [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"} are the more private methods of buying bitcoin. 
 
@@ -62,7 +62,7 @@ The idea of a Bitcoin ATM may sound nice. But, did you know that most Bitcoin AT
 
 **Location –** Does the Bitcoin exchange offer service in your country? P2P exchanges like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} work in most countries, while most other services are limited to certain countries. 
 
-**Fees –** How much does the exchange charge for its services? ATMs have the highest fees at about 7% per transaction. Brokers and P2P exchanges usually charge a flat fee of around 1%. Exchanges generally have the lowest fees at about 0.2-0.5% per trade. 
+**Fees –** How much does the exchange charge for its services? ATMs have the highest fees at 5-10% per transaction. Brokers and P2P exchanges usually charge a flat fee of around 1%. Exchanges generally have the lowest fees at about 0.2-0.5% per trade. 
 
 **Payment Method –** How can you pay for the bitcoins? We cover this in depth in the next section.
 
@@ -78,7 +78,7 @@ In order to buy bitcoins, you’ll need to exchange your local currency, like th
 
 **Cash Deposit –** Cash deposit is often one of the fastest ways to buy bitcoin. Services like [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"} often deliver your bitcoins within a couple hours. Cash deposit lets you buy bitcoins privately because no personal information is required. Use [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} or BitQuick to buy bitcoin with cash deposit. LocalBitcoins offers helpful a [first time buyer's guide](https://localbitcoins.com/guides/how-to-buy-bitcoins) for first new users.
 
-**Bitcoin ATMs –** There are many companies that make Bitcoin ATMs, and each model has different features. For example, some Bitcoin ATMs simply let you insert cash and get bitcoins, without identity verification. This is a good way to buy bitcoin privately. Some ATMs require a picture of a government issued ID and a fingerprint scan. The downside to buying bitcoin from a Bitcoin ATM is that most Bitcoin ATMs have high markups on both the buy and sell side (usually 3-7%). However, this is the price people are willing to pay to buy bitcoins privately. Keep in mind that ATMs often have lower buy limits. Use [Coin ATM Radar](http://coinatmradar.com/) to find a Bitcoin ATM near you. 
+**Bitcoin ATMs –** There are many companies that make Bitcoin ATMs, and each model has different features. For example, some Bitcoin ATMs simply let you insert cash and get bitcoins, without identity verification. This is a good way to buy bitcoin privately. Some ATMs require a picture of a government issued ID, phone verification via SMS, and, in extremely rare cases, a fingerprint scan. The downside to buying bitcoin from a Bitcoin ATM is that most Bitcoin ATMs have high markups on both the buy and sell side (usually 5-10%). However, this is the price people are willing to pay to buy bitcoins privately. Keep in mind that ATMs often have lower buy limits. Use [Coin ATM Radar](http://coinatmradar.com/) to find a Bitcoin ATM near you. 
 
 **PayPal –** There is no way to [directly buy bitcoins with PayPal](/en/buy-bitcoin-paypal/). Under PayPal’s terms and conditions merchants are not allowed to sell bitcoins for PayPal. However, there are a few hacks to get around this. You can buy other digital items with PayPal and sell those items for bitcoin. For example, at [VirWoX](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"} you can buy Second Life Lindens, another digital currency, and exchange the Lindens for bitcoin. Keep in mind that buying bitcoin with PayPal usually comes with an even higher markup than Bitcoin ATMs or credit cards and is not recommended. 
 
@@ -94,7 +94,7 @@ You can use our tool to [find an exchange in your country](/find-exchange/).
 
 ## Find a Wallet
 
-Now that you're on your way to buying bitcoins, [you need to get a Bitcoin wallet](/kb/what-is-a-bitcoin-wallet/). Obtaining a Bitcoin wallet is the first step to using Bitcoin. Without a wallet, you can’t receive, store, or spend bitcoins.  
+Now that you know how to buy bitcoins, [you need to get a Bitcoin wallet](/kb/what-is-a-bitcoin-wallet/). Obtaining a Bitcoin wallet is the first step to using Bitcoin. Without a wallet, you can’t receive, store, or spend bitcoins.  
 
 ![bitcoin wallet](/img/icons/wallet1.png){: .img-responsive .halfimg-right }
 

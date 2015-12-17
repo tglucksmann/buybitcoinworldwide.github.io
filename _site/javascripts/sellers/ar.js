@@ -51,22 +51,6 @@
 
   window.sellers.push({
     countries: "us",
-    methods: "usbt, bt",
-    hide: "",
-    url: "https://gemini.com/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "us, gb",
-    methods: "sepa, usbt, lowfees, bt, ach",
-    hide: "",
-    url: "http://buybitcoinww.co/buycoinbase",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png\" alt=\"Coinbase Exchange\">Coinbase Exchange</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>صرافة بيتكوين بالولايات المتحدة . التمويل عن طريق تحويل SEPA أو تحويل مصرفي بنظام المقاصة بين البنوك الأمريكية ACH</p>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "us",
     methods: "fast, cdus, nobank, cash",
     hide: "",
     url: "http://buybitcoinww.co/buybitquick",
@@ -79,6 +63,14 @@
     hide: "",
     url: "http://buybitcoinww.co/coincorner",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/coincorner\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/ccoiner.png\" alt=\"CoinCorner\">CoinCorner</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/coincorner\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.</p>\n		<a href=\"http://buybitcoinww.co/coincorner\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo",
+    methods: "sepa, fast, cdus, paypal, nobank, lowfees, pp, cash, wmru, mpesa, neosurf",
+    hide: "",
+    url: "http://buybitcoinww.co/local_bitcoins",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/localbitcoins.png\" alt=\"Local Bitcoins\">Local Bitcoins</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>شراء بيتكوين من التجار المحليين، أو عبر الإنترنت أو بشخصك. بخصوصية وسرعة. برسوم 1٪.</p>\n		<a href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -95,6 +87,14 @@
     hide: "",
     url: "http://buybitcoinww.co/kraken_bitcoin",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/kraken.png\" alt=\"Kraken\">Kraken</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>صرافة بيتكوين التي تدعم ودائع SEPA والتحويلات البنكية، والحوالات البنكية السريعة SWIFT، والإيداع المصرفي بالين الياباني JPY.</p>\n		<a href=\"http://buybitcoinww.co/kraken_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "us, gb",
+    methods: "sepa, usbt, lowfees, bt, ach",
+    hide: "",
+    url: "http://buybitcoinww.co/buycoinbase",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png\" alt=\"Coinbase Exchange\">Coinbase Exchange</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>صرافة بيتكوين بالولايات المتحدة . التمويل عن طريق تحويل SEPA أو تحويل مصرفي بنظام المقاصة بين البنوك الأمريكية ACH</p>\n		<a href=\"http://buybitcoinww.co/buycoinbase\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({
@@ -115,26 +115,18 @@
 
   window.sellers.push({
     countries: "us",
+    methods: "usbt, bt",
+    hide: "",
+    url: "https://gemini.com/",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "us",
     methods: "swift",
     hide: "",
     url: "https://www.coinsetter.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.coinsetter.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/coinsetter.png\" alt=\"Coinsetter\">Coinsetter</a> \n		<a type=\"button\" href=\"https://www.coinsetter.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>صرافة Bitcoin الموجود بنيويورك. إيداع الأموال بتحويل ACH أو SWIFT.</p>\n		<a href=\"https://www.coinsetter.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo",
-    methods: "sepa, fast, cdus, paypal, nobank, lowfees, pp, cash, wmru, mpesa, neosurf",
-    hide: "",
-    url: "http://buybitcoinww.co/local_bitcoins",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/localbitcoins.png\" alt=\"Local Bitcoins\">Local Bitcoins</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>شراء بيتكوين من التجار المحليين، أو عبر الإنترنت أو بشخصك. بخصوصية وسرعة. برسوم 1٪.</p>\n		<a href=\"http://buybitcoinww.co/local_bitcoins\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb",
-    methods: "pp, cc, skrill, okpay",
-    hide: "",
-    url: "http://buybitcoinww.co/bitcoin_virwox",
-    html: "      \n\n\n"
   });
 
   window.sellers.push({
@@ -1039,6 +1031,14 @@
     hide: "",
     url: "http://buybitcoinww.co/libertyx_bitcoin",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/libertyx_bitcoin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/libertyx.png\" alt=\"LibertyX\">LibertyX</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/libertyx_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-left large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n		</h4>\n		<p>شراء بيتكوين نقدًا من عدد من متاجر البيع بالتجزئة المنتشرة في جميع أنحاء الولايات المتحدة.</p>\n		<a href=\"http://buybitcoinww.co/libertyx_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> شراء بيتكوين</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb",
+    methods: "pp, cc, skrill, okpay",
+    hide: "",
+    url: "http://buybitcoinww.co/bitcoin_virwox",
+    html: "      \n\n\n"
   });
 
   window.sellers.push({

@@ -36,7 +36,7 @@ reputation_width: 90
 fees_score: 8.5
 fees_width: 85
 ---
-Coinbase is a Bitcoin company based in San Francisco. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, [wallet](/#coinbase-wallet-review), and developer API. Here we'll review its brokerage services. 
+Coinbase is a Bitcoin company based in San Francisco. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, [wallet](/exchanges/coinbase/#coinbase-wallet-review), and developer API. Here we'll review its brokerage services. 
 
 ## Payment Methods Accepted
 

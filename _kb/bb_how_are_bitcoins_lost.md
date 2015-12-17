@@ -29,3 +29,12 @@ Bitcoins can only be spent if the user has the private key to a Bitcoin address.
 
 There’s no way to know for sure which [bitcoins have been lost](/kb/what-happens-when-bitcoins-are-lost/). All address balances are visible, but dormant coins that haven’t been moved in years can’t be proven to be lost. The only bitcoins that can be claimed to be lost for sure are burned bitcoins. Someone could claim to lose their private key, but there’s no way to verify for sure that there is no additional backup. The same goes for hacks or scams. If someone hacks a bitcoin exchange and the exchange loses bitcoins, those bitcoins aren’t really lost. The stolen bitcoins are still in circulation. The company itself lost bitcoins, but these bitcoins stay in circulation.
 
+## What Happens when bitcoins are lost?
+
+[Bitcoin private keys](/kb/what-is-a-bitcoin-private-key/) are the secret digital codes which allow bitcoins to be spent. If a private key is lost or destroyed, and there is no backup, bitcoins in the address corresponding to the private key are gone forever. 
+
+There’s no way to know for sure which bitcoins have been lost. All Bitcoin address balances are visible on the blockchain, but dormant coins does not equal lost coins.  
+
+Because there are only 21 million bitcoins, lost bitcoins decrease the total supply and make every other bitcoin worth slightly more. Bitcoin’s creator, Satoshi Nakamoto, described this best [in a forum post](https://bitcointalk.org/index.php?topic=198.msg1647#msg1647):
+
+> Lost coins only make everyone else's coins worth slightly more.  Think of it as a donation to everyone.

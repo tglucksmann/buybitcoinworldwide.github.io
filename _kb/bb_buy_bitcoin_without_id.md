@@ -28,7 +28,7 @@ LocalBitcoins is available anywhere where there is a willing seller.
 
 Bitcoin ATMs are similar to regular ATMs, but instead of spitting out fiat currency, deliver bitcoins to your wallet upon the insertion of cash. There are different types of Bitcoin ATMs made by a variety of companies. Each ATM is unique; some may require verification; a picture of your ID or confirmation via phone number. There are, however, a number of ATMs that allow customers to buy without any verification. 
 
-[Coin ATM Radar](http://coinatmradar.com/) keeps track of [Bitcoin ATMs across the world](http://www.coindesk.com/bitcoin-atm-map/). You can use Coin ATM Radar to determine if a Bitcoin ATM near you requires verification. 
+Coin ATM Radar keeps track of [Bitcoin ATMs across the world](http://coinatmradar.com/). You can use Coin ATM Radar to determine if a Bitcoin ATM near you requires verification. 
 
 ## Bitcoin Exchanges without Verification
 

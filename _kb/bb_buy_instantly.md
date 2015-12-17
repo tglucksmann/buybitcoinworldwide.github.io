@@ -81,7 +81,7 @@ Click on one of the map markers for more details about a specific ATM. From ther
 
 ![coin atm radar][16]{: .img-responsive .kb-helper}
 
-While Bitcoin ATMs make it easy to buy bitcoin fast, there are some downsides. Bitcoin ATMs generally sell bitcoins at a mark-up of 3-7%. Before you buy bitcoin from an ATM, check the ATM’s price against a Bitcoin price index like Bitcoin Average or the CoinDesk BPI.
+While Bitcoin ATMs make it easy to buy bitcoin fast, there are some downsides. Bitcoin ATMs generally sell bitcoins at a mark-up of 5-10%. Before you buy bitcoin from an ATM, check the ATM’s price against a Bitcoin price index like Bitcoin Average or the CoinDesk BPI.
 
 Some ATMs may require verification, like a picture of an ID or a finger print scan. These ATMs are a bit slower. Coin ATM Radar provides details on each ATM so be sure to check if the Bitcoin ATM near you requires verification.  
 
