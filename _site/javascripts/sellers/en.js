@@ -202,11 +202,11 @@
   });
 
   window.sellers.push({
-    countries: "fr, it, es, be, pt, cy, ro, ca",
+    countries: "fr, it, es, be, pt, cy, ro, ca, gb",
     methods: "cash, neocode, mandatcompte, ricaricapostepay, jiffypay, engreso, neosurf",
     hide: "",
-    url: "https://www.bitboat.net/en",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.bitboat.net/en\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitboat.png\" alt=\"Bitboat\">Bitboat</a> \n		<a type=\"button\" href=\"https://www.bitboat.net/en\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy bitcoin fast with cash in Spain, Italy, France, Belgium, Cyprus, and Romania.</p>\n		<a href=\"https://www.bitboat.net/en\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
+    url: "http://buybitcoinww.co/bit_boat",
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/bit_boat\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bitboat.png\" alt=\"Bitboat\">Bitboat</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/bit_boat\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n		</h4>\n		<p>Buy bitcoin fast with cash in the UK, Spain, Italy, France, Belgium, Cyprus, and Romania.</p>\n		<a href=\"http://buybitcoinww.co/bit_boat\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Buy Bitcoin</a>\n</div>\n\n\n"
   });
 
   window.sellers.push({

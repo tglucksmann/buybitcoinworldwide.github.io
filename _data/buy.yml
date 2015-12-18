@@ -489,10 +489,10 @@
    desc_uk: Біткоін-біржа. Купити біткоіни банківським переказом у Франції.
 
  - name: Bitboat
-   desc: Buy bitcoin fast with cash in Spain, Italy, France, Belgium, Cyprus, and Romania. 
-   url: https://www.bitboat.net/en
+   desc: Buy bitcoin fast with cash in the UK, Spain, Italy, France, Belgium, Cyprus, and Romania. 
+   url: http://buybitcoinww.co/bit_boat
    icon: https://www.buybitcoinworldwide.com/img/buy/bitboat.png
-   countries: fr, it, es, be, pt, cy, ro, ca
+   countries: fr, it, es, be, pt, cy, ro, ca, gb
    po: cash, neocode, mandatcompte, ricaricapostepay, jiffypay, engreso, neosurf
 
 ##### Switzerland ####################################################   

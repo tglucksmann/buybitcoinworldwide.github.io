@@ -202,10 +202,10 @@
   });
 
   window.sellers.push({
-    countries: "fr, it, es, be, pt, cy, ro, ca",
+    countries: "fr, it, es, be, pt, cy, ro, ca, gb",
     methods: "cash, neocode, mandatcompte, ricaricapostepay, jiffypay, engreso, neosurf",
     hide: "",
-    url: "https://www.bitboat.net/en",
+    url: "http://buybitcoinww.co/bit_boat",
     html: "      \n\n\n"
   });
 
