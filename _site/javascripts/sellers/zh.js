@@ -211,7 +211,7 @@
 
   window.sellers.push({
     countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb",
-    methods: "sepa, sofort",
+    methods: "sepa, sofort, bt",
     hide: "",
     url: "https://bity.com/",
     html: "      \n\n\n"

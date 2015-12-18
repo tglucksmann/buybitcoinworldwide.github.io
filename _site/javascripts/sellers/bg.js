@@ -211,7 +211,7 @@
 
   window.sellers.push({
     countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb",
-    methods: "sepa, sofort",
+    methods: "sepa, sofort, bt",
     hide: "",
     url: "https://bity.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://bity.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/bity.png\" alt=\"Bity\">Bity</a> \n		<a type=\"button\" href=\"https://bity.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n		</h4>\n		<p class=\"bg\">Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно.</p>\n		<a href=\"https://bity.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Купете биткойн</a>\n</div>\n\n\n"
