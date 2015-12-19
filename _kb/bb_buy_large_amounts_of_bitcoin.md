@@ -48,7 +48,7 @@ Like Genesis, itBit isn’t open to everyone. Most of its clients include miners
 
 Fully verified users can buy up to $50,000 worth of bitcoin per day on Coinbase, through a connected bank account via ACH bank transfer, or with a wire transfer.  
 
-Coinbase sells Bitcoin at a fixed rate, which is generally very close to market price. The downside to Coinbase is the 1% fee per transaction. If you buy $50,000 worth of bitcoin, you’ll pay a $500 fee and receive $49,500 worth of bitcoin. To prevent paying a fee and to select your own price, see the next option on this list.  
+[Coinbase](/exchanges/coinbase/) sells Bitcoin at a fixed rate, which is generally very close to market price. The downside to Coinbase is the 1% fee per transaction. If you buy $50,000 worth of bitcoin, you’ll pay a $500 fee and receive $49,500 worth of bitcoin. To prevent paying a fee and to select your own price, see the next option on this list.  
 
 Users in [select states](https://support.coinbase.com/customer/portal/articles/1826671-what-countries-us-states-are-supported-for-coinbase-exchange-) can request to raise their deposit limit from $50,000 to $100,000. If your request is granted, deposits over the $50,000 per day must be made with a wire transfer.  
 

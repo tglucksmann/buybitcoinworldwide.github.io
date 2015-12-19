@@ -71,7 +71,7 @@ Clicking the location markers provides detail on specific ATMs, including basic 
 
 To view all the available sale venues in your location, obviously excluding the private sale method, consult the [Buy Bitcoin Worldwide “Find a Bitcoin Exchange” page](/find-exchange/).
 
-Decentralised exchanges such as Mycelium Local Trader, [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} and #Bitcoin-OTC are available (almost) globally. Additionally, [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"} covers North America, Europe and several Asian nations. Volume on these exchanges is dependent upon the number of individuals in each region interested in trading Bitcoin. Buyers may be scarce in small countries and / or those with low levels of internet penetration.
+Decentralised exchanges such as Mycelium Local Trader, [LocalBitcoins](/exchanges/localbitcoins/) and #Bitcoin-OTC are available (almost) globally. Additionally, [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"} covers North America, Europe and several Asian nations. Volume on these exchanges is dependent upon the number of individuals in each region interested in trading Bitcoin. Buyers may be scarce in small countries and / or those with low levels of internet penetration.
 
 Larger exchanges, such as [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"}, span several countries or entire regions. Smaller, local exchanges exist in most nations with a significant Bitcoin user-base.
 
@@ -79,7 +79,7 @@ Here are some specific recommendations for the English-speaking world:
 
 ### Sell Bitcoins in the United States
 
-[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} and [Circle](http://buybitcoinww.co/buy_circle) are both prominent and feature-rich exchanges which allow you to sell Bitcoins for USD. [Gemini](https://gemini.com/) is a relatively new exchange which may be a good fit for major sales as they cater to institutional clients. These exchanges focus on regulatory compliance and making their user experience as seamless as possible.
+[Coinbase](/exchanges/coinbase/) and [Circle](/exchanges/circle/) are both prominent and feature-rich exchanges which allow you to sell Bitcoins for USD. [Gemini](https://gemini.com/) is a relatively new exchange which may be a good fit for major sales as they cater to institutional clients. These exchanges focus on regulatory compliance and making their user experience as seamless as possible.
 
 [Bitfinex](http://buybitcoinww.co/bitfinex_exchange){:rel="nofollow"} and [Kraken](http://buybitcoinww.co/kraken_bitcoin){:rel="nofollow"} are two more popular exchanges which cater to Americans. Both have very high volume and advanced trading features. Ensure that you read the respective documentation for all these exchanges for further information on trading limits and terms.
 

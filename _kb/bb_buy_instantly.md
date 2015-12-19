@@ -3,16 +3,15 @@ layout: kb
 lang: en
 author: jordantuwiner
 permalink: "/kb/buy-bitcoin-instantly/"
-seotitle: "Buy Bitcoin Instantly: 7 Ways to Get Bitcoins Now"
+seotitle: "Buy Bitcoin Instantly: 7 Ways to Get Bitcoins Fast"
 title: "How to Buy Bitcoin Instantly"
-desc: Learn how to buy bitcoin instantly with multiple payment methods in our step-by-step guide. We’ll teach you how to get bitcoin fast, usually in a few hours. 
 faq: buybitcoininstantly
 categories: 
 - kb
 - buying
 weight: 9 
 ---
-Unfortunately, it can be somewhat difficult to buy bitcoin instantly. Bitcoin payments are irreversible, while most forms of payment used today are reversible. This means that in order to buy bitcoin instantly, you have to use other irreversible forms of payment like cash.
+Unfortunately, it can be somewhat difficult to buy bitcoin instantly. Bitcoin payments are irreversible, while most forms of payment used today are reversible. This means that in order to buy bitcoin fast, you have to use other irreversible forms of payment like cash.
 
 Fortunately, some companies have figured out ways to hedge their risk. Today, it’s even possible to [buy bitcoin](https://en.bitcoin.it/wiki/Buying_Bitcoins_%28the_newbie_version%29) instantly with a credit card or debit card.  
 
@@ -35,7 +34,7 @@ Peer-to-peer (P2P) Bitcoin exchanges are a great way to get bitcoin instantly. A
 
 1. A buyer and seller use a site like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} or [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"} and agree on a price.
 
-2. The seller’s bitcoins are held by the site (in this case LocalBitcoins or BitQuick) and only released to the buyer upon confirmation of payment.
+2. The seller’s bitcoins are held by the site (in this case [LocalBitcoins](/exchanges/localbitcoins/) or BitQuick) and only released to the buyer upon confirmation of payment.
 
 3. The buyer deposits cash into the seller’s bank account.
 
@@ -295,7 +294,7 @@ Once you create an account, login.
 
 ![coinbase][22]{: .img-responsive .kb-helper}
 
-That’s it! You’ll now be able to buy bitcoin instantly on [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"}. Remember, you’ll be limited to $100 or $1,000 worth of bitcoin instantly per week depending on your level of verification.
+That’s it! You’ll now be able to buy bitcoin instantly on [Coinbase](/exchanges/coinbase/). Remember, you’ll be limited to $100 or $1,000 worth of bitcoin instantly per week depending on your level of verification.
 
 ## Buy Bitcoin Instantly in Canada  
 

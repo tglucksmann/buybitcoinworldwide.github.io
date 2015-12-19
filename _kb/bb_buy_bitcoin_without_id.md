@@ -16,7 +16,7 @@ There are three main ways to buy bitcoins without verification or ID: [LocalBitc
 
 ## LocalBitcoins
 
-[LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} is a peer-to-peer market place, similar to eBay. Buyers and sellers create offers and must agree on a price and terms of a trade before a transaction can be made. It's possible to buy bitcoins with no ID on LocalBitcoins either by buying with cash deposit or meeting in person and trading cash. 
+[LocalBitcoins is a peer-to-peer market place](/exchanges/localbitcoins/), similar to eBay. Buyers and sellers create offers and must agree on a price and terms of a trade before a transaction can be made. It's possible to buy bitcoins with no ID on LocalBitcoins either by buying with cash deposit or meeting in person and trading cash. 
 
 LocalBitcoins is available anywhere where there is a willing seller. 
 

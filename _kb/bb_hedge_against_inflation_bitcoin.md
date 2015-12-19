@@ -39,7 +39,7 @@ Bitcoin was introduced as a “peer-to-peer” cash system, but has been used mo
 ## Buy Bitcoin
 When you buy bitcoin, you [store it in a digital wallet](/wallets/) that only you control. After buying bitcoin, you should immediately send your coins to a wallet you own. This is the recommended way to use Bitcoin to protect yourself from inflation and opt out of bad monetary policy. 
 
-Services like [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} let you exchange your fiat money for bitcoins at a flat rate of 1% per transaction. 
+Services like [Coinbase](/exchanges/coinbase/) let you exchange your fiat money for bitcoins at a flat rate of 1% per transaction. 
 
 ## Bitcoin’s Price
 There is no guarantee that Bitcoin’s price will continue to rise. However, more and more people are starting to see the value in holding a currency like Bitcoin, that isn’t issued by government. Gresham’s law states: "Bad money drives out good". We are seeing this with Bitcoin. Although people aren’t using Bitcoin to make their daily purchases, it's still seen as good money. People tend to buy bitcoin and stash it away. Most Bitcoin users aren’t using the currency every day, but rather hold their bitcoins in expectation of future gain. For example, a user who believes one bitcoin will be worth $10,000 in the future would prefer to spend his U.S. dollars and save his bitcoins. This phenomenon helps to increase Bitcoin’s price, which gives it more liquidity. 
