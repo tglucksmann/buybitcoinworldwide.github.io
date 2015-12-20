@@ -1022,7 +1022,7 @@
     methods: "sepa, ccus, swift, fast, lowfees, ccww, cc, astro",
     hide: "",
     url: "http://buybitcoinww.co/cex_io_bitcoin",
-    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cex.png\" alt=\"CEX.io\">CEX.io</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p><a href=\"/en/buy-bitcoin-debit-credit-card-united-states/\">Buy bitcoin via credit card</a>, SEPA/ACH bank transfer, cash, or AstroPay.</p>\n		<a href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n"
+    html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cex.png\" alt=\"CEX.io\">CEX.io</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n		</h4>\n		<p><a href=\"/en/buy-bitcoin-credit-debit-card/\">Buy bitcoin with credit card</a>, SEPA/ACH bank transfer, cash, or AstroPay.</p>\n		<a href=\"http://buybitcoinww.co/cex_io_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> קנה ביטקוין</a>\n</div>\n\n"
   });
 
   window.sellers.push({

@@ -12,7 +12,7 @@ categories:
 - buying
 weight: 8
 ---
-Bitcoin is becoming attractive as a speculative investment as more people begin to doubt the existing financial system and fiat currencies. Because of this the question “how do I buy large amounts of bitcoin?” is popping up frequently. This post will show you 
+Bitcoin is [becoming attractive as a speculative investment](/kb/investing-in-bitcoin/) as more people begin to [doubt the existing financial system](/kb/category/bitcoin-vs-traditional-finance/) and fiat currencies. Because of this the question “how do I buy large amounts of bitcoin?” is popping up frequently. This post will show you how.
 
 ## OTC Exchanges
 
@@ -44,9 +44,9 @@ Like Genesis, itBit isn’t open to everyone. Most of its clients include miners
 
 ## Coinbase
 
-[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is a good option for individuals who want to buy large quantities of bitcoin. It’s also one of the easiest ways to buy bitcoin in the U.S., Canada, or Europe.
+[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is a good option for individuals who want to buy large quantities of bitcoin. It’s also one of the easiest [ways to buy bitcoin](/kb/how-to-buy-bitcoin/) in the [U.S.](/en/us/), [Canada](/en/ca/), or Europe.
 
-Fully verified users can buy up to $50,000 worth of bitcoin per day on Coinbase, through a connected bank account via ACH bank transfer, or with a wire transfer.  
+Fully verified users can buy up to $50,000 worth of bitcoin per day on Coinbase, [through a connected bank account via ACH bank transfer](/en/buy-bitcoin-ach-bank-transfer-united-states/), or with a wire transfer.  
 
 [Coinbase](/exchanges/coinbase/) sells Bitcoin at a fixed rate, which is generally very close to market price. The downside to Coinbase is the 1% fee per transaction. If you buy $50,000 worth of bitcoin, you’ll pay a $500 fee and receive $49,500 worth of bitcoin. To prevent paying a fee and to select your own price, see the next option on this list.  
 
@@ -56,7 +56,7 @@ Users in [select states](https://support.coinbase.com/customer/portal/articles/1
 
 ![coinbase exchange][5]{: .img-responsive .kb-helper}
 
-[Coinbase Exchange](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is separate from Coinbase’s brokerage services. Coinbase Exchange is currently the largest U.S. based Bitcoin exchange, with around 7,000-10,000 BTC traded daily.  
+[Coinbase Exchange](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is separate from Coinbase’s brokerage services. Coinbase Exchange is currently the largest U.S. based [Bitcoin exchange](/exchanges/), with around 7,000-10,000 BTC traded daily.  
 
 At Coinbase Exchange [market makers pay no fees](https://support.coinbase.com/customer/portal/articles/1826608-what-are-the-fees-for-using-coinbase-exchange-). If you put in a buy order and someone sells into it, you won’t have to pay a fee. Even as a market taker the fee is only 0.25%.
 
@@ -80,7 +80,7 @@ Fully verified users have high deposits limits. While the exchange has [received
 
 Kraken is a good option for Europeans, who can deposit via SEPA transfer. Deposit limits vary and depend on your [level of verification](https://support.kraken.com/hc/en-us/articles/201352206-What-are-the-Verification-Tiers-).  
 
-U.S. and U.K. users can deposit via SEPA transfer or SWIFT. Japanese users can deposit JPY via bank deposit.
+[U.S.](/en/us/) and [U.K.](/en/uk/) users can [deposit via SEPA transfer](/en/buy-bitcoin-sepa-transfer/) or SWIFT. Japanese users can deposit JPY via bank deposit.
 
 ## Bitstamp
 

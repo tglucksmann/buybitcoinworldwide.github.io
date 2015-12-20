@@ -11,7 +11,7 @@ categories:
 - general
 weight: 9
 ---
-This website tells you everything you need to know about [how](/find-exchange/) and [why to buy bitcoin](/kb/why-bitcoin-is-good-money/). What about the other side of the coin; how to sell bitcoin? The exchanges you’ll discover through this site are the obvious answer but there are other, sometimes better, methods. Even more important than the particular method of sale, deciding the proper asking price for your bitcoins ensures a profitable and successful exchange. This guide will cover all these topics in detail.
+This website tells you everything you need to know about [how to buy bitcoin](/find-exchange/) and [why to buy bitcoin](/kb/why-bitcoin-is-good-money/). What about the other side of the coin; how to sell bitcoin? [The exchanges you’ll discover](/exchanges/) through this site are the obvious answer but there are other, sometimes better, methods. Even more important than the particular method of sale, deciding the proper asking price for your bitcoins ensures a profitable and successful exchange. This guide will cover all these topics in detail.
 
 ## How to Sell Bitcoin Online
 
@@ -23,7 +23,7 @@ This is often the most convenient option. The more sophisticated online exchange
 
 Leaving bitcoins or fiat in the care of any exchange unavoidably exposes you to custodial risk. The history of Bitcoin is littered with examples of exchanges which failed or absconded with client funds, the most famous being Mt. Gox, and the convenience of any centralised exchange must be weighed against such risks. Due to widespread and substantial losses incurred through trusting exchanges to hold funds, a cautionary saying has developed:_“if you don't control the_ [_private_ _key_](/kb/what-is-a-bitcoin-private-key/)_,_ _you don't own the bitcoin.”_
 
-To allay client fears, several exchanges now offer cryptographic proof of Bitcoin storage as well as regular external audits of fiat accounts. Whenever possible, you should select an exchange which undertakes such measures. It’s never advisable to trust a third-party with significant wealth however; Bitcoin’s security is optimal when users hold their own money. Therefore, use such services only for trading purposes and never for wealth storage.
+To allay client fears, several exchanges now offer cryptographic proof of [Bitcoin storage](/kb/how-to-store-and-protect-bitcoins/) as well as regular external audits of fiat accounts. Whenever possible, you should select an exchange which undertakes such measures. It’s never advisable to trust a third-party with significant wealth however; Bitcoin’s security is optimal when users hold their own money. Therefore, use such services only for trading purposes and never for wealth storage.
 
 ### 2) Selling Bitcoins on Decentralised Exchanges
 
@@ -37,7 +37,7 @@ The following decentralised exchanges are recommended for users in almost all co
 
 ### LocalBitcoins
 
-Perhaps the most well-known decentralised exchange, [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} facilitates both online and in-person trades. For selling Bitcoin online, up to 70 different payment methods may be requested (depending on your location), including traditional options such as bank transfer, PayPal, Western Union and so on.
+Perhaps the most well-known decentralised exchange, [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} facilitates both online and in-person trades. For selling Bitcoin online, up to 70 different payment methods may be requested (depending on your location), including traditional options such as bank transfer, [PayPal](/en/buy-bitcoin-paypal/), Western Union and so on.
 
 ### BitQuick
 
@@ -49,7 +49,7 @@ This [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat) ch
 
 ## Selling Bitcoins for Cash
 
-Services like LocalBitcoins allow you to arrange in-person trades. A secure location, such as a bank or police station lobby, is recommended. Also recommended is [Mycelium Local Trader](http://buybitcoinww.co/mycelium_local_trader), a smartphone app which facilitates in-person trades.
+Services like [LocalBitcoins](/exchanges/localbitcoins/) allow you to arrange in-person trades. A secure location, such as a bank or police station lobby, is recommended. Also recommended is [Mycelium Local Trader](/wallets/mycelium/), a smartphone app which facilitates in-person trades.
 
 If you intend to do many such cash trades, you might want to invest in an [ultra-violet counterfeit bill detector](http://blog.fraudfighter.com/bid/77557/How-does-UV-Counterfeit-Money-Detection-Work). Also, if your buyer indicates any intention of using purchased bitcoins for illegal activities, cancel the trade immediately.
 
@@ -77,7 +77,7 @@ Larger exchanges, such as [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="n
 
 Here are some specific recommendations for the English-speaking world:
 
-### Sell Bitcoins in the United States
+### Sell Bitcoins in the [United States](/en/us/)
 
 [Coinbase](/exchanges/coinbase/) and [Circle](/exchanges/circle/) are both prominent and feature-rich exchanges which allow you to sell Bitcoins for USD. [Gemini](https://gemini.com/) is a relatively new exchange which may be a good fit for major sales as they cater to institutional clients. These exchanges focus on regulatory compliance and making their user experience as seamless as possible.
 
@@ -85,9 +85,9 @@ Here are some specific recommendations for the English-speaking world:
 
 All major decentralised services are available in the US, although LocalBitcoins and BitQuick don’t operate in the state of New York due to the [BitLicense legislation](https://bitcoinmagazine.com/articles/bitquick-local-bitcoins-terminate-service-ny-due-bitlicense-compliance-costs-1439414074).
 
-### Sell Bitcoins in Canada
+### Sell Bitcoins in [Canada](/en/ca/)
 
-The big American exchanges, [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} and [Kraken](http://buybitcoinww.co/kraken_bitcoin), are also available in Canada for purposes of selling Bitcoin for Canadian dollars. Canada has many of its own exchanges, large and small; [Quadriga CX](https://www.quadrigacx.com/) is recommended for its low fees and advanced trading platform.
+The big American exchanges, [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} and [Kraken](http://buybitcoinww.co/kraken_bitcoin){:rel="nofollow"}, are also available in Canada for purposes of selling Bitcoin for Canadian dollars. Canada has many of its own exchanges, large and small; [Quadriga CX](https://www.quadrigacx.com/) is recommended for its low fees and advanced trading platform.
 
 All major decentralised services are available in Canada.
 

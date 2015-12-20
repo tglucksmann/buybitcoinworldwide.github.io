@@ -14,7 +14,7 @@ weight: 10
 ---
 Bitcoin is electronic money which can be securely exchanged over the internet. Just as no single agency controls the internet, there’s no central authority in charge of Bitcoin. Any individual, group or business can use Bitcoin as freely as they access the internet.
 
-Sending bitcoins is a lot like sending an email. Instead of messages, money can be rapidly sent to any registered address. Like email, no special knowledge is required. Basic computer or smartphone skills are all it takes to use Bitcoin. And as long as you keep your passwords safe, nobody else can access your bitcoins.
+[Sending bitcoins](/kb/how-does-bitcoin-work/) is a lot like sending an email. Instead of messages, money can be rapidly sent to any registered address. Like email, no special knowledge is required. Basic computer or smartphone skills are all it takes to use Bitcoin. And as long as you [keep your passwords safe](/kb/what-is-a-bitcoin-private-key/), nobody else can access your bitcoins.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gc2en3nHxA4" frameborder="0" allowfullscreen></iframe>
 <br />
@@ -36,7 +36,7 @@ Unlike gold, Bitcoin is purely electronic and so much easier and cheaper to tran
 
 ## How Much is Bitcoin Worth?
 
-Just like any other currency, Bitcoin’s value rises and falls over time. The market is still deciding the value of this new form of money, so Bitcoin’s price is famous for large moves in either direction.
+Just like any other currency, [Bitcoin’s value rises and falls over time](/kb/what-determines-bitcoins-price/). The market is still deciding the value of this [new form of money](/kb/is-bitcoin-money/), so Bitcoin’s price is famous for large moves in either direction.
 
 At the time of writing, bitcoins (a [lower case “b”](/kb/bitcoin-btc/) is used to refer to the currency, an upper case “B” for Bitcoin the network) are worth several hundred dollars each. Price has exceeded a thousand dollars in the past. Check a [real-time price feed](http://www.coindesk.com/price/) for the exact current price.
 
@@ -74,17 +74,17 @@ No. Firstly, Bitcoin makes no get-rich-quick promises. [Investors](/kb/investing
 
 While it’s true that certain individuals and companies within Bitcoin have proven dishonest, you can’t blame money for how it gets used. Bitcoin is perfectly safe for anyone who practices [good wallet security](/kb/what-is-a-bitcoin-private-key/) and [avoids scammers](/kb/avoid-bitcoin-scams/).
 
-## How to Get Bitcoin
+## [How to Get Bitcoin](/kb/how-to-get-bitcoins/)
 
-This website exists to help you find the most convenient option for your location and preferred method of payment. [Click your country](/en/) for specific local recommendations or [choose a payment service](/en/payment-methods/) to find sellers who accept it. Our unique [CoinFind](/coinfind/) service allows you to search by both country and payment method.
+This website exists to help you find the most convenient option for your location and preferred method of payment. [Click your country](/country-index/) for specific local recommendations or [choose a payment service](/en/payment-methods/) to find sellers who accept it. Our unique [exchange finder](/find-exchange/) allows you to search by both country and payment method.
 
 There are 3 standard ways to get Bitcoin:
 
-1.  Purchase from a variety of exchanges around the world. One of the most popular exchanges for North Americans and Europeans is [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"}, which makes the buying process simple for new users.
+1.  [Purchase from a variety of exchanges](/find-exchange/) around the world. One of the most popular exchanges for North Americans and Europeans is [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"}, which makes the buying process simple for new users.
 
 2.  Buy directly from Bitcoin holders, aided by services like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"}.
 
-3.  Sell goods or provide services for Bitcoin.
+3.  [Sell goods or provide services](/kb/earn-bitcoins/) for Bitcoin.
 
 ## Frequently Asked Questions
 

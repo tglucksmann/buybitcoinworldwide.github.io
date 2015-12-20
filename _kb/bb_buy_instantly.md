@@ -11,19 +11,19 @@ categories:
 - buying
 weight: 9 
 ---
-Unfortunately, it can be somewhat difficult to buy bitcoin instantly. Bitcoin payments are irreversible, while most forms of payment used today are reversible. This means that in order to buy bitcoin fast, you have to use other irreversible forms of payment like cash.
+Unfortunately, it can be [somewhat difficult to buy bitcoin](/kb/how-to-buy-bitcoin/) instantly. Bitcoin payments are irreversible, while most forms of payment used today are reversible. This means that in order to buy bitcoin fast, you have to use other irreversible forms of payment like cash.
 
-Fortunately, some companies have figured out ways to hedge their risk. Today, it’s even possible to [buy bitcoin](https://en.bitcoin.it/wiki/Buying_Bitcoins_%28the_newbie_version%29) instantly with a credit card or debit card.  
+Fortunately, some companies have figured out ways to hedge their risk. Today, it’s even possible to buy bitcoin instantly with a credit card or debit card.  
 
 If you already know which payment method you want to use, jump to a section: 
 
 <p class="jump-buttons">
-<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#peer-to-peer-trade-cash" type="button">Buy Instantly with Cash</a>
-<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#credit-card-or-debit-card" type="button">Buy with Credit/Debit Card</a>
+<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#buy-bitcoins-instantly-with-cash" type="button">Buy Instantly with Cash</a>
+<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#buy-bitcoin-instantly-with-credit-card-or-debit-card" type="button">Buy with Credit/Debit Card</a>
 <a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#buy-bitcoin-instantly-with-paypal" type="button">Buy Instantly with PayPal</a>
-<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#coinbase" type="button">Buy Instantly in Europe</a>
-<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#interac-online" type="button">Buy Instantly in Canada</a>
-<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#united-kingdom" type="button">Buy Instantly in the UK</a>
+<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#buy-bitcoins-instantly-at-coinbase" type="button">Buy Instantly in Europe</a>
+<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#buy-bitcoin-instantly-in-canada" type="button">Buy Instantly in Canada</a>
+<a class="btn col-md-4 col-sm-6 col-xs-12 btn-success btn-xs" href="/kb/buy-bitcoin-instantly/#buy-bitcoin-instantly-in-the-uk" type="button">Buy Instantly in the UK</a>
 </p>
 
 ## Buy Bitcoins Instantly with Cash

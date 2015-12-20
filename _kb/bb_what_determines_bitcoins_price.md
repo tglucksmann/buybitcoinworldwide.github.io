@@ -14,7 +14,7 @@ weight: 9
 ---
 Bitcoin’s price is measured against fiat currency, such as American Dollars (BTCUSD), Chinese Yuan (BTCCNY) or Euro (BTCEUR). Bitcoin therefore appears superficially similar to any symbol traded on foreign exchange markets. 
 
-Unlike fiat currencies however, there is no official Bitcoin price; only various averages based on price feeds from global exchanges. [Bitcoin Average](https://bitcoinaverage.com/explain) and [CoinDesk](http://www.coindesk.com/price/) are two such indices reporting the average price. It’s normal for Bitcoin to trade on any single exchange at a price slightly different to the average.
+Unlike fiat currencies however, there is no official Bitcoin price; only various averages based on price feeds from [global exchanges](/exchanges/). [Bitcoin Average](https://bitcoinaverage.com/explain) and [CoinDesk](http://www.coindesk.com/price/) are two such indices reporting the average price. It’s normal for Bitcoin to trade on any single exchange at a price slightly different to the average.
 
 But discrepancies aside, what factors determine Bitcoin’s price?
 
@@ -46,7 +46,7 @@ Beyond the specialists initially drawn to Bitcoin as a solution to technical, ec
 
 ## Banking Blockades
 
-Probably the first such instance was the late 2010 WikiLeaks banking blockade, whereby VISA, MasterCard, Western Union and PayPal ceased processing donations to WikiLeaks. Following a request from Satoshi, Julian Assange refrained from accepting Bitcoin until mid-way through 2011\. Nevertheless, this event shone a light on Bitcoin’s unique value as censorship resistant electronic money.
+Probably the first such instance was the late 2010 WikiLeaks banking blockade, whereby VISA, MasterCard, Western Union and PayPal ceased processing donations to WikiLeaks. Following a request from Satoshi, Julian Assange refrained from accepting Bitcoin until mid-way through 2011. Nevertheless, this event shone a light on Bitcoin’s unique value as censorship resistant electronic money.
 
 The most recent such blockade occurred when [MasterCard and VISA blacklisted Backpage.com](https://www.eff.org/deeplinks/2015/07/caving-government-pressure-visa-and-mastercard-shut-down-payments-backpagecom) , a Craigslist-style site which lists, inter alia, adult services. Adult service providers whose livelihood depends on such advertising have no way to pay for it besides Bitcoin.
 
@@ -58,11 +58,11 @@ On the subject of business which banks won’t (openly) touch, there’s no avoi
 
 <div class="caption-kb">Chart generated on Trading View.com</div>
 
-As discussed our guide, [Bitcoin for Bail-in Protection](/kb/bail-in-protection-bitcoin/), a Bitcoin wallet can be a lot safer than a bank account. Cypriots learnt this the hard way when [their savings were confiscated](http://www.forbes.com/sites/nathanlewis/2013/05/03/the-cyprus-bank-bail-in-is-another-crony-bankster-scam/) in early 2013. This event was [reported](http://money.cnn.com/2013/03/28/investing/bitcoin-cyprus/index.html) as causing a price surge, as savers rethought the relative risks of banks versus Bitcoin.
+As discussed our guide, [Bitcoin for Bail-in Protection](/kb/bail-in-protection-bitcoin/), a Bitcoin wallet can be a lot safer than a bank account. Cypriots learnt this the hard way when [their savings were confiscated](http://www.forbes.com/sites/nathanlewis/2013/05/03/the-cyprus-bank-bail-in-is-another-crony-bankster-scam/) in early 2013. [This event was reported](http://money.cnn.com/2013/03/28/investing/bitcoin-cyprus/index.html) as causing a price surge, as savers rethought the relative risks of banks versus Bitcoin.
 
 The next domino to fall was Greece, where strict capital controls were imposed in 2015. Greeks were subjected to a daily withdrawal limit of €60. Bitcoin again demonstrated its value as money without central control.
 
-Soon after the Greek crisis, China began to devalue the Yuan. As [reported](http://www.zerohedge.com/news/2015-11-02/bitcoin-more-doubles-2015-lows-chinese-ignore-easing-capital-controls) at the time, Chinese savers turned to Bitcoin to protect their accumulated wealth. 
+Soon after the Greek crisis, China began to devalue the Yuan. As reported at the time, [Chinese savers turned to Bitcoin](http://www.zerohedge.com/news/2015-11-02/bitcoin-more-doubles-2015-lows-chinese-ignore-easing-capital-controls) to protect their accumulated wealth. 
 
 ![china greece bitcoin price][3]{: .img-responsive .kb-helper}
 
@@ -76,7 +76,7 @@ A current positive influencer of Bitcoin price, or at least perception, is the A
 
 No discussion of Bitcoin’s price would be complete without a mention of the role market manipulation plays in adding to price volatility. Bitcoin’s all-time high above $1000 was partly driven by an automated trading algorithms, or “bots,” running on the Mt. Gox exchange. [All evidence suggests](http://www.theguardian.com/technology/2014/may/29/bitcoin-bots-bought-millions-in-the-last-days-of-mt-gox) that these bots were operating fraudulently under the direction of exchange operator, Mark Karpeles, bidding up the price with phantom funds.
 
-Mt. Gox was the major Bitcoin exchange at the time and the undisputed market leader. Nowadays there are many large exchanges, so a single exchange going bad would not have such an outsize effect on price.
+Mt. Gox was the major [Bitcoin exchange](/exchanges/) at the time and the undisputed market leader. Nowadays there are many large exchanges, so a single exchange going bad would not have such an outsize effect on price.
 
 ## Major Downside Risks
 
@@ -90,7 +90,7 @@ In mid-Novermber 2015, BTCUSD hit $2200 on Gemini while trading around $330 on o
 
 Bitcoin is ultimately worth what people will buy and sell it for. This is often as much a matter of human psychology as economic calculation. Don’t allow your emotions to dictate your actions in the market; this is best achieved by determining a strategy and sticking to it. 
 
-If your aim is to accumulate Bitcoin, a good method is to set aside a fixed, affordable sum every month to buy bitcoins, no matter the price. Over time, this strategy (known as [Dollar-cost averaging](http://www.investopedia.com/terms/d/dollarcostaveraging.asp)), will allow you to accumulate bitcoins at a decent average price without the stress of trying to predict the sometimes wild gyrations of Bitcoin’s price.
+If your [aim is to accumulate Bitcoin](/kb/investing-in-bitcoin/), a good method is to set aside a fixed, affordable sum every month to buy bitcoins, no matter the price. Over time, this strategy (known as [Dollar-cost averaging](http://www.investopedia.com/terms/d/dollarcostaveraging.asp)), will allow you to accumulate bitcoins at a decent average price without the stress of trying to predict the sometimes wild gyrations of Bitcoin’s price.
 
 
 [1]: /img/kb/cyprus.png

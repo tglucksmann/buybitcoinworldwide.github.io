@@ -21,7 +21,7 @@ The security of any Bitcoin wallet depends on the confidentiality of its associa
 
 ## Public and Private Keys
 
-Your Bitcoin address, that long string of alphanumeric soup starting with a 1 (or 3), is meant for sharing. If Matt had revealed his public address (more properly known as a “Bitcoin address”) on air, viewers might have copied it down and sent him bitcoins - but that’s all. Matt goofed by revealing both the address and private key of his paper wallet, putting the balance up for grabs just as surely as if he’d revealed his bank details and passwords. Newcomers needn’t worry about accidentally exposing their private keys however; [Bitcoin wallets](https://www.buybitcoinworldwide.com/kb/what-is-a-bitcoin-wallet/) won’t display them during the normal course of operations.
+Your Bitcoin address, that long string of alphanumeric soup starting with a 1 (or 3), is meant for sharing. If Matt had revealed his public address (more properly known as a “Bitcoin address”) on air, viewers might have copied it down and sent him bitcoins - but that’s all. Matt goofed by revealing both the address and private key of his paper wallet, putting the balance up for grabs just as surely as if he’d revealed his bank details and passwords. Newcomers needn’t worry about accidentally exposing their private keys however; [Bitcoin wallets](/kb/what-is-a-bitcoin-wallet/) won’t display them during the normal course of operations.
 
 ## Public-Key Cryptography
 

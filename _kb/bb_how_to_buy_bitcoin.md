@@ -24,11 +24,11 @@ For the long answer, read this guide and by the end you'll understand:
 
 2. How to find the right exchange 
 
-3. Where to store your bitcoins after you buy
+3. [Where to store your bitcoins](/kb/how-to-store-and-protect-bitcoins/) after you buy
 
 4. Mistakes to avoid when buying
 
-Every buyer has unique needs. There is no “best Bitcoin exchange”. Before you read, consider what's important for you in an exchange. For example, if you need a large amount of bitcoins than an exchange with high limits and liquidity is essential. If you need to purchase bitcoins privately, then methods like ATM or cash deposit, where no personal information is required, may be better. The next three sections will explain what factors must be considered. 
+Every buyer has unique needs. There is no [“best Bitcoin exchange”](/exchanges/). Before you read, consider what's important for you in an exchange. For example, if you need a [large amount of bitcoins](/kb/buy-large-amounts-of-bitcoin/) than an exchange with high limits and liquidity is essential. If you need to purchase bitcoins privately, then [methods like ATM or cash](/en/buy-bitcoins-with-cash/) deposit, where no personal information is required, may be better. The next three sections will explain what factors must be considered. 
 
 ## Types of Exchanges
 
@@ -38,11 +38,11 @@ There are different kinds of Bitcoin exchanges. Some exchanges require you to me
 
 **Broker –** Bitcoin brokers sell bitcoin for a fixed price. Brokers often have high limits and can accept many [payment methods](/en/payment-methods/). In most cases brokers will require personal information and identity verification before you can buy bitcoins. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world’s largest Bitcoin broker. 
 
-**Exchange –** Bitcoin exchanges don’t sell bitcoin, but match buyers and sellers. For example, say someone wants to sell one bitcoin for $300. The seller puts in a sell order for $300. When a buyer agrees to pay $300, the seller will receive $300 and the buyer of the bitcoin receives the one bitcoin. Some of the largest Bitcoin exchanges are [BitStamp](https://www.bitstamp.net/), [Kraken](https://www.kraken.com/), and [BitFinex](https://www.bitfinex.com/). 
+**Exchange –** [Bitcoin exchanges](/exchanges/) don’t sell bitcoin, but match buyers and sellers. For example, say someone wants to sell one bitcoin for $300. The seller puts in a sell order for $300. When a buyer agrees to pay $300, the seller will receive $300 and the buyer of the bitcoin receives the one bitcoin. Some of the largest Bitcoin exchanges are [BitStamp](https://www.bitstamp.net/), [Kraken](https://www.kraken.com/), and [BitFinex](https://www.bitfinex.com/). 
 
-**Peer-to-peer (P2P) Exchanges –** Exchanges like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} are escrow services that simply match users. Buyers and sellers are free to agree on a price and payment method, and LocalBitcoins ensures that neither party is scammed by holding the payments in escrow until the trade is complete. Other examples of P2P exchanges include [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"}. 
+**Peer-to-peer (P2P) Exchanges –** Exchanges like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} are escrow services that simply match users. Buyers and sellers are free to agree on a price and [payment method](/en/payment-methods/), and [LocalBitcoins](/exchanges/localbitcoins/) ensures that neither party is scammed by holding the payments in escrow until the trade is complete. Other examples of P2P exchanges include [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"}. 
 
-**ATMs –** Bitcoin ATMs let you purchase bitcoin with cash. You simply insert cash into the machine, and get bitcoins sent to your wallet. Some ATMs require personal information. Use [Coin ATM Radar](http://coinatmradar.com/) to find a Bitcoin ATM near you. 
+**ATMs –** Bitcoin ATMs let you [purchase bitcoin with cash](en/buy-bitcoins-with-cash/). You simply insert cash into the machine, and get bitcoins sent to your wallet. Some ATMs require personal information. Use [Coin ATM Radar](http://coinatmradar.com/) to find a Bitcoin ATM near you. 
 
 ## Things to Consider 
 
@@ -70,7 +70,7 @@ The idea of a Bitcoin ATM may sound nice. But, did you know that most Bitcoin AT
 
 In order to buy bitcoins, you’ll need to exchange your local currency, like the dollar or euro, for bitcoin. Here’s an overview of the most common payment methods: 
 
-**Credit or Debit Card –** Credit card is the most common form of payment today, but not a good way to buy bitcoins. Most places that let you buy bitcoins with a credit card charge higher fees due to the higher risk of fraud with credit card payments. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow" target="_blank"} and [Circle](http://buybitcoinww.co/buy_circle){:rel="nofollow" target="_blank"} charge 3% on all credit card purchases, and some brokers charge up to 10%. Buying bitcoins with a credit cards offers no privacy, since the exchange can connect your bitcoin purchase to your credit card information. A few places to buy bitcoins with a credit card are: [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow" target="_blank"}, [Circle](http://buybitcoinww.co/buy_circle){:rel="nofollow" target="_blank"} (U.S. only), and [Coinmama](http://buybitcoinww.co/CoinMama_Bitcoin){:rel="nofollow" target="_blank"} (global). 
+**Credit or Debit Card –** Credit card is the most common form of payment today, but not a good way to buy bitcoins. Most places that let you [buy bitcoins with a credit card](/en/buy-bitcoin-credit-debit-card/) charge higher fees due to the higher risk of fraud with credit card payments. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow" target="_blank"} and [Circle](http://buybitcoinww.co/buy_circle){:rel="nofollow" target="_blank"} charge 3% on all credit card purchases, and some brokers charge up to 10%. Buying bitcoins with a credit cards offers no privacy, since the exchange can connect your bitcoin purchase to your credit card information. A few places to buy bitcoins with a credit card are: [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow" target="_blank"}, [Circle](http://buybitcoinww.co/buy_circle){:rel="nofollow" target="_blank"} (U.S. only), and [Coinmama](http://buybitcoinww.co/CoinMama_Bitcoin){:rel="nofollow" target="_blank"} (global). 
 
 **Bank Transfer –** This is one of the best ways to buy bitcoins in most countries. Bank transfers often let users buy bitcoin in larger amounts. As with credit cards, this is not a good option for users in need of privacy. [Use our tool](/find-exchange/) to find an exchange in your country that accepts bank transfer. 
 
@@ -94,21 +94,21 @@ You can use our tool to [find an exchange in your country](/find-exchange/).
 
 ## Find a Wallet
 
-Now that you know how to buy bitcoins, [you need to get a Bitcoin wallet](/kb/what-is-a-bitcoin-wallet/). Obtaining a Bitcoin wallet is the first step to using Bitcoin. Without a wallet, you can’t receive, store, or spend bitcoins.  
+Now that you know how to buy bitcoins, [you need to get a Bitcoin wallet](/kb/what-is-a-bitcoin-wallet/). [Obtaining a Bitcoin wallet](/wallets/) is the first step to using Bitcoin. Without a wallet, you can’t receive, store, or spend bitcoins.  
 
 ![bitcoin wallet](/img/icons/wallet1.png){: .img-responsive .halfimg-right }
 
-One of the most basic rules when using Bitcoin is to make sure you have control over your bitcoins. When you buy bitcoin on an exchange, it’s usually possible to leave your bitcoins on the exchange without moving them to a wallet you own. However, we strongly recommend against this. The only way to truly own bitcoins and make sure they are secured properly is to store them in a wallet that you own!
+One of the most basic rules when using Bitcoin is to make sure you [have control over your bitcoins](/kb/how-to-store-and-protect-bitcoins/). When you buy bitcoin on an exchange, it’s usually possible to leave your bitcoins on the exchange without moving them to a wallet you own. However, we strongly recommend against this. The only way to truly own bitcoins and make sure they are secured properly is to store them in a wallet that you own!
 
 The wallet you should use depends on your needs. Users in need of secure, long term storage should use a paper wallet, or a hardware wallet like [TREZOR](/wallets/trezor/) or [Ledger Nano](/wallets/ledger-nano/). If you intend to make frequent Bitcoin transactions, a hot wallet is slightly less secure but better for day-to-day transactions. Read our guide on [how to store bitcoins](/kb/how-to-store-and-protect-bitcoins/) for more details. It’s up to you to decide which wallet fits your needs. 
 
-Before you [buy bitcoins](http://www.coindesk.com/information/how-can-i-buy-bitcoins/){:target="_blank"}: have a plan, secure your bitcoins, and don’t store them with third parties! If the whole idea of a Bitcoin wallet is still confusing, [read our post](/kb/what-is-a-bitcoin-wallet/) on Bitcoin wallets. 
+Before you buy bitcoins have a plan, secure your bitcoins, and don’t store them with third parties! If the whole idea of a Bitcoin wallet is still confusing, [read our post](/kb/what-is-a-bitcoin-wallet/) on Bitcoin wallets. 
 
 ## Things to Remember
 
 Now that you know how to buy bitcoin, understand these basic principles in order to prevent yourself from losing money: 
 
-* **Control your coins.** Don’t leave bitcoins on an exchange. Some exchanges, like Circle and Coinbase, allow you to buy and sell bitcoin, but also provide “wallet” services. However, these wallets don’t give you full control of your bitcoins and act more like banks. As we mentioned earlier, don’t store your bitcoins on these exchanges, even if the exchange offers a wallet service. Buy your bitcoins, and move them to a wallet you control. For long term, secure storage, use a paper wallet or hardware wallet like TREZOR or Ledger.
+* **Control your coins.** Don’t leave bitcoins on an exchange. Some exchanges, like [Circle](/exchanges/circle/) and [Coinbase](/exchanges/coinbase/), allow you to buy and [sell bitcoin](/kb/how-to-sell-bitcoin/), but also provide “wallet” services. However, these wallets don’t give you full control of your bitcoins and act more like banks. As we mentioned earlier, don’t store your bitcoins on these exchanges, even if the exchange offers a wallet service. Buy your bitcoins, and move them to a wallet you control. For long term, secure storage, use a paper wallet or hardware wallet like [TREZOR](/wallets/trezor/) or [Ledger](/wallets/ledger-nano/).
  
 * **Don’t store bitcoins in a hot wallet.** We recommend the above wallets for secure storage, because wallets used on your phone or computer may be vulnerable to hackers. Wallets on your phone or computer are fine for small, day-to-day amounts and spending, but not for large amounts of funds.
  
@@ -116,7 +116,7 @@ Now that you know how to buy bitcoin, understand these basic principles in order
 
 ## When is the Right Time to Buy?
 
-As with any market, nothing is for sure. Throughout its history Bitcoin has increased in value at a very fast pace, followed by a slow, steady downfall. Use tools like [Bitcoin Wisdom](https://bitcoinwisdom.com/markets/bitstamp/btcusd) or [Cryptowatch](https://cryptowat.ch/bitfinex/btcusd) to analyze charts and understand Bitcoin’s price history.
+As with any market, nothing is for sure. Throughout its history [Bitcoin has increased in value](/kb/what-determines-bitcoins-price/) at a very fast pace, followed by a slow, steady downfall. Use tools like [Bitcoin Wisdom](https://bitcoinwisdom.com/markets/bitstamp/btcusd) or [Cryptowatch](https://cryptowat.ch/bitfinex/btcusd) to analyze charts and understand Bitcoin’s price history.
 
 ## Why does Buying Bitcoin take so long?
 

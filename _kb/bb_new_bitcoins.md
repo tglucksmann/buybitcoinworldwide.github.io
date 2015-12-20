@@ -14,7 +14,7 @@ weight: 5
 ---
 Before learning how new bitcoins are created, it’s important to understand how the Bitcoin network works. 
 
-Bitcoin miners secure the network and process transactions, which is an important service that helps the network. In return, the miners are rewarded with new bitcoins. 
+[Bitcoin miners secure the network](/kb/what-is-bitcoin-mining/) and process transactions, which is an important service that helps the network. In return, the miners are rewarded with new bitcoins. 
 
 Miners are rewarded each time they find a “block”. A block is generated, on average, every 10 minutes. Each block contains the transactions that were sent on the network since the last block was found. Once a transaction makes it into a block, the network officially verifies it.  
 

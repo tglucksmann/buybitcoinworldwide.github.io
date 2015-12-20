@@ -73,7 +73,7 @@ You may have heard that Bitcoin transactions are irreversible, so why is it advi
 
 Let’s imagine two miners, _A_ in China and _B_ in Iceland, who solve the current block at roughly the same time. A’s block (_A1_) propagates through the internet from Beijing, reaching nodes in the East. B’s block (_B1_) is first to reach nodes in the West. There are now two competing versions of the blockchain!
 
-Which blockchain prevails? Quite simply, the _longest valid chain_ becomes the official version of events. So, let’s say the next miner to solve a block adds it to B’s chain, creating B2\. If _B2_ propagates across the entire network before _A2_ is found, then B’s chain is the clear winner. A loses his mining reward and fees, which only exist on the invalidated _A_-chain.
+Which blockchain prevails? Quite simply, the _longest valid chain_ becomes the official version of events. So, let’s say the next miner to solve a block adds it to B’s chain, creating B2. If _B2_ propagates across the entire network before _A2_ is found, then B’s chain is the clear winner. A loses his mining reward and fees, which only exist on the invalidated _A_-chain.
 
 Going back to the example of Green’s payment to Red, let’s say this transaction was included by A but rejected by B, who demands a higher fee than was included by Green. If B’s chain wins then Green’s transaction won’t appear in the B chain - it will be as if the funds never left Green’s wallet.
 

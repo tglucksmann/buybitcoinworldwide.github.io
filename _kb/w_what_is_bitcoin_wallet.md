@@ -31,7 +31,7 @@ There are a few [different types of Bitcoin wallets](https://bitcoin.org/en/choo
 
 **Hardware Wallet -** A hardware wallet is a physical hardware device that is built with the sole purpose of securing Bitcoin private keys. The device keeps private keys away from an Internet-connected device and allows users to sign transactions in an offline environment. Examples of bitcoin hardware wallets include [TREZOR](/wallets/trezor/) and [Ledger](/wallets/ledger-nano/).
 
-**Paper Wallet -** A paper wallet has always been a popular option for secure storage of Bitcoin private keys. With this method of storage, private keys are written down or printed on a piece of paper rather than stored on a computer. This type of wallet has become less popular since the development of hardware wallets.
+**Paper Wallet -** A paper wallet has always been a popular option for [secure storage of Bitcoin private keys](/kb/how-to-store-and-protect-bitcoins/). With this method of storage, private keys are written down or printed on a piece of paper rather than stored on a computer. This type of wallet has become less popular since the development of hardware wallets.
 
 **Web Wallet -** A web wallet is a wallet where the private keys are stored in the cloud rather than a local computer. This allows a user to easily have access to their bitcoin on multiple devices. Private keys are generated locally and then encrypted, which means the wallet application provider does not have access to user funds. An example of this type of wallet is [Blockchain.info](/wallets/blockchain-info/).
 

@@ -14,17 +14,17 @@ weight: 8.5
 ---
 ![earn bitcoins][5]{: .img-responsive .kb-helper}
  
-This site provides all the info necessary for buying Bitcoin, pretty much [anywhere in the world](https://www.buybitcoinworldwide.com/where-to-buy-bitcoins/). While buying bitcoins is the quickest way to get them, it’s not always the most cost-effective. Earning bitcoins instead of buying bitcoins can save a lot of money, if you have the time for it.
+This site provides all the [info necessary for buying Bitcoin](/kb/how-to-buy-bitcoin/), pretty much [anywhere in the world](/country-index/). While buying bitcoins is the quickest way to get them, it’s not always the most cost-effective. Earning bitcoins instead of buying bitcoins can save a lot of money, if you have the time for it.
 
 Fortunately it’s fairly easy to earn bitcoins online; if you can earn fiat, you can earn bitcoins. All that’s required to earn a decent wage in Bitcoin is a marketable skill or product, combined with the knowledge made available in this guide.
 
 ## Automatic Salary Conversion to Bitcoin
 
-If you draw a salary in fiat, nothing prevents you from [purchasing Bitcoin from your local exchange via the most convenient payment method.](https://www.buybitcoinworldwide.com/find-exchange/) However, it can become tiresome to repeat this process every month, week or whenever you’re paid.
+If you draw a salary in fiat, nothing prevents you from [purchasing Bitcoin from your local exchange via the most convenient payment method](/find-exchange/). However, it can become tiresome to repeat this process every month, week or whenever you’re paid.
 
 Several services exist which automatically convert a portion of your wage or salary to Bitcoin:
 
-[**1. Bitwage**](https://www.bitwage.com/) - this service is available for employees and freelancers in the USA, although expansion to new regions is planned. Bitwage allows the easy conversion of any percentage of payments into Bitcoin. Bitwage offers next-day service and don’t require your employer to register or understand the first thing about Bitcoin. Users only need to add _Bitwage's corporate account as a secondary bank account with their employer._
+[**1. Bitwage**](https://www.bitwage.com/) - this service is available for employees and freelancers in the [USA](/en/us/), although expansion to new regions is planned. Bitwage allows the easy conversion of any percentage of payments into Bitcoin. Bitwage offers next-day service and don’t require your employer to register or understand the first thing about Bitcoin. Users only need to add _Bitwage's corporate account as a secondary bank account with their employer._
 
 ![bitwage][6]{: .img-responsive .kb-helper}
 

@@ -13,7 +13,7 @@ categories:
 - economics
 weight: 8
 ---
-Bitcoin has become a rather controversial topic for those interested in economics and finance. [Some view it as the best form of money](http://bigthink.com/think-tank/why-bitcoin-is-the-best-form-of-money-weve-ever-seen-with-wences-casares) that has ever existed, while others contend that bitcoin could never be considered as good as cash or gold. It’s important to look at the classical definition of money before coming to a decision on this matter, but it should also be remembered that the definition of money can also evolve over time as new technologies emerge.
+Bitcoin has become a rather controversial topic for those interested in economics and finance. [Some view it as the best form of money](http://bigthink.com/think-tank/why-bitcoin-is-the-best-form-of-money-weve-ever-seen-with-wences-casares) that has ever existed, while others contend that [bitcoin could never be considered as good as cash or gold](/kb/why-bitcoin-has-value-as-money/). It’s important to look at the classical definition of money before coming to a decision on this matter, but it should also be remembered that the definition of money can also evolve over time as new technologies emerge.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IP0jCjyrew8" frameborder="0" allowfullscreen></iframe>
 

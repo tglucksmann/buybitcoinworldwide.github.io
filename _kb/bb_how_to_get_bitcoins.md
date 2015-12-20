@@ -13,13 +13,13 @@ weight: 8.5
 ---
 After first learning about Bitcoin, most people just want to know how to get bitcoins. Although Bitcoin may seem confusing, it’s not that hard to get started.  
 
-We’re going to show you a ton of easy ways to get bitcoins. We’re certain there is something on this list that will have you on your way to getting bitcoins! Let’s get started.
+We’re going to show you a ton of easy ways to get bitcoins. We’re certain there is something on this list that will have you on your way to getting bitcoins!
 
 ## 1. Buy Bitcoin
 
-The [quick answer](https://blockchain.info/wallet/how-to-get-bitcoins) to “how to get bitcoins” and the easiest way is to simply buy bitcoins. Remember, bitcoin is money. It’s valuable. There is no easy way to get bitcoins for free. You’re going to have to buy bitcoins or work for them.  
+The [quick answer](https://blockchain.info/wallet/how-to-get-bitcoins) to “how to get bitcoins” and the easiest way [is to simply buy bitcoins](/kb/how-to-buy-bitcoin/). Remember, [bitcoin is money](/kb/is-bitcoin-money/). It’s valuable. There is no easy way to get bitcoins for free. You’re going to have to buy bitcoins or work for them.  
 
-In order to buy bitcoins, you’ll need to exchange your local currency, like the dollar or euro, for bitcoin. We [offer a tool to help you find a bitcoin exchange in your country](/where-to-buy-bitcoins/). Here’s an overview of the most common payment methods:
+In order to buy bitcoins, you’ll need to exchange your local currency, like the dollar or euro, for bitcoin. We [offer a tool to help you find a bitcoin exchange in your country](/find-exchange/). Here’s an overview of the most common payment methods:
 
 **Credit Card**
 
@@ -27,11 +27,11 @@ In order to buy bitcoins, you’ll need to exchange your local currency, like th
 
 **Bank Transfer**
 
-Bank transfer is one of the best and easiest ways to buy bitcoins in most countries. Bank transfers often let users get bitcoin in larger amounts. Use our tool to find an exchange in your country that accepts bank transfer.
+Bank transfer is one of the best and easiest ways to buy bitcoins in most countries. Bank transfers often let users get bitcoin in larger amounts. [Use our tool to find an exchange in your country](/find-exchange/) that accepts bank transfer.
 
 **Cash**
 
-Cash payment is one of the fastest ways to get bitcoins. Cash deposits are verified very quickly, and services like BitQuick often deliver your bitcoins within a couple hours. Use [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} to get bitcoins via cash deposit or in-person cash trade, or [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"} to buy bitcoin with cash deposit.
+[Cash payment](/en/buy-bitcoins-with-cash/) is one of the fastest ways to get bitcoins. Cash deposits are verified very quickly, and services like BitQuick often deliver your bitcoins within a couple hours. Use [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} to get bitcoins via cash deposit or in-person cash trade, or [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"} to buy bitcoin with cash deposit.
 
 **Bitcoin ATMs**
 

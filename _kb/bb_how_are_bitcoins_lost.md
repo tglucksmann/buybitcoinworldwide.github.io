@@ -11,7 +11,7 @@ categories:
 - faq
 weight: 5
 ---
-Bitcoins [are stored in Bitcoin wallets](/wallets/), which contain private keys. A private key is similar to a password in that it gives you the ability to spend from a certain Bitcoin address. A private key is like the key to a vault. Without the private key to a corresponding Bitcoin address, it’s impossible to spend from that address. If private keys are destroyed, and no backup is available, these specific bitcoins are gone forever.
+Bitcoins [are stored in Bitcoin wallets](/wallets/), which contain private keys. [A private key is similar to a password](/kb/what-is-a-bitcoin-private-key/) in that it gives you the ability to spend from a certain Bitcoin address. A private key is like the key to a vault. Without the private key to a corresponding Bitcoin address, it’s impossible to spend from that address. If private keys are destroyed, and no backup is available, these specific bitcoins are gone forever.
 
 {:refdef: .note}
 Bitcoin addresses are generated randomly. The total amount of possible Bitcoin addresses is so high, that it’s impossible to randomly generate the same address.  
@@ -31,7 +31,7 @@ There’s no way to know for sure which [bitcoins have been lost](/kb/what-happe
 
 ## What Happens when bitcoins are lost?
 
-[Bitcoin private keys](/kb/what-is-a-bitcoin-private-key/) are the secret digital codes which allow bitcoins to be spent. If a private key is lost or destroyed, and there is no backup, bitcoins in the address corresponding to the private key are gone forever. 
+If a private key is lost or destroyed, and there is no backup, bitcoins in the address corresponding to the private key are gone forever. 
 
 There’s no way to know for sure which bitcoins have been lost. All Bitcoin address balances are visible on the blockchain, but dormant coins does not equal lost coins.  
 

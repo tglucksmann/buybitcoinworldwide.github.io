@@ -48,4 +48,4 @@ You can setup your own [Electrum server](https://github.com/spesmilo/electrum-se
 
 With Electrum and Mycelium, your privacy is somewhat hidden, but you might not be very far away from being discovered. If you post one address from your wallet on a social profile, Mycelium or an Electrum server could technically then understand who the entire list of addresses belongs to, even if Tor was used.
 
-Tor helps hide your location and IP address, but still presents problems when used with wallets that rely on centralized servers for data. Use Bitcoin Core, Armory, or your own Electrum server if complete privacy is essential.
+Tor helps hide your location and IP address, but still presents problems when used with [wallets](/wallets/) that rely on centralized servers for data. Use Bitcoin Core, Armory, or your own Electrum server if complete privacy is essential.

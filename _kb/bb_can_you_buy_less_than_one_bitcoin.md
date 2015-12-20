@@ -22,7 +22,7 @@ Each bitcoin is divisible to the 8th decimal place, meaning each bitcoin can be 
 
 When buying Bitcoin, you don't have to buy a full bitcoin and can easily buy less than one.
 
-Most brokers will let you specify the amount of fiat currency you want to spend and in exchange sell you the equivalent amount of Bitcoin. For example, if one bitcoin is worth $250, and you want to buy $125 worth of bitcoin, you'll receive 0.50 bitcoin--assuming there are no fees. 
+[Most Bitcoin exchanges](/exchanges/) will let you specify the amount of fiat currency you want to spend and in exchange sell you the equivalent amount of Bitcoin. For example, if one bitcoin is worth $250, and you want to buy $125 worth of bitcoin, you'll receive 0.50 bitcoin--assuming there are no fees. 
 
 Vice-versa, most Bitcoin brokers also let you specify the amount of bitcoin you want and will charge you the equivalent in fiat. For example, if you want to buy 0.25 bitcoin and 1 bitcoin is $300, you'll be charged $75. 
 
