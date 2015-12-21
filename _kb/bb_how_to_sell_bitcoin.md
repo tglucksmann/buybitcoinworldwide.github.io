@@ -11,7 +11,7 @@ categories:
 - general
 weight: 9
 ---
-This website tells you everything you need to know about [how to buy bitcoin](/find-exchange/) and [why to buy bitcoin](/kb/why-bitcoin-is-good-money/). What about the other side of the coin; how to sell bitcoin? [The exchanges you’ll discover](/exchanges/) through this site are the obvious answer but there are other, sometimes better, methods. Even more important than the particular method of sale, deciding the proper asking price for your bitcoins ensures a profitable and successful exchange. This guide will cover all these topics in detail.
+This website tells you everything you need to know about [how to buy bitcoin](/find-exchange/) and why to buy bitcoin. What about the other side of the coin; how to sell bitcoin? [The exchanges you’ll discover](/exchanges/) through this site are the obvious answer but there are other, sometimes better, methods. Even more important than the particular method of sale, deciding the proper asking price for your bitcoins ensures a profitable and successful exchange. This guide will cover all these topics in detail.
 
 ## How to Sell Bitcoin Online
 

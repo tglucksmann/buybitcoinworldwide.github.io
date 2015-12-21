@@ -6,7 +6,7 @@ exchange: virwox
 desc: VirWox offers one of the few ways to buy bitcoin with PayPal. Buy Second Life Lindens with PayPal, and then trade the SLL for bitcoin.
 thumb: virwox.png
 lang: en
-seotitle: "VirWoX Review: Best Way to Buy Bitcoin with PayPal"
+seotitle: "VirWoX Bitcoin Exchange Review"
 website: virwox.com
 website_url: http://buybitcoinww.co/bitcoin_virwox
 contribute: virwox
@@ -79,7 +79,3 @@ On top of deposit fees, VirWoX also charged 2.9% per trade. That means if you [b
 **Is paying 9% to [VirWoX](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"} really the best way to buy bitcoin with PayPal?**
 
 Unfortunately, it's the best way and also the cheapest. If you try to buy bitcoin with PayPal directly from someone using LocalBitcoins, you'll still end up paying a 10% markup due to the risk of fraud. 
-
-**Where can I get step-by-step directions on how to buy bitcoin with PayPal on VirWoX**
-
-Check our guide on how to convert [PayPal to bitcoin](/kb/paypal-to-bitcoin/).
