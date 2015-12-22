@@ -64,7 +64,7 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/circle.png
    countries: us
    po: ccus, usbt, fast, lowfees, ccww, bt, cc, ach
-   desc_ccww_short: Buy bitcoin instantly with a credit card or debit card in the United States. 
+   desc_ccww_short: Buy bitcoins online with a credit card or debit card instantly in the United States. 
    desc_fast: Circle lets you buy bitcoin with a credit card, debit card, or ACH bank transfer. Purchases of bitcoin made with a debit card are available instantly. Circle is currently only available in the United States.
    desc_ach: Circle lets you connect a bank account and buy via ACH transfer. Circle doesn't officially charge a fee, but its exchange rate is usually 0.5% higher than Bitcoin exchanges. Bitcoin will be delivered within 1-4 days.
    desc_achshort: Buy bitcoin with your bank account via ACH transfer. Limited to $300 per week.
@@ -452,7 +452,7 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/clever.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
    po: sepa, ideal, ccww, cc
-   desc_ccww_short: Buy bitcoin instantly with a credit or debit card in the UK or Europe.  
+   desc_ccww_short: Buy bitcoin using a debit or credit card instantly in the UK or Europe.  
    desc_ccww: Clevercoin is a Bitcoin broker located in France. Residents of Europe can purchase bitcoin with a credit card for a 3.6% fee plus €0.30. Initial limit is €250 per day. Your limit is increased the more you purchase, and can reach €2,500 per day.
    desc_ccww_fr: Clevercoin est un courtier Bitcoin basé en France. Les résidents de l'union européenne peuvent acheter des bitcoins avec une carte de crédit pour une commission de 3.6% + 0.30€. Bien que la limite d'achat soit initialement de 250€ par jour, plus vous achetez, plus cette limite s'étend, jusqu'à atteindre 2,500€ par jour.
    desc_ccww_it: Clevercoin è un broker di Bitcoin situato in Francia. Coloro che risiedono in Europa possono acquistare Bitcoin con una carta di credito con una commissione del 3,6% più €0.30. Il limite iniziale è pari a €250 al giorno. Il tuo limite viene aumentato con l’aumentare degli acquisti e può raggiungere €2.500 al giorno.
