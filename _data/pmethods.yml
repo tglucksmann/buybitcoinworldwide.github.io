@@ -44,4 +44,7 @@
    short: neosurf   
    
  - pmethod: PerfectMoney
-   short: perfectmoney     
+   short: perfectmoney   
+ 
+ - pmethod: Neteller
+   short: neteller    

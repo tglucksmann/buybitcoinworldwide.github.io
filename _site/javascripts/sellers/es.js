@@ -170,6 +170,14 @@
   });
 
   window.sellers.push({
+    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
+    methods: "sofort, giro, sepa, ccww, giropay",
+    hide: "",
+    url: "http://buybitcoinww.co/coinimal",
+    html: "      \n\n\n"
+  });
+
+  window.sellers.push({
     countries: "at",
     methods: "cdeu, cdat, cash",
     hide: "",
@@ -1011,7 +1019,7 @@
 
   window.sellers.push({
     countries: "us",
-    methods: "ccus, lowfees, cc",
+    methods: "ccww, lowfees, cc",
     hide: "",
     url: "https://www.changetip.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://www.changetip.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/changetip.png\" alt=\"Changetip\">Changetip</a> \n		<a type=\"button\" href=\"https://www.changetip.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n		</h4>\n		<p>Comprar pequeñas cantidades de Bitcoin con una tarjeta de débito/crédito Visa o Mastercard.</p>\n		<a href=\"https://www.changetip.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n</div>\n\n\n"
@@ -1031,14 +1039,6 @@
     hide: "",
     url: "http://buybitcoinww.co/libertyx_bitcoin",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"http://buybitcoinww.co/libertyx_bitcoin\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/libertyx.png\" alt=\"LibertyX\">LibertyX</a> \n		<a type=\"button\" href=\"http://buybitcoinww.co/libertyx_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n		</h4>\n		<p>Comprar bitcoin con dinero en efectivo en numerosas tiendas minoristas en los EE.UU.</p>\n		<a href=\"http://buybitcoinww.co/libertyx_bitcoin\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n</div>\n\n\n"
-  });
-
-  window.sellers.push({
-    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb",
-    methods: "pp, cc, skrill, okpay",
-    hide: "",
-    url: "http://buybitcoinww.co/bitcoin_virwox",
-    html: "      \n\n\n"
   });
 
   window.sellers.push({
@@ -1074,19 +1074,19 @@
   });
 
   window.sellers.push({
-    countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb",
-    methods: "sofort, giro, sepa, ccww, neteller",
-    hide: "",
-    url: "https://www.coinimal.com/",
-    html: "      \n\n\n"
-  });
-
-  window.sellers.push({
     countries: "ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, ca",
-    methods: "sepa, okpay, skrill, swift, sofort, onlinebt",
+    methods: "sepa, okpay, swift, sofort, onlinebt",
     hide: "",
     url: "https://cubits.com/",
     html: "      \n<div class=\"col-md-6 buy-info\">\n		<h4>\n		<a href=\"https://cubits.com/\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://www.buybitcoinworldwide.com/img/buy/cubits.png\" alt=\"Cubits\">Cubits</a> \n		<a type=\"button\" href=\"https://cubits.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success pull-right large-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n		</h4>\n		<p>Comprar Bitcoin en un número de países mediante SEPA, OKPAY, SOFORT y Skrill.</p>\n		<a href=\"https://cubits.com/\" rel=\"nofollow\" target=\"_blank\" class=\"btn btn-success small-screen-buy\">\n		<i class=\"fa fa-bitcoin\"></i> Comprar Bitcoin</a>\n</div>\n\n\n"
+  });
+
+  window.sellers.push({
+    countries: "us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb",
+    methods: "pp, cc, skrill, okpay",
+    hide: "",
+    url: "http://buybitcoinww.co/bitcoin_virwox",
+    html: "      \n\n\n"
   });
 
   window.sellers.push({

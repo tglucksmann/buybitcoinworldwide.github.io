@@ -82,6 +82,31 @@
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
+{% elsif page.pmethod == 'neteller' and page.lang == 'en' and name.desc_neteller != null %}
+<div class="col-sm-12 buy-info-full">
+		<h4>
+		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_neteller }}</p>
+		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+
+{% elsif page.pmethod == 'skrill' and page.lang == 'en' and name.desc_skrill != null %}
+<div class="col-sm-12 buy-info-full">
+		<h4>
+		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_skrill }}</p>
+		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
 {% elsif page.pmethod == 'ach' and page.lang == 'en' and name.desc_ach != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>

@@ -222,9 +222,7 @@
    name_he: Local Bitcoins
    desc_he: קנייה של ביטקוין מסוחרים מקומיים ,דרך האינטרנט או פנים מול פנים. מהיר ופרטי. 1% עמלה.
    po: sepa, fast, cdus, paypal, nobank, lowfees, pp, cash, wmru, mpesa, neosurf
-   es: yes
    desc_es: Comprar Bitcoin a distribuidores locales, online o en persona. Privado y rápido. 1% de comision.
-   ar: yes
    desc_ar:  شراء بيتكوين من التجار المحليين، أو عبر الإنترنت أو بشخصك. بخصوصية وسرعة. برسوم 1٪.
    desc_fr: Achetez des bitcoins à des vendeurs, en ligne ou en personne. Confidentiel et rapide. 1% de commission. 
    desc_el: Αγοράστε bitcoin από τοπικούς εμπόρους, ηλεκτρονικά ή από κοντά. Ιδιωτικά και γρήγορα. Τέλος 1%.
@@ -428,6 +426,31 @@
    
 ##### Austria ####################################################   
 
+ - name: Coinimal
+   desc: Buy bitcoin with SOFORT, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
+   url: http://buybitcoinww.co/coinimal
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinimal.png
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
+   po: sofort, giro, sepa, ccww, giropay
+   desc_ccww_short: Buy bitcoin with a Visa or Mastercard credit or debit card via Neteller. 
+   desc_ccww: Coinimal is a Bitcoin broker located in Austria. You can purchase bitcoin with a CC indirectly via NETELLER for a 7% fee. Coinimal is available to residents of the EU.
+   desc_ccww_fr: Coinimal est un courtier Bitcoin basé en Autriche. Vous pouvez y acheter indirectement des bitcoins avec une carte de crédit à travers NETELLER pour une commission de 7%. Coinimal est disponible pour les résidents de l'UE.
+   desc_ccww_ptbr: Coinimal é uma corretora de Bitcoins localizada na Áustria. Você pode comprar bitcoin com cartão de crédito indiretamente via NETELLER por uma taxa de 7%. Coinimal está disponível para residentes da UE.
+   desc_ccww_it: Coinimal è un broker di Bitcoin situato in Austria. È possibile acquistare Bitcoin con una carta di credito in maniera indiretta tramite NETELLER con una commissione del 7%. Coinimal è disponibile per coloro che risiedono nell’UE.
+   desc_ccww_ru: Coinimal — это биткоин-брокер, расположенный в Австрии. Вы можете купить биткоины при помощи кредитной карты, используя сторонний сервис NETELLER, с комиссией 7%. Coinimal доступен жителям Евросоюза.
+   desc_ccww_es: Coinimal es un corredor de Bitcoin ubicado en Austria. Puede comprar bitcoin con tarjeta de crédito indirectamente a través de NETELLER con una comisión del 7%. Coinimal está disponible para los residentes de la Unión Europea.
+   desc_ccww_de: Coinimal ist ein Bitcoin-Broker aus der Österreich. Sie können Bitcoin mit einer Kreditkarte indirekt über NETELLER für eine 7% Gebühr kaufen. Coinimal ist für die Bewohner der EU verfügbar.
+   desc_ar:  شراء بيتكوين بـ EPS وgiropay و NETELLER وSOFORT وSEPA و SEPA، والتحويل المصرفي عبر الإنترنت.
+   desc_fr: Achetez des bitcoins avec SOFORT, NETELLER, giropay, eps, SEPA et virement bancaire en ligne.
+   desc_el: Αγοράστε bitcoin με SOFORT, NETELLER, giropay, eps, SEPA και διαδικτυακή τραπεζική μεταφορά.
+   desc_nl: Koop Bitcoin met SOFORT, NETELLER, giropay, eps, SEPA en via een online overschrijving.
+   desc_it: Acquista Bitcoin tramite SOFORT, NETELLER, giropay, eps, SEPA, e bonifico bancario online.
+   desc_pt_br: Compre Bitcoins através de transferências bancárias online, SOFORT, NETELLER, Giropay, EPS e SEPA.
+   desc_de: Bitcoing mit SOFORT, NETELLER, giropay, eps, SEPA und Online Banküberweisungen kaufen.
+   desc_bg: Купете биткойн чрез SOFORT, NETELLER, giropay, eps, SEPA, и онлайн банков превод.
+   desc_ru: Купить биткоин через SOFORT, NETELLER, giropay, eps, SEPA или банковским переводом онлайн. 
+   desc_uk: Купити біткоіни через SOFORT, NETELLER, giropay, eps, SEPA або банківським переказом онлайн.
+
  - name: bitcoinbon
    desc: Buy bitcoin with cash at over 600 physical locations across Austria. Buy €25, €50, or €100. 
    url: http://buybitcoinww.co/bitcoinbon
@@ -494,6 +517,7 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bitboat.png
    countries: fr, it, es, be, pt, cy, ro, ca, gb
    po: cash, neocode, mandatcompte, ricaricapostepay, jiffypay, engreso, neosurf
+   desc_neosurf: At Bitboat you can buy bitcoins with Neosurf in Europe. Bitboat sells bitcoins for cash in the <a href="/en/gb/">UK</a>, <a href="/en/it/">Italy</a>, <a href="/en/fr/">France</a>, <a href="/en/be/">Belgium</a>, <a href="/en/cy/">Cyprus</a>, and <a href="/en/ro/">Romania</a>. 
 
 ##### Switzerland ####################################################   
 
@@ -1626,9 +1650,8 @@
    url: https://www.changetip.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/changetip.png
    countries: us
-   po: ccus, lowfees, cc
-   desc_ccus: Changetip lets you buy up to $25 worth of bitcoin with a Visa or Mastercard credit/debit card. You'll need to connect a Facebook, Twitter, Reddit or GitHub account. It may take up to 24 hours to get your bitcoin with your first purchase. 
-   desc_ccww: Changetip lets you buy up to $25 worth of bitcoin with a Visa or Mastercard credit/debit card. You'll need to connect a Facebook, Twitter, Reddit or GitHub account. It may take up to 24 hours to get your bitcoin with your first purchase. U.S. residents only. 
+   po: ccww, lowfees, cc
+   desc_ccww: Changetip lets you buy up to $40 worth of bitcoin with a Visa or Mastercard credit/debit card. You'll need to connect a Facebook, Twitter, Reddit or GitHub account. It may take up to 24 hours to get your bitcoin with your first purchase. U.S. residents only. 
    name_es: Changetip
    desc_es: Comprar pequeñas cantidades de Bitcoin con una tarjeta de débito/crédito Visa o Mastercard.
    ar: yes
@@ -1699,13 +1722,6 @@
    desc_ru: Купить биткоин за наличные во множестве магазинов США.
    desc_uk: Біткоіни-брокер. Купити біткоіни за готівку в безлічі магазинів США.
 
- - name: VirWoX
-   desc: One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a>. Buy Second Life Lindens, and trade them for bitcoin. 
-   url: http://buybitcoinww.co/bitcoin_virwox
-   icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
-   countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb
-   po: pp, cc, skrill, okpay
-   
  - name: Coin ATM Radar
    desc: Coin ATM Radar helps you locate Bitcoin ATMs in your area to <a href="/en/buy-bitcoins-with-cash/">buy bitcoins with cash</a>.  
    url: http://coinatmradar.com/
@@ -1768,37 +1784,29 @@
    desc_neosurf: Coinhouse will let you buy bitcoin with a Neosurf prepaid card. Neosurf cards can be purchased at over <a href="http://www.neosurf.com/en_GB/application/findcard">70,000</a> locations across Europe. Coinhouse charges a 17% fee for all purchases made with a Neosurf card. Coinhouse is located in Paris, France and is operated by Ledger, a Bitcoin security company. 
    
  - name: Coinimal
-   desc: Buy bitcoin with SOFORT, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
-   url: https://www.coinimal.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinimal.png
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
-   po: sofort, giro, sepa, ccww, neteller
-   desc_ccww_short: Buy bitcoin with a Visa or Mastercard credit or debit card via Neteller. 
-   desc_ccww: Coinimal is a Bitcoin broker located in Austria. You can purchase bitcoin with a CC indirectly via NETELLER for a 7% fee. Coinimal is available to residents of the EU.
-   desc_ccww_fr: Coinimal est un courtier Bitcoin basé en Autriche. Vous pouvez y acheter indirectement des bitcoins avec une carte de crédit à travers NETELLER pour une commission de 7%. Coinimal est disponible pour les résidents de l'UE.
-   desc_ccww_ptbr: Coinimal é uma corretora de Bitcoins localizada na Áustria. Você pode comprar bitcoin com cartão de crédito indiretamente via NETELLER por uma taxa de 7%. Coinimal está disponível para residentes da UE.
-   desc_ccww_it: Coinimal è un broker di Bitcoin situato in Austria. È possibile acquistare Bitcoin con una carta di credito in maniera indiretta tramite NETELLER con una commissione del 7%. Coinimal è disponibile per coloro che risiedono nell’UE.
-   desc_ccww_ru: Coinimal — это биткоин-брокер, расположенный в Австрии. Вы можете купить биткоины при помощи кредитной карты, используя сторонний сервис NETELLER, с комиссией 7%. Coinimal доступен жителям Евросоюза.
-   desc_ccww_es: Coinimal es un corredor de Bitcoin ubicado en Austria. Puede comprar bitcoin con tarjeta de crédito indirectamente a través de NETELLER con una comisión del 7%. Coinimal está disponible para los residentes de la Unión Europea.
-   desc_ccww_de: Coinimal ist ein Bitcoin-Broker aus der Österreich. Sie können Bitcoin mit einer Kreditkarte indirekt über NETELLER für eine 7% Gebühr kaufen. Coinimal ist für die Bewohner der EU verfügbar.
-   ar: yes
-   desc_ar:  شراء بيتكوين بـ EPS وgiropay و NETELLER وSOFORT وSEPA و SEPA، والتحويل المصرفي عبر الإنترنت.
-   desc_fr: Achetez des bitcoins avec SOFORT, NETELLER, giropay, eps, SEPA et virement bancaire en ligne.
-   desc_el: Αγοράστε bitcoin με SOFORT, NETELLER, giropay, eps, SEPA και διαδικτυακή τραπεζική μεταφορά.
-   desc_nl: Koop Bitcoin met SOFORT, NETELLER, giropay, eps, SEPA en via een online overschrijving.
-   desc_it: Acquista Bitcoin tramite SOFORT, NETELLER, giropay, eps, SEPA, e bonifico bancario online.
-   desc_pt_br: Compre Bitcoins através de transferências bancárias online, SOFORT, NETELLER, Giropay, EPS e SEPA.
-   desc_de: Bitcoing mit SOFORT, NETELLER, giropay, eps, SEPA und Online Banküberweisungen kaufen.
-   desc_bg: Купете биткойн чрез SOFORT, NETELLER, giropay, eps, SEPA, и онлайн банков превод.
-   desc_ru: Купить биткоин через SOFORT, NETELLER, giropay, eps, SEPA или банковским переводом онлайн. 
-   desc_uk: Купити біткоіни через SOFORT, NETELLER, giropay, eps, SEPA або банківським переказом онлайн.
+   url: http://buybitcoinww.co/coinimal_skrill
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinimal.png 
+   po: skrill
+   desc_skrill: Coinimal is a bitcoin exchange based in Austria. Among many payment methods accepted, customers can buy bitcoins with Skrill in under 10 seconds. 
+   desc_skrill_short: Buy bitcoins with Skrill online in under 10 seconds. Available for European users. 
+   hide: yes
+   
+ - name: Coinimal
+   url: http://buybitcoinww.co/coinimal_neteller
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinimal.png 
+   po: neteller
+   desc_neteller_short: Buy bitcoins online at Coinimal with NETELLER in under 10 seconds. 
+   desc_neteller: European users can buy bitcoins with Neteller in under 10 seconds using Coinimal. Coinimal is a bitcoin exchange based in Vienna, Austria. 
+   hide: yes   
    
  - name: Cubits
    desc: Buy bitcoin in a number of countries via SEPA, OKPAY, SOFORT and Skrill. 
    url: https://cubits.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/cubits.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, ca
-   po: sepa, okpay, skrill, swift, sofort, onlinebt
+   po: sepa, okpay, swift, sofort, onlinebt
+   desc_skrill: 
+   desc_short_skrill: 
    es: yes
    name_es: Cubits
    desc_es: Comprar Bitcoin en un número de países mediante SEPA, OKPAY, SOFORT y Skrill.
@@ -1811,6 +1819,15 @@
    desc_pt_br: Compre Bitcoins em diversos países via SEPA, OKPAY, SOFORT e Skrill.
    desc_de: Bitcoin in verschiedenen Ländern über SEPA, OKPAY, SOFORT und Skrill kaufen.
    desc_bg: Купете биткойн в голям брой страни чрез SEPA, OKPAY, SOFORT и Skrill.
+
+ - name: VirWoX
+   desc: One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a>. Buy Second Life Lindens, and trade them for bitcoin. 
+   desc_skrill_short: One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoins with PayPal</a> or Skrill. Buy Second Life Lindens, and trade them for bitcoin. 
+   desc_skrill: VirWoX isn't a Bitcoin exchange, but rather used to acquire Second Life Lindens (SLL), a currency used in the virtual world Second Life. It is, however, possible to buy SLL with Skrill, and then trade the SLL for bitcoin. We don't have a step-by-step tutorial for how to go through the process with Skrill, but it's <a href="/en/buy-bitcoin-paypal/">very similar to how it's done with PayPal</a>. Simply deposit with Skrill, buy SLL, and trade the SLL for BTC. You can follow the steps shown in the PayPal article for an approximate how-to.  
+   url: http://buybitcoinww.co/bitcoin_virwox
+   icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
+   countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb
+   po: pp, cc, skrill, okpay
 
  - name: Trucoin
    desc: <a href="https://www.buybitcoinworldwide.com/kb/buy-bitcoin-instantly/">Buy bitcoin instantly</a> with a credit or debit card in over 30 US states.
@@ -2163,6 +2180,22 @@
    desc_bg: Свободен пазар за размяна на биткойн между потребители.
    desc_ru: Платформа p2p-обмена биткоин.
    desc_uk: Платформа p2p-обміну біткоінами.
+
+ - name: Local Bitcoins
+   desc_neteller_short: Buy bitcoins with NETELLER online from other users; LocalBitcoins is used as escrow.
+   url: http://buybitcoinww.co/lb_neteller
+   icon: https://www.buybitcoinworldwide.com/img/buy/localbitcoins.png
+   desc_neteller: LocalBitcoins is an escrow service and will help connect you with users online who accept NETELLER for bitcoin. Use caution when trading on LocalBitcoins. Check each seller's profile to verify a history of succesful trades. 
+   po: neteller
+   hide: yes
+   
+ - name: Local Bitcoins
+   desc_skrill_short: Buy bitcoins with Skrill online from other users. LocalBitcoins is used as escrow.
+   url: http://buybitcoinww.co/localbtc_skrill
+   icon: https://www.buybitcoinworldwide.com/img/buy/localbitcoins.png
+   desc_skrill: LocalBitcoins is an escrow service and will help connect you with users online who accept Skrill for bitcoin. Use caution when trading on LocalBitcoins. Check each seller's profile to verify a history of succesful trades. Trader's with negative feedback and problematic trading history should be avoided. 
+   po: skrill
+   hide: yes   
    
 #####: All countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye
    

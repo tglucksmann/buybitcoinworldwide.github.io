@@ -1,0 +1,43 @@
+---
+layout: guidehelp
+title: "How to Buy Bitcoins with NETELLER"
+seotitle: "How to Buy Bitcoin with Neteller"
+permalink: "/en/buy-bitcoin-with-neteller/"
+sitemap:
+    priority: 0.7
+desc: Learn where and how to buy bitcoin with NETELLER.   
+lang: en
+pmethod: neteller
+author: jordantuwiner
+---
+<div class="col-sm-12">
+<p>	The companies below let you buy bitcoin with NETELLER.</p>
+</div>
+
+<div class="col-sm-12">
+	{% include country-loops.html %}
+	{% for name in site.data.buy %}
+	{% if name.po contains 'neteller' %}
+	{% include buy-list-en.html %}
+	{% endif %}
+	{% endfor %}
+</div>
+
+<div class="col-sm-12 small-large-break">
+<p>The list below contains the same companies listed above, but with more information about fees, countries supported, and many more additional details.</p>
+</div>
+
+
+<div class="content-with-sidebar col-md-9">
+	{% include country-loops.html %}
+	{% for name in site.data.buy %}
+	{% if name.po contains 'neteller' %}
+	{% include buy-list-large.html %}
+	{% endif %}
+	{% endfor %}
+	<p>If you want to buy <a href="/kb/buy-large-amounts-of-bitcoin/">larger amounts of bitcoin</a>, try buying with a <a href="/en/buy-bitcoin-sepa-transfer/">SEPA transfer</a>. Or, check out more <a href="/en/payment-methods/">payment methods</a>.</p>
+	{% include share.html %}
+</div>
+<div class="sidebar-add col-md-3">
+	{% include sidebar.html %}
+</div>
