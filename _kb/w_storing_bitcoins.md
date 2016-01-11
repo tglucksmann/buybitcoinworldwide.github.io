@@ -14,6 +14,8 @@ weight: 10
 ---
 A [Bitcoin wallet](/kb/what-is-a-bitcoin-wallet/) is the first step to using Bitcoin. Without a wallet, you can’t receive, store, or spend bitcoins. [Bitcoin wallets contain private keys](/kb/what-is-a-bitcoin-private-key/); secret codes that allow you to spend bitcoins. In reality, it’s not bitcoins that need to be stored and secured, but the private keys that give you access to them.
 
+![how to buy bitcoin](/img/icons/wallet3.png){: .img-responsive .halfimg-right }
+
 Bitcoins can be [stored in a number of different kinds of wallets](https://bitcoin.org/en/choose-your-wallet). Each wallet has pros and cons, and different wallets are built to solve different problems. Some wallets may be geared towards security, while some wallets may be more focused on privacy. Your specific needs should determine the wallet you use, as there is no “best way to store bitcoins”.
 
 Before reading on, understand [why you’re using Bitcoin](http://www.coindesk.com/information/why-use-bitcoin/) and what you need it for. After reading this article, you should have a much better idea of what kind of wallet will be right for you.
@@ -37,6 +39,10 @@ Because bitcoins are digital, cyber-criminals could, potentially, target your co
 
 ### Paper Wallets   
 A paper wallet is the most basic form of cold storage. A paper wallet is created by generating a private key on an offline computer. The private key is then printed and kept in a secure, private location. Paper wallets were the most common form of cold storage until hardware wallets became popular. Some printers store data or content, and, therefore, may be a security risk. A dedicated printer should be used for increased security.
+
+![bitcoin paper wallet](/img/kb/pk.png){: .img-responsive .kb-helper}
+
+<div class="caption-kb">A public/private key pair as shown above would be considered a "paper wallet" once printed.</div>
 
 Paper wallets are easy to generate securely, but extra precautions must be taken once the wallet has been physically printed. Let’s take a look at how your paper wallet funds could be jeopardized even if generated securely from the start.
 

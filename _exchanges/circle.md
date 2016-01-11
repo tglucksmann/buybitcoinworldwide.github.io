@@ -7,7 +7,7 @@ desc: Circle is a Bitcoin broker offering its services in the United States. Cus
 thumb: circle.png
 lang: en
 cat: broker, us
-seotitle: "Circle Review: Bitcoin Broker with Great Rates"
+seotitle: "Circle Review: Good Exchange, Bad Wallet"
 website: circle.com
 website_url: http://buybitcoinww.co/buy_circle
 twitter: circlebits

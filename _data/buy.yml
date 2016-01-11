@@ -221,7 +221,7 @@
    desc_neosurf: Local Bitcoins connects you with local sellers who accept Neosurf prepaid cards for Bitcoin. It's best to meet the seller in person and make the transaction in order to reduce the risk of fraud. Only deal with Local Bitcoins sellers with good feedback and a history of sales. Local Bitcoins charges a flast 1% fee on all transactions.
    name_he: Local Bitcoins
    desc_he: קנייה של ביטקוין מסוחרים מקומיים ,דרך האינטרנט או פנים מול פנים. מהיר ופרטי. 1% עמלה.
-   po: sepa, fast, cdus, paypal, nobank, lowfees, pp, cash, wmru, mpesa, neosurf
+   po: sepa, fast, cdus, paypal, nobank, lowfees, pp, cash, wmru, mpesa, neosurf, venmo
    desc_es: Comprar Bitcoin a distribuidores locales, online o en persona. Privado y rápido. 1% de comision.
    desc_ar:  شراء بيتكوين من التجار المحليين، أو عبر الإنترنت أو بشخصك. بخصوصية وسرعة. برسوم 1٪.
    desc_fr: Achetez des bitcoins à des vendeurs, en ligne ou en personne. Confidentiel et rapide. 1% de commission. 
@@ -432,7 +432,7 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/coinimal.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
    po: sofort, giro, sepa, ccww, giropay
-   desc_ccww_short: Buy bitcoin with a Visa or Mastercard credit or debit card via Neteller. 
+   desc_ccww_short: Buy bitcoin in Europe with a Visa or Mastercard credit or debit card via Neteller. 
    desc_ccww: Coinimal is a Bitcoin broker located in Austria. You can purchase bitcoin with a CC indirectly via NETELLER for a 7% fee. Coinimal is available to residents of the EU.
    desc_ccww_fr: Coinimal est un courtier Bitcoin basé en Autriche. Vous pouvez y acheter indirectement des bitcoins avec une carte de crédit à travers NETELLER pour une commission de 7%. Coinimal est disponible pour les résidents de l'UE.
    desc_ccww_ptbr: Coinimal é uma corretora de Bitcoins localizada na Áustria. Você pode comprar bitcoin com cartão de crédito indiretamente via NETELLER por uma taxa de 7%. Coinimal está disponível para residentes da UE.
@@ -515,7 +515,7 @@
    desc: Buy bitcoin fast with cash in the UK, Spain, Italy, France, Belgium, Cyprus, and Romania. 
    url: http://buybitcoinww.co/bit_boat
    icon: https://www.buybitcoinworldwide.com/img/buy/bitboat.png
-   countries: fr, it, es, be, pt, cy, ro, ca, gb
+   countries: fr, it, es, be, pt, cy, ro, gb
    po: cash, neocode, mandatcompte, ricaricapostepay, jiffypay, engreso, neosurf
    desc_neosurf: At Bitboat you can buy bitcoins with Neosurf in Europe. Bitboat sells bitcoins for cash in the <a href="/en/gb/">UK</a>, <a href="/en/it/">Italy</a>, <a href="/en/fr/">France</a>, <a href="/en/be/">Belgium</a>, <a href="/en/cy/">Cyprus</a>, and <a href="/en/ro/">Romania</a>. 
 

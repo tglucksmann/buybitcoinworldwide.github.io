@@ -3,7 +3,7 @@ layout: kb
 lang: en
 author: jordantuwiner
 permalink: "/kb/how-to-buy-bitcoin/"
-seotitle: "How to Buy Bitcoin: The Definitive Guide"
+seotitle: "How to Buy Bitcoin: The Definitive Bitcoin Buying Guide"
 title: "How to Buy Bitcoin"
 desc: This step-by-step guide teaches you how to buy bitcoin. Learn how to find the right Bitcoin exchange and get your first bitcoins today.   
 faq: howtobuybitcoin
@@ -20,7 +20,7 @@ You want to learn how to buy bitcoin? You're in the right place. The short answe
 
 For the long answer, read this guide and by the end you'll understand:
 
-1. [Where and how to buy bitcoin](/where-to-buy-bitcoins/) 
+1. [Where and how to buy bitcoin](/country-index/) 
 
 2. How to find the right exchange 
 
@@ -42,7 +42,7 @@ There are different kinds of Bitcoin exchanges. Some exchanges require you to me
 
 **Peer-to-peer (P2P) Exchanges –** Exchanges like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} are escrow services that simply match users. Buyers and sellers are free to agree on a price and [payment method](/en/payment-methods/), and [LocalBitcoins](/exchanges/localbitcoins/) ensures that neither party is scammed by holding the payments in escrow until the trade is complete. Other examples of P2P exchanges include [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"}. 
 
-**ATMs –** Bitcoin ATMs let you [purchase bitcoin with cash](en/buy-bitcoins-with-cash/). You simply insert cash into the machine, and get bitcoins sent to your wallet. Some ATMs require personal information. Use [Coin ATM Radar](http://coinatmradar.com/) to find a Bitcoin ATM near you. 
+**ATMs –** Bitcoin ATMs let you [purchase bitcoin with cash](/en/buy-bitcoins-with-cash/). You simply insert cash into the machine, and get bitcoins sent to your wallet. Some ATMs require personal information. Use [Coin ATM Radar](http://coinatmradar.com/) to find a Bitcoin ATM near you. 
 
 ## Things to Consider 
 
