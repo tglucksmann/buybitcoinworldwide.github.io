@@ -1830,7 +1830,7 @@
    po: pp, cc, skrill, okpay
 
  - name: Trucoin
-   desc: <a href="https://www.buybitcoinworldwide.com/kb/buy-bitcoin-instantly/">Buy bitcoin instantly</a> with a credit or debit card in over 30 US states.
+   desc: Buy bitcoin instantly with a credit or debit card in over 30 US states.
    url: https://trucoin.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/trucoin.png
    countries: us

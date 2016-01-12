@@ -286,7 +286,6 @@
  - country: France
    short: fr
    eu: yes  
-   pop: yes
    es: yes
    country_es: Francia 
    ar: yes
@@ -318,8 +317,8 @@
 
  - country: Germany
    short: de
-   eu: yes  
    pop: yes
+   eu: yes  
    es: yes
    country_es: Alemania
    ar: yes
@@ -380,7 +379,6 @@
  - country: Italy
    short: it
    eu: yes  
-   pop: yes
    es: yes
    country_es: Italia
    fr: yes
@@ -485,7 +483,6 @@
  - country: Netherlands
    short: nl
    eu: yes    
-   pop: yes 
    es: yes
    country_es: Países Bajos
    ar: yes
@@ -545,7 +542,6 @@
  - country: Russia
    short: ru
    eu: yes     
-   pop: yes
    es: yes
    country_es: Rusia
    ru: yes
@@ -618,7 +614,6 @@
  - country: Switzerland
    short: ch
    eu: yes  
-   pop: yes  
    es: yes
    country_es: Suiza 
    fr: yes
@@ -831,7 +826,6 @@
  - country: Australia
    short: au
    oc: yes
-   pop: yes
 
  - country: Fiji
    short: fj
@@ -1030,7 +1024,6 @@
  - country: India
    short: in
    as: yes
-   pop: yes
    pt_br: yes
    country_pt_br: Índia
    url_pt_br: yes
@@ -1112,7 +1105,6 @@
 
  - country: Singapore
    short: sg
-   pop: yes
    as: yes
    zh: yes
    country_zh: 新加坡
