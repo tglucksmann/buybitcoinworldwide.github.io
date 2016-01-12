@@ -4,7 +4,7 @@ lang: en
 author: jordantuwiner
 permalink: "/kb/how-to-buy-bitcoin/"
 seotitle: "How to Buy Bitcoin or Get Bitcoin"
-title: "How to Buy Bitcoin or Get Bitcoins" 
+title: "How to Buy Bitcoin" 
 faq: howtobuybitcoin
 categories: 
 - kb
