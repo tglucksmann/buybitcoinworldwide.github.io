@@ -22,7 +22,7 @@ pro3: Instant buy available with credit card as backup
 con1: Limited payment methods
 con2: May track how its users spend bitcoin
 con3:
-summary: Coinbase, available to users in over 30 countries, is the world's largest Bitcoin broker. Customers can buy bitcoin with a connected bank account, SEPA transfer, Interac Online, and many more payment methods. 
+summary: Coinbase, available to users in over 30 countries as of 2016, is the world's largest Bitcoin broker. Customers can buy bitcoin with a connected bank account, SEPA transfer, Interac Online, and many more payment methods. 
 summarylong: Coinbase is the world's largest Bitcoin broker, available in the United States, Canada, Singapore, and most of Europe. Customers can buy bitcoin with a connected bank account, SEPA transfer, Interac Online, iDEAL, and many more payment methods depending on location. 
 privacy_score: 1
 privacy_width: 10
@@ -35,7 +35,7 @@ reputation_width: 90
 fees_score: 8.5
 fees_width: 85
 ---
-Coinbase is a Bitcoin company based in San Francisco. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, [wallet](/exchanges/coinbase/#coinbase-wallet-review), and developer API. Here we'll review its brokerage services. 
+Coinbase is a Bitcoin company based in San Francisco. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, wallet, and developer API. Here we'll review Coinbase's brokerage, exchange, and [wallet](/exchanges/coinbase/#coinbase-wallet-review). 
 
 ## Payment Methods Accepted
 
@@ -59,7 +59,7 @@ Coinbase supports 30+ countries. The payment methods available depend on your co
 
 *Note that the actual deposit of currencies into your Coinbase account is free. Coinbase then charges a 1% fee per purchase.   
  
-**U.S. customers may add a Visa or Mastercard credit card as a backup payment method. If a backup credit card is available, instant buy will be enabled for up to $1,000 worth of bitcoin per week.  
+**U.S. customers may add a Visa or Mastercard credit card as a backup payment method. If a backup credit card is available, Coinbase instant buy will be enabled for up to $1,000 worth of bitcoin per week.  
 
 ![coinbase buy](/img/kb/cbbuy.png){: .img-responsive .kb-helper}
 
@@ -69,10 +69,10 @@ The "buy bitcoin" section of Coinbase.
 
 </div>
 
-## Privacy
+## Coinbase Privacy
 Users must provide full identity verification and many personal details. 
 
-## Limits & Liquidity
+## Coinbase Limits & Liquidity
 [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} offers very high limits. Limits depend on your account level, which is determined by how much information you have verified. Fully verified U.S. customers may buy up to $50,000 worth of bitcoin daily. 
 
 European customers may have a maximum of €30,000 euro in their account at any time. 
@@ -81,7 +81,7 @@ European customers may have a maximum of €30,000 euro in their account at any 
 
 **United States**
 
-U.S. customers will receive their bitcoins five business days from placing an order. Instant buy becomes possible if a credit card is added to the account as a backup payment method. Instant buy will allow fully verified users to buy up to $1,000 worth of bitcoin per week. Level 2 users with instant buy are able to instantly buy up to $100 worth of bitcoin per week.  
+U.S. customers will receive their bitcoins five business days from placing an order. Coinbase instant buy becomes possible if a credit card is added to the account as a backup payment method. Instant buy will allow fully verified users to buy up to $1,000 worth of bitcoin per week. Level 2 users with instant buy are able to instantly buy up to $100 worth of bitcoin per week.  
 
 **Canada**
 
@@ -94,7 +94,7 @@ European users paying with SEPA transfer will receive bitcoin within 1-3 days.
 ## Reputation
 Coinbase is a regulated company and holds licenses in all districts in which it operates.  
 
-## Fees
+## Coinbase Fees
 Coinbase charges a flat 1% fee on all purchases.
 
 **Canada**
@@ -154,7 +154,7 @@ Coinbase multisig vault.
 
 **Multisig Vault:** Coinbase understands that many users want complete control over their funds. Its multi-sig vault is a 2 of 3 wallet, where Coinbase has one key, one key is shared, and the third key is held by the account holder. Any two of the three keys allows spending of funds. If Coinbase goes down, you still have both the shared key and your own key. Funds cannot be held because the shared key is encrypted with your password.
 
-##Privacy
+## Coinbase Privacy 
 {: .privacy .wallet-sections}
 Your name, phone number, email, and a number of other personal details are required. Coinbase knows your addresses and balance at all times and can connect this with your identity and IP address. You must trust Coinbase’s nodes to verify transaction data.
 
