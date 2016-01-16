@@ -8,15 +8,16 @@ desc: A Bitcoin wallet is the first step to owning bitcoin, even before buying i
 hide_sidebar: true
 ---
 <div class="post-content wallets-index centered">
-<p class="browse-wallets-info">Bitcoin wallets (<a href="https://www.buybitcoinworldwide.com/kb/what-is-a-bitcoin-wallet/">what is a Bitcoin wallet?</a>) make payments global, easy, fast, and secure. More importantly, funds stored in true Bitcoin wallets give you full control of your money. </p>
-
-<p>Our wallet overviews help you find a Bitcoin wallet to suit your needs. Please understand that there is no best Bitcoin wallet. Each user is unique and has different needs. </p>
+<p class="browse-wallets-info">Bitcoin wallets (<a href="https://www.buybitcoinworldwide.com/kb/what-is-a-bitcoin-wallet/">what is a Bitcoin wallet?</a>) make payments global, easy, fast, and secure. Our wallet overviews help you find a Bitcoin wallet to suit your needs. Please understand that there is no best Bitcoin wallet. Each user is unique and has different needs. </p>
 
 <h2>How to Get a Bitcoin Wallet</h2>
-<p>You can can get a Bitcoin wallet in three different ways: 1) buy a Bitcoin hardware wallet 2) create a Bitcoin wallet online or 3) download a Bitcoin wallet app to your phone, tablet, or computer.</p>
+<p>Setting up a Bitcoin wallet is easy. You can can get a Bitcoin wallet in three different ways: 1) buy a Bitcoin hardware wallet 2) create a Bitcoin wallet online or 3) download a Bitcoin wallet app to your phone, tablet, or computer.</p>
+
+<h2>What is the Best Bitcoin Wallet?</h2>
+<p>There is no best Bitcoin wallet. You'll have to consider your needs. Do you need an iPhone wallet? Secure storage? Will your wallet be used across multiple devices? Ask yourself these questions to determine which wallet will be best for you.</p>
 	
 <h2>Bitcoin Hardware Wallet Overviews</h2>			
-<p>A Bitcoin hardware wallet is a physical device that is built with the sole purpose of securing Bitcoin private keys. Hardware Bitcoin wallets keep private keys away from internet-connected devices and allow users to sign transactions in an offline environment. For more information on hardware wallets, visit <a href="https://www.coldhardware.com/">Cold Hardware</a>.</p>
+<p>A Bitcoin hardware wallet is a physical Bitcoin wallet that is built with the sole purpose of securing Bitcoin private keys. Hardware Bitcoin wallets keep private keys away from internet-connected devices and allow users to sign transactions in an offline environment. For more information on hardware wallets, visit <a href="https://www.coldhardware.com/">Cold Hardware</a>. Hardware wallets are considered the most secure Bitcoin wallet along with paper wallets.</p>
 
 	{% assign pages = site.wallets | sort:"weight"  %}
     {% for wallet in pages reversed %}
@@ -25,7 +26,7 @@ hide_sidebar: true
 	{% endif %}
 	{% endfor %}
 
-<h2>Online Bitcoin Wallet Overviews (Web Wallets)</h2>			
+<h2>Best Online Bitcoin Wallet Overviews (Web Wallets)</h2>			
 <p>Web wallets store your private keys online, where they are encrypted with a user chosen password. Online bitcoin wallets are accessible from any internet connected device.</p>
 	{% assign pages = site.wallets | sort:"weight"  %}
     {% for wallet in pages reversed %}
@@ -44,7 +45,7 @@ hide_sidebar: true
 	{% endfor %}	
 	
 <h2>iOS and iPhone Bitcoin Wallets</h2>			
-<p>Apple banned <a href="/wallets/">Bitcoin wallets</a> from the App Store in February 2014, but reversed its decision a few months later. Luckily, there are plenty of options for iOS users.</p>
+<p>Apple banned Bitcoin wallets from the App Store in February 2014, but reversed its decision a few months later. Luckily, there are plenty of options for iOS users.</p>
 	{% assign pages = site.wallets | sort:"weight"  %}
     {% for wallet in pages reversed %}
 	{% if wallet.tags contains 'ios' %}

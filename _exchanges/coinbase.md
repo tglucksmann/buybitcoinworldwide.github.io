@@ -6,7 +6,7 @@ exchange: coinbase
 thumb: coinbase.png
 lang: en
 cat: broker, popular
-seotitle: "Coinbase Review: Wallet & Exchange Both Covered!"
+seotitle: "Coinbase Review: Wallet & Exchange Both Covered! "
 website: coinbase.com
 website_url: http://buybitcoinww.co/buycoinbase
 twitter: coinbase
@@ -35,7 +35,7 @@ reputation_width: 90
 fees_score: 8.5
 fees_width: 85
 ---
-Coinbase is a Bitcoin company based in San Francisco. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, wallet, and developer API. Here we'll review Coinbase's brokerage, exchange, and [wallet](/exchanges/coinbase/#coinbase-wallet-review). 
+Is Coinbase safe? is a common question. Yes, Coinbase is a Bitcoin company based in San Francisco, and backed by trusted investors. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, wallet, and developer API. Here we'll review its brokerage, exchange, and [wallet](/exchanges/coinbase/#coinbase-wallet-review). 
 
 ## Payment Methods Accepted
 
@@ -101,7 +101,7 @@ Coinbase charges a flat 1% fee on all purchases.
 
 Canadian customers must pay a $1 fee on any transfers of CAD to a bank account. European users buying with a 3D secure debit card will be charged a 3% fee instead of 1%. 
 
-## Supported Countries
+## Supported Coinbase Countries
 [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} offers its brokerage services in the United States, United Kingdom, Canada, Singapore, and the following European countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Liechtenstein, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland.
 
 Coinbase plans to enter the Latin American market in 2016. 
@@ -136,7 +136,7 @@ The above content reviewed Coinbase's brokerage services. This section takes a l
 
 Your "wallet" can be accessed on the web, or with Coinbase's [apps for iOS](https://itunes.apple.com/us/app/coinbase-bitcoin-wallet/id886427730?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.coinbase.android&hl=en). Coinbase controls all private keys, and acts more like a bank than a true Bitcoin wallet. Coinbase should only be used to buy or sell bitcoin, and not to store funds (unless you use the Multisignature Vault).
 
-##Security
+## Security
 {: .security .wallet-sections}
 Users may create three types of wallets with Coinbase: wallet, vault, and multisig vault.
 

@@ -23,7 +23,7 @@ download_android: yes
 download_android_url: https://play.google.com/store/apps/details?id=com.mycelium.wallet
 contribute: mycelium
 tags: android, trezorh, ledgernanoh, hw1h, mobile, watchonly, watchonlyxpub, privatekeyimport, pincode, multiaccounts, hdwallet, customfee, bip38, bip39, hwh, coinapult, csspending, bip44, bip70
-summary: Mycelium, founded in 2008, is a Bitcoin company with 35 employees located in Europe, Asia, and America. Mycelium offers mobile wallets for iPhone and Android. Mycelium is a good option for beginners, with features like watch-only addresses, cold storage spending, and HD accounts. Advanced features include TREZOR & Ledger support, xpub/xpriv key exports, and decrypting BIP38 keys. Mycelium can also restore hardware wallet seeds from TREZOR or Ledger.
+summary: Mycelium, founded in 2008, is a Bitcoin company with 35 employees located in Europe, Asia, and America. Mycelium offers mobile wallets for iPhone and Android. Mycelium is a good option for beginners, with features like watch-only addresses, cold storage spending, and HD accounts. Advanced features include TREZOR & Ledger support, xpub/xpriv key exports, and decrypting BIP38 keys. Mycelium can also restore hardware wallet seeds from TREZOR or Ledger. Mycelium is the most popular Bitcoin wallet on Android. 
 weight: 9
 ---
 Mycelium, founded in 2008, is a Bitcoin company with 35 employees located in Europe, Asia, and America. Mycelium offers mobile wallets for iPhone and Android. All of Mycelium’s applications are open source.
