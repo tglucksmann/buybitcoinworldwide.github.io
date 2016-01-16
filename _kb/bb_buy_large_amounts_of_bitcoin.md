@@ -80,7 +80,7 @@ Fully verified users have high deposits limits. While the exchange has [received
 
 Kraken is a good option for Europeans, who can deposit via SEPA transfer. Deposit limits vary and depend on your [level of verification](https://support.kraken.com/hc/en-us/articles/201352206-What-are-the-Verification-Tiers-).  
 
-[U.S.](/en/us/) and [U.K.](/en/uk/) users can [deposit via SEPA transfer](/en/buy-bitcoin-sepa-transfer/) or SWIFT. Japanese users can deposit JPY via bank deposit.
+[U.S.](/en/us/) and [U.K.](/en/gb/) users can [deposit via SEPA transfer](/en/buy-bitcoin-sepa-transfer/) or SWIFT. Japanese users can deposit JPY via bank deposit.
 
 ## Bitstamp
 
