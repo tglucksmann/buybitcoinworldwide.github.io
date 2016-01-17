@@ -23,7 +23,7 @@ weight: 9
 ---
 When you own bitcoins, storing and protecting them is your own responsibility. The [Ledger Nano](http://buybitcoinww.co/Ledger_Wallet){:rel="nofollow"} is accessible to all, and secured thanks to highest banking industry standards. Your account can be backed up and restored if your Nano is lost or stolen. You can use your Ledger Nano on any computer, PC, Mac or Linux. Anybody can install and use it without technical skills. 
 
-[Ledger Nano](http://buybitcoinww.co/Ledger_Wallet){:rel="nofollow"} is compatible with a number of wallets, including [Electrum](/wallets/electrum/), MultiBit HD, and [GreenAddress](/wallets/greenaddress/) on desktop, [GreenBits](/wallets/greenbits/) and [Mycelium](/wallets/mycelium/) on Android, as well as Copay and [Coinkite](/wallets/coinkite/) multisignature wallets. The [Ledger Chrome app](https://www.ledgerwallet.com/apps) is a full HD wallet interface for your Nano.
+The [Ledger Nano](https://www.coldhardware.com/ledger-nano-review/) is compatible with a number of wallets, including [Electrum](/wallets/electrum/), MultiBit HD, and [GreenAddress](/wallets/greenaddress/) on desktop, [GreenBits](/wallets/greenbits/) and [Mycelium](/wallets/mycelium/) on Android, as well as Copay and [Coinkite](/wallets/coinkite/) multisignature wallets. The [Ledger Chrome app](https://www.ledgerwallet.com/apps) is a full HD wallet interface for your Nano.
 
 ##Security
 {: .security .wallet-sections}
