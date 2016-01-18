@@ -70,20 +70,6 @@ home: yes
 </div>
 <hr>
 
-<h2 class="home-featured-header">Buy Bitcoin in these Popular Countries</h2>
-<h4 class="all-countries"><a href="/country-index/">View All Countries &#155;</a></h4>
-<div class="container">
-<div class="row">
-{% for country in site.data.countries %}
-{% if country.pop == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
-</div>
-</div>
-<hr>
-
-
 <h2 class="home-featured-header">Buy Bitcoin with these Popular Payment Methods</h2>
 <div class="container">
 <div class="row">
