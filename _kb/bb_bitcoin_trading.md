@@ -11,7 +11,7 @@ categories:
 - buying
 weight: 8
 ---
-*Note: if you wish to speculate on Bitcoin price movement without owning any bitcoins, check out [AvaTrade](/) or [Plus500](http://buybitcoinww.co/plus500_BTCUSD).*
+*Note: if you wish to speculate on Bitcoin price movement without owning any bitcoins, check out [AvaTrade](/) or [Plus500 CFD Service](http://buybitcoinww.co/plus500_BTCUSD). Your capital is at risk with any trading service.*
 
 To the uninitiated, Bitcoin trading can seem like a dream job, reserved for the fortunate few who trade Bitcoin from home, set their own hours and perform nothing more strenuous than clicking a mouse or watching a screen. The harsh reality is that the overwhelming majority of new traders lose money and quit within a year. All those washouts likely thought themselves future members of that exceptional minority of traders who achieve consistent profitability.
 
