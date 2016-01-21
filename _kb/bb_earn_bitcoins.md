@@ -3,7 +3,7 @@ layout: kb
 lang: en
 author: stevenhay
 permalink: "/kb/earn-bitcoins/"
-seotitle: "Earn Bitcoins: 29 Unique Ways to Acquire Bitcoin"
+seotitle: "29 Easy Ways to Earn Bitcoins Online"
 title: "How to Earn Bitcoins"
 desc: Learn where and how to earn bitcoins online. At the end of this guide you'll know new ways to put more bitcoins into your wallet. 
 faq: earnbitcoins
