@@ -86,7 +86,7 @@ author: jordantuwiner
 
 <p>Identifiez-vous sur PayPal. Vous pourrez observer dans le panneau de gauche que je dépose 2 $. C’est le montant que j’ai choisi à l’étape 7. Si ce montant ne correspond pas à ce que vous avez choisi, revenez en arrière et saisissez un nouveau montant. </p> 
 
-<p><strong>Veuillez noter que bien toutes les captures d’écran suivantes sont en USD, il n’y qu’à suivre exactement les mêmes pour effectuer vos transactions en EUR. Vous verrez simplement «  EUR » s’afficher au lieu de «  USD »  une fois que vous aurez passé l’étape 9.</strong></p>
+<p><strong>Veuillez noter que bien que toutes les captures d’écran suivantes soient en USD, il suffit de les suivre pour effectuer vos transactions en EUR. Vous verrez simplement «  EUR » s’afficher au lieu de «  USD »  une fois que vous aurez passé l’étape 9.</strong></p>
 
 <p><img src="/img/paypaltobtc/8.png" alt="login to paypal" class="img-responsive kb-helper" /></p> 
 
