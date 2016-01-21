@@ -31,7 +31,7 @@ author: jordantuwiner
 </div>
 
 
-<div class="content-with-sidebar col-md-9">
+<div class="col-xs-12">
 <h2 class="pp-header">Acheter des bitcoins avec PayPal sur VirWox</h2>
 
 <p>En utilisant <a href="http://buybitcoinww.co/bitcoin_virwox" rel="nofollow" target="_blank">VirWoX</a>, vous payerez environ 9% de frais mais cela restera tout de même le moyen le plus rapide, facile, et bon marché d’acheter des BTC avec PayPal. Il vous faudra éventuellement attendre quelques jours après l’ouverture de votre compte VirWox pour pouvoir déposer de l’argent. Une fois votre premier dépôt effectué, les dépôts suivants seront effectués instantanément. Bien que votre limite d’achat initiale soit de 88 $ par jour (261 $ par mois), elle s’agrandira au fil du temps en faisant des achats réguliers. </p> 
@@ -133,7 +133,4 @@ author: jordantuwiner
 	<p>Il n’y aura probablement jamais de moyen facile et pratique d’acheter des bitcoins avec PayPal. Cela est dû à la nature irréversible des transactions en bitcoins. Il semblerait cependant que PayPal s’intéresse à Bitcoin. Dans la mesure du possible, transférez les fonds disponibles dans votre compte PayPal sur votre compte en banque en effectuant un virement bancaire. Ou vous pouvez toujours chercher votre pays dans cette liste pour une liste des bourses d’échange.</p>
 	
 	{% include share.html %}
-</div>
-<div class="sidebar-add col-md-3">
-	{% include sidebar.html %}
 </div>
