@@ -13,7 +13,7 @@ author: jordantuwiner
 <div class="col-sm-12">
 <p>Beaucoup de personnes souhaitent acheter des bitcoins avec PayPal car c’est un moyen très répandu de payer en ligne.  Il faut cependant avoir conscience que les paiements avec PayPal sont un procédé réversible, tandis que ceux utilisant des bitcoins ne le sont pas. Les bourses d’échange et les traders estiment donc que laisser la possibilité aux utilisateurs de convertir un solde PayPal en bitcoins est plutôt risqué.</p>
 
-<p>Il est cependant quand même possibl d’acheter des bitcoins avec PayPal, en contrepartie de frais plus élevés. Il y a deux moyens plutôt satisfaisants d’acheter des bitcoins avec PayPal: VirWoX ou LocalBitcoins. </p>
+<p>Il est cependant quand même possible d’acheter des bitcoins avec PayPal, en contrepartie de frais plus élevés. Il y a deux moyens plutôt satisfaisants d’acheter des bitcoins avec PayPal: VirWoX ou LocalBitcoins. </p>
 
 <p>Comme le <a href="https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Help/general/TopQuestion5-outside" target="_blank">risque de fraude</a> est plus important lorsque l’on essaye d’acheter des bitcoins avec PayPal sur LocalBitcoins, nous allons vous aller étape par étape pour vous montrer comment acheter des bitcoins avec PayPal sur <a href="http://buybitcoinww.co/bitcoin_virwox" rel="nofollow" target="_blank">VirWoX</a>.</p>
 </div>

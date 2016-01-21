@@ -11,7 +11,9 @@ categories:
 - buying
 weight: 8
 ---
-*Note: if you wish to speculate on Bitcoin price movement without owning any bitcoins, check out [AvaTrade](/) or [Plus500 CFD Service](http://buybitcoinww.co/plus500_BTCUSD). Your capital is at risk with any trading service.*
+*Note: if you wish to speculate on Bitcoin price movement without owning any bitcoins, check out [AvaTrade](http://buybitcoinww.co/AvaTrade_Bitcoin){:rel="nofollow"} or [Plus500 CFD Service](http://buybitcoinww.co/plus500_BTCUSD){:rel="nofollow"}. Your capital is at risk with any trading service.*
+
+![how to trade bitcoin][8]{: .img-responsive .kb-helper}
 
 To the uninitiated, Bitcoin trading can seem like a dream job, reserved for the fortunate few who trade Bitcoin from home, set their own hours and perform nothing more strenuous than clicking a mouse or watching a screen. The harsh reality is that the overwhelming majority of new traders lose money and quit within a year. All those washouts likely thought themselves future members of that exceptional minority of traders who achieve consistent profitability.
 
@@ -21,9 +23,9 @@ Except in the marketing of trading courses, products or services, trading Bitcoi
 
 ## Trading Bitcoin vs. Bitcoin Investing
 
-This article discusses the active trading of Bitcoin as an (additional) occupation or supplementary income source. Trading Bitcoin is similar but distinct from [investing in Bitcoin](https://www.buybitcoinworldwide.com/kb/investing-in-bitcoin/).
+This article discusses the active trading of Bitcoin as an (additional) occupation or supplementary income source. Trading Bitcoin is similar but distinct from [investing in Bitcoin](/kb/investing-in-bitcoin/).
 
-An investment in Bitcoin is a long-term undertaking, often with multiple goals such as portfolio diversification, fiat risk [hedging](http://www.investopedia.com/articles/optioninvestor/07/hedging-intro.asp), business or ideological objectives, etc. Bitcoin investors are generally insensitive to price volatility and unlikely to exit their positions, barring some dire eventuality.
+An investment in Bitcoin is a long-term undertaking, often with multiple goals such as portfolio diversification, fiat risk hedging, business or ideological objectives, etc. Bitcoin investors are generally insensitive to price volatility and unlikely to exit their positions, barring some dire eventuality.
 
 By contrast, most Bitcoin traders maintain only short-term positions, staying in a trade for a maximum of a few months - but often for no more than a few hours. Bitcoin traders are also extremely price-sensitive, striving for perfect entry and exit prices and abandoning their positions immediately if they prove unprofitable.
 
@@ -31,7 +33,7 @@ By contrast, most Bitcoin traders maintain only short-term positions, staying in
 
 For trading purposes, Bitcoin is superior to other instruments, such as stocks, commodities or Forex, for at least 3 reasons:
 
-1) Bitcoin’s exceptional volatility allows for high percentage profits without [leveraging](https://en.wikipedia.org/wiki/Leverage_%28finance%29). Large price moves, the average trader’s bread and butter, are far more common in Bitcoin than almost any other instrument. Therefore, Bitcoin traders may eschew the increased risk and expense of leverage strategies designed to extract high profits from small moves.
+1) Bitcoin’s exceptional volatility allows for high percentage profits without leveraging. Large price moves, the average trader’s bread and butter, are far more common in Bitcoin than almost any other instrument. Therefore, Bitcoin traders may eschew the increased risk and expense of leverage strategies designed to extract high profits from small moves.
 
 2) Bitcoin trades non-stop; 24 hours a day, 7 days a week. By contrast, stocks and commodities only trade during business hours and Forex markets shut over the weekend. Trade in Bitcoin remains active around the clock as volume is distributed primarily across American, European and Asian sessions.
 
@@ -41,7 +43,7 @@ For trading purposes, Bitcoin is superior to other instruments, such as stocks, 
 
 Short-term traders rely on [real-time data feeds](https://www.tradingview.com/) and [liquid markets](http://www.investopedia.com/terms/l/liquidmarket.asp) to enable rapid entry to and exit from trades. Sophisticated, high-volume exchanges are preferred, if not required. To be considered a suitable trading venue, an exchange must allow traders to profit from downward price moves by offering the capacity to [short sell](https://en.wikipedia.org/wiki/Short_%28finance%29).
 
-The necessity of holding funds in cryptocurrency and fiat form dictates that “trader exchanges” be centralised services, although this may change with the advent of next-generation decentralised exchanges. Whenever funds are held by a third party, there is [custodial risk](http://www.globalcustody.net/risk/) - so choose your exchange wisely.
+The necessity of holding funds in cryptocurrency and fiat form dictates that “trader exchanges” be centralised services, although this may change with the advent of next-generation decentralised exchanges. Whenever funds are held by a third party, there is custodial risk) - so choose your exchange wisely.
 
 Prefer those exchanges which offer [proof of reserves](https://iwilcox.me.uk/2014/proving-bitcoin-reserves) for client Bitcoins, regular external audits for client fiat funds and have a long history of secure, ethical operation. For convenient trading, select an exchange which also offers decent volume and a real-time, responsive trading interface.
 
@@ -51,7 +53,7 @@ Frequently recommended to Western traders are Bitcoin exchanges such as [BitFine
 
 Bitcoin binary options, which effectively constitute bets on future price, are available from various brokers, such as [BTC Oracle](http://btcoracle.com/index.php). Binary options aren’t recommended for dedicated Bitcoin traders, who have better _options_ elsewhere.
 
-A final important point is that traders may speculate on Bitcoin’s price without ever touching Bitcoin. Online exchanges like [Plus500](http://buybitcoinww.co/plus500_BTCUSD) and [AvaTrade](http://www.avatrade.com/) allow for price speculation via fiat-only [Contracts for Difference](http://www.investopedia.com/terms/c/contractfordifferences.asp) (CFDs). Such exchanges additionally offer a variety of other markets to trade, such as Forex and commodities, although their costs are higher than those of Bitcoin exchanges.
+A final important point is that traders may speculate on Bitcoin’s price without ever touching Bitcoin. Online exchanges like [Plus500](http://buybitcoinww.co/plus500_BTCUSD){:rel="nofollow"} and [AvaTrade](http://buybitcoinww.co/AvaTrade_Bitcoin){:rel="nofollow"} allow for price speculation via fiat-only [Contracts for Difference](http://www.investopedia.com/terms/c/contractfordifferences.asp) (CFDs). Such exchanges additionally offer a variety of other markets to trade, such as Forex and commodities, although their costs are higher than those of Bitcoin exchanges.
 
 ## Fear and Greed
 
@@ -59,7 +61,7 @@ For all their technological sophistication, markets are driven by these primal h
 
 To become a successful Bitcoin trader, it’s necessary for an individual to manage these responses appropriately. Great opportunities present when the market becomes irrational due to an abundance of fear or greed. This frequently occurs following major price movements or dramatic news. At such times, weaker traders are overwhelmed by emotion and misprice their trades.
 
-Market chatter can provide insights into the market’s current mood but by following it too closely you risk becoming infected by market hysteria. Excitable market participants will shout “pump!” and “moon!” or “dump!” and “doom!” with every $10 price move up or down. Some traders will support whichever direction favours their pocketbook as if cheering their favourite sport team. And the media and public figures can be [just as irrational](https://99bitcoins.com/bitcoinobituaries/). Strive to stay objective when taking the market’s emotional pulse.
+Market chatter can provide insights into the market’s current mood but by following it too closely you risk becoming infected by market hysteria. Excitable market participants will shout “pump!” and “moon!” or “dump!” and “doom!” with every $10 price move up or down. Some traders will support whichever direction favours their pocketbook as if cheering their favourite sport team. And the media and public figures can be just as irrational. Strive to stay objective when taking the market’s emotional pulse.
 
 ![bitcoin price hype cycle][1]{: .img-responsive .kb-helper}
 
@@ -173,3 +175,4 @@ Once you’ve proven the viability of a particular plan, consider advancing to t
 [5]: /img/trade/day.png
 [6]: /img/trade/w.png
 [7]: /img/trade/rangetrend.png
+[8]: /img/trade/trading.png
