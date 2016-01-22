@@ -38,7 +38,7 @@ In order to send bitcoins, you must first have Bitcoins that you're able to spen
 
 Since you want to send bitcoins, you need the address of the recipient. Addresses can be displayed as a 26-character string starting with a 1 or 3 or as a QR code. Let's use the address above as an example: 13CmGgFMfx7fUbfBhPwwekAW6oW23xvZWk. 
 
-We're going to open up that address in a block explorer called blockchain.info. A block explorer makes all public Bitcoin transactions easy to see and verify. 
+We're going to open up that address in a block explorer called [blockchain.info](https://blockchain.info/). A block explorer makes all public Bitcoin transactions easy to see and verify. 
 
 Open blockchain.info and paste the address above into the search bar. You should now see a page that looks like this: 
 
@@ -58,7 +58,7 @@ Getting a Bitcoin address is as easy as downloading or Bitcoin wallet software o
 ## Best Practices 
 
 ### Don't re-use addresses
-Make sure to use a new address for each payment, especially on the receiving end. Since all Bitcoin transactions are public, address reuse makes it easier for others to connect your payments together and understand more about your finances. Bitcoin is private, but only as private as each user wants. 
+Make sure to [use a new address for each payment](https://bitcoin.org/en/you-need-to-know), especially on the receiving end. Since all Bitcoin transactions are public, address reuse makes it easier for others to connect your payments together and understand more about your finances. Bitcoin is private, but only as private as each user wants. 
 
 ### Confirmations 
 Confirmations can be confusing. Each time a [miner successfully solves Bitcoin's proof of work problem](/kb/what-is-bitcoin-mining/), a new block is created. A transaction is only considered secure once at least one confirmation is received. Generally, 3-6 confirmations is enough to consider the transaction complete. 

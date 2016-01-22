@@ -18,7 +18,7 @@ In this guide we're going to explain the basics of investing in bitcoin and why 
 
 *Note: Bitcoin with a capital “B” references Bitcoin the network or Bitcoin the payment system; bitcoin with a lowercase “b” references bitcoin as a currency or bitcoin the currency unit.*
 
-## Why Bitcoin?
+## Why Invest in Bitcoin?
 It seems silly to some people that one bitcoin can be worth hundreds of dollars. [What makes bitcoins valuable?](/kb/why-bitcoin-has-value-as-money/) Bitcoins are scarce and useful.  
 
 Let’s look to gold as an example currency. There is a limited amount of gold on earth. As new gold is mined, there is always less and less gold left and it becomes harder and more expensive to find and mine. The same is true with Bitcoin. There are only 21 million Bitcoin, and as time goes on, they become harder and harder to mine. Take a look at Bitcoin’s inflation rate and supply rate:
@@ -43,7 +43,7 @@ Bitcoin is global and not affected by any single country’s financial situation
 
 Global chaos is generally seen as beneficial to Bitcoin’s price since Bitcoin is apolitical and sits outside the control or influence of any particulate government. When thinking about how economics and politics will affect Bitcoin’s price, it’s important to think on a global scale and not just about what’s happening in a single country.
 
-## Where to Buy Bitcoins
+## How to Invest in Bitcoins and Where to Buy
 The [difficulty of buying bitcoins](/kb/how-to-buy-bitcoin/) depends on your country. Developed countries have more options and more liquidity. 
 
 [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world’s largest bitcoin broker and available in the United States, Canada, Singapore, and most of Europe. You can use our [country index](/country-index/) or our [exchange finder](/find-exchange/) tool to find a place to buy bitcoins in your country. 
