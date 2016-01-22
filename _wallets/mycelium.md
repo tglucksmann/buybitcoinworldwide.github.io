@@ -32,7 +32,7 @@ Mycelium is a good option for new users, with basic features like watch-only add
 
 ##Security
 {: .security .wallet-sections}
-A [mobile wallet](/wallets/mobile/) is only as secure as the device it’s running on. Mycelium encrypts all your data and keys. An unrooted (Android)/non-jailbroken (iOS) device should be used.
+A [mobile Bitcoin wallet](/wallets/) is only as secure as the device it’s running on. Mycelium encrypts all your data and keys. An unrooted (Android)/non-jailbroken (iOS) device should be used.
 
 Users can create a backup by writing down the 12 word seed provided in the app. If the phone is reset or lost, all funds can be recovered by re-entering the seed.
 

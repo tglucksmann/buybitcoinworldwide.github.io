@@ -1135,7 +1135,7 @@
    url: https://gatecoin.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/gatecoin.png
    countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
-   po: sepa, swift, okpay
+   po: sepa, swift
    desc_de: Bitcoin Börse in Hong Kong. Einzahlen mit SEPA Überweisung,SWIFT und OKPAY.
    desc_zh: 香港比特币交易平台。通过国家环保总局转账、SWIFT和OKPAY交存。
    desc_bg: Биткойн борса в Хонг Конг. Депозирайте чрез  SEPA превод, SWIFT и OKPAY.

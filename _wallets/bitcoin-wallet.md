@@ -24,7 +24,7 @@ summary: Bitcoin Wallet, or “Schildbach Wallet”, was the first mobile Bitcoi
 weight: 7
 ---
 
-Bitcoin Wallet, or “Schildbach Wallet”, was the first mobile [Bitcoin wallet](/wallets/) and has over 700,000 users in the Google Play Store and about 100,000 users in the BlackBerry AppWorld.
+Bitcoin Wallet, or “Schildbach Wallet”, was the first [mobile Bitcoin wallet](/wallets/) and has over 700,000 users in the Google Play Store and about 100,000 users in the BlackBerry AppWorld.
 
 ##Security
 {: .security .wallet-sections}

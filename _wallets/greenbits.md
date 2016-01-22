@@ -32,7 +32,7 @@ Some features, like disabling 2FA and spending limits, must be set using GreenAd
 
 ##Security
 {: .security .wallet-sections}
-A mobile wallet is only as secure as the device it’s running on. GreenBits encrypts all your data and keys. An unrooted Android device should be used.
+A [mobile wallet](/wallets/) is only as secure as the device it’s running on. GreenBits encrypts all your data and keys. An unrooted Android device should be used.
 
 A backup is made by writing down the 24 word seed provided in the app. If the phone is reset or lost, all funds can be recovered by re-entering the seed.
 
