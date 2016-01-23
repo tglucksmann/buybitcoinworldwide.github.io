@@ -3,7 +3,7 @@ layout: kb
 lang: en
 author: jordantuwiner
 permalink: "/kb/how-to-store-and-protect-bitcoins/"
-seotitle: "How to Store and Protect your Bitcoins"
+seotitle: "How to Store and Secure your Bitcoins"
 title: "How to Store and Protect your Bitcoins"
 desc: Learn how to store your bitcoins with the best security practices in order to protect them from scammers and hackers.  
 faq: storebitcoins

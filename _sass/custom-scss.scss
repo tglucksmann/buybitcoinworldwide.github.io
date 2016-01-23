@@ -502,6 +502,11 @@ html, body {
 	float: right;
 }
 
+.halfimg-left {
+	max-width: 180px !important;
+	float: left;
+}
+
 @media (max-width: 420px) { 
 	.halfimg-right {
 	width: 150px !important;

@@ -3,7 +3,7 @@ layout: kb
 lang: en
 author: jordantuwiner
 permalink: "/kb/how-to-buy-bitcoin/"
-seotitle: "How to Buy Bitcoin or Get Bitcoin"
+seotitle: "How to Buy Bitcoin or Get Bitcoin Fast & Easy"
 title: "How to Buy Bitcoin" 
 faq: howtobuybitcoin
 categories: 

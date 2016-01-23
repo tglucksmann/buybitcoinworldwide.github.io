@@ -3,7 +3,7 @@ layout: kb
 lang: en
 author: stevenhay
 permalink: "/kb/what-determines-bitcoins-price/"
-seotitle: "What Determines Bitcoin's Price?"
+seotitle: "9 Factors that Determine Bitcoin's Price"
 title: "What Determines Bitcoin's Price?"
 desc: 
 faq: bitcoinprice

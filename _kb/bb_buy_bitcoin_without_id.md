@@ -3,7 +3,7 @@ layout: kb
 lang: en
 author: jordantuwiner
 permalink: "/kb/buy-bitcoin-without-verification-id/"
-seotitle: "Buy Bitcoins Without Verification or ID"
+seotitle: "5 Ways to Buy Bitcoins Without Verification or ID"
 title: "How to Buy Bitcoin without Verification or ID"
 desc:  
 faq: bbwov

@@ -33,7 +33,7 @@ For cold storage, a seed is generated on a secure offline computer and written t
 
 All Electrum private keys are encrypted and never leave your computer. Electrum wallets not using an offline computer should be treated as a hot wallet, as it’s still possible to have malware steal funds.
 
-Although Electrum relies on third-party servers, the worst attack possible is the faking of transaction data. The servers have no way of accessing funds.
+Although Electrum relies on third-party servers, the worst attack possible is the faking of transaction data. The Electrum servers have no way of accessing funds.
 
 ##Privacy
 {: .privacy .wallet-sections}
@@ -46,3 +46,6 @@ Some servers claim to not log or store information, but it is impossible to know
 As an HD wallet, Electrum generates a new address for every transaction and does not re-use addresses. Using a new address for each transaction helps prevent spying on your payments and funds.
 
 Electrum received a score of 46 out of 100 from the Open Bitcoin Privacy Project’s [Spring 2015 report](http://www.openbitcoinprivacyproject.org/2015/05/spring-2015-wallet-privacy-rating-report/).
+
+## Features
+Electrum offers support for many different wallet types, like hardware wallets, offline cold storage, watch-only, and multisig. 
