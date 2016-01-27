@@ -1116,7 +1116,7 @@
    
  - name: LakeBTC
    desc: Bitcoin exchange in China. Deposit via bank transfer or SEPA.  
-   url: https://www.btcchina.com/
+   url: http://buybitcoinww.co/Lake_BTC
    icon: https://www.buybitcoinworldwide.com/img/buy/lakebtc.png
    countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mo
    po: sepa, egopay
