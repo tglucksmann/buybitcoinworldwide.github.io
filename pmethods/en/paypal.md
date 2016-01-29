@@ -12,7 +12,7 @@ author: jordantuwiner
 ---
 <div class="col-sm-12">
 <img class="img-responsive halfimg-right" alt="buy bitcoin with paypal" src="/img/icons/sepa.png">
-<p>Many people want to buy bitcoin with PayPal because it's a common way to pay online. But PayPal payments are reversible, while Bitcoin transactions are not. This makes it risky for dealers and exchanges who would let users convert PayPal to bitcoin.</p>
+<p>Many <a href="/kb/how-to-buy-bitcoin/">people want to buy bitcoin</a> with PayPal because it's a common way to pay online. But PayPal payments are reversible, while Bitcoin transactions are not. This makes it risky for dealers and exchanges who would let users convert PayPal to bitcoin.</p>
 <p>However, buying bitcoins with PayPal is still possible although comes with high fees. There are only two decent ways to buy bitcoin with PayPal: VirWoX or LocalBitcoins. </p>
 <p>Since there is a higher <a href="https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Help/general/TopQuestion5-outside" target="_blank">risk of fraud</a> when buying bitcoins with PayPal on LocalBitcoins, we're going to show you, step-by-step, how to buy bitcoins with PayPal on <a href="http://buybitcoinww.co/bitcoin_virwox" rel="nofollow" target="_blank">VirWoX</a>.</p>
 </div>
