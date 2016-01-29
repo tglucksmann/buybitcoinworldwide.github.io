@@ -49,7 +49,7 @@ This [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat) ch
 
 ## Selling Bitcoins for Cash
 
-Services like [LocalBitcoins](/exchanges/localbitcoins/) allow you to arrange in-person trades. A secure location, such as a bank or police station lobby, is recommended. Also recommended is [Mycelium Local Trader](/wallets/mycelium/), a smartphone app which facilitates in-person trades.
+Services like [LocalBitcoins](/exchanges/localbitcoins/) allow you to arrange in-person trades [for cash](/en/buy-bitcoins-with-cash/). A secure location, such as a bank or police station lobby, is recommended. Also recommended is [Mycelium Local Trader](/wallets/mycelium/), a smartphone app which facilitates in-person trades.
 
 If you intend to do many such cash trades, you might want to invest in an [ultra-violet counterfeit bill detector](http://blog.fraudfighter.com/bid/77557/How-does-UV-Counterfeit-Money-Detection-Work). Also, if your buyer indicates any intention of using purchased bitcoins for illegal activities, cancel the trade immediately.
 
