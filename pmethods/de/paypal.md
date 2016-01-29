@@ -16,7 +16,7 @@ author: jordantuwiner
 
 <p>Trotzdem ist es weiterhin möglich, Bitcoins mit PayPal zu erwerben, jedoch geht dies mit hohen Gebühren einher. Es gibt nur zwei elegante und einfache Wege um Bitcoins mit PayPal zu kaufen: VirWoX oder LocalBitcoins. </p>
 
-<p>Weil jedoch beim Kauf von <a href="https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Help/general/TopQuestion5-outside" target="_blank">Bitcoins mit PayPal auf LocalBitcoins ein höheres Betrugsrisiko</a> besteht, zeigen wir Ihnen Schritt für Schritt, wie Sie mit Bitcoins per <a href="http://buybitcoinww.co/bitcoin_virwox" rel="nofollow" target="_blank">PayPal mit VirWox kaufen können</a>.
+<p>Weil jedoch beim Kauf von <a href="https://www.paypal.com/cgi-bin/webscr?cmd=xpt/Help/general/TopQuestion5-outside" target="_blank">Bitcoins mit PayPal auf LocalBitcoins ein höheres Betrugsrisiko</a> besteht, zeigen wir Ihnen Schritt für Schritt, wie Sie Bitcoins per <a href="http://buybitcoinww.co/bitcoin_virwox" rel="nofollow" target="_blank">PayPal mit VirWox kaufen können</a>.
 </p>
 </div>
 
