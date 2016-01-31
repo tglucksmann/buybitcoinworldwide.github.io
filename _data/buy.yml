@@ -1857,7 +1857,7 @@
    desc: Buy bitcoin with cash deposit at a number of US banks nationwide. 
    url: http://buybitcoinww.co/wall_of_coins
    icon: https://www.buybitcoinworldwide.com/img/buy/wallofcoins.png
-   countries: us
+   countries: us, ca, de, ph, ar, br, pl, lv
    po: fast, cdus, nobank, lowfees, cash
    desc_nobank: Wall of Coins is another company that helps match buyers and sellers, with all payments done via cash deposits. You can buy up to $2000 worth of bitcoin via cash deposit at a number of banks across the United States. After your cash deposit is made you'll usually receive your coins within 15 minutes.
    desc_cdus: Wall of Coins is another company that helps match buyers and sellers, with all payments done via cash deposits. You can buy up to $2000 worth of bitcoin via cash deposit at a number of banks across the United States. After your cash deposit is made you'll usually receive your coins within 15 minutes. 
