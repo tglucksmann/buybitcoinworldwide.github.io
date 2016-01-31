@@ -1648,6 +1648,28 @@
    desc: Bitcoin broker. Buy bitcoin with a credit card or debit card instantly.  
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mx, ar, br, bo, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, ru, uk, au, il, ae 
 
+ - name: Wall of Coins
+   desc: Buy bitcoin with cash deposit in the US, Canada, Germany, Poland, Brazil, Argentina, and more. 
+   url: http://buybitcoinww.co/wall_of_coins
+   icon: https://www.buybitcoinworldwide.com/img/buy/wallofcoins.png
+   countries: us, ca, de, ph, ar, br, pl, lv
+   po: fast, cdus, nobank, lowfees, cash
+   desc_nobank: Wall of Coins is another company that helps match buyers and sellers, with all payments done via cash deposits. You can buy up to $2000 worth of bitcoin via cash deposit at a number of banks across the United States. After your cash deposit is made you'll usually receive your coins within 15 minutes.
+   desc_cdus: Wall of Coins is another company that helps match buyers and sellers, with all payments done via cash deposits. You can buy up to $2000 worth of bitcoin via cash deposit at a number of banks across the United States. After your cash deposit is made you'll usually receive your coins within 15 minutes. 
+   desc_cdus_short: Wall of Coins is an escrow service, helping people buy bitcoins with cash deposit. 
+   desc_fast: Wall of Coins works like BitQuick, and lets you buy bitcoin with cash deposit. Your bitcoin will be delivered shortly after the seller verifies that the payment was received. Available in the United States only. 
+   es: yes
+   name_es: Wall of Coins
+   desc_es: Comprar bitcoin a través de depósito en efectivo en numerosos bancos.
+   ar: yes
+   desc_ar:  شراء بيتكوين عن طريق الإيداع النقدي في عدد من البنوك الأمريكية على الصعيد الوطني.
+   desc_fr: Achetez des bitcoins par dépôt d’espèces dans un grand nombre de banques.
+   desc_pt_br: Compre Bitcoins por depósito em dinheiro em um dos vários bancos espalhados. 
+   desc_de: Bitcoin mit Bareinzahlung in einer Reihe von US Banken im ganzen Land kaufen.
+   desc_zh: 可在全美一些特定的银行以现金交存购买比特币。
+   desc_ru: Купить биткоин наличным депозитом во множестве банков США.
+   desc_uk: Купити біткоіни готівковим депозитом в безлічі банків США.
+
  - name: Changetip
    desc: Buy small amounts of bitcoin with a Visa or Mastercard debit/credit card. 
    url: https://www.changetip.com/
@@ -1852,28 +1874,6 @@
    desc_zh: 可在美国三十多个州使用信用卡购买比特币。
    desc_ru: Купить биткоин кредитной картой мгновенно в более чем 30 штатах США.
    desc_uk: Купити біткоіни кредитною карткою миттєво в більш ніж 30 штатах США.
-   
- - name: Wall of Coins
-   desc: Buy bitcoin with cash deposit at a number of US banks nationwide. 
-   url: http://buybitcoinww.co/wall_of_coins
-   icon: https://www.buybitcoinworldwide.com/img/buy/wallofcoins.png
-   countries: us, ca, de, ph, ar, br, pl, lv
-   po: fast, cdus, nobank, lowfees, cash
-   desc_nobank: Wall of Coins is another company that helps match buyers and sellers, with all payments done via cash deposits. You can buy up to $2000 worth of bitcoin via cash deposit at a number of banks across the United States. After your cash deposit is made you'll usually receive your coins within 15 minutes.
-   desc_cdus: Wall of Coins is another company that helps match buyers and sellers, with all payments done via cash deposits. You can buy up to $2000 worth of bitcoin via cash deposit at a number of banks across the United States. After your cash deposit is made you'll usually receive your coins within 15 minutes. 
-   desc_cdus_short: Wall of Coins is an escrow service, helping people buy bitcoins with cash deposit. 
-   desc_fast: Wall of Coins works like BitQuick, and lets you buy bitcoin with cash deposit. Your bitcoin will be delivered shortly after the seller verifies that the payment was received. Available in the United States only. 
-   es: yes
-   name_es: Wall of Coins
-   desc_es: Comprar bitcoin a través de depósito en efectivo en numerosos bancos de EE.UU.
-   ar: yes
-   desc_ar:  شراء بيتكوين عن طريق الإيداع النقدي في عدد من البنوك الأمريكية على الصعيد الوطني.
-   desc_fr: Achetez des bitcoins par dépôt d’espèces dans un grand nombre de banques des États-Unis.
-   desc_pt_br: Compre Bitcoins por depósito em dinheiro em um dos vários bancos espalhados pelos Estados Unidos. 
-   desc_de: Bitcoin mit Bareinzahlung in einer Reihe von US Banken im ganzen Land kaufen.
-   desc_zh: 可在全美一些特定的银行以现金交存购买比特币。
-   desc_ru: Купить биткоин наличным депозитом во множестве банков США.
-   desc_uk: Купити біткоіни готівковим депозитом в безлічі банків США.
    
  - name: itBit
    desc: New York based Bitcoin exchange. Deposit with ACH transfer, SEPA, or international wire transfer.
