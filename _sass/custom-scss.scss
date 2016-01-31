@@ -1331,6 +1331,18 @@ input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:
 
 }
 
+/* Wall of Coins Widget */
+
+iframe #btcRate {
+	display: none;
+}
+
+iframe #navigation {
+	background: #2579c6;
+}
+
+/* ____________________ */
+
 .kb-section-sidebar {
 	float: left;
 	margin-bottom: 25px;
