@@ -16,6 +16,9 @@
 	{% if page.country != null  %}
 	{% include hreflang.html %}
 	{% endif %}
+	{% if page.pagetype == 'kbsection'  %}
+	<meta name="robots" content="noindex">
+	{% endif %}
 	<style type="text/css">
 	    {% capture include_to_scssify %}
 	    {% include inlinecss.scss %}

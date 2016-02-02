@@ -9,6 +9,8 @@ hide_sidebar: true
 img: general.png
 summary: This section is a collection of articles that don't fit into any of the other KB sections. 
 pagetype: kbsection 
+sitemap:
+  exclude: 'yes'
 ---
 {% assign pages = site.kb | sort:"weight"  %}
 {% for album in pages reversed %}

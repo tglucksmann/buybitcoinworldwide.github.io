@@ -9,6 +9,8 @@ hide_sidebar: true
 img: faq.png
 summary: Answers to the most frequently asked questions about Bitcoin. 
 pagetype: kbsection 
+sitemap:
+  exclude: 'yes'
 ---
 {% assign pages = site.kb | sort:"weight"  %}
 {% for album in pages reversed %}
