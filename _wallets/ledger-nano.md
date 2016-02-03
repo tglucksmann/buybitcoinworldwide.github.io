@@ -16,7 +16,7 @@ open_source: yes
 open_source_url: https://github.com/ledgerHQ/
 control_priv_keys: yes
 buy: yes
-buy_url: http://buybitcoinww.co/Ledger_Wallet
+buy_url: http://buybitcoinww.co/Ledger_Wallet 
 contribute: ledger-nano
 summary: Ledger is a Bitcoin security company based in Paris, France. The Ledger Nano, built upon a CC EAL5+ smartcard, is one of Ledger's three Bitcoin hardware walelts. The Nano is a small, key-sized device that connects to your computer's USB port. It stores your Bitcoin private keys offline and signs transactions in its secure environment. It can be safely used on a malware infected computer if setup correctly. The Nano can be used on any computer or on an Android device with an OTG cable. 
 weight: 9
