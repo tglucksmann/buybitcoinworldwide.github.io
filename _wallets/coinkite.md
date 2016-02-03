@@ -23,7 +23,7 @@ weight: 6
 ---
 Coinkite is a bitcoin platform with multisig wallets, merchant tools, and a developer API. It's been in business for over 2 years and is based in Canada.
 
-##Security
+## Security
 {: .security .wallet-sections}
 Coinkite offers two kinds of wallets: a “Simple Wallet” where CK signs the transactions and holds the private keys, and "Multisig Vaults" where you control the keys.
 
@@ -33,7 +33,7 @@ Coinkite’s "Multsig" wallets allow up 15 co-signers, which can be: signed by C
 
 Users must trust Coinkite to provide the correct transaction data but also includes links with third party verification. 
 
-##Privacy
+## Privacy
 {: .privacy .wallet-sections}
 Coinkite doesn't require email or any personal information on signup and can be accessed with a TOR onion address: http://gcvqzacplu4veul4.onion.
 

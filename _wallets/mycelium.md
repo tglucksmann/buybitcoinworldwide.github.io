@@ -30,7 +30,7 @@ Mycelium, founded in 2008, is a Bitcoin company with 35 employees located in Eur
 
 Mycelium is a good option for new users, with basic features like watch-only addresses, cold storage spending, and HD accounts. Advanced options include TREZOR support, xpub/xpriv key exports, and decrypting BIP38 keys. Mycelium can also be used to [restore a TREZOR seed](/kb/restore-trezor-seed-mycelium-android/).
 
-##Security
+## Security
 {: .security .wallet-sections}
 A [mobile Bitcoin wallet](/wallets/) is only as secure as the device it’s running on. Mycelium encrypts all your data and keys. An unrooted (Android)/non-jailbroken (iOS) device should be used.
 
@@ -38,7 +38,7 @@ Users can create a backup by writing down the 12 word seed provided in the app. 
 
 Mycelium is a hot wallet and should not be used to store a significant amount of funds.
 
-##Privacy
+## Privacy
 {: .privacy .wallet-sections}
 Both the iOS and Android apps connect directly to the Mycelium’s servers. Directly connecting to Mycelium’s servers allows for instant connection to the Bitcoin network, but reduces privacy.
 

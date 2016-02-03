@@ -30,7 +30,7 @@ GreenAddress claims that it will never sign a double-spend transaction. Users ca
 
 Some features, like disabling 2FA and spending limits, must be set using GreenAddress and not GreenBits.
 
-##Security
+## Security
 {: .security .wallet-sections}
 A [mobile wallet](/wallets/) is only as secure as the device it’s running on. GreenBits encrypts all your data and keys. An unrooted Android device should be used.
 
@@ -44,7 +44,7 @@ GreenBits relies on GreenAddress’s servers for transaction data, and also uses
 
 A user-set PIN is required to open your wallet each time.
 
-##Privacy
+## Privacy
 {: .privacy .wallet-sections}
 GreenAddress plans to add CoinJoin to GreenBits in a future update. GreenBits/GreenAddress know your IP address, balance, and addresses.
 

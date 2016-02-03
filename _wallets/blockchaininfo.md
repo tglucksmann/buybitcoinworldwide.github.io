@@ -31,7 +31,7 @@ Blockchain.info is the world’s most popular blockchain explorer, and also offe
 
 Blockchain.info wallets can be accessed from any web browser, apps for iPhone and Android, and browser extensions for Firefox and Chrome.
 
-##Security
+## Security
 {: .security .wallet-sections}
 Blockchain.info encrypts your wallet in the browser and then stores it as a JSON on its server.  Blockchain.info has no access to funds and only your password can decrypt the file with your private keys.
 
@@ -43,7 +43,7 @@ Users have had [funds stolen](http://www.bitcoinaffiliatenetwork.com/blog/bryan/
 
 Blockchain.info wallets should be accessed through the browser extensions or mobile apps for improved security.
 
-##Privacy
+## Privacy
 {: .privacy .wallet-sections}
 A password is the only information required to create a Blockchain.info wallet. A unique identifier is then created which allows you to login from other locations.
 

@@ -26,7 +26,7 @@ weight: 7
 
 Bitcoin Wallet, or “Schildbach Wallet”, was the first [mobile Bitcoin wallet](/wallets/) and has over 700,000 users in the Google Play Store and about 100,000 users in the BlackBerry AppWorld.
 
-##Security
+## Security
 {: .security .wallet-sections}
 A mobile wallet is only as secure as the device it’s running on. An unrooted Android device should be used.
 
@@ -34,7 +34,7 @@ A file containing the wallet’s private keys are encrypted and stored on your p
 
 Bitcoin Wallet is more secure than most mobile Bitcoin wallets, because it connects directly to the Bitcoin network with SPV. Most other wallets connect to centralized servers for transaction information.
 
-##Privacy
+## Privacy
 {: .privacy .wallet-sections}
 Bitcoin Wallet is an HD wallet. It generates a new address for each transaction making it more difficult for spying or tracking your payments.
 

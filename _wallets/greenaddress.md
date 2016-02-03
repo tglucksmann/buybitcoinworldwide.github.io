@@ -39,7 +39,7 @@ Users may add spending limits to their accounts. Because GreenAdress controls on
 
 GreenAddress’s servers provide transaction data, but also use Electrum servers for extra verification.
 
-##Security
+## Security
 {: .security .wallet-sections}
 GreenAddress offers a unique setup with its options of 2-2 wallets and 2-3 wallets.
 
@@ -47,7 +47,7 @@ In a 2 of 2 wallet, you control one key and GreenAddress the other. If GreenAddr
 
 GreenAddress has a PIN feature that is required to access funds. After three incorrect guesses, the wallet is erased from GA servers and recovery must be done with the seed.
 
-##Privacy
+## Privacy
 {: .privacy .wallet-sections}
 Users in need of privacy should avoid linking their social networks to their account. GreenAddress plans to add CoinJoin in a future update. GA knows your IP address and balance.
 

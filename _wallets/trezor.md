@@ -28,7 +28,7 @@ weight: 9
 
 TREZOR can also be used as a secure login device on a [number of websites](http://doc.satoshilabs.com/trezor-apps/index.html).
 
-##Security
+## Security
 {: .security .wallet-sections}
 TREZOR provides top-notch security for bitcoin, protecting against both physical and virtual theft. 
 
@@ -44,7 +44,7 @@ TREZOR's screen allows you to confirm that you're sending to the intended recipi
 
 A full overview of how TREZOR handles security threats can [be found on the Satoshi Labs website](http://doc.satoshilabs.com/trezor-faq/threats.html).
 
-##Privacy
+## Privacy
 {: .privacy .wallet-sections}
 TREZOR itself offers very good privacy. Satoshi Labs has no way of tracking your actions after you receive the device because it has no serial number. All of the software is open source. No usernames or passwords are needed when using [TREZOR](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"}.
 
