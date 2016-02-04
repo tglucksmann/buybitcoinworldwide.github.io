@@ -13,6 +13,9 @@ weight: 7
 ---
 Governments have abused their powers of money creation. Each newly-printed unit of government fiat currency gets its value by taking a small amount of value from each unit of existing currency. Governments are able to spend the newly-issued currency before the effects of inflation trickle down to society. Inflation is a hidden tax on all citizens.
 
+* Table of Contents
+{:toc}
+
 Before Bitcoin, people were [locked into the traditional financial system](/kb/category/bitcoin-vs-traditional-finance/). Bitcoin offers an easy way for people to exit economies that revolve around government fiat money and bad monetary policy.   
 
 ## How Bitcoin is Different

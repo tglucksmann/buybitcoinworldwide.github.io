@@ -19,6 +19,9 @@ Simply put, a Bitcoin private key is the secret digital code which allows bitcoi
 
 The security of any Bitcoin wallet depends on the confidentiality of its associated private key(s). An attacker who learns your private key can steal your bitcoins! A Bloomberg TV host, Matt Miller, learnt this lesson the hard way when [he revealed his private key on live television](http://www.bloomberg.com/news/videos/b/9a33c478-516f-4fc9-8a11-0e9cb7c5b066). Miller was promptly relieved of his wallet’s contents by a Bitcoin-savvy viewer (who later offered to return the funds).
 
+* Table of Contents
+{:toc}
+
 ## Public and Private Keys
 
 Your Bitcoin address, that long string of alphanumeric soup starting with a 1 (or 3), is meant for sharing. If Matt had revealed his public address (more properly known as a “Bitcoin address”) on air, viewers might have copied it down and sent him bitcoins - but that’s all. Matt goofed by revealing both the address and private key of his paper wallet, putting the balance up for grabs just as surely as if he’d revealed his bank details and passwords. Newcomers needn’t worry about accidentally exposing their private keys however; [Bitcoin wallets](/kb/what-is-a-bitcoin-wallet/) won’t display them during the normal course of operations.

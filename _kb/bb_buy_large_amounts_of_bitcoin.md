@@ -14,11 +14,14 @@ weight: 8
 ---
 Bitcoin is [becoming attractive as a speculative investment](/kb/investing-in-bitcoin/) as more people begin to [doubt the existing financial system](/kb/category/bitcoin-vs-traditional-finance/) and fiat currencies. Because of this the question “how do I buy large amounts of bitcoin?” is popping up frequently. This post will show you how.
 
+* Table of Contents
+{:toc}
+
 ## OTC Exchanges
 
 [Over-the-counter](http://www.investopedia.com/terms/o/otc.asp) exchanges have helped increase liquidity. Large players now have more options to deal with large blocks of bitcoin, thanks to the companies discussed in depth below. For more information on Bitcoin OTC markets, check out [this explainer from Brave New Coin](http://bravenewcoin.com/news/how-to-buy-large-amounts-of-bitcoin-through-the-otc-market/).  
 
-#### Genesis
+## Genesis
 
 ![genesis trading][1]{: .img-responsive .kb-helper}
 
@@ -32,7 +35,7 @@ This comes out to an average of 375 BTC or $150,000 per trade.
 
 Genesis isn’t open to everyone. You must [apply and get approved](http://genesistrading.com/contact/) in order to make a trade.
 
-#### itBit  
+## itBit  
 
 ![buy large amounts of bitcoins][2]{: .img-responsive .kb-helper}
 

@@ -14,6 +14,9 @@ weight: 8
 ---
 The documentary *Downloaded* tells of the rise and fall of Napster. This early noughties app enabled millions of worldwide users to share their files. The network failed when its central hub, the Napster company, was defeated in a legal dispute over copyright infringement. 
 
+* Table of Contents
+{:toc}
+
 The lesson was clear; centralised networks are vulnerable to lawsuits. Users quickly switched to [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent), a decentralised file-sharing network with no central points of failure. Although website gateways to the torrent protocol suffer occasional DDoS or legal attack - the most famous example being The Pirate Bay - the torrent network retains an estimated quarter billion users nearly 15 years after its invention. 
 
 ## Lessons Learned

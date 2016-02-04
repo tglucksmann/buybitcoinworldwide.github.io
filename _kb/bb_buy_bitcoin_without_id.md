@@ -12,13 +12,32 @@ categories:
 - buying
 weight: 7.5
 ---
-There are three main ways to buy bitcoins without verification or ID: [LocalBitcoins](/exchanges/localbitcoins/), [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"}, or at a Bitcoin ATM. 
+<img class="img-responsive halfimg-right" alt="how to buy bitcoins with cash" src="/img/icons/sepa.png">
+
+There are four main ways to buy bitcoins without verification or ID: [LocalBitcoins](/exchanges/localbitcoins/), BitQuick, Wall of Coins or at a Bitcoin ATM. 
+
+## Wall of Coins
+
+[Wall of Coins](http://buybitcoinww.co/wall_of_coins){:rel="nofollow"} is a peer-to-peer cash exchange, currently available in the United States, Canada, Germany, Brazil, Argentina, Latvia, Poland, and the Philippines. A phone number is required for use, but not for verification purposes. No ID is required. You can use the widget below to buy with cash through Wall of Coins. 
+
+<iframe frameborder="0"
+    id="iframeCanvas"
+    name="iframeCanvas"
+    width="640"
+    webkitallowfullscreen mozallowfullscreen oallowfullscreen
+    msallowfullscrean allowfullscreen
+    style="height: 512px;"
+    src="https://wallofcoins.com/orders/?frame=1">
+</iframe>
 
 ## LocalBitcoins
 
 [LocalBitcoins is a peer-to-peer market place](/exchanges/localbitcoins/), similar to eBay. Buyers and sellers create offers and must agree on a price and terms of a trade before a transaction can be made. It's possible to buy bitcoins with no ID on LocalBitcoins either by [buying with cash](/en/buy-bitcoins-with-cash/) deposit or meeting in person and trading cash. 
 
 LocalBitcoins is available anywhere where there is a willing seller. 
+
+* Table of Contents
+{:toc}
 
 ## BitQuick
 
@@ -30,7 +49,7 @@ Bitcoin ATMs are similar to regular ATMs, but instead of spitting out fiat curre
 
 Coin ATM Radar keeps track of [Bitcoin ATMs across the world](http://coinatmradar.com/). You can use Coin ATM Radar to determine if a Bitcoin ATM near you requires verification. 
 
-## [Bitcoin Exchanges](/exchanges/) without Verification
+## Bitcoin Exchanges without Verification
 
 At [BitFinex](http://buybitcoinww.co/bitfinex_exchange) you can start trading without verification if you only deposit cryptocurrency and not fiat. 
 

@@ -17,6 +17,7 @@ Learning how to use Bitcoin takes patience and a lot if time. We're going to bre
 ![how to use bitcoin](/img/icons/wallet-compressor.png){: .img-responsive .halfimg-right }
 
 ## Get a Bitcoin Wallet
+
 In order to send or receive Bitcoin, [you'll need a Bitcoin wallet](/wallets/). Creating a bitcoin wallet is the easiest way to get a bitcoin address.
 
 Bitcoin [wallets contain private keys](/kb/what-is-a-bitcoin-private-key/), which create Bitcoin addresses. Bitcoins are sent from one address to another. An address starts with either a 1 or 3 and looks something like this: 
@@ -33,8 +34,11 @@ Bitcoin addresses are often displayed as QR codes:
 
 By creating a Bitcoin wallet, you also create Bitcoin addresses that you can use to receive payments. Bitcoin wallets provide the interface needed to send payments to other addresses and make accepting payments easier.  
 
+* Table of Contents
+{:toc}
+
 ## How to Send Bitcoins & How to Use a Bitcoin Wallet
-In order to send bitcoins, you must first have Bitcoins that you're able to spend. If you don't have any bitcoins, learn how to earn some or buy some. 
+In order to send bitcoin, you must first have Bitcoins that you're able to spend. If you don't have any bitcoins, learn how to earn some or buy some. 
 
 Since you want to send bitcoins, you need the address of the recipient. Addresses can be displayed as a 26-character string starting with a 1 or 3 or as a QR code. Let's use the address above as an example: 13CmGgFMfx7fUbfBhPwwekAW6oW23xvZWk. 
 

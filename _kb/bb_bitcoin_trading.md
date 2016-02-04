@@ -17,6 +17,9 @@ weight: 8
 
 To the uninitiated, Bitcoin trading can seem like a dream job, reserved for the fortunate few who trade Bitcoin from home, set their own hours and perform nothing more strenuous than clicking a mouse or watching a screen. The harsh reality is that the overwhelming majority of new traders lose money and quit within a year. All those washouts likely thought themselves future members of that exceptional minority of traders who achieve consistent profitability.
 
+* Table of Contents
+{:toc}
+
 Why is trading such a difficult endeavour? Firstly, due to the intrinsic unpredictability of markets. The human mind, which excels at pattern recognition, struggles with random outcomes. Secondly, trading is emotionally-taxing, involving long hours of boredom interspersed with periods of intense stress. Finally, as traders risk their own capital in an endless [zero-sum game](https://en.wikipedia.org/wiki/Zero%E2%80%93sum_game), trading is an occupation which bears close resemblance to professional gambling. Even successful traders frequently succumb to burn-out due to the pressures involved.
 
 Except in the marketing of trading courses, products or services, trading Bitcoin is no glamorous road to easy riches. Rather it is an activity demanding great patience, control and discipline. New traders are likely to lose money as they develop their skills and achieving consistent profitability is never guaranteed, even for the most experienced Bitcoin trader.

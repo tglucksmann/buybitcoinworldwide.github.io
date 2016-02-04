@@ -2,11 +2,6 @@
    icon: credit-card 
    url: /en/buy-bitcoin-credit-debit-card/
    desc: Buy bitcoin online with a credit or debit card.  
-   
- - pmethod: ACH Transfer
-   icon: bank
-   url: /en/buy-bitcoin-ach-bank-transfer-united-states/
-   desc: Buy bitcoin online via ACH bank transfer.  
 
  - pmethod: PayPal
    icon: paypal
@@ -18,12 +13,19 @@
    url: /en/buy-bitcoins-with-cash/
    desc: Buy bitcoin with cash via local bank deposit.  
    
+ - pmethod: ACH Transfer
+   icon: bank
+   url: /en/buy-bitcoin-ach-bank-transfer-united-states/
+   desc: Buy bitcoin online via ACH bank transfer.  
+   
  - pmethod: SEPA Transfer
    icon: eur
    url: /en/buy-bitcoin-sepa-transfer/
-   desc: Buy bitcoin online via SEPA bank transfer. 
+   desc: Buy bitcoin online via SEPA bank transfer.    
    
- - pmethod: Interac Online
+ - pmethod: No Verification
    icon: exchange 
-   url: /en/buy-bitcoin-interac-online/
-   desc: Buy bitcoin online in Canada with Interac Online.   
+   url: /kb/buy-bitcoin-without-verification-id/
+   desc: Buy bitcoins with no ID or verification. 
+   
+     

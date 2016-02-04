@@ -5,8 +5,6 @@ permalink: /wallets/blockchain-info/
 wallet: blockchaininfo
 desc: Blockchain.info is the world's most popular blockchain explorer, but also offers a simple Bitcoin wallet for Android, iOS, and the web.
 thumb: blockchain.png
-redirect_from:
-  - "/blockchain-info/"
 cat: hot, web, mobile
 seotitle: "Blockchain.info Wallet Review: Features and Security"
 lang: en

@@ -18,6 +18,9 @@ This site provides all the [info necessary for buying Bitcoin](/kb/how-to-buy-bi
 
 Fortunately it’s fairly easy to earn bitcoins online; if you can earn fiat, you can earn bitcoins. All that’s required to earn a decent wage in Bitcoin is a marketable skill or product, combined with the knowledge made available in this guide.
 
+* Table of Contents
+{:toc}
+
 ## Automatic Salary Conversion to Bitcoin
 
 If you draw a salary in fiat, nothing prevents you from [purchasing Bitcoin from your local exchange via the most convenient payment method](/find-exchange/). However, it can become tiresome to repeat this process every month, week or whenever you’re paid.
@@ -124,7 +127,7 @@ There’s no shortage of gambling games which pay out in Bitcoin, although the r
 
 [**21. Coinbrawl**](http://buybitcoinww.co/coin_brawl) - a fun little RPG game with no entry fee - in fact, new players currently receive a 3000 satoshi bonus! Battle other players to steal their satoshis, which can be used to improve your skills and future combat odds. Create a team or refer new players to earn even more Bitcoin.
 
-## Perform Simple Tasks for Bitcoin through Websites**
+## Perform Simple Tasks for Bitcoin through Websites
 
 Many sites will reward you for viewing ads, completing surveys, completing captchas and performing other light tasks. You won’t get rich but at least it’s a productive use of your free time.
 

@@ -5,20 +5,16 @@ title: Bitcoin kaufen - Zahlungsmethoden
 desc: Wie kaufe ich Bitcoin mit spezifischen Zahlungsmethoden. Wählen Sie eine Zahlungsmethode, um alle Börsen und Broker, die das angegeben Zahlungstyp akzeptieren.
 lang: de
 permalink: /de/Zahlungsmethoden/
+pagetype: pmethodsindex 
+sitemap:
+  exclude: 'yes'
 ---
-<div class="help-article-index">
-
-
-	<div class="help-article-wrap ccus">
-		<img src="/img/icons/ccus.jpg">
-		<h2 class="help-article-title"><a href="/de/bitcoin-kaufen-mit-kreditkarte/">Bitcoin mit einer Kredit oder Debitkarte kaufen</a></h2>
-		<p>Der Kauf von Bitcoin mit einer Kreditkarte ist eine gute Option, wenn Sie eine kleine Menge oder Bitcoins schnell brauchen.</p>
-	</div>
-	
-	
-	<div class="help-article-wrap">
-		<img src="/img/icons/sepa1.png">
-		<h2 class="help-article-title"><a href="/de/bitcoin-online-mit-sepa-Überweisungen-kaufen/">Bitcoin Online mit SEPA Überweisungen kaufen</a></h2>
-		<p>Börsen und Broker weltweit akzeptieren SEPA Überweisungen für Bitcoin.</p>
-	</div>
+<div class="help-article-index pmethods-index">
+{% for pmethod in site.data.paymentmethods_de %}
+	<a class="col-md-6" href="{{ pmethod.url }}">
+	<i class="fa fa-4x fa-{{ pmethod.icon }}"></i>
+	<div class="payment-method">{{ pmethod.pmethod }}</div>
+	<div class="payment-method-desc">{{ pmethod.desc }}</div>
+	</a>	
+{% endfor %}	
 </div>

@@ -3,7 +3,7 @@
    url: http://buybitcoinww.co/buycoinbase
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbase.png
    countries: gr, at, ro, be, hu, sg, bg, ie, sk, ca, it, es, hr, lv, se, cy, mt, ch, cz, nl, gb, dk, nor, us, fi, pl, fr, pt, pr, si, li, mc, sm
-   po: sepa, usbt, fast, io, ideal, lowfees, ccww, cc, bt, ach
+   po: sepa, usbt, fast, io, ideal, lowfees, ccww, cc, bt, ach, babt
    desc_fast: Coinbase lets you buy bitcoin with a connected bank account via ACH bank transfer. The bitcoin bought in your first purchase will only be available to you after five days. However, if you add a credit card to your account all purchases after your initial purchase will have your bitcoin delivered instantly. Coinbase is available in the United States and most of Europe.  
    desc_ach: Coinbase is the world's largest bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. Coinbase charges a flat 1% fee on all transactions, which is the standard among U.S. Bitcoin brokers. You'll have to wait five days to receive your bitcoin. If you add a Visa or Mastercard credit card to your account all bitcoin purchases besides your first will be delivered instantly.  
    desc_achshort: The world's largest Bitcoin broker. Buy bitcoin via ACH. Easy and convenient. 
@@ -19,6 +19,8 @@
    desc_ccww_de_short: Bitcoins mit einer 3D-Sicheren Kredit- oder Debitkarte in Europa kaufen. Einfach, schnell, bequem.
    desc_ccww_ptbr_short: Coinnase pode processar cartões de crédito e débito 3D garantido em toda zona SEPA.
    desc_ccww_fr_short: Courtier bitcoin. Achetez vos bitcoins par carte de crédit en Europe. Facile, rapide, pratique.
+   desc_babt: Coinbase is the world's largest bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. In Europe you can buy with your bank account via SEPA transfer. Purchases made with ACH take 5 days for the coins to be delivered, while SEPA purchases take less than two days. Coinbase charges a flat 1% fee on all transactions. Americans may add a Visa or Mastercard credit card to as a backup to unlock instant payments via bank transfer. 
+   desc_babt_short: Buy bitcoins with ACH bank transfer or bank account via SEPA in Europe.
    es: yes
    desc_es: Comprar Bitcoin con su cuenta bancaria o tarjeta de crédito. Fácil, rápido, aconsejable. 
    ar: yes
@@ -66,7 +68,7 @@
    url: http://buybitcoinww.co/buy_circle
    icon: https://www.buybitcoinworldwide.com/img/buy/circle.png
    countries: us
-   po: ccus, usbt, fast, lowfees, ccww, bt, cc, ach
+   po: ccus, usbt, fast, lowfees, ccww, bt, cc, ach, babt
    desc_ccww_short: Buy bitcoins online with a credit card or debit card instantly in the United States. 
    desc_fast: Circle lets you buy bitcoin with a credit card, debit card, or ACH bank transfer. Purchases of bitcoin made with a debit card are available instantly. Circle is currently only available in the United States.
    desc_ach: Circle lets you connect a bank account and buy via ACH transfer. Circle doesn't officially charge a fee, but its exchange rate is usually 0.5% higher than Bitcoin exchanges. Bitcoin will be delivered within 1-4 days.
@@ -207,7 +209,7 @@
    url: http://buybitcoinww.co/coincorner
    icon: https://www.buybitcoinworldwide.com/img/buy/ccoiner.png
    countries: gb, be, dk, fi, lu, nl, pl, sk, es, au, bg, cy, ee, fr, gr, hu, it, mt, nz, pt, si, se, at, ca, cz, de, ie, mc, nor, sm, ch, za
-   po: bt, sepa, ccww, cc
+   po: bt, sepa, ccww, cc, babt
    ar: yes
    desc_ar:  الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.
 
@@ -243,7 +245,7 @@
    url: http://buybitcoinww.co/buy_bitstamp
    icon: https://www.buybitcoinworldwide.com/img/buy/stamp.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
-   po: sepa, lowfees
+   po: sepa, lowfees, babt
    es: yes
    name_es: Bitstamp
    desc_es: Comprar bitcoin en Bitstamp a través de SEPA o transferencia bancaria. Comisiones varias.
@@ -265,7 +267,7 @@
    url: http://buybitcoinww.co/kraken_bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/kraken.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, ca
-   po: sepa, io, lowfees
+   po: sepa, io, lowfees, babt
    es: yes
    name_es: Kraken
    desc_es: El intercambio de Bitcoin soporta depósitos SEPA, transferencias bancarias, y SWIFT.
@@ -287,7 +289,7 @@
    url: http://buybitcoinww.co/buycoinbase
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png
    countries: us, gb   
-   po: sepa, usbt, lowfees, bt, ach
+   po: sepa, usbt, lowfees, bt, ach, babt
    desc_achshort: Fund your Coinbase exchange account via ACH bank transfer.  
    desc_ach: Coinbase Exchange is only available in <a rel="nofollow" href="https://support.coinbase.com/customer/portal/articles/1826671-what-countries-us-states-are-supported-for-coinbase-exchange-">certrain U.S. States</a>. You can fund your account via ACH transfer.  
    es: yes
@@ -347,7 +349,7 @@
    url: https://gemini.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/gemini.png
    countries: us
-   po: usbt, bt
+   po: usbt, bt, babt
    desc_ach: Gemini is a Bitcoin exchange that serves both individual and institutional clients. You can fund your exchange account via ACH transfer or wire transfer. Currently available in <a rel="nofollow" href="https://blog.gemini.com/geminis-area-of-operation/">26 U.S. states</a>.   
    
  - name: Coinsetter
@@ -379,7 +381,7 @@
    url: https://bittylicious.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/bittylicious.png
    countries: gb
-   po: bt, cc
+   po: bt, cc, babt
    ar: yes
    desc_ar:  شراء كميات صغيرة جدًا من بيتكوين عبر باركليز Pingit، أو عبر التحويل المصرفي أو ببطاقة الائتمان / الخصم.
    
@@ -388,7 +390,7 @@
    url: https://coinfloor.co.uk/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinfloor.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
-   po: sepa, swift
+   po: sepa, swift, babt
    ar: yes
    desc_ar:  صرافة بيتكوين ووسطاؤه. الإيداع عن طريق التحويل المصرفي، أو SEPA، وغير ذلك الكثير.
    desc_fr: Bourse d'échange et courtier bitcoin. Faites des dépôts par virement bancaire, SEPA, et plus encore.
@@ -434,7 +436,7 @@
    url: http://buybitcoinww.co/coinimal
    icon: https://www.buybitcoinworldwide.com/img/buy/coinimal.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
-   po: sofort, giro, sepa, ccww, giropay
+   po: sofort, giro, sepa, ccww, giropay, babt
    desc_ccww_short: Buy bitcoin in Europe with a Visa or Mastercard credit or debit card via Neteller. 
    desc_ccww: Coinimal is a Bitcoin broker located in Austria. You can purchase bitcoin with a CC indirectly via NETELLER for a 7% fee. Coinimal is available to residents of the EU.
    desc_ccww_fr: Coinimal est un courtier Bitcoin basé en Autriche. Vous pouvez y acheter indirectement des bitcoins avec une carte de crédit à travers NETELLER pour une commission de 7%. Coinimal est disponible pour les résidents de l'UE.
@@ -467,7 +469,7 @@
    url: http://buybitcoinww.co/coinfinity
    icon: https://www.buybitcoinworldwide.com/img/buy/coinfinity.png
    countries: at
-   po: sofort, sepa
+   po: sofort, sepa, babt
    desc_de: Österreichischer Bitcoin-Broker. Bitcoins mit SOFORT Überweisung oder Banküberweisung kaufen.
 
 ##### France ####################################################
@@ -503,7 +505,7 @@
    url: https://paymium.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/paymium.png
    countries: fr
-   po: bt    
+   po: bt, babt    
    ar: yes
    desc_ar:  صرافة بيتكوين. شراء بيتكوين بالتحويلات المصرفية في فرنسا. 
    desc_fr: Bourse d'échange de bitcoins. Acheter des bitcoins par virements bancaires en France.
@@ -529,7 +531,7 @@
    url: https://bity.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/bity.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb   
-   po: sepa, sofort, bt
+   po: sepa, sofort, bt, babt
    ar: yes
    desc_ar:  الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.
    desc_fr: Achetez avec un virement SEPA ou virement bancaire en Suisse. Rapide et pratique.
@@ -608,7 +610,7 @@
    url: https://safello.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/safello.png
    countries: se, es, pl, hu, be, nl, gb, it, ch, de, fr, at, bg, cy, hr, cz, dk, ee, fi, gr, ie, li, lt, lu, mc, mt, pt, ro, sm, sk
-   po: sepa, swish, swift, bankgiro
+   po: sepa, swish, swift, bankgiro, babt
    es: yes
    name_es: Safello
    desc_es: Comprar Bitcoin mediante SEPA, transferencia bancaria internacional, giro postal y más.
@@ -1653,7 +1655,7 @@
    url: http://buybitcoinww.co/wall_of_coins
    icon: https://www.buybitcoinworldwide.com/img/buy/wallofcoins.png
    countries: us, ca, de, ph, ar, br, pl, lv
-   po: fast, cdus, nobank, lowfees, cash
+   po: fast, cash, cdus, nobank, lowfees
    desc_nobank: Wall of Coins is another company that helps match buyers and sellers, with all payments done via cash deposits. You can buy up to $2000 worth of bitcoin via cash deposit at a number of banks across the United States. After your cash deposit is made you'll usually receive your coins within 15 minutes.
    desc_cdus: Wall of Coins is another company that helps match buyers and sellers, with all payments done via cash deposits. You can buy up to $2000 worth of bitcoin via cash deposit at a number of banks across the United States. After your cash deposit is made you'll usually receive your coins within 15 minutes. 
    desc_cdus_short: Wall of Coins is an escrow service, helping people buy bitcoins with cash deposit. 
@@ -1696,7 +1698,7 @@
    url: http://buybitcoinww.co/cex_io_bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/cex.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, tr, cn, hk, ar, br, cl, mx, co, pe, uy  
-   po: sepa, ccus, swift, fast, lowfees, ccww, cc, astro
+   po: sepa, ccus, swift, fast, lowfees, ccww, cc, astro, babt
    desc_ccww_short: Buy bitcoin with a Visa or Mastercard credit or debit card from nearly any country. 
    desc_fast: CEX.io lets you buy bitcoin with a credit card, ACH bank transfer, or SEPA transfer. Purchases made with a credit card give you access to your bitcoin immediately. CEX.io works in the United States, Europe, and some countries in South America. 
    desc_ccus: CEX.io lets you buy bitcoin with a credit card, and your bitcoin will be available immediately. CEX.io works in the United States, Europe, and some countries in South America.
@@ -1762,7 +1764,7 @@
    url: https://www.snapcard.io/buy-bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/snapcard.png
    countries: us
-   po: usbt, lowfees, bt
+   po: usbt, lowfees, bt, babt
    desc_usbankshort: Buy bitcoin with a connected U.S. bank account. 0.5% fee. 
    desc_ach: Snapcard lets you buy bitcoin with a connected bank account via ACH transfer. Snapcard charges a flat 0.5% fee on all purchases. 
    desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable.
@@ -1829,7 +1831,7 @@
    url: https://cubits.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/cubits.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, ca
-   po: sepa, okpay, swift, sofort, onlinebt
+   po: sepa, okpay, swift, sofort, onlinebt, babt
    desc_skrill: 
    desc_short_skrill: 
    es: yes
@@ -1880,7 +1882,7 @@
    url: https://www.itbit.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/itbit.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg
-   po: sepa
+   po: sepa, babt
    es: yes
    name_es: itBit
    desc_es: Deposite con transferencia ACH, SEPA o transferencia bancaria internacional. 
@@ -2001,7 +2003,7 @@
    url: http://buybitcoinww.co/bitfinex_exchange
    icon: https://www.buybitcoinworldwide.com/img/buy/finex.png
    countries: at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, ie, it, lv, lt, lu, mt, nl, pl, pt, ro, sk, si, es, se, gb, us, jp, cn 
-   po: lowfees, swift
+   po: lowfees, swift, babt
    es: yes
    name_es: Bitfinex
    desc_es: Deposite fondos con una transferencia bancaria internacional y compre bitcoin en la bolsa.
@@ -2023,7 +2025,7 @@
    url: https://xapo.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/xapo.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, au, br, cl, co, mx, uy, cn, hk, tr, ar
-   po: swift
+   po: swift, babt
    es: yes
    name_es: Xapo
    desc_es: Plataforma global de Bitcoin. Comprar Bitcoin con euros mediante transferencia bancaria internacional.
@@ -2076,7 +2078,7 @@
    url: https://www.happycoins.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/happy.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb     
-   po: sepa, ideal, sofort, io
+   po: sepa, ideal, sofort, io, babt
    ar: yes
    desc_ar:  وسيط بيتكوين. الشراء بتحويل بنكي SEPA، و iDEAL، وغيرها من طرق الدفع الأخرى.
    desc_fr: Courtier bitcoin. Achetez avec virements SEPA, iDEAL, et autres moyens de paiement.

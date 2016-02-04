@@ -26,6 +26,9 @@ Addresses may be securely shared, with anyone and everyone. An address can be co
 
 Once payment is made, your wallet will initially report an incoming payment as pending or unconfirmed. The payment should receive its first confirmation within half an hour. As it receives further confirmations over time, it’s increasingly safe to assume that payment has been properly made and settled.
 
+* Table of Contents
+{:toc}
+
 ## How is Bitcoin Sent?
 
 Paying someone in Bitcoin is straight-forward. Simply enter their address or QR code into your wallet and transmit the money. Note that all Bitcoin payments are irreversible, so ensure that you send the correct amount to the correct address.

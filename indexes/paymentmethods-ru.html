@@ -5,11 +5,16 @@ title: Купить биткоин - Способы оплаты
 desc: Как купить биткоин определенным способом оплаты. Выберите способ оплаты, чтобы увидеть все биржи и брокеров, принимающих данный вид платежа. 
 lang: ru
 permalink: /ru/Способы-оплаты/
+pagetype: pmethodsindex 
+sitemap:
+  exclude: 'yes'
 ---
-<div class="help-article-index">
-	<div class="help-article-wrap">
-		<img src="/img/icons/ccus.jpg">
-		<h2 class="help-article-title"><a href="/ru/Покупка-биткоинов-при-помощи-банковской-карты/">Покупка биткоинов при помощи банковской карты</a></h2>
-		<p>Покупка биткоинов банковской картой — хороший выбор, если вам нужно небольшое количество биткоинов, или они нужны вам быстро.</p>
-	</div>
+<div class="help-article-index pmethods-index">
+{% for pmethod in site.data.paymentmethods_ru %}
+	<a class="col-md-6" href="{{ pmethod.url }}">
+	<i class="fa fa-4x fa-{{ pmethod.icon }}"></i>
+	<div class="payment-method">{{ pmethod.pmethod }}</div>
+	<div class="payment-method-desc">{{ pmethod.desc }}</div>
+	</a>	
+{% endfor %}	
 </div>

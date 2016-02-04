@@ -12,7 +12,11 @@ categories:
 - general
 weight: 7
 ---
+
 There’s an important difference between Bitcoin transactions and other means of money transmission, such as credit cards, bank transfers or PayPal - [Bitcoin payments are irreversible](/kb/how-does-bitcoin-work/). If you’re cheated, there’s no central authority to refund or reverse your payment. It’s also highly unlikely that authorities will be able to assist, as it’s extremely difficult to establish ownership of a Bitcoin address. You bear [full responsibility for managing your bitcoins](/kb/how-to-store-and-protect-bitcoins/). Fortunately, a little common sense and knowledge will go a long way to avoiding scams.
+
+* Table of Contents
+{:toc}
 
 ## Research
 A good maxim to keep in mind when considering any proposition is: if it sounds too good to be true, it probably is. Browsing Bitcoin-related forums, sites or social media, you’ll encounter many enticing offers of high investment returns. If a scheme is presented as highly-profitable and low-risk, ask yourself why such a great opportunity is being shared with the public. 

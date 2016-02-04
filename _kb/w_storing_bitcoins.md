@@ -20,6 +20,9 @@ Bitcoins can be [stored in a number of different kinds of wallets](https://bitco
 
 Before reading on, understand [why you’re using Bitcoin](http://www.coindesk.com/information/why-use-bitcoin/) and what you need it for. After reading this article, you should have a much better idea of what kind of wallet will be right for you.
 
+* Table of Contents
+{:toc}
+
 ## Hot Wallets
 
 Hot wallets are Bitcoin wallets that run on internet connected devices like a computer, mobile phone, or tablet. As we mentioned earlier, private keys are _secret_ codes. Because hot wallets generate private keys on an internet connected device, these private keys can’t be considered 100% secure. Hot wallets should be treated like your pocket, or purse, wallet today: used to carry cash that’s needed for day-to-day spending, but not to store your savings account. You can always replenish your hot wallet with funds from your more secure Bitcoin wallets (more on this below). 
@@ -46,7 +49,7 @@ A paper wallet is the most basic form of cold storage. A paper wallet is created
 
 Paper wallets are easy to generate securely, but extra precautions must be taken once the wallet has been physically printed. Let’s take a look at how your paper wallet funds could be jeopardized even if generated securely from the start.
 
-### Theft
+#### Theft
 
 Remember how we said private keys must be kept secret? What if a friend knew about your bitcoin holdings and found your paper wallet? He or she would be able to steal your funds very easily.  
 
@@ -54,7 +57,7 @@ There are a few options to prevent this scenario. The easiest option is to use a
 
 Another way to prevent physical theft is to simply keep your paper wallet in a physically secure, secret location, to which only you have access.
 
-### Accidental Damage  
+#### Accidental Damage  
 Consider if you printed out your paper wallet and thought your Bitcoin funds were safe for the long run. What if your wallet was at home and a fire burned down your house? Your bitcoins would be gone forever.  
 
 This illustrates the importance of multiple backups. Your paper wallet can be printed an unlimited number of times. Store your wallet in multiple secure physical locations so that in the event that one of your backups is lost or damaged, you still have access to your funds. Paper wallets can also be laminated to protect against water damage. For the super paranoid, engrave your paper wallet’s private key into metal.

@@ -5,25 +5,17 @@ title: Acheter des Bitcoins - Moyens de paiement
 desc: Comment acheter des bitcoins avec un moyen de paiement donné. Choisissez un moyen de paiement pour voir les bourses d'échanges et courtiers l'acceptant.
 lang: fr
 permalink: /fr/moyens-de-paiement/
+pagetype: pmethodsindex 
+sitemap:
+  exclude: 'yes'
 ---
-<div class="help-article-index">
 
-	<div class="help-article-wrap ccus">
-		<img src="/img/icons/ccus.jpg">
-		<h2 class="help-article-title"><a href="/fr/acheter-des-bitcoins-avec-une-carte-de-credit-ou-debit/">Acheter des Bitcoins avec une carte de crédit ou de débit</a></h2>
-		<p>L'achat de bitcoins par une carte de crédit est une bonne option pour des besoins rapides ou si vous n'avez besoin que d'une petite quantité de bitcoins.</p>
-	</div>
-
-	<div class="help-article-wrap">
-		<img src="/img/icons/sepa1.png">
-		<h2 class="help-article-title"><a href="/fr/acheter-des-bitcoins-en-ligne-par-virement-sepa/">Acheter des Bitcoins en ligne par virement SEPA</a></h2>
-		<p>Bourses d'échange et courtiers acceptant les paiements de bitcoins par virements SEPA.</p>
-	</div>
-	
-	<div class="help-article-wrap ccus">
-		<img src="/img/icons/io.png">
-		<h2 class="help-article-title"><a href="/fr/comment-acheter-des-bitcoins-avec-interac-en-ligne/">Comment acheter des Bitcoins avec INTERAC® En Ligne</a></h2>
-		<p>Bourses d'échange de bitcoins et courtiers canadiens acceptant les paiements de bitcoins par INTERAC® En Ligne.</p>
-	</div>
-	
+<div class="help-article-index pmethods-index">
+{% for pmethod in site.data.paymentmethods_fr %}
+	<a class="col-md-6" href="{{ pmethod.url }}">
+	<i class="fa fa-4x fa-{{ pmethod.icon }}"></i>
+	<div class="payment-method">{{ pmethod.pmethod }}</div>
+	<div class="payment-method-desc">{{ pmethod.desc }}</div>
+	</a>	
+{% endfor %}	
 </div>

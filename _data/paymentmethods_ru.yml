@@ -1,0 +1,9 @@
+ - pmethod: Credit Card
+   icon: credit-card 
+   url: /ru/Покупка-биткоинов-при-помощи-банковской-карты/
+   desc: 
+  
+ - pmethod: PayPal
+   icon: paypal
+   url: /ru/купить-биткоины-paypal/
+   desc:  

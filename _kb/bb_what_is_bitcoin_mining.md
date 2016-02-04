@@ -17,6 +17,9 @@ If “mining” sounds like a process which extracts value from Bitcoin, nothing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe>
 
+* Table of Contents
+{:toc}
+
 ## The Blockchain
 
 To understand mining, it’s first necessary to understand the Bitcoin blockchain. All Bitcoin transactions are recorded in the blockchain, in a linear, time-stamped series of bundled transactions known as _blocks._ The blockchain is essentially a public ledger, which is freely shared, continually updated and under no central control.

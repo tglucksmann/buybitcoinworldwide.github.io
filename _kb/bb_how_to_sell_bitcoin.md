@@ -13,11 +13,14 @@ weight: 9
 ---
 This website tells you everything you need to know about [how to buy bitcoin](/find-exchange/) and why to buy bitcoin. What about the other side of the coin; how to sell bitcoin? [The exchanges you’ll discover](/exchanges/) through this site are the obvious answer but there are other, sometimes better, methods. Even more important than the particular method of sale, deciding the proper asking price for your bitcoins ensures a profitable and successful exchange. This guide will cover all these topics in detail.
 
+* Table of Contents
+{:toc}
+
 ## How to Sell Bitcoin Online
 
 There are 2 major online methods to sell Bitcoins for USD or any other type of fiat currency:
 
-### 1) Selling Bitcoin on Centralised Exchanges
+### Selling Bitcoin on Centralized Exchanges
 
 This is often the most convenient option. The more sophisticated online exchanges offer advanced trading interfaces which allow the placement of complex order types (such as trailing stop-losses). Most exchanges require some form of documentation; this requirement becomes unavoidable when withdrawing fiat to a bank account. However, on certain exchanges (such as [Bitfinex](http://buybitcoinww.co/bitfinex_exchange)), you may deposit and withdraw bitcoins without submitting personally identifying information. This allows you to sell for US Dollars when BTC is expensive then wait for price to cheapen before repurchasing and withdrawing a greater amount of Bitcoin, all without identifying yourself.
 
@@ -25,7 +28,7 @@ Leaving bitcoins or fiat in the care of any exchange unavoidably exposes you to 
 
 To allay client fears, several exchanges now offer cryptographic proof of [Bitcoin storage](/kb/how-to-store-and-protect-bitcoins/) as well as regular external audits of fiat accounts. Whenever possible, you should select an exchange which undertakes such measures. It’s never advisable to trust a third-party with significant wealth however; Bitcoin’s security is optimal when users hold their own money. Therefore, use such services only for trading purposes and never for wealth storage.
 
-### 2) Selling Bitcoins on Decentralised Exchanges
+### Selling Bitcoins on Decentralised Exchanges
 
 Decentralised exchanges are services which facilitate direct trading between individuals. Such exchanges usually advertise buy and sell offers (also known as bids and asks, respectively) so that trades can be arranged between individuals. Such exchanges also escrow trades and offer additional services to improve trade security, such as reputation systems for rating trading partners. Reputation stats are helpful when assessing a new trading partner but should never be considered a substitute to established security measures, as reputation systems can be gamed in various ways.
 
@@ -77,7 +80,7 @@ Larger exchanges, such as [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="n
 
 Here are some specific recommendations for the English-speaking world:
 
-### Sell Bitcoins in the [United States](/en/us/)
+### Sell Bitcoins in the United States
 
 [Coinbase](/exchanges/coinbase/) and [Circle](/exchanges/circle/) are both prominent and feature-rich exchanges which allow you to sell Bitcoins for USD. [Gemini](https://gemini.com/) is a relatively new exchange which may be a good fit for major sales as they cater to institutional clients. These exchanges focus on regulatory compliance and making their user experience as seamless as possible.
 
@@ -85,7 +88,7 @@ Here are some specific recommendations for the English-speaking world:
 
 All major decentralised services are available in the US, although LocalBitcoins and BitQuick don’t operate in the state of New York due to the [BitLicense legislation](https://bitcoinmagazine.com/articles/bitquick-local-bitcoins-terminate-service-ny-due-bitlicense-compliance-costs-1439414074).
 
-### Sell Bitcoins in [Canada](/en/ca/)
+### Sell Bitcoins in Canada
 
 The big American exchanges, [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} and [Kraken](http://buybitcoinww.co/kraken_bitcoin){:rel="nofollow"}, are also available in Canada for purposes of selling Bitcoin for Canadian dollars. Canada has many of its own exchanges, large and small; [Quadriga CX](https://www.quadrigacx.com/) is recommended for its low fees and advanced trading platform.
 

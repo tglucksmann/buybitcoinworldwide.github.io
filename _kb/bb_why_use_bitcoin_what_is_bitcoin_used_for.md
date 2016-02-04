@@ -18,6 +18,9 @@ In answering "What is Bitcoin used for?", we'll present real world examples of s
 
 In answering "Why use Bitcoin?", we will give more judgemental answers, like worldwide payments, financial privacy, sound monetary policy. 
 
+* Table of Contents
+{:toc}
+
 ## What is Bitcoin Used For? 
 
 ### Investment 
@@ -45,7 +48,7 @@ At [Purse.io](http://buybitcoinww.co/purse_io){:rel="nofollow"} you can get a di
 ### Dark Web
 The dark web has gotten much bigger over the past few years, and bitcoin is the primary currency used for these transactions. 
 
-## Remittances 
+### Remittances 
 Bitcoin has no borders and can be sent from any device with an internet connection to any other device with an internet connection. People use Bitcoin to transfer value from country to country.  The bitcoin is then received in the country receiving the remittance, and cashed out to the country’s local currency. Bitcoin remittances usually cost 3% of the total amount, while companies like Western Union charged between 10-15%. 
 
 Bitcoin payments are borderless and currently cost about $0.03. Any internet connected device anywhere in the world can receive bitcoin. 

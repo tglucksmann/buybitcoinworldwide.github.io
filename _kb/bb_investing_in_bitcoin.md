@@ -14,6 +14,9 @@ weight: 7
 ---
 As the world becomes more reliant on the internet, it is no surprise that Bitcoin, a secure, digital, currency, has claimed the interest of investors. Bitcoin is open to everyone and provides an exciting opportunity to delve into an entirely new asset class. Investing in bitcoin may seem scary, but know that it takes time and effort to understand how Bitcoin works.
 
+* Table of Contents
+{:toc}
+
 In this guide we're going to explain the basics of investing in bitcoin and why it needs to be taken seriously. We'll also explain [how to protect and properly secure your bitcoins](/kb/how-to-store-and-protect-bitcoins/) if you do decide to invest.
 
 *Note: Bitcoin with a capital “B” references Bitcoin the network or Bitcoin the payment system; bitcoin with a lowercase “b” references bitcoin as a currency or bitcoin the currency unit.*

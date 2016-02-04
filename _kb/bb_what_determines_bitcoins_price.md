@@ -14,6 +14,9 @@ weight: 9
 ---
 Bitcoin’s price is measured against fiat currency, such as American Dollars (BTCUSD), Chinese Yuan (BTCCNY) or Euro (BTCEUR). Bitcoin therefore appears superficially similar to any symbol traded on foreign exchange markets. 
 
+* Table of Contents
+{:toc}
+
 Unlike fiat currencies however, there is no official Bitcoin price; only various averages based on price feeds from [global exchanges](/exchanges/). [Bitcoin Average](https://bitcoinaverage.com/explain) and [CoinDesk](http://www.coindesk.com/price/) are two such indices reporting the average price. It’s normal for Bitcoin to trade on any single exchange at a price slightly different to the average.
 
 But discrepancies aside, what factors determine Bitcoin’s price?

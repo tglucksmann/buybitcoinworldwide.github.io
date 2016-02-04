@@ -3,7 +3,7 @@ hide_sidebar: true
 lang: en
 sitemap:
   exclude: 'yes'
-title: 404
+title: We Can't Find that Page - 404 Error
 seotitle: 404 Error
 layout: page
 desc: We can't find the page you're looking for. 
@@ -11,28 +11,32 @@ desc: We can't find the page you're looking for.
 {% assign lang = site.data.translations[page.lang] %}
 
 <div class="well well-home">
-<div class="well-message">We can't find that page. Select a continent or popular country below. 
+<div class="well-message">We can't find that page. Select a continent or payment method below. 
 </div>
 
 <ul class="index-continent-menu">
-<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/where-to-buy-bitcoins/#na" type="button">{{ lang.namerica }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/where-to-buy-bitcoins/#eu" type="button">{{ lang.europe }}</a></li> 
-<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/where-to-buy-bitcoins/#sa" type="button">{{ lang.samerica }}</a></li> 
-<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/where-to-buy-bitcoins/#ca" type="button">{{ lang.camerica }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/where-to-buy-bitcoins/#oc" type="button">{{ lang.oceania }}</a></li>  
-<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/where-to-buy-bitcoins/#me" type="button">{{ lang.meast }}</a></li>
-<li><a class="btn btn-sm btn-primary" href="https://www.buybitcoinworldwide.com/where-to-buy-bitcoins/#as" type="button">{{ lang.asia }}</a></li>
+<li><a class="btn btn-sm btn-primary" href="/country-index/#na" type="button">{{ lang.namerica }}</a></li>
+<li><a class="btn btn-sm btn-primary" href="/country-index/#eu" type="button">{{ lang.europe }}</a></li> 
+<li><a class="btn btn-sm btn-primary" href="/country-index/#sa" type="button">{{ lang.samerica }}</a></li> 
+<li><a class="btn btn-sm btn-primary" href="/country-index/#ca" type="button">{{ lang.camerica }}</a></li>
+<li><a class="btn btn-sm btn-primary" href="/country-index/#oc" type="button">{{ lang.oceania }}</a></li>  
+<li><a class="btn btn-sm btn-primary" href="/country-index/#me" type="button">{{ lang.meast }}</a></li>
+<li><a class="btn btn-sm btn-primary" href="/country-index/#as" type="button">{{ lang.asia }}</a></li>
 <li><a class="btn btn-sm btn-primary" href="#af" type="button">{{ lang.africa }}</a></li> 
 </ul>
 </div>
 
+<h2 class="home-featured-header">Buy Bitcoin with these Popular Payment Methods</h2>
 <div class="container">
 <div class="row">
-{% for country in site.data.countries %}
-{% if country.pop == true %}
-{% include index-list.html %}
-{% endif %}
-{% endfor %}
+<div class="pmethods-index">
+{% for pmethod in site.data.paymentmethods %}
+	<a class="col-md-2 col-sm-4" href="{{ pmethod.url }}">
+	<i class="fa fa-4x fa-{{ pmethod.icon }}"></i>
+	<div class="payment-method">{{ pmethod.pmethod }}</div>
+	</a>	
+{% endfor %}	
+</div>
 </div>
 </div>
 <hr>

@@ -17,6 +17,9 @@ Bitcoin has become a rather controversial topic for those interested in economic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IP0jCjyrew8" frameborder="0" allowfullscreen></iframe>
 
+* Table of Contents
+{:toc}
+
 ## Functions of Money
 
 There are three [main functions of money](https://www.stlouisfed.org/education/economic-lowdown-podcast-series/episode-9-functions-of-money). As of now, bitcoin is mainly used as a store of value, but that could change over time. Here is a closer look at bitcoin’s current ability to function as a money:

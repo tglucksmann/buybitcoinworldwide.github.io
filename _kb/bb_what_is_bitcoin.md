@@ -20,6 +20,9 @@ Bitcoin is electronic money which can be securely exchanged over the internet. J
 <br />
 Bitcoin is called many things: **peer-to-peer currency** (as it runs on a network protocol where users connect only to other users), **digital cash** (as it’s directly transferred to your trading partner), **private money** (as it’s issued and verified by network users) and **cryptocurrency** (as it’s secured by [cryptography](https://en.wikipedia.org/wiki/Cryptography)).
 
+* Table of Contents
+{:toc}
+
 ## What Bitcoin Does and How
 
 Bitcoin enables any two people, anywhere in the world, to rapidly and directly exchange funds. The only information necessary to a transfer is the receiver’s “address,” which is like their email address or bank account number.

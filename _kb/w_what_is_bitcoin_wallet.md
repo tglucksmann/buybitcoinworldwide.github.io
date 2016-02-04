@@ -21,6 +21,9 @@ For someone to store and transact bitcoin, [they must own a Bitcoin wallet](/wal
 
 The object that a Bitcoin user needs to secure is not their bitcoin, but [the private keys that unlock their bitcoin](/kb/what-is-a-bitcoin-private-key/) on the blockchain. With a Bitcoin wallet, no bitcoin is stored on the local computer or in a bank somewhere. All bitcoin exists on the decentralized ledger, [known as the Bitcoin blockchain](https://en.bitcoin.it/wiki/Block_chain).
 
+* Table of Contents
+{:toc}
+
 It may be more correct to refer to a Bitcoin wallet as a bitcoin keychain. It stores all of the private keys associated with your Bitcoin addresses. Instead of worrying about securely storing their bitcoin, users should be concerned with safely storing their private keys. Copies of these keys can also be made, which means the keys can be backed up and stored in multiple locations, much like real, physical keys.
 
 ## Types of Bitcoin Wallets
