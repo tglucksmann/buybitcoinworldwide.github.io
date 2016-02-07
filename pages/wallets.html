@@ -29,34 +29,30 @@ hide_sidebar: true
 
 <h2>Best Online Bitcoin Wallet Overviews (Web Wallets)</h2>			
 <p>Web wallets store your private keys online, where they are encrypted with a user chosen password. Online bitcoin wallets are accessible from any internet connected device.</p>
-    {% for wallet in pages reversed %}
-	{% if wallet.tags contains 'web' %}
-	{% include wallet-list.html %}
-	{% endif %}
-	{% endfor %}
+    
+    <div class="col-sm-12 buy-info-full"> <h4> <img alt="" src="/img/wallets/coinkite.png">Coinkite <a class="btn learn-more-button btn-primary pull-right large-screen-buy" href="/wallets/coinkite/" type="button"><i class="fa fa-info"></i> Learn More</a> </h4> <p>Coinkite is a bitcoin platform with multisig wallets, merchant tools, and a developer API. It's been in business for over 2 years and is based in Canada. Coinkite offers two kinds of wallets; a “Simple Wallet” where CK signs the transactions and holds the private keys, and "Multisig Vaults" where you control the keys.</p> <a class="btn btn-primary small-screen-buy" href="/wallets/coinkite/"><i class="fa fa-info"></i> Learn More</a> </div>
+    
+    <div class="col-sm-12 buy-info-full"> <h4> <img alt="" src="/img/wallets/blockchain.png">Blockchain.info <a class="btn learn-more-button btn-primary pull-right large-screen-buy" href="/wallets/blockchain-info/" type="button"><i class="fa fa-info"></i> Learn More</a> </h4> <p>Blockchain.info is a simple Bitcoin web wallet. Its simplicity makes it a good choice for people opening their first Bitcoin wallet. Blockchain.info wallets can be accessed from any web browser, apps for iPhone and Android, and browser extensions for Firefox and Chrome.</p> <a class="btn btn-primary small-screen-buy" href="/wallets/blockchain-info/"><i class="fa fa-info"></i> Learn More</a> </div>
+    
+    <div class="col-sm-12 buy-info-full"> <h4> <img alt="" src="/img/wallets/greenaddress.png">GreenAddress <a class="btn learn-more-button btn-primary pull-right large-screen-buy" href="/wallets/greenaddress/" type="button"><i class="fa fa-info"></i> Learn More</a> </h4> <p>GreenAddress is a multisignature Bitcoin wallet available on the web, desktop, Android, and iOS. GreenAddress is compatible with hardware wallets like TREZOR, Ledger Nano, and the HW.1.</p> <a class="btn btn-primary small-screen-buy" href="/wallets/greenaddress/"><i class="fa fa-info"></i> Learn More</a> </div>
 	
 <h2>Best Android Bitcoin Wallets</h2>			
 <p>Android offers developers more freedom than iOS. For example, it's only possible to use hardware wallets with Android Bitcoin wallets, because Apple doesn't allow the use of OTG cables. The best Android Bitcoin wallets let users control their private keys.</p>
-    {% for wallet in pages reversed %}
-	{% if wallet.tags contains 'android' %}
-	{% include wallet-list.html %}
-	{% endif %}
-	{% endfor %}	
+    
+    <div class="col-sm-12 buy-info-full"> <h4> <img alt="" src="/img/wallets/mycelium.png">Mycelium <a class="btn learn-more-button btn-primary pull-right large-screen-buy" href="/wallets/mycelium/" type="button"><i class="fa fa-info"></i> Learn More</a> </h4> <p>Mycelium, founded in 2008, is a Bitcoin company with 35 employees located in Europe, Asia, and America. Mycelium offers mobile wallets for iPhone and Android. Mycelium is a good option for beginners, with features like watch-only addresses, cold storage spending, and HD accounts. Advanced features include TREZOR &amp; Ledger support, xpub/xpriv key exports, and decrypting BIP38 keys. Mycelium can also restore hardware wallet seeds from TREZOR or Ledger. Mycelium is the most popular Bitcoin wallet on Android.</p> <a class="btn btn-primary small-screen-buy" href="/wallets/mycelium/"><i class="fa fa-info"></i> Learn More</a> </div>
+    
+    <div class="col-sm-12 buy-info-full"> <h4> <img alt="" src="/img/wallets/bwallet.png">Bitcoin Wallet <a class="btn learn-more-button btn-primary pull-right large-screen-buy" href="/wallets/bitcoin-wallet/" type="button"><i class="fa fa-info"></i> Learn More</a> </h4> <p>Bitcoin Wallet, or “Schildbach Wallet”, was the first mobile Bitcoin wallet. Bitcoin Wallet is more secure than most mobile Bitcoin wallets, because it connects directly to the Bitcoin network with SPV. Bitcoin Wallet has a simple interface and just the right amount of features, making it the easiest Bitcoin wallet for beginners to learn with.</p> <a class="btn btn-primary small-screen-buy" href="/wallets/bitcoin-wallet/"><i class="fa fa-info"></i> Learn More</a> </div>
+    
+    <div class="col-sm-12 buy-info-full"> <h4> <img alt="" src="/img/wallets/greenbits.png">GreenBits <a class="btn learn-more-button btn-primary pull-right large-screen-buy" href="/wallets/greenbits/" type="button"><i class="fa fa-info"></i> Learn More</a> </h4> <p>GreenBits is the native Android version of GreenAddress. It’s a multi-signature wallet that supports hardware wallets like TREZOR and Ledger.</p> <a class="btn btn-primary small-screen-buy" href="/wallets/greenbits/"><i class="fa fa-info"></i> Learn More</a> </div>	
 	
 <h2>iOS and iPhone Bitcoin Wallets</h2>			
 <p>Apple banned Bitcoin wallets from the App Store in February 2014, but reversed its decision a few months later. Luckily, there are plenty of options for iOS users.</p>
-    {% for wallet in pages reversed %}
-	{% if wallet.tags contains 'ios' %}
-	{% include wallet-list.html %}
-	{% endif %}
-	{% endfor %}		
+    
+    		
 	
 <h2>Desktop Wallets</h2>			
 <p>Desktop wallets are downloaded and installed on your computer.</p>
-    {% for wallet in pages reversed %}
-	{% if wallet.tags contains 'desktop' %}
-	{% include wallet-list.html %}
-	{% endif %}
-	{% endfor %}	
+    
+    <div class="col-sm-12 buy-info-full"> <h4> <img alt="" src="/img/wallets/electrum.png">Electrum <a class="btn learn-more-button btn-primary pull-right large-screen-buy" href="/wallets/electrum/" type="button"><i class="fa fa-info"></i> Learn More</a> </h4> <p>Electrum is a light weight Bitcoin wallet for Mac, Linux, and Windows. It was created in November 2011. The main features of Electrum are support for hardware wallets TREZOR, Ledger Nano and HW1, secure cold storage using an offline computer, and decentralized verification using SPV. Electrum is a good option for both beginners and advanced users.</p> <a class="btn btn-primary small-screen-buy" href="/wallets/electrum/"><i class="fa fa-info"></i> Learn More</a> </div>	
                         
 </div>

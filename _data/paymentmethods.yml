@@ -24,7 +24,7 @@
    desc: Buy bitcoin online via SEPA bank transfer.    
    
  - pmethod: No Verification
-   icon: exchange 
+   icon: camera
    url: /kb/buy-bitcoin-without-verification-id/
    desc: Buy bitcoins with no ID or verification. 
    
