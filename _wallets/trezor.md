@@ -9,7 +9,7 @@ desc: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offer
 wallet: trezor
 cat: hardware
 thumb: trezor.png
-tags: bip39, bip44, hdwallet, multiaccounts, pincode, offlinesigning, coldstorage, hardware
+tags: [bip39, bip44, hdwallet, multiaccounts, pincode, offlinesigning, coldstorage, hardware]
 website: bitcointrezor.com
 website_url: http://bitcointrezor.com/
 hardware_wallet: yes

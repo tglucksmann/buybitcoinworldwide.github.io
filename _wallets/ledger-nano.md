@@ -8,7 +8,7 @@ desc: Ledger Nano is a Bitcoin wallet on a smartcard device, small format and lo
 wallet: ledger_nano
 cat: hardware
 thumb: ledger.png
-tags: bip39, bip44, hdwallet, multiaccounts, pincode, offlinesigning, coldstorage, myceliumas, coinkites, greenaddresss, greenbitss, electrums, copays, hardware
+tags: [bip39, bip44, hdwallet, multiaccounts, pincode, offlinesigning, coldstorage, myceliumas, coinkites, greenaddresss, greenbitss, electrums, copays, hardware]
 website: ledgerwallet.com
 website_url: https://www.ledgerwallet.com/
 hardware_wallet: yes

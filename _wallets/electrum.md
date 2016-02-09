@@ -17,7 +17,7 @@ control_priv_keys: yes
 download_desktop: yes
 download_desktop_url: https://electrum.org/#download
 contribute: electrum
-tags: desktop, mac, coldstorage, windows, linux, trezorh, ledgernanoh, hw1h
+tags: [desktop, mac, coldstorage, windows, linux, trezorh, ledgernanoh, hw1h]
 summary: Electrum is a light weight Bitcoin wallet for Mac, Linux, and Windows. It was created in November 2011. The main features of Electrum are support for hardware wallets TREZOR, Ledger Nano and HW1, secure cold storage using an offline computer, and decentralized verification using SPV. Electrum is a good option for both beginners and advanced users. 
 weight: 8
 ---
