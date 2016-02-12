@@ -69,13 +69,13 @@ The "buy bitcoin" section of Coinbase.
 
 </div>
 
-## Coinbase Privacy
+## Privacy
 Users must provide full identity verification and many personal details. 
 
 * Table of Contents
 {:toc}
 
-## Coinbase Limits & Liquidity
+## Limits & Liquidity
 [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} offers very high limits. Limits depend on your account level, which is determined by how much information you have verified. Fully verified U.S. customers may buy up to $50,000 worth of bitcoin daily. 
 
 European customers may have a maximum of €30,000 euro in their account at any time. 
@@ -97,14 +97,14 @@ European users paying with SEPA transfer will receive bitcoin within 1-3 days.
 ## Reputation
 Coinbase is a regulated company and holds licenses in all districts in which it operates.  
 
-## Coinbase Fees
+## Fees
 Coinbase charges a flat 1% fee on all purchases.
 
 **Canada**
 
 Canadian customers must pay a $1 fee on any transfers of CAD to a bank account. European users buying with a 3D secure debit card will be charged a 3% fee instead of 1%. 
 
-## Supported Coinbase Countries
+## Supported Countries
 [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} offers its brokerage services in the United States, United Kingdom, Canada, Singapore, and the following European countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Liechtenstein, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland.
 
 Coinbase plans to enter the Latin American market in 2016. 
