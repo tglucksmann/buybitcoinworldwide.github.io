@@ -38,6 +38,8 @@ The average buy price on [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){
 
 The difference between Local Bitcoins and most exchanges is that [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} does not require personal information when making trades. Unlike other exchanges, which require ID verification and personal information, Local Bitcoins allows you to buy bitcoin without connecting your name to the bitcoin you’re buying. The 5-10% premium is simply the cost people are willing to pay for privacy when buying bitcoins. 
 
+* Table of Contents
+{:toc}
 
 ## Payment Methods Accepted
 LocalBitcoins users are free to accept any payment methods. The payment methods available to buyers will depend on what's available in your area. 

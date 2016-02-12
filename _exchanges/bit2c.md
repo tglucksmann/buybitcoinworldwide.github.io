@@ -52,6 +52,9 @@ Bit2C is an Israeli Bitcoin exchange founded in 2013. The exchange is available 
 ## Supported Countries
 Bit2C is available to residents of Israel. 
 
+* Table of Contents
+{:toc}
+
 ## Privacy
 Bit2C requires full identity verification. Pictures of your I.D. are required. 
 

@@ -55,6 +55,9 @@ Founded in 2013, Circle is a digital money company. Its goal is to make the tran
 ## Privacy
 Circle requires identity verification and personal details. 
 
+* Table of Contents
+{:toc}
+
 ## Limits & Liquidity
 Users are initially given a limit of $300 of combined buying/selling/sending per week. After some time, you may be able to have this limit increased to $3,000. 
 

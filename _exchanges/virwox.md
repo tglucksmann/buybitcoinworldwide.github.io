@@ -55,6 +55,8 @@ VirWoX offers one of the few ways to [buy bitcoin with PayPal](/en/buy-bitcoin-p
 ## Supported Countries
 Anyone in the world with access to the payment methods above can deposit on VirWoX. 
 
+* Table of Contents
+{:toc}
 
 ## Privacy
 [VirWoX](http://buybitcoinww.co/bitcoin_virwox){:rel="nofollow"} doesn't require any personal details, but the payment methods VirWoX accepts all require your name and other personal details.

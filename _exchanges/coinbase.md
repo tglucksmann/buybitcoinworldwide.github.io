@@ -72,6 +72,9 @@ The "buy bitcoin" section of Coinbase.
 ## Coinbase Privacy
 Users must provide full identity verification and many personal details. 
 
+* Table of Contents
+{:toc}
+
 ## Coinbase Limits & Liquidity
 [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} offers very high limits. Limits depend on your account level, which is determined by how much information you have verified. Fully verified U.S. customers may buy up to $50,000 worth of bitcoin daily. 
 
