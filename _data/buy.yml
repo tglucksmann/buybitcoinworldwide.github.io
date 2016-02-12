@@ -1774,6 +1774,14 @@
    desc_it: Acquista Bitcoin con il tuo conto bancario. Facile e veloce.
    desc_pt_br: Compre Bitcons usando sua conta bancária. Simples, rápido e conveniente.
    desc_de: Kaufen Sie Bitcoin mit Ihren Bankkonto. Einfach, schnell, bequem.
+
+ - name: Coinhouse
+   desc: Buy bitcoins instantly with a 3D secure credit or debit card in France.  
+   url: http://buybitcoinww.co/coinhouse
+   po: ccww
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinhouse.png
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
+   desc_ccww: Citizens of France can buy bitcoin with a 3D secure credit or debit card at Coinhouse. The fees range from 6-10% depending on your total buy volume. <a href="/exchanges/coinhouse/">Learn more in our Coinhouse review</a>.
    
  - name: Purse.io
    desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
@@ -1856,26 +1864,26 @@
    countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb
    po: pp, cc, skrill, okpay
 
- - name: Trucoin
-   desc: Buy bitcoin instantly with a credit or debit card in over 30 US states.
-   url: https://trucoin.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/trucoin.png
-   countries: us
-   po: ccus, fast, ccww, cc
-   desc_fast: Trucoin lets you buy bitcoin with a Visa or Mastercard CC in 30 U.S. states. Your bitcoin will be delivered instantly. Available in Alabama, Arizona, Arkansas, American Samoa, Connecticut, Washington D.C., Florida, Georgia, Idaho, Kansas, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Mississippi, Montana, Nebraska, New Jersey, New Mexico, North Dakota, Oregon, Rhode Island, South Carolina, South Dakota, Texas, Wake Island, West Virginia, and Wyoming.
-   desc_ccus: Trucoin lets you buy bitcoin with a Visa or Mastercard credit card in 30 U.S. states. Your bitcoin will be delivered instantly. Available in Alabama, Arizona, Arkansas, American Samoa, Connecticut, Washington D.C., Florida, Georgia, Idaho, Kansas, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Mississippi, Montana, Nebraska, New Jersey, New Mexico, North Dakota, Oregon, Rhode Island, South Carolina, South Dakota, Texas, Wake Island, West Virginia, and Wyoming.
-   desc_ccww: Trucoin lets you buy bitcoin with a Visa or Mastercard credit card in 30 U.S. states. Your bitcoin will be delivered instantly. Available in Alabama, Arizona, Arkansas, American Samoa, Connecticut, Washington D.C., Florida, Georgia, Idaho, Kansas, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Mississippi, Montana, Nebraska, New Jersey, New Mexico, North Dakota, Oregon, Rhode Island, South Carolina, South Dakota, Texas, Wake Island, West Virginia, and Wyoming.
-   es: yes
-   name_es: Trucoin
-   desc_es: Comprar Bitcoin con una tarjeta de crédito de forma instantánea en más de 30 estados de los EEUU.
-   ar: yes
-   desc_ar:  شراء بيتكوين ببطاقة الائتمان على الفور في أكثر من 30 ولاية أمريكية.
-   desc_fr: Achetez instantanément des bitcoins par carte de crédit dans plus de 30 états des États-Unis.
-   desc_pt_br: Compre Bitcoins usando seu cartão de crédito em mais de 30 estados norte-americanos.
-   desc_de: Bitcoin sofort mit einer Kreditkarten in über 30 US-Staaten kaufen.
-   desc_zh: 可在美国三十多个州使用信用卡购买比特币。
-   desc_ru: Купить биткоин кредитной картой мгновенно в более чем 30 штатах США.
-   desc_uk: Купити біткоіни кредитною карткою миттєво в більш ніж 30 штатах США.
+## - name: Trucoin
+##   desc: Buy bitcoin instantly with a credit or debit card in over 30 US states.
+##   url: https://trucoin.com/
+##   icon: https://www.buybitcoinworldwide.com/img/buy/trucoin.png
+##   countries: us
+##   po: ccus, fast, ccww, cc
+##   desc_fast: Trucoin lets you buy bitcoin with a Visa or Mastercard CC in 30 U.S. states. Your bitcoin will be delivered instantly. Available in Alabama, Arizona, Arkansas, American Samoa, Connecticut, Washington D.C., Florida, Georgia, Idaho, Kansas, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Mississippi, Montana, Nebraska, New Jersey, New Mexico, North Dakota, Oregon, Rhode Island, South Carolina, South Dakota, Texas, Wake Island, West Virginia, and Wyoming.
+##   desc_ccus: Trucoin lets you buy bitcoin with a Visa or Mastercard credit card in 30 U.S. states. Your bitcoin will be delivered instantly. Available in Alabama, Arizona, Arkansas, American Samoa, Connecticut, Washington D.C., Florida, Georgia, Idaho, Kansas, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Mississippi, Montana, Nebraska, New Jersey, New Mexico, North Dakota, Oregon, Rhode Island, South Carolina, South Dakota, Texas, Wake Island, West Virginia, and Wyoming.
+##   desc_ccww: Trucoin lets you buy bitcoin with a Visa or Mastercard credit card in 30 U.S. states. Your bitcoin will be delivered instantly. Available in Alabama, Arizona, Arkansas, American Samoa, Connecticut, Washington D.C., Florida, Georgia, Idaho, Kansas, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Mississippi, Montana, Nebraska, New Jersey, New Mexico, North Dakota, Oregon, Rhode Island, South Carolina, South Dakota, Texas, Wake Island, West Virginia, and Wyoming.
+##   es: yes
+##   name_es: Trucoin
+##   desc_es: Comprar Bitcoin con una tarjeta de crédito de forma instantánea en más de 30 estados de los EEUU.
+##   ar: yes
+##   desc_ar:  شراء بيتكوين ببطاقة الائتمان على الفور في أكثر من 30 ولاية أمريكية.
+##   desc_fr: Achetez instantanément des bitcoins par carte de crédit dans plus de 30 états des États-Unis.
+##   desc_pt_br: Compre Bitcoins usando seu cartão de crédito em mais de 30 estados norte-americanos.
+##   desc_de: Bitcoin sofort mit einer Kreditkarten in über 30 US-Staaten kaufen.
+##   desc_zh: 可在美国三十多个州使用信用卡购买比特币。
+##   desc_ru: Купить биткоин кредитной картой мгновенно в более чем 30 штатах США.
+##   desc_uk: Купити біткоіни кредитною карткою миттєво в більш ніж 30 штатах США.
    
  - name: itBit
    desc: New York based Bitcoin exchange. Deposit with ACH transfer, SEPA, or international wire transfer.
@@ -2090,15 +2098,6 @@
    desc_bg: Биткойн брокер. Купете биткойн чрез SEPA банков превод, iDEAL и много други възможности за плащане.
    desc_ru: Биткоин-брокер. Купить биткоин с помощью SEPA-платежа, iDEAL и других способов оплаты.
    desc_uk: Біткоін-брокер. Купити біткоіни за допомогою SEPA-платежу, iDEAL та інших способів оплати.
-
- - name: Coinhouse
-   desc: Buy bitcoins instantly with a 3D secure credit or debit card in France.  
-   url: http://buybitcoinww.co/coinhouse
-   po: ccww
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinhouse.png
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
-   desc_ccww: Citizens of France can buy bitcoin with a 3D secure credit or debit card at Coinhouse. The fees range from 6-10% depending on your total buy volume. <a href="/exchanges/coinhouse/">Learn more in our Coinhouse review</a>.
-
 
  - name: 247Exchange
    url: http://buybitcoinww.co/247exchange
