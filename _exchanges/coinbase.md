@@ -139,7 +139,7 @@ The above content reviewed Coinbase's brokerage services. This section takes a l
 
 Your "wallet" can be accessed on the web, or with Coinbase's [apps for iOS](https://itunes.apple.com/us/app/coinbase-bitcoin-wallet/id886427730?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.coinbase.android&hl=en). Coinbase controls all private keys, and acts more like a bank than a true Bitcoin wallet. Coinbase should only be used to buy or sell bitcoin, and not to store funds (unless you use the Multisignature Vault).
 
-## Security
+### Security
 {: .security .wallet-sections}
 Users may create three types of wallets with Coinbase: wallet, vault, and multisig vault.
 
@@ -157,7 +157,7 @@ Coinbase multisig vault.
 
 **Multisig Vault:** Coinbase understands that many users want complete control over their funds. Its multi-sig vault is a 2 of 3 wallet, where Coinbase has one key, one key is shared, and the third key is held by the account holder. Any two of the three keys allows spending of funds. If Coinbase goes down, you still have both the shared key and your own key. Funds cannot be held because the shared key is encrypted with your password.
 
-## Coinbase Privacy 
+### Privacy 
 {: .privacy .wallet-sections}
 Your name, phone number, email, and a number of other personal details are required. Coinbase knows your addresses and balance at all times and can connect this with your identity and IP address. You must trust Coinbase’s nodes to verify transaction data.
 

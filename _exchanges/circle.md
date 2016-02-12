@@ -93,7 +93,7 @@ Circle allows its customers to hold funds denominated in bitcoin or USD. Funds h
 
 Circle controls all private keys, and acts more like a bank than a true Bitcoin wallet. Circle should only be used to buy or sell bitcoin, and not to store funds.
 
-## Security
+### Security
 
 As a web/hot wallet, Circle should not be used to store large amounts of bitcoin. With full control over all accounts and private keys, your funds may be frozen at any time.
 
@@ -101,7 +101,7 @@ Although all bitcoin held is insured, a loss is only covered if something goes w
 
 Two-factor authentication is required.
 
-## Privacy
+### Privacy
 
 Your name, phone number, email, and a number of other personal details are required. You must trust Circle’s servers to verify transaction data. Circle knows your addresses and balances at all times and can connect this with your identity. Because of buy/sell features, it must also follow all KYC laws.
 
