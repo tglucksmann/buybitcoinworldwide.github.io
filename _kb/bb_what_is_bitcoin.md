@@ -49,7 +49,7 @@ Bitcoin is available 24 hours a day, 7 days a week and 365 days a year. The syst
 
 Bitcoin works anywhere there’s an internet connection. Borders and economic sanctions don’t affect Bitcoin.
 
-Bitcoin allows for the transfer of tiny or huge sums and everything in between. The minimum spendable unit is one _satoshi_, or 0.00000001 of a Bitcoin. Besides the number of bitcoins the sender controls, there’s no limit to how many bitcoins may be sent.
+Bitcoin allows for the transfer of tiny or huge sums and everything in between. The minimum spendable unit is one [satoshi](http://satoshitobitcoin.co/), or 0.00000001 of a Bitcoin. Besides the number of bitcoins the sender controls, there’s no limit to how many bitcoins may be sent.
 
 Fees are really cheap no matter how far or how many bitcoins you send. A flat fee of under 10 cents (US) ensures your transaction is processed as a top priority.
 

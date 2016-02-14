@@ -106,7 +106,7 @@ As with GPU and ASIC mining, Satoshi apparently failed to anticipate the emergen
 
 ## Mining Centralization
 
-Pools and specialised hardware has unfortunately led to a centralization trend in Bitcoin mining. Core developer Greg Maxwell has stated that, to Bitcoin’s likely detriment, a [handful of entities](https://youtu.be/0iQSRGT3nfE?t=1360) control the vast majority of hashing power. It is also widely-known that at least 50% of mining hardware is located within China.
+Pools and specialised hardware has unfortunately led to a centralization trend in [Bitcoin mining](https://www.hobbymining.com/). Core developer Greg Maxwell has stated that, to Bitcoin’s likely detriment, a [handful of entities](https://youtu.be/0iQSRGT3nfE?t=1360) control the vast majority of hashing power. It is also widely-known that at least 50% of mining hardware is located within China.
 
 However, it’s may be argued that it’s contrary to the long-term economic interests of any miner to attempt such an attack. The resultant fall in Bitcoin’s credibility would dramatically reduce its exchange rate, undermining the value of the miner’s hardware investment and their held coins. As the community could then decide to reject the dishonest chain and revert to the last honest block, a 51% attack probably offers a poor risk-reward ratio to miners.
 
