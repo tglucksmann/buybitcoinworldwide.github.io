@@ -3,7 +3,7 @@ layout: wallet
 lang: en
 author: jordantuwiner
 permalink: "/wallets/trezor/"
-seotitle: "TREZOR Review: Features, Privacy and Security"
+seotitle: "Trezor Review: Features, Privacy and Security"
 title: "TREZOR"
 desc: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offering simple and secure cold storage and offline transaction signing. 
 wallet: trezor
@@ -22,7 +22,7 @@ contribute: trezor
 summary: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offering secure cold storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. TREZOR is compatible with a number of software wallets, including Mycelium, Electrum, and Multibit HD. 
 weight: 9
 ---
-[TREZOR](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"} launched in [August 2014](http://satoshilabs.com/news/2014-08-07-trezor-sales-launched-buytrezor-com/) as the first Bitcoin hardware wallet, offering secure cold storage plus the ability to spend with the convenience of a hot wallet. [TREZOR](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"} is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. 
+[TREZOR](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"} launched in [August 2014](http://satoshilabs.com/news/2014-08-07-trezor-sales-launched-buytrezor-com/) as the first Bitcoin hardware wallet, offering secure cold storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. 
 
 [TREZOR](https://www.coldhardware.com/trezor-review/) is compatible with a number of wallets, including [Electrum](/wallets/electrum/), MultiBit HD, and [GreenAddress](/wallets/greenaddress/) on desktop, [GreenBits](/wallets/greenbits/) and [Mycelium](/wallets/mycelium/) on Android, and [myTREZOR.com](https://mytrezor.com) on the web. Use the TREZOR Chrome extension to manage your device. 
 

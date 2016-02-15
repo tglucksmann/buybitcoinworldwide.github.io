@@ -27,7 +27,7 @@ The [Ledger Nano](https://www.coldhardware.com/ledger-nano-review/) is compatibl
 
 ## Security
 {: .security .wallet-sections}
-The [Ledger Nano](http://buybitcoinww.co/Ledger_Wallet){:rel="nofollow"} is an HD [Bitcoin wallet](/wallets/) where you control the private keys, so an entire wallet can be backed up with the 24 words generated on setup. The original 24-word seed is generated using RNG from the device and the computer. The seed is generated offline and displayed on your computer's screen. Because the seed is displayed on your computer's screen, the Nano should be setup on an offline computer or bootable operating system. 
+The [Ledger Nano](http://buybitcoinww.co/Ledger_Wallet){:rel="nofollow"} is an HD Bitcoin wallet where you control the private keys, so an entire wallet can be backed up with the 24 words generated on setup. The original 24-word seed is generated using RNG from the device and the computer. The seed is generated offline and displayed on your computer's screen. Because the seed is displayed on your computer's screen, the Nano should be setup on an offline computer or bootable operating system. 
 
 A 4-digit pin code as added on setup, and required when you connect your Nano to the computer and each time you send a transaction. Three incorrect guesses of the pin will erase the private keys from the device. 
 
