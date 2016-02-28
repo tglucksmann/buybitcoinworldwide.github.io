@@ -1,0 +1,139 @@
+---
+layout: page
+permalink: "/demand/"
+title: Bitcoin Demand Index
+lang: en
+seotitle: Bitcoin Demand Index
+desc: Bitcoin Demand Index. 
+hide_sidebar: true
+---
+<canvas id="myChart" style="width: 80%; height: 80%;"></canvas>
+
+<script type="text/javascript">
+
+    // define options to run script
+    var dataOptions = {
+        beginMonth: 4, // data must begin from this month
+        years: [2011, 2012, 2013, 2014, 2015, 2016], // data must have month data in these years
+        dataFiles: [
+            'data1.csv', // data file 1: buy bitcoins
+            'data2.csv'  // data file 2: comprar bitcoins
+        ]
+    }
+
+    // functions to draw line chart
+    function getLabels(years, beginMonth) {
+        var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+        var labels = [];
+        years.forEach(function(y, yIndex) {
+            months.forEach(function(m, mIndex) {
+                if (yIndex == 0 && beginMonth !== undefined &&  beginMonth - 1 >  mIndex) {
+                    // do nothing
+                } else {
+                    labels.push(m + " " + y);
+                }
+            });
+        });
+
+        return labels;
+    }
+    $.extend({
+        getDataFromGT: function(url) {
+            // local var
+            var theResponse = null;
+            // jQuery ajax
+            $.ajax({
+                url: url,
+                type: "GET",
+                async: false,
+                success: function(e) {
+
+                    // predefine 12 months in year
+                    var monthsInYear = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+
+                    // get all data from file in each line
+                    var allTextLines = e.split(/\r\n|\n/);
+
+                    // logging in console
+                    // console.log(allTextLines);
+
+                    var tempData = {};
+                    var beginYear = dataOptions.years[0];
+                    for (var i=0; i<allTextLines.length; i++) {
+
+                        // get time data from raw format "2011-02-06 - 2011-02-12,0"
+                        var data = allTextLines[i].split(',');
+                        var timeRange = data[0].split(' - ');
+                        var fromTime = new Date(timeRange[0]);
+                        var toTime = new Date(timeRange[0]);
+
+                        // reset
+                        if (beginYear != fromTime.getFullYear()) {
+                            monthsInYear = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+                            beginYear = fromTime.getFullYear();
+                        }
+
+                        // save data
+                        monthsInYear[fromTime.getMonth()] += parseInt(data[1]);
+                        tempData[fromTime.getFullYear()] = monthsInYear;
+                    }
+
+                    // logging in console
+                    // console.log(tempData);
+
+                    var result = [];
+                    dataOptions.years.forEach(function(y, yIndex) {
+                        if (tempData[y] != undefined) {
+                            tempData[y].forEach(function(m, mIndex) {
+
+                                if (yIndex == 0 && dataOptions.beginMonth - 1 >  mIndex) {
+                                    // do nothing
+                                } else {
+                                    result.push(m);
+                                }
+                            })
+                        }
+                    });
+
+                    // logging in console
+                    console.log(result);
+
+                    theResponse = result;
+
+                }
+
+            });
+            // Return the response text
+            return theResponse;
+        }
+    });
+    var ctx = document.getElementById("myChart").getContext("2d");
+    var data = {
+        labels: getLabels(dataOptions.years, dataOptions.beginMonth),
+        datasets: [
+            {
+                label: "My First dataset",
+                fillColor: "rgba(220,220,220,0.2)",
+                strokeColor: "rgba(220,220,220,1)",
+                pointColor: "rgba(220,220,220,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(220,220,220,1)",
+                data: $.getDataFromGT('data1.csv')
+            },
+            {
+                label: "My Second dataset",
+                fillColor: "rgba(151,187,205,0.2)",
+                strokeColor: "rgba(151,187,205,1)",
+                pointColor: "rgba(151,187,205,1)",
+                pointStrokeColor: "#fff",
+                pointHighlightFill: "#fff",
+                pointHighlightStroke: "rgba(151,187,205,1)",
+                data: $.getDataFromGT('data2.csv')
+            }
+        ]
+    };
+    var myLineChart = new Chart(ctx).Line(data, {});
+
+</script>
