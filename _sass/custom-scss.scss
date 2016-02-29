@@ -2028,18 +2028,16 @@ blockquote {
         margin: 0;
         padding: 0;
 }
+
 .chart-legend ul li {
         list-style: none;
         float: left;
         margin-right: 20px;
 }
+
 .chart-legend ul li span {
-        display: block;
-        float: left;
-        width: 1em;
-        height: 1em;
-        border-radius: 0.5em;
-        margin-right: 0.5em;
+        color: #fff;
+        padding: 5px;
 }
 
 
