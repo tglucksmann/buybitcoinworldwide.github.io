@@ -15,3 +15,79 @@ di: yes
 <script type="text/javascript">
     function getLabels(t,a){var e=["January","February","March","April","May","June","July","August","September","October","November","December"],o=[],n=new Date;return t.forEach(function(t,r){e.forEach(function(e,i){0==r&&void 0!==a&&a-1>i||t==n.getFullYear()&&i>=n.getMonth()||o.push(e+" "+t)})}),o}var beginMonth=4,years=[2011,2012,2013,2014,2015,2016],ctx=document.getElementById("myChart").getContext("2d"),myChartLegend=document.getElementById("chart-legend"),chartOptions={responsive:!0,pointDot:!1,scaleShowHorizontalLines:!1,scaleShowVerticalLines:!1,showNLabels:14,pointHitDetectionRadius:5},dataOptions={beginMonth:beginMonth,years:years,dataFiles:["/data/data1.csv","/data/data2.csv","/data/data3.csv"],data:{labels:getLabels(years,beginMonth),datasets:[{label:"Buy Bitcoins",fillColor:"rgba(151,187,205,0.2)",strokeColor:"rgba(151,187,205,1)",pointColor:"rgba(151,187,205,1)",pointStrokeColor:"#fff",pointHighlightFill:"#fff",pointHighlightStroke:"rgba(151,187,205,1)",data:[]},{label:"Comprar Bitcoins",fillColor:"rgba(220,220,220,0.2)",strokeColor:"rgba(220,220,220,1)",pointColor:"rgba(220,220,220,1)",pointStrokeColor:"#fff",pointHighlightFill:"#fff",pointHighlightStroke:"rgba(220,220,220,1)",data:[]},{label:"купить биткоин",fillColor:"rgba(253,180,92,0.2)",strokeColor:"rgba(253,180,92,1)",pointColor:"rgba(253,180,92,1)",pointStrokeColor:"#fff",pointHighlightFill:"#fff",pointHighlightStroke:"rgba(253,180,92,1)",data:[]}]}};$.extend({getDataFromGT:function(t,a,e,o){var n=null;return $.ajax({url:window.location.protocol+"//"+window.location.host+t,type:"GET",success:function(t){for(var n=[0,0,0,0,0,0,0,0,0,0,0,0],r=t.split(/\r\n|\n/),i={},l=dataOptions.years[0],s=0;s<r.length;s++){var g=r[s].split(","),h=g[0].split(" - "),c=new Date(h[0]);new Date(h[0]);l!=c.getFullYear()&&(n=[0,0,0,0,0,0,0,0,0,0,0,0],l=c.getFullYear()),n[c.getMonth()]+=parseInt(g[1]),i[c.getFullYear()]=n}var d=[],p=new Date;dataOptions.years.forEach(function(t,a){void 0!=i[t]&&i[t].forEach(function(e,o){0==a&&dataOptions.beginMonth-1>o||t==p.getFullYear()&&o>=p.getMonth()||d.push(e)})}),dataOptions.data.datasets[a].data=d,new Chart(e).Line(dataOptions.data,o)}}),n}});var myLineChart=new Chart(ctx).Line(dataOptions.data,chartOptions);myChartLegend.innerHTML=myLineChart.generateLegend(),dataOptions.dataFiles.forEach(function(t,a){$.getDataFromGT(t,a,ctx,chartOptions)});
 </script>
+
+<div id="chart-legend" class="chart-legend"></div>
+<div style="width: 100%; height: 100%;">
+    <canvas id="myChart" style="width: 100%; height: 100%;"></canvas>
+</div>
+<script type="text/javascript">
+    // For minimize this script: http://jscompress.com/
+
+    var ctx = document.getElementById("myChart").getContext("2d");
+    var myChartLegend = document.getElementById('chart-legend');
+    var chartOptions = {
+        responsive: true,
+        pointDot: false,
+        scaleShowHorizontalLines: false,
+        scaleShowVerticalLines: false,
+        showNLabels: 14, // total of months divided by 4
+        pointHitDetectionRadius: 0.1 // amount extra to add to the radius to cater for hit detection outside the drawn point
+    };
+    var dataOptions = {
+        dataFiles: [
+            //'/upwork/jordan/block_chain/data.csv',
+            '/data.csv'
+        ],
+        data: {
+            datasets: [
+                {
+                    label: "Transaction fees USD",
+                    fillColor: "rgba(151,187,205,0.2)",
+                    strokeColor: "rgba(151,187,205,1)",
+                    pointColor: "rgba(151,187,205,1)",
+                    pointStrokeColor: "#fff",
+                    pointHighlightFill: "#fff",
+                    pointHighlightStroke: "rgba(151,187,205,1)",
+                    data: []
+                }
+            ]
+        }
+    }
+    $.extend({
+        getDataFromBC: function(url, dataIndex, ctx, chartOptions) {
+            // local var
+            var theResponse = null;
+            // jQuery ajax
+            $.ajax({
+                url: window.location.protocol + "//" + window.location.host + url,
+                type: "GET",
+                success: function(e) {
+
+                    // get all data from file in each line
+                    var allTextLines = e.split(/\r\n|\n/);
+                    var values = [], labels = [];
+                    for (var i=0; i<allTextLines.length; i++) {
+
+                        // get time data from raw format "46,November,2010,0.31"
+                        var data = allTextLines[i].split(',');
+                        values.push(parseFloat(data[3]));
+                        labels.push(data[1] + " " + data[2]);
+                    }
+
+                    dataOptions.data["datasets"][dataIndex]["data"] = values;
+                    if (dataOptions.data["labels"] == undefined) {
+                        dataOptions.data.labels = labels;
+                    }
+                    new Chart(ctx).Line(dataOptions.data, chartOptions);
+                }
+
+            });
+            // Return the response text
+            return theResponse;
+        }
+    });
+    dataOptions.dataFiles.forEach(function(e,i) {
+        $.getDataFromBC(e, i, ctx, chartOptions);
+    });
+
+</script>
