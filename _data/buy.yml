@@ -517,7 +517,7 @@
 
  - name: Bitboat
    desc: Buy bitcoin fast with cash in the UK, Spain, Italy, France, Belgium, Cyprus, and Romania. 
-   url: http://buybitcoinww.co/bit_boat
+   url: http://buybitcoinww.co/BitBoat
    icon: https://www.buybitcoinworldwide.com/img/buy/bitboat.png
    countries: fr, it, es, be, pt, cy, ro, gb
    po: cash, neocode, mandatcompte, ricaricapostepay, jiffypay, engreso, neosurf
@@ -526,19 +526,19 @@
 ##### Switzerland ####################################################   
 
  - name: Bity
-   desc: Fast and easy way to buy bitcoin. Buy up to 250€ a day with phone verification. 
+   desc: Fast and easy registration. Place your first order within minutes. 
    url: https://bity.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/bity.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb   
    po: sepa, sofort, bt, babt
    ar: yes
    desc_ar:  الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.
-   desc_fr: Achetez avec un virement SEPA ou virement bancaire en Suisse. Rapide et pratique.
+   desc_fr: Inscription simple et rapide. Effectuez votre premier achat en quelques minutes.
    desc_el: Αγοράστε με εμβάσματα SEPA ή τραπεζική μεταφορά στην Ελβετία. Γρήγορα και βολικά.
    desc_nl: Koop met SEPA overschrijving of bankoverschrijving in Zwitserland. Snel en eenvouding. 
    desc_it: Acquista Bitcoin tramite trasferimento SEPA o bonifico bancario in Svizzera. Rapido e conveniente.
    desc_pt_br: Compre Bitcoins na Suíça por transferência bancária ou SEPA. Rápido e fácil. 
-   desc_de: Kaufen mit SEPA Überweisungen oder Banküberweisungen in der Schweiz.
+   desc_de: Die Anmeldung ist einfach und schnell. Tätigen Sie Ihren ersten Einkauf in wenigen Minuten.
    desc_bg: Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно.
 
 
