@@ -2031,14 +2031,15 @@ blockquote {
 }
 
 .chart-legend ul li {
-        list-style: none;
-        float: left;
-        margin-right: 15px;
+    float: left;
+    list-style: outside none none;
+    margin: 0 15px 15px 0;
 }
 
 .chart-legend ul li span {
         color: #fff;
         padding: 5px;
+        font-weight: 400;
         border-radius: 5px;
 }
 
