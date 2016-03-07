@@ -8,7 +8,7 @@ title: "Ledger Unplugged Review"
 desc: The Ledger Unplugged is a credit card sized NFC hardware wallet. The Unplugged is a hardware for solution for users on the go.
 wallet: unplugged
 cat: hardware
-thumb: trezor.png
+thumb: ledger.png
 tags: [bip39, bip44, hdwallet, multiaccounts, pincode, offlinesigning, coldstorage, hardware]
 website: ledgerwallet.com
 website_url: http://ledgerwallet.com/

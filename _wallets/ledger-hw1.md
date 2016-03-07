@@ -8,7 +8,7 @@ title: "Ledger HW.1 Review"
 desc: The Ledger HW.1 is a less fancy version of the Nano. It securely stores Bitcoin private keys offline and signs transactions in its secure environment. 
 wallet: trezor
 cat: hardware
-thumb: trezor.png
+thumb: ledger.png
 tags: [bip39, bip44, hdwallet, multiaccounts, pincode, offlinesigning, coldstorage, hardware]
 website: bitcointrezor.com
 website_url: http://bitcointrezor.com/
