@@ -4,7 +4,7 @@ lang: en
 author: jordantuwiner
 permalink: "/wallets/ledger-unplugged/"
 seotitle: "Ledger Unplugged Review: NFC Bitcoin Wallet"
-title: "Ledger Unplugged Review"
+title: "Ledger Unplugged"
 desc: The Ledger Unplugged is a credit card sized NFC hardware wallet. The Unplugged is a hardware for solution for users on the go.
 wallet: unplugged
 cat: hardware

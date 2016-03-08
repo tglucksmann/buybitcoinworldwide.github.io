@@ -4,7 +4,7 @@ lang: en
 author: jordantuwiner
 permalink: "/wallets/trezor/"
 seotitle: "Trezor Review: Secure Bitcoin Hardware Wallet"
-title: "Trezor Review"
+title: "Trezor"
 desc: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offering simple and secure cold storage and offline transaction signing. 
 wallet: trezor
 cat: hardware
