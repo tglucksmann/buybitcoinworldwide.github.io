@@ -1660,7 +1660,7 @@
 
  - name: Wall of Coins
    desc: Buy bitcoin with cash deposit in the US, Canada, Germany, Poland, Brazil, Argentina, and more. 
-   url: http://buybitcoinww.co/wall_of_coins
+   url: http://buybitcoinww.co/Wall_of_Coins
    icon: https://www.buybitcoinworldwide.com/img/buy/wallofcoins.png
    countries: us, ca, de, ph, ar, br, pl, lv
    po: fast, cash, cdus, nobank, lowfees
