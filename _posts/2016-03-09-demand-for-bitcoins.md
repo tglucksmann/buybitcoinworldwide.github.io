@@ -10,7 +10,7 @@ categories:
 - shopping
 - saving
 ---
-It’s a common mistake to assume that a steady prices indicate lackluster demand for the gold standard for digital assets; Bitcoin. 
+It’s a common mistake to assume that a steady price indicates lackluster demand for the gold standard for digital assets; Bitcoin. 
 
 The truth is that a stable Bitcoin price _during a time of nearly double-digit monetary inflation_ ([~9%](https://en.bitcoin.it/wiki/Money_supply) as of the time of writing) indicates powerful demand. 
 
