@@ -18,7 +18,7 @@ There are four main ways to buy bitcoins without verification or ID: [LocalBitco
 
 ## Wall of Coins
 
-[Wall of Coins](http://buybitcoinww.co/wall_of_coins){:rel="nofollow"} is a peer-to-peer cash exchange, currently available in the United States, Canada, Germany, Brazil, Argentina, Latvia, Poland, and the Philippines. A phone number is required for use, but not for verification purposes. No ID is required. You can use the widget below to buy with cash through Wall of Coins. 
+[Wall of Coins](http://buybitcoinww.co/Wall_of_Coins){:rel="nofollow"} is a peer-to-peer cash exchange, currently available in the United States, Canada, Germany, Brazil, Argentina, Latvia, Poland, and the Philippines. A phone number is required for use, but not for verification purposes. No ID is required. You can use the widget below to buy with cash through Wall of Coins. 
 
 <iframe frameborder="0"
     id="iframeCanvas"
