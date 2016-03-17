@@ -14,11 +14,11 @@ weight: 7.5
 ---
 <img class="img-responsive halfimg-right" alt="how to buy bitcoins with cash" src="/img/icons/sepa.png">
 
-There are four main ways to buy bitcoins without verification or ID: [LocalBitcoins](/exchanges/localbitcoins/), BitQuick, Wall of Coins or at a Bitcoin ATM. 
+There are three main ways to buy bitcoins without verification or ID: [LocalBitcoins](/exchanges/localbitcoins/), Wall of Coins or at a Bitcoin ATM. 
 
 ## Wall of Coins
 
-[Wall of Coins](http://buybitcoinww.co/Wall_of_Coins){:rel="nofollow"} is a peer-to-peer cash exchange, currently available in the United States, Canada, Germany, Brazil, Argentina, Latvia, Poland, and the Philippines. A phone number is required for use, but not for verification purposes. No ID is required. You can use the widget below to buy with cash through Wall of Coins. 
+[Wall of Coins](http://buybitcoinww.co/Wall_of_Coins){:rel="nofollow"} is a peer-to-peer cash exchange, currently available in the United States, Canada, Germany, Argentina, Latvia, Poland, and the Philippines. A phone number is required for use, but not for verification purposes. No ID is required. You can use the widget below to buy with cash through Wall of Coins. 
 
 <iframe frameborder="0"
     id="iframeCanvas"
@@ -38,10 +38,6 @@ LocalBitcoins is available anywhere where there is a willing seller.
 
 * Table of Contents
 {:toc}
-
-## BitQuick
-
-[BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"} facilitates the buying of bitcoin via cash deposit at thousands of banks across the US. Similar to LocalBitcoins, users agree on a trade price, and the seller hands over bitcoins to BitQuick that then acts as escrow. The buyer of bitcoin deposits cash into the bitcoin seller's bank account. Once the seller confirms payment, BitQuick releases the bitcoins to the buyer. 
 
 ## Bitcoin ATMs
 

@@ -178,29 +178,29 @@
    desc_ccww_es: CoinMama es un corredor de bitcoin que se especializa en la compra de bitcoin con tarjeta de crédito o débito. Este servicio cobra una comisión del 10% debido a los riesgos y las tasas de procesamiento que generan los pagos con tarjetas de crédito. Es posible comprar hasta $520 en bitcoin al día. Después de verificar su cuenta y realizar la compra recibirá sus bitcoin en pocas horas. <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">Este enlace</a> le otorga un 5% de descuento en su orden. CoinMama no está disponible para residentes de los Estados Unidos.
    desc_ccww_de: CoinMama ist ein Bitcoin-Broker, der spezialisiert im Ermöglichen des Kaufs von Bitcoins mit einer Kredit- oder Debitkarte ist. Ihnen wird eine 10% Gebühr auf Grund der Risiken und Bearbeitungsgebühren, die mit Kreditkartenzahlungen kommen, berechnet. Es ist möglich  $520 im Wert von Bitcoin pro Tag zu kaufen. Nachdem Ihr Konto verifiziert wird und ein Kauf erfolgt, werden Sie Ihre Bitcoin innerhalb weniger Stunden erhalten. Verwenden Sie <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">diesen Link</a>, um 5% Rabatt auf Ihre Bestellung zu erhalten. CoinMama nicht verfügbar ist für die Bewohner der Vereinigten Staaten.   
 
- - name: BitQuick
-   desc: Buy bitcoin quickly with cash deposits at thousands of locations across the United States. 
-   url: http://buybitcoinww.co/buybitquick
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
-   countries: us 
-   po: fast, cdus, nobank, cash
-   desc_nobank: BitQuick provides escrow between buyers and sellers. Payments are made via cash deposit at bank locations across the U.S., and via SEPA transfer in the EU. Your coins will usually be delivered in under two hours if payment was made via cash deposit.  
-   desc_fast: BitQuick's goal is to make buying bitcoin fast and easy. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour. BitQuick can be used in the United States and Europe. 
-   desc_cdus: BitQuick provides escrow and connects you with sellers. You can buy bitcoin via cash deposit at a number of banks across the United States and Europe. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour. 
-   desc_cdus_short: BitQuick helps you buy bitcoins fast in the United States with cash via cash deposit.  
-   name_es: BitQuick
-   desc_es: Comprar Bitcoin rápidamente con depósitos en efectivo o transferencias SEPA en la UE.  
-   desc_ar:  شراء بيتكوين بسرعة بالإيداعات النقدية أو بتحويلات SEPA في الاتحاد الأوروبي. الرسوم 2٪.
-   desc_fr: Achetez rapidement des bitcoins dans l'UE par dépôts d'espèces ou virements SEPA.
-   desc_el: Αγοράστε bitcoin γρήγορα με κατάθεση μετρητών ή εμβάσματα SEPA εντός ΕΕ. Τέλος 2%.
-   desc_nl: Koop bitcoin snel met contant geld of SEPA overschrijvingen in de EU. 2% toeslag.
-   desc_it: Acquista rapidamente Bitcoin con depositi in contanti o trasferimenti SEPA nell’UE.
-   desc_pt_br: Compre Bitcoins através de depósito em dinheiro ou transferência bancária SEPA na União Europeia. 
-   desc_de: Bitcoin schnell mit Bareinzahlungen oder SEPA Überweisungen in der EU kaufen. 2% Gebühr.
-   desc_zh: 在欧洲以现金交存或国家环保总局转账快速购买比特币。费率为2％。
-   desc_bg: Купете биткойн бързо с депозит в брой или SEPA превод в ЕС. 2% такса.
-   desc_ru: Купить биткоин быстро денежным вкладом или SEPA-платежом в ЕС. Сбор - 2%.
-   desc_uk: Купити біткоін швидко грошовим внеском або SEPA-платежем в ЄС. Збір - 2%.
+## - name: BitQuick
+##   desc: Buy bitcoin quickly with cash deposits at thousands of locations across the United States. 
+##   url: http://buybitcoinww.co/buybitquick
+##   icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
+##   countries: us 
+##   po: fast, cdus, nobank, cash
+##   desc_nobank: BitQuick provides escrow between buyers and sellers. Payments are made via cash deposit at bank locations across the U.S., and via SEPA transfer in the EU. Your coins will usually be delivered in under two hours if payment was made via cash deposit.  
+##   desc_fast: BitQuick's goal is to make buying bitcoin fast and easy. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour. BitQuick can be used in the United States and Europe. 
+##   desc_cdus: BitQuick provides escrow and connects you with sellers. You can buy bitcoin via cash deposit at a number of banks across the United States and Europe. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour. 
+##   desc_cdus_short: BitQuick helps you buy bitcoins fast in the United States with cash via cash deposit.  
+##   name_es: BitQuick
+##   desc_es: Comprar Bitcoin rápidamente con depósitos en efectivo o transferencias SEPA en la UE.  
+##   desc_ar:  شراء بيتكوين بسرعة بالإيداعات النقدية أو بتحويلات SEPA في الاتحاد الأوروبي. الرسوم 2٪.
+##   desc_fr: Achetez rapidement des bitcoins dans l'UE par dépôts d'espèces ou virements SEPA.
+##   desc_el: Αγοράστε bitcoin γρήγορα με κατάθεση μετρητών ή εμβάσματα SEPA εντός ΕΕ. Τέλος 2%.
+##   desc_nl: Koop bitcoin snel met contant geld of SEPA overschrijvingen in de EU. 2% toeslag.
+##   desc_it: Acquista rapidamente Bitcoin con depositi in contanti o trasferimenti SEPA nell’UE.
+##   desc_pt_br: Compre Bitcoins através de depósito em dinheiro ou transferência bancária SEPA na União Europeia. 
+##   desc_de: Bitcoin schnell mit Bareinzahlungen oder SEPA Überweisungen in der EU kaufen. 2% Gebühr.
+##   desc_zh: 在欧洲以现金交存或国家环保总局转账快速购买比特币。费率为2％。
+##   desc_bg: Купете биткойн бързо с депозит в брой или SEPA превод в ЕС. 2% такса.
+##   desc_ru: Купить биткоин быстро денежным вкладом или SEPA-платежом в ЕС. Сбор - 2%.
+##   desc_uk: Купити біткоін швидко грошовим внеском або SEPA-платежем в ЄС. Збір - 2%.
 
  - name: CoinCorner
    desc: Buy bitcoin in the UK and Europe with SEPA, credit/debit card, or GBP bank transfer. 
@@ -1662,7 +1662,7 @@
    desc: Buy bitcoin with cash deposit in the US, Canada, Germany, Poland, Brazil, Argentina, and more. 
    url: http://buybitcoinww.co/Wall_of_Coins
    icon: https://www.buybitcoinworldwide.com/img/buy/wallofcoins.png
-   countries: us, ca, de, ph, ar, br, pl, lv
+   countries: us, ca, de, ph, ar, pl, lv
    po: fast, cash, cdus, nobank, lowfees
    desc_nobank: Wall of Coins is another company that helps match buyers and sellers, with all payments done via cash deposits. You can buy up to $2000 worth of bitcoin via cash deposit at a number of banks across the United States. After your cash deposit is made you'll usually receive your coins within 15 minutes.
    desc_cdus: Wall of Coins is another company that helps match buyers and sellers, with all payments done via cash deposits. You can buy up to $2000 worth of bitcoin via cash deposit at a number of banks across the United States. After your cash deposit is made you'll usually receive your coins within 15 minutes. 
@@ -2015,24 +2015,24 @@
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye
    po: cc, cash, bt, sepa, ideal, sofort, swift, astro, okpay, giro, perfectmoney
 
- - name: BitQuick
-   desc: Buy bitcoin quickly with cash deposits or SEPA transfers in the EU. 
-   url: http://buybitcoinww.co/buybitquick
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
-   po: sepa
-   desc_es: Comprar Bitcoin rápidamente con depósitos en efectivo o transferencias SEPA en la UE.  
-   desc_ar:  شراء بيتكوين بسرعة بالإيداعات النقدية أو بتحويلات SEPA في الاتحاد الأوروبي. الرسوم 2٪.
-   desc_fr: Achetez rapidement des bitcoins dans l'UE par dépôts d'espèces ou virements SEPA.
-   desc_el: Αγοράστε bitcoin γρήγορα με κατάθεση μετρητών ή εμβάσματα SEPA εντός ΕΕ. Τέλος 2%.
-   desc_nl: Koop bitcoin snel met contant geld of SEPA overschrijvingen in de EU. 2% toeslag.
-   desc_it: Acquista rapidamente Bitcoin con depositi in contanti o trasferimenti SEPA nell’UE.
-   desc_pt_br: Compre Bitcoins através de depósito em dinheiro ou transferência bancária SEPA na União Europeia. 
-   desc_de: Bitcoin schnell mit Bareinzahlungen oder SEPA Überweisungen in der EU kaufen. 2% Gebühr.
-   desc_zh: 在欧洲以现金交存或国家环保总局转账快速购买比特币。费率为2％。
-   desc_bg: Купете биткойн бързо с депозит в брой или SEPA превод в ЕС. 2% такса.
-   desc_ru: Купить биткоин быстро денежным вкладом или SEPA-платежом в ЕС. Сбор - 2%.
-   desc_uk: Купити біткоін швидко грошовим внеском або SEPA-платежем в ЄС. Збір - 2%.
+## - name: BitQuick
+##   desc: Buy bitcoin quickly with cash deposits or SEPA transfers in the EU. 
+##   url: http://buybitcoinww.co/buybitquick
+##   icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
+##   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
+##   po: sepa
+##   desc_es: Comprar Bitcoin rápidamente con depósitos en efectivo o transferencias SEPA en la UE.  
+##   desc_ar:  شراء بيتكوين بسرعة بالإيداعات النقدية أو بتحويلات SEPA في الاتحاد الأوروبي. الرسوم 2٪.
+##   desc_fr: Achetez rapidement des bitcoins dans l'UE par dépôts d'espèces ou virements SEPA.
+##   desc_el: Αγοράστε bitcoin γρήγορα με κατάθεση μετρητών ή εμβάσματα SEPA εντός ΕΕ. Τέλος 2%.
+##  desc_nl: Koop bitcoin snel met contant geld of SEPA overschrijvingen in de EU. 2% toeslag.
+##   desc_it: Acquista rapidamente Bitcoin con depositi in contanti o trasferimenti SEPA nell’UE.
+##   desc_pt_br: Compre Bitcoins através de depósito em dinheiro ou transferência bancária SEPA na União Europeia. 
+##   desc_de: Bitcoin schnell mit Bareinzahlungen oder SEPA Überweisungen in der EU kaufen. 2% Gebühr.
+##   desc_zh: 在欧洲以现金交存或国家环保总局转账快速购买比特币。费率为2％。
+##   desc_bg: Купете биткойн бързо с депозит в брой или SEPA превод в ЕС. 2% такса.
+##   desc_ru: Купить биткоин быстро денежным вкладом или SEPA-платежом в ЕС. Сбор - 2%.
+##   desc_uk: Купити біткоін швидко грошовим внеском або SEPA-платежем в ЄС. Збір - 2%.
    
  - name: Bitfinex
    desc: Deposit funds with an international wire transfer and buy bitcoin on the exchange.
