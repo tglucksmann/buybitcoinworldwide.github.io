@@ -1,13 +1,13 @@
 ---
 layout: exchange
-title:  "CEX.io"
+title:  "CEX.IO"
 permalink: /exchanges/cex-io/
 exchange: cexio
-desc: 
+desc: "CEX.IO allows for the buying of bitcoins for low fees via credit card. Customers can also purchase for free with bank transfers."
 thumb: cexio.png
 lang: en
-seotitle: "CEX.io Bitcoin Exchange Review"
-website: CEX.io
+seotitle: "CEX.IO Bitcoin Exchange Review"
+website: CEX.IO
 website_url: http://buybitcoinww.co/cex_io_bitcoin
 contribute: cexio
 location: London, UK
@@ -19,7 +19,7 @@ pro3:
 con1: Extensive verification process to increase buying limits
 con2: 
 con3:
-summary: "CEX.io "
+summary: "CEX.IO allows for the buying of bitcoins for low fees via credit card. Customers can also purchase for free with bank transfers. "
 privacy_score: 1
 privacy_width: 10
 limits_score: 9
@@ -41,7 +41,7 @@ fees_width: 80
 |----------------|-----------------|---------------|----------------|
 | Credit Card    | 1-2 days        | USD           | 3.9% + $0.25   |
 | Credit Card    | 1-2 days        | EUR           | 3.9% + € 0.20  |
-| Credit Card    | 1-2 days        | RUB           | 5.39% +  15.57 |
+| Credit Card    | 1-2 days        | RUB           | 5.39% +  15.57 RUB |
 | Bank Transfer  | Varies          | USB, EUR, RUB | free           |
 {:.table-striped .table-bordered .table-hover .exchange-pmethods-table}
 
@@ -56,7 +56,7 @@ The following countries are restricted from buying with bank transfer: Afghanist
 {:toc}
 
 ## Limits & Liquidity
-CEX.io offers four different account levels based on amount of verification provided. Each account type has varying levels of limits. 
+CEX.IO offers four different account levels based on amount of verification provided. Each account type has varying levels of limits. 
 
 **Basic**: Basic accounts can buy up to $400 worth of bitcoins per day, and up to $2,000 per month. Basic accounts are not able to purchase via bank transfer. 
 
@@ -65,18 +65,18 @@ CEX.io offers four different account levels based on amount of verification prov
 **Individual Business & Corporate**: Individual Business and Corporate accounts can purchase an unlimited amount of bitcoins. 
 
 ## Privacy
-CEX.io requires very little information for its first tier of verification. In order to increase your limits, however, a number of personal details and document scans are required. 
+CEX.IO requires very little information for its first tier of verification. In order to increase your limits, however, a number of personal details and document scans are required. 
 
-To increase your daily limits to CEX.io's "Verified" verification level, you'll be required to submit scans of a passport, driver's license, or ID. In addition, you'll need to submit a picture of you holding your ID, a picture holding your credit card, and a document for proof of residency. 
+To increase your daily limits to CEX.IO's "Verified" verification level, you'll be required to submit scans of a passport, driver's license, or ID. In addition, you'll need to submit a picture of you holding your ID, a picture holding your credit card, and a document for proof of residency. 
 
 ## Speed
-After initial verification, CEX.io processes most credit card purchase instantly. Upgrading your account to CEX.io's "Verified" account type can be a long process, but subsequent purchases are quick. 
+After initial verification, CEX.IO processes most credit card purchase instantly. Upgrading your account to CEX.IO's "Verified" account type can be a long process, but subsequent purchases are quick. 
 
 ## Reputation
-CEX.io is a registered company and/or money transmitter in all districts in which it does business. In the US, it is registered with FinCEN, while registered with ICO in the UK and EU. 
+CEX.IO is a registered company and/or money transmitter in all districts in which it does business. In the US, it is registered with FinCEN, while registered with ICO in the UK and EU. 
 
 ## Fees
 Credit card purchases of Bitcoin are charged 3.9% + $0.25. Purchases made via bank transfer are free. 
 
 ## Customer Support
-CEX.io offers customer support via email at support@cex.io. 
+CEX.IO offers customer support via email at support@CEX.IO. 
