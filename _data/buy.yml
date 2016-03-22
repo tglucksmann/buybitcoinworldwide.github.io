@@ -205,8 +205,7 @@
  - name: 247Exchange
    url: http://buybitcoinww.co/247exchange
    icon: /img/buy/247.png
-   po: ccww, cc, sepa, swift, cash, io, okpay
-   countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, gy, py, pe, sr, uy, ve, cr, sv, gt, hn, ni, pa, bh, eg, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
+   po: ccww
    desc: Buy bitcoin with a credit card, SWIFT, SEPA, and many other payment methods. 
    desc_ccww: 247Exchange lets you buy bitcoin with a credit or debit card. There's a 7% fee on each purchase of bitcoin; 4% to cover the credit card processing fees, and 3% more as a service fee. 247Exchange is not available to residents of the United States. 
    desc_ccww_it: 247Exchange consente di acquistare Bitcoin con carta di credito o di debito. Su ogni acquisto di Bitcoin si applica una commissione del 7%; 4% per coprire le commissioni di elaborazione della carta di credito e 3% in più come commissione per il servizio. 247Exchange non è disponibile per coloro che risiedono negli Stati Uniti.
@@ -1693,6 +1692,13 @@
    desc_zh: 可在全美一些特定的银行以现金交存购买比特币。
    desc_ru: Купить биткоин наличным депозитом во множестве банков США.
    desc_uk: Купити біткоіни готівковим депозитом в безлічі банків США.
+
+ - name: 247Exchange
+   url: http://buybitcoinww.co/247exchange
+   icon: /img/buy/247.png
+   po: cc, sepa, swift, cash, io, okpay
+   desc: Buy bitcoin with a credit card, SWIFT, SEPA, and many other payment methods. 
+   countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, gy, py, pe, sr, uy, ve, cr, sv, gt, hn, ni, pa, bh, eg, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
 
  - name: Changetip
    desc: Buy small amounts of bitcoin with a Visa or Mastercard debit/credit card. 
