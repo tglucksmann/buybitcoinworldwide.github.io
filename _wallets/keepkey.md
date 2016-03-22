@@ -25,7 +25,7 @@ pro1: Most secure & feature packed Bitcoin hardware wallet available
 pro2: Digital screen & metal body
 con1: $239 price may be out of range for most buyers
 con2: New wallet, needs to gain more trust
-weight: 6.5
+weight: 8.5
 screen: yes
 released: Sep 2015
 price: $239
