@@ -1,6 +1,12 @@
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<img src="/img/wallets/{{ wallet.thumb }}" alt="{{ wallet.name }}">{{ wallet.title }} 
+		{% if wallet.tags contains 'hardware' %}
+		<a href="{{ wallet.buy_url }}">
+		{% endif %}
+		<img src="/img/wallets/{{ wallet.thumb }}" alt="{{ wallet.name }}">{{ wallet.title }}
+		{% if wallet.tags contains 'hardware' %}
+		</a>
+		{% endif %}
 		
 {% if wallet.tags contains 'hardware' %}
 		<a type="button" href="{{ wallet.buy_url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy"><i class="fa fa-shopping-cart "></i> Buy</a>
