@@ -9,11 +9,11 @@
 		{% endif %}
 		
 {% if wallet.tags contains 'hardware' %}
-		<a type="button" href="{{ wallet.buy_url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy"><i class="fa fa-shopping-cart "></i> Buy</a>
+		<a type="button" target="_blank" href="{{ wallet.buy_url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy"><i class="fa fa-shopping-cart "></i> Buy</a>
 		<a type="button" href="{{ wallet.permalink }}" class="btn learn-more-button btn-primary pull-right large-screen-buy"><i class="fa fa-info"></i> Learn More</a>
 		</h4>
 		<p>{{ wallet.summary }}</p>
-		<a href="{{ wallet.buy_url }}" rel="nofollow" class="btn btn-success small-screen-buy"><i class="fa fa-shopping-cart"></i> Buy</a>
+		<a href="{{ wallet.buy_url }}" target="_blank" rel="nofollow" class="btn btn-success small-screen-buy"><i class="fa fa-shopping-cart"></i> Buy</a>
 		<a href="{{ wallet.permalink }}" class="btn btn-primary small-screen-buy"><i class="fa fa-info"></i> Learn More</a>
 		
 {% elsif page.lang == 'en' %}
