@@ -13,13 +13,13 @@ contribute: cexio
 location: London, UK
 cat: exchange, global
 weight: 5
-pro1: Enables <a href="/en/buy-bitcoin-credit-debit-card/">buying bitcoins with credit card</a> for low fees
+pro1: Enables buying bitcoins with credit card for low fees
 pro2: 
 pro3: 
 con1: Extensive verification process to increase buying limits
 con2: 
 con3:
-summary: "CEX.IO allows for the <a href="/en/buy-bitcoin-credit-debit-card/">buying of bitcoins for low fees via credit card</a>. Customers can also purchase for free with bank transfers. "
+summary: "CEX.IO allows for the buying of bitcoins for low fees via credit card. Customers can also purchase for free with bank transfers. "
 privacy_score: 1
 privacy_width: 10
 limits_score: 9
