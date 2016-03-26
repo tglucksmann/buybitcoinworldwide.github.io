@@ -11,9 +11,16 @@ pmethod: paypal
 author: jordantuwiner
 ---
 <div class="col-sm-12">
-<img class="img-responsive halfimg-right" alt="Acheter des bitcoins avec Paypal" src="/img/icons/sepa.png">
+
+	{% for post in site.data.paypal %}
+	{% if post.lang != page.lang %}
+	{% include languages.html %}
+	{% endif %}
+	{% endfor %}
 
 <p>Многие хотят купить Bitcoin с помощью PayPal, потому что PayPal — это популярное средство онлайн-платежей. Но платежи, совершаемые через PayPal, можно отменить, а биткоин-транзакции нельзя, что накладывает риск на биржи, позволяющие  покупку биткоин по средствам PayPal.</p>
+
+<img class="img-responsive halfimg-right" alt="Acheter des bitcoins avec Paypal" src="/img/icons/sepa.png">
 
 <p>Однако, покупка биткоинов с помощью PayPal всё же возможна, хотя и сопровождается высокой комиссией. Существуют всего два приемлемых сервиса, через которые возможна покупка биткоин с помощью PayPal: VirWoX и LocalBitcoins.</p>
 

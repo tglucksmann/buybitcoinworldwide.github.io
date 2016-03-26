@@ -11,8 +11,16 @@ pmethod: paypal
 author: jordantuwiner
 ---
 <div class="col-sm-12">
-<img class="img-responsive halfimg-right" alt="Bitcoins kaufen mit PayPal" src="/img/icons/sepa.png">
+
+	{% for post in site.data.paypal %}
+	{% if post.lang != page.lang %}
+	{% include languages.html %}
+	{% endif %}
+	{% endfor %}
+
 <p>Viele Leute wollen Bitcoins mit PayPal kaufen, weil es online üblich ist so zu bezahlen. PayPal Zahlungen sind stornierbar, Bitcoin-Transaktionen jedoch nicht. Dies stellt ein Risiko dar für Händler und Börsen, die ihre Benutzer PayPal-Guthaben in Bitcoins konvertieren lassen.</p>
+
+<img class="img-responsive halfimg-right" alt="Bitcoins kaufen mit PayPal" src="/img/icons/sepa.png">
 
 <p>Trotzdem ist es weiterhin möglich, Bitcoins mit PayPal zu erwerben, jedoch geht dies mit hohen Gebühren einher. Es gibt nur zwei elegante und einfache Wege um Bitcoins mit PayPal zu kaufen: VirWoX oder LocalBitcoins. </p>
 

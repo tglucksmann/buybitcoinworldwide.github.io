@@ -14,11 +14,11 @@ weight: 7.5
 ---
 <img class="img-responsive halfimg-right" alt="how to buy bitcoins with cash" src="/img/icons/sepa.png">
 
-There are three main ways to buy bitcoins without verification or ID: [LocalBitcoins](/exchanges/localbitcoins/), Wall of Coins or at a Bitcoin ATM. 
+There are three main ways to buy bitcoins without verification or ID: [LocalBitcoins](/exchanges/localbitcoins/), [Wall of Coins](/exchanges/wall-of-coins/) or at a Bitcoin ATM. 
 
 ## Wall of Coins
 
-[Wall of Coins](http://buybitcoinww.co/Wall_of_Coins){:rel="nofollow"} is a peer-to-peer cash exchange, currently available in the United States, Canada, Germany, Argentina, Latvia, Poland, and the Philippines. A phone number is required for use, but not for verification purposes. No ID is required. You can use the widget below to buy with cash through Wall of Coins (widget will not load with ad-blocker enabled). 
+[Wall of Coins](/exchanges/wall-of-coins/) is a peer-to-peer cash exchange, currently available in the United States, Canada, Germany, Argentina, Latvia, Poland, and the Philippines. A phone number is required for use, but not for verification purposes. No ID is required. You can use the widget below to buy with cash through Wall of Coins (widget will not load with ad-blocker enabled). 
 
 <iframe frameborder="0"
     id="iframeCanvas"
@@ -53,4 +53,4 @@ At [BitFinex](http://buybitcoinww.co/bitfinex_exchange) you can start trading wi
 
 Your credit card is already tied to your identity, so [being able to buy bitcoin with a credit card](/en/buy-bitcoin-credit-debit-card/) without verification or ID is difficult. 
 
-The only way to [buy bitcoin](/kb/how-to-buy-bitcoin/) with a credit card and no ID or verification is to use a prepaid card and find a trade partner on LocalBitcoins. It's up to the specific seller on [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} to decide if they want your ID or verification details. You can browse through listings until you find someone willing to make a trade without the need for personal details.  
+The only way to buy bitcoin with a credit card and no ID or verification is to use a prepaid card and find a trade partner on LocalBitcoins. It's up to the specific seller on [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} to decide if they want your ID or verification details. You can browse through listings until you find someone willing to make a trade without the need for personal details.  

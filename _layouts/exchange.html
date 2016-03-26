@@ -137,16 +137,7 @@ hide_sidebar: true
 
 <a type="button" href="{{ page.website_url }}" rel="nofollow" target="_blank" class="btn btn-success"><i class="fa fa-bitcoin"></i> Buy Bitcoin at {{ page.title }}</a>
 
-<div class="guides-exchange">
-<h3>Guides</h3>
-<ul>
-	{% for article in site.data.guidessidebar %}
-		<li>
-			<a class="guide-link" href="{{ article.url }}">{{ article.title }}</a>	
-		</li>
-	{% endfor %}
-</ul>
-</div>
+{% include sidebar.html %}
 
 </div>	
 	

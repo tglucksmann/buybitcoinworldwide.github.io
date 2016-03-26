@@ -55,7 +55,8 @@
 
 body {
     text-rendering: optimizeLegibility;
-    font-weight: 300;
+    font-weight: 400;
+    color: rgba(51, 51, 51, 0.8);
 }
 
 .exchanges-home h4 {
@@ -2041,6 +2042,20 @@ blockquote {
     padding: 5px;
     font-weight: 400;
     border-radius: 5px;
+}
+
+.language-link {
+	display: inline-block;
+    margin: 0 10px 20px 0;
+	
+	.flag-icon.flag-icon-squared {
+    font-size: 29px;
+	}
+	
+	&:last-child {
+		margin-right: 0 !important;
+	}
+
 }
 
 
