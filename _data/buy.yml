@@ -1606,7 +1606,7 @@
    
  - name: BitBay
    desc: Buy bitcoins with euros via wire transfer in Poland or with cash at Poczta Polska.      
-   url: https://bitbay.net/
+   url: http://buybitcoinww.co/BitBay_net
    icon: https://www.buybitcoinworldwide.com/img/buy/bitbaynet.png
    countries: pl
    po: bt, cash
