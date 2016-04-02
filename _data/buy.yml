@@ -3,7 +3,7 @@
    url: http://buybitcoinww.co/buycoinbase
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbase.png
    countries: gr, at, ro, be, hu, sg, bg, ie, sk, ca, it, es, hr, lv, se, cy, mt, ch, cz, nl, gb, dk, nor, us, fi, pl, fr, pt, pr, si, li, mc, sm
-   po: sepa, usbt, fast, io, ideal, lowfees, ccww, cc, bt, ach, babt
+   po: sepa, usbt, fast, io, ideal, lowfees, ccww, ccwwtop, cc, bt, ach, babt
    desc_fast: <a href="/exchanges/coinbase/">Coinbase</a> lets you buy bitcoin with a connected bank account via ACH bank transfer. The bitcoin bought in your first purchase will only be available to you after five days. However, if you add a credit card to your account all purchases after your initial purchase will have your bitcoin delivered instantly. Coinbase is available in the United States and most of Europe.  
    desc_ach: Coinbase is the world's largest bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. Coinbase charges a flat 1% fee on all transactions, which is the standard among U.S. Bitcoin brokers. You'll have to wait five days to receive your bitcoin. If you add a Visa or Mastercard credit card to your account all bitcoin purchases besides your first will be delivered instantly.  
    desc_achshort: The world's largest Bitcoin broker. Buy bitcoin via ACH. Easy and convenient. 
@@ -68,7 +68,7 @@
    url: http://buybitcoinww.co/buy_circle
    icon: https://www.buybitcoinworldwide.com/img/buy/circle.png
    countries: us
-   po: ccus, usbt, fast, lowfees, ccww, bt, cc, ach, babt
+   po: ccus, usbt, fast, lowfees, ccww, ccwwtop, bt, cc, ach, babt
    desc_ccww_short: Buy bitcoins online with a credit card or debit card instantly in the United States. <a href="/exchanges/circle/">Circle review</a>. 
    desc_fast: Circle lets you buy bitcoin with a credit card, debit card, or ACH bank transfer. Purchases of bitcoin made with a debit card are available instantly. Circle is currently only available in the United States.
    desc_ach: Circle lets you connect a bank account and buy via ACH transfer. Circle doesn't officially charge a fee, but its exchange rate is usually 0.5% higher than Bitcoin exchanges. Bitcoin will be delivered within 1-4 days.
@@ -139,7 +139,7 @@
  - name: CoinMama
    url: http://buybitcoinww.co/CoinMama_Bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
-   po: ccww, cc
+   po: ccww, ccwwtop, cc
    desc: Bitcoin broker. Buy bitcoin with a credit card. ~10% fee on each purchase. 
    desc_it: CoinMama è un broker di Bitcoin specializzato nel lasciar acquistare Bitcoin tramite carta di credito. 
    desc_pt_br: CoinMama é uma corretora de bitcoin especializada na compra de bitcoin com cartão de crédito ou débito.
@@ -168,7 +168,7 @@
    desc_es: Coinhouse puede procesar tarjetas de crédito y débito 3Dsecure en toda la zona SEPA. 
    desc_pt_br: Coinhouse pode processar cartões de crédito e débito 3D garantido em toda zona SEPA.
    desc_ru: Coinhouse принимает кредитные и дебетовые карты с поддержкой 3D Secure в пределах еврозоны (SEPA).
-   po: cc, ccww
+   po: cc, ccwwtop, ccww
    desc_ccww_fr: Coinhouse peut traiter les cartes de crédit et cartes de débit 3D Secure dans toute la zone SEPA. La livraison des bitcoins est instantanée. Ce service est dirigé par Ledger, une société spécialisée dans la sécurisation de portefeuilles et extrêmement réputée dans le milieu du Bitcoin. Les commissions varient entre 6 et 10%, en fonction du volume d'achat.
    desc_ccww_it: Coinhouse può elaborare carte di credito e carte di debito 3D Secure in tutta l’area SEPA. La consegna dei Bitcoin è immediata. Questo servizio è gestito da Ledger, una nota società di sicurezza nell’area di Bitcoin. Le commissioni vanno dal 6 al 10% in base al volume d’acquisto.
    desc_ccww_ptbr: "Coinhouse pode processar cartões de crédito e débito 3D garantido em toda zona SEPA.  Entrega de bitcoins é imediata. Este serviço é administrado por Ledger, uma empresa de seguro bem conhecida no meio Bitcoin. Taxas variam de 6-10% dependo do volume de compra. English: Coinhouse can process 3D secure credit cards and debit cards in all the SEPA zone. Delivery of bitcoins is immediate. This service is operated by Ledger, a well known security company in the Bitcoin space. Fees run from 6-10% depending on buy volume." 
@@ -205,7 +205,7 @@
  - name: 247Exchange
    url: http://buybitcoinww.co/247exchange
    icon: /img/buy/247.png
-   po: ccww
+   po: ccww, ccwwtop
    desc: Buy bitcoin with a credit card, SWIFT, SEPA, and many other payment methods. 
    desc_ccww: 247Exchange lets you buy bitcoin with a credit or debit card. There's a 7% fee on each purchase of bitcoin; 4% to cover the credit card processing fees, and 3% more as a service fee. 247Exchange is not available to residents of the United States. 
    desc_ccww_it: 247Exchange consente di acquistare Bitcoin con carta di credito o di debito. Su ogni acquisto di Bitcoin si applica una commissione del 7%; 4% per coprire le commissioni di elaborazione della carta di credito e 3% in più come commissione per il servizio. 247Exchange non è disponibile per coloro che risiedono negli Stati Uniti.
@@ -448,7 +448,7 @@
    url: http://buybitcoinww.co/coinimal
    icon: https://www.buybitcoinworldwide.com/img/buy/coinimal.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
-   po: sofort, giro, sepa, ccww, giropay, babt
+   po: sofort, giro, sepa, ccww, ccwwtop, giropay, babt
    desc_ccww_short: Buy bitcoin in Europe with a Visa or Mastercard credit or debit card via Neteller. 
    desc_ccww: Coinimal is a Bitcoin broker located in Austria. You can purchase bitcoin with a CC indirectly via NETELLER for a 7% fee. Coinimal is available to residents of the EU.
    desc_ccww_fr: Coinimal est un courtier Bitcoin basé en Autriche. Vous pouvez y acheter indirectement des bitcoins avec une carte de crédit à travers NETELLER pour une commission de 7%. Coinimal est disponible pour les résidents de l'UE.
@@ -1719,7 +1719,7 @@
    url: https://www.changetip.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/changetip.png
    countries: us
-   po: ccww, lowfees, cc
+   po: ccww, ccwwtop, lowfees, cc
    desc_ccww: Changetip lets you buy up to $40 worth of bitcoin with a Visa or Mastercard credit/debit card. You'll need to connect a Facebook, Twitter, Reddit or GitHub account. It may take up to 24 hours to get your bitcoin with your first purchase. U.S. residents only. 
    name_es: Changetip
    desc_es: Comprar pequeñas cantidades de Bitcoin con una tarjeta de débito/crédito Visa o Mastercard.
@@ -1740,7 +1740,7 @@
    url: http://buybitcoinww.co/cex_io_bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/cex.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, tr, cn, hk, ar, br, cl, mx, co, pe, uy  
-   po: sepa, ccus, swift, fast, lowfees, ccww, cc, astro, babt
+   po: sepa, ccus, swift, fast, lowfees, ccww, ccwwtop, cc, astro, babt
    desc_ccww_short: Buy bitcoin with a Visa or Mastercard credit or debit card from nearly any country. 
    desc_fast: CEX.io lets you buy bitcoin with a credit card, ACH bank transfer, or SEPA transfer. Purchases made with a credit card give you access to your bitcoin immediately. CEX.io works in the United States, Europe, and some countries in South America. 
    desc_ccus: CEX.io lets you buy bitcoin with a credit card, and your bitcoin will be available immediately. CEX.io works in the United States, Europe, and some countries in South America.
