@@ -215,16 +215,6 @@
    desc_ccww_es: 247Exchage permite comprar bitcoin con tarjeta de crédito o débito. Hay una comisión de 7% en cada compra de bitcoin - 4% para cubrir las tasas de procesamientos de las tarjetas de crédito y 3% más de comisión por el servicio. 247Exchange no está disponible para residentes de los Estados Unidos.
    desc_ccww_de: 247Exchange ermöglicht Ihnen Bitcoin mit einer Kredit- oder Debitkarte zu kaufen. Es gibt eine 7% Gebühr auf jedem Kauf von Bitcoin; 4%, um die Verarbeitung von Kreditkartengebühren zu decken, und 3% mehr als eine Dienstgebühr. 247Exchange ist nicht verfügbar für die Bewohner der Vereinigten Staaten.
 
- - name: CoinCorner
-   desc: Buy bitcoin in the UK and Europe with SEPA, credit/debit card, or GBP bank transfer. 
-   desc_ccww_short: Buy bitcoin in the UK and Europe with debit card or credit card. 
-   url: http://buybitcoinww.co/coincorner
-   icon: https://www.buybitcoinworldwide.com/img/buy/ccoiner.png
-   countries: gb, be, dk, fi, lu, nl, pl, sk, es, au, bg, cy, ee, fr, gr, hu, it, mt, nz, pt, si, se, at, ca, cz, de, ie, mc, nor, sm, ch, za
-   po: bt, sepa, ccww, cc, babt
-   ar: yes
-   desc_ar:  الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.
-
  - name: LocalBitcoins
    desc: Buy bitcoin from local dealers, online or in person. Private and quick. <a href="/exchanges/localbitcoins/">LocalBitcoins review</a>.
    url: http://buybitcoinww.co/local_bitcoins
@@ -1790,6 +1780,16 @@
    desc_zh: 可在美国的一些零售店以现金购买比特币。
    desc_ru: Купить биткоин за наличные во множестве магазинов США.
    desc_uk: Біткоіни-брокер. Купити біткоіни за готівку в безлічі магазинів США.
+
+ - name: CoinCorner
+   desc: Buy bitcoin in the UK and Europe with SEPA, credit/debit card, or GBP bank transfer. 
+   desc_ccww_short: Buy bitcoin in the UK and Europe with debit card or credit card. 
+   url: http://buybitcoinww.co/coincorner
+   icon: https://www.buybitcoinworldwide.com/img/buy/ccoiner.png
+   countries: gb, be, dk, fi, lu, nl, pl, sk, es, au, bg, cy, ee, fr, gr, hu, it, mt, nz, pt, si, se, at, ca, cz, de, ie, mc, nor, sm, ch, za
+   po: bt, sepa, ccww, cc, babt
+   ar: yes
+   desc_ar:  الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.
 
  - name: Coin ATM Radar
    desc: Coin ATM Radar helps you locate Bitcoin ATMs in your area to <a href="/en/buy-bitcoins-with-cash/">buy bitcoins with cash</a>.  
