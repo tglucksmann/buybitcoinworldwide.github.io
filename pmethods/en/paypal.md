@@ -1,7 +1,7 @@
 ---
 layout: guidehelp
 title: "How to Buy Bitcoins with PayPal"
-seotitle: "Buy Bitcoin with PayPal Instantly in 3 Easy Steps"
+seotitle: "3 Easy Steps to Buy Bitcoin with PayPal Instantly"
 permalink: "/en/buy-bitcoin-paypal/"
 sitemap:
     priority: 0.7
