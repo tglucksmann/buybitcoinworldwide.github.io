@@ -6,19 +6,19 @@ permalink: "/wallets/ledger-hw1/"
 seotitle: "Ledger HW.1 Review: Affordable Hardware Wallet"
 title: "Ledger HW.1"
 desc: The Ledger HW.1 is a less fancy version of the Nano. It securely stores Bitcoin private keys offline and signs transactions in its secure environment. 
-wallet: trezor
+wallet: ledger_hw1
 cat: hardware
 thumb: ledger.png
 tags: [bip39, bip44, hdwallet, multiaccounts, pincode, offlinesigning, coldstorage, hardware]
-website: bitcointrezor.com
-website_url: http://bitcointrezor.com/
+website: ledgerwallet.com
+website_url: https://www.ledgerwallet.com/
 hardware_wallet: yes
 open_source: yes
-open_source_url: https://github.com/trezor/
+open_source_url: https://github.com/ledgerHQ/
 control_priv_keys: yes
 buy: yes
 buy_url: http://buybitcoinww.co/Ledger_HW1
-contribute: trezor
+contribute: ledger-hw1
 summary: The Ledger HW.1 is a less fancy version of the Nano. It securely stores Bitcoin private keys offline and signs transactions in its secure environment.
 weight: 5
 screen: no
