@@ -1,11 +1,23 @@
-{% if page.lang == 'en' and name.internal_url %}
+{% if page.pmethod == 'ccww' and name.internal_url and page.lang == 'en' and name.desc_ccww_short != null %}
 <div class="col-md-6 buy-info">
 		<h4>
 		<a href="{{ name.internal_url }}"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
 		<a type="button" href="{{ name.internal_url }}" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
-		<p>{{ name.desc_nobank }}</p>
+		<p>{{ name.desc_ccww_short }}</p>
+		<a href="{{ name.internal_url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.lang == 'en' and name.internal_url %}
+<div class="col-md-6 buy-info">
+		<h4>
+		<a href="{{ name.internal_url }}"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.internal_url }}" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc }}</p>
 		<a href="{{ name.internal_url }}" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
@@ -18,18 +30,6 @@
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_nobank }}</p>
-		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
-		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
-</div>
-
-{% elsif page.pmethod == 'fast' and page.lang == 'en' %}
-<div class="col-sm-12 buy-info-full">
-		<h4>
-		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
-		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
-		</h4>
-		<p>{{ name.desc_fast }}</p>
 		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
