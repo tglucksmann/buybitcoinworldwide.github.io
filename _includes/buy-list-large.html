@@ -1,108 +1,120 @@
-{% if page.pmethod == 'ccww' and page.lang == 'en' and name.desc_ccww != null %}
+{% if page.pmethod == 'ccww' and page.lang == 'en' and name.internal_url and name.desc_ccww != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_ccww }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" class="btn btn-success small-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+</div>
+
+{% elsif page.pmethod == 'ccww' and page.lang == 'en' and name.desc_ccww != null %}
+<div class="col-sm-12 buy-info-full">
+		<h4>
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
+		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
+		</h4>
+		<p>{{ name.desc_ccww }}</p>
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
 {% elsif page.pmethod == 'ccww' and page.lang == 'fr' and name.desc_ccww_fr != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_ccww_fr }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
 {% elsif page.pmethod == 'ccww' and page.lang == 'it' and name.desc_ccww_it != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_ccww_it }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
 {% elsif page.pmethod == 'ccww' and page.lang == 'pt' and name.desc_ccww_ptbr != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_ccww_ptbr }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
 {% elsif page.pmethod == 'ccww' and page.lang == 'ru' and name.desc_ccww_ru != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_ccww_ru }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
 {% elsif page.pmethod == 'ccww' and page.lang == 'de' and name.desc_ccww_de != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_ccww_de }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
 {% elsif page.pmethod == 'ccww' and page.lang == 'es' and name.desc_ccww_es != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_ccww_es }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
 {% elsif page.pmethod == 'neteller' and page.lang == 'en' and name.desc_neteller != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_neteller }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
 {% elsif page.pmethod == 'babt' and page.lang == 'en' and name.desc_babt != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_babt }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
@@ -110,84 +122,84 @@
 {% elsif page.pmethod == 'skrill' and page.lang == 'en' and name.desc_skrill != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_skrill }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
 {% elsif page.pmethod == 'ach' and page.lang == 'en' and name.desc_ach != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_ach }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
 {% elsif page.pmethod == 'usbank' and page.lang == 'en' and name.desc_ach != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_ach }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
 {% elsif page.pmethod == 'neosurf' and page.lang == 'en' and name.desc_neosurf != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_neosurf }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
 {% elsif page.pmethod == 'paypal' and page.lang == 'en' and name.desc_paypal != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_paypal }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
 {% elsif page.pmethod == 'cash' and page.lang == 'en' and name.desc_cdus != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_cdus }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
 {% elsif page.pmethod == 'astropay' and page.lang == 'en' and name.desc_astropay != null %}
 <div class="col-sm-12 buy-info-full">
 		<h4>
-		<a href="{{ name.url }}" rel="nofollow"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
-		<a type="button" href="{{ name.url }}" rel="nofollow" class="btn btn-success pull-right large-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a type="button" href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
 		<p>{{ name.desc_astropay }}</p>
-		<a href="{{ name.url }}" rel="nofollow" class="btn btn-success small-screen-buy">
+		<a href="{{ name.url }}" rel="nofollow" target="_blank" class="btn btn-success small-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
