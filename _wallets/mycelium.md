@@ -49,3 +49,7 @@ As an HD wallet, a new address is created for every transaction and addresses ar
 The Mycelium developers recognized that users value their privacy, and plan to implement CoinJoin in future updates.
 
 Mycelium received a score of 50 out of 100 from the Open Bitcoin Privacy Project’s [Spring 2015 report](http://www.openbitcoinprivacyproject.org/2015/05/spring-2015-wallet-privacy-rating-report/).
+
+## Local Trader
+
+Mycelium's [Android wallet](https://play.google.com/store/apps/details?id=com.mycelium.wallet) offers a featured called "Local Trader". It allows you to find people in your area who want to buy or sell bitcoins for cash. [Read this tutorial](http://buybitcoinww.co/mycelium_local_trader) to learn how to use the app.
