@@ -1,3 +1,4 @@
+{% if page.lang == 'en' %}
 <h3>Buy Bitcoin with...</h3>
 
   <div class="pmethods-sidebar">
@@ -20,3 +21,48 @@
 	{% endfor %}
 </ul>
 </div>
+{% endif %}
+
+{% if page.lang == 'es' %}
+<h3>Comprar Bitcoins</h3>
+  <div class="pmethods-sidebar">
+	{% for pmethod in site.data.paymentmethods_es %}
+		<a href="{{ pmethod.url }}">
+		<i class="fa fa-fw fa-{{ pmethod.icon }}"></i>
+	     <div class="payment-method">{{ pmethod.pmethod }}</div>
+	    </a>	
+	{% endfor %}
+  </div>
+<br>
+<h3>Comprar Bitcoin en América del Sur</h3>
+{% assign countries = (site.pages | sort: 'cn') %}
+{% for country in countries %}
+{% if country.continent == 'sa' and country.lang == 'es' %}
+{% include country-sidebar.html %}
+{% endif %}
+{% endfor %}  
+  
+  
+{% endif %}
+
+{% if page.lang == 'pt' %}
+<h3>Compre Bitcoins</h3>
+  <div class="pmethods-sidebar">
+	{% for pmethod in site.data.paymentmethods_pt %}
+		<a href="{{ pmethod.url }}">
+		<i class="fa fa-fw fa-{{ pmethod.icon }}"></i>
+	     <div class="payment-method">{{ pmethod.pmethod }}</div>
+	    </a>	
+	{% endfor %}
+  </div>
+<br>
+<h3>Países</h3>
+{% assign countries = (site.pages | sort: 'cn') %}
+{% for country in countries %}
+{% if country.lang == 'pt' %}
+{% include country-sidebar.html %}
+{% endif %}
+{% endfor %}  
+  
+  
+{% endif %}

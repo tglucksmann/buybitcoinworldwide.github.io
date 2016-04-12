@@ -37,7 +37,7 @@ author: jordantuwiner
 </div>
 
 
-<div class="col-xs-12">
+<div class="content-with-sidebar col-md-9">
 	{% include country-loops.html %}
 	{% for name in site.data.buy %}
 	{% if name.po contains 'ccww' %}
@@ -47,4 +47,7 @@ author: jordantuwiner
 	<p>Si ninguna de las compañías mencionadas satisface sus necesidades, intente comprar bitcoin con efectivo o transferencia SEPA. Para encontrar más lugares para comprar bitcoin en su país utilice nuestro índice de países.</p>
 
 <p><i><b>Nota: </b>Compre bitcoin bajo tu propio riesgo. Solo recomendamos compañías que encontramos y no podemos garantizar la seguridad de su dinero. Al comprar bitcoin, recomendamos moverlo inmediatamente a un monedero de su propiedad.</i></p>   
+</div>
+<div class="sidebar-add col-md-3">
+	{% include sidebar.html %}
 </div>

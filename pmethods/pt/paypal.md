@@ -41,7 +41,7 @@ author: jordantuwiner
 </div>
 
 
-<div class="col-xs-12">
+<div class="content-with-sidebar col-md-9">
 <h2 class="pp-header">Comprar Bitcoins com o PayPal no VirWoX</h2>
 
 <p>Usando o <a href="http://buybitcoinww.co/bitcoin_virwox" rel="nofollow" target="_blank">VirWoX</a>, você pagará cerca de 9% em taxas, <b>mas essa é ainda a forma mais barata, mais fácil e mais rápida de comprar BTC com o PayPal.</b></p> 
@@ -155,4 +155,7 @@ author: jordantuwiner
 	<p>Provavelmente nunca haverá uma maneira fácil e simples de comprar bitcoins com o PayPal devido à natureza irreversível das transações em Bitcoin. Se você está tendo dificuldades, procure outras formas de <a href="/pt-br/">comprar bitcoins em seu país</a>.</p>
 	
 	{% include share.html %}
+</div>
+<div class="sidebar-add col-md-3">
+	{% include sidebar.html %}
 </div>
