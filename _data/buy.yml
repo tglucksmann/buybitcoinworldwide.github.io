@@ -7,7 +7,7 @@
    desc_fast: <a href="/exchanges/coinbase/">Coinbase</a> lets you buy bitcoin with a connected bank account via ACH bank transfer. The bitcoin bought in your first purchase will only be available to you after five days. However, if you add a credit card to your account all purchases after your initial purchase will have your bitcoin delivered instantly. Coinbase is available in the United States and most of Europe.  
    desc_ach: Coinbase is the world's largest bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. Coinbase charges a flat 1% fee on all transactions, which is the standard among U.S. Bitcoin brokers. You'll have to wait five days to receive your bitcoin. If you add a Visa or Mastercard credit card to your account all bitcoin purchases besides your first will be delivered instantly.  
    desc_achshort: The world's largest Bitcoin broker. Buy bitcoin via ACH. Easy and convenient. 
-   desc_ccww_short: Buy bitcoin with a 3D secure credit or debit card in Europe and the UK. <a href="/exchanges/coinbase/">Coinbase review</a>.
+   desc_ccww_short: Buy bitcoin with a debit card in the USA, or with a 3D secure credit or debit card in Europe and the UK.
    desc_usbankshort: The world's largest Bitcoin broker. Buy bitcoin with a connected bank account. 
    desc_ccww: <a href="/exchanges/coinbase/">Coinbase</a> is the world's largest Bitcoin broker. At Coinbase you can buy up to €100 of bitcoin per day instantly with a 3D secure credit or debit card in Europe or the United Kingdom. Coinbase charges a flat 3% fee on all purchases via credit or debit card. Coinbase's 3% fee on credit card purchases is the lowest among Bitcoin brokers servicing European customers. If you buy more than $100 or €100 worth of bitcoin through <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">this link</a> you'll get $10 or €10 worth of bitcoin as a bonus (this can be done in multiple purchases, i.e. two purchases of €50 each).
    desc_ccww_fr: <a href="/exchanges/coinbase/">Coinbase</a> est le courtier Bitcoin le plus important au monde. Chez Coinbase, vous pouvez acheter jusqu'à 100€ de bitcoins par jour avec une carte de crédit ou de débit 3D Secure en Europe et dans le Royaume-Uni. Coinbase facture une commission forfaitaire de 3% sur tous les achats effectués par carte de crédit ou de débit. La commission de 3% que Coinbase facture sur les achats par carte de crédit est la moins élevée de tous les courtiers Bitcoin offrant leurs services aux clients européens. Si vous achetez pour plus de $100 ou 100€ de bitcoins à partir de <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">ce lien</a>, vous obtiendrez un bonus de bitcoins d'une valeur de $10 ou 10€ (cela peut s'effectuer lors de plusieurs achats, par ex - 2 achats de 50€ chacun).
@@ -209,7 +209,7 @@
  - name: 247Exchange
    url: http://buybitcoinww.co/247exchange
    icon: /img/buy/247.png
-   po: ccww, ccwwtop
+   po: ccww
    desc: Buy bitcoin with a credit card, SWIFT, SEPA, and many other payment methods. 
    desc_ccww: 247Exchange lets you buy bitcoin with a credit or debit card. There's a 7% fee on each purchase of bitcoin; 4% to cover the credit card processing fees, and 3% more as a service fee. 247Exchange is not available to residents of the United States. 
    desc_ccww_it: 247Exchange consente di acquistare Bitcoin con carta di credito o di debito. Su ogni acquisto di Bitcoin si applica una commissione del 7%; 4% per coprire le commissioni di elaborazione della carta di credito e 3% in più come commissione per il servizio. 247Exchange non è disponibile per coloro che risiedono negli Stati Uniti.
@@ -1745,7 +1745,7 @@
    url: https://www.changetip.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/changetip.png
    countries: us
-   po: ccww, ccwwtop, lowfees, cc
+   po: ccww, lowfees, cc
    desc_ccww: Changetip lets you buy up to $40 worth of bitcoin with a Visa or Mastercard credit/debit card. You'll need to connect a Facebook, Twitter, Reddit or GitHub account. It may take up to 24 hours to get your bitcoin with your first purchase. U.S. residents only. 
    name_es: Changetip
    desc_es: Comprar pequeñas cantidades de Bitcoin con una tarjeta de débito/crédito Visa o Mastercard.
