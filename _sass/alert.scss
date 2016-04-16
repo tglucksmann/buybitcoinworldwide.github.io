@@ -1,0 +1,40 @@
+#contribute-notification {
+  display: block;
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  background: #fff;
+  width: 270px;
+  font-size: 0.83em;
+  font-weight: 600;
+  background: #f3f3f3;
+  box-shadow: 0 0 10px #afafaf;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  z-index: 9999;
+
+  h4, p {
+    margin: 5px 0;
+  }
+
+  .close {
+    color: #464646;
+    font-size: 1.2em;
+    opacity: 1;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+}
+
+@media (max-width: 500px) {
+	#contribute-notification {
+    display: none !important;
+  }
+}
