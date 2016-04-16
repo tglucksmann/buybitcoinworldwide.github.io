@@ -26,7 +26,7 @@ hide_sidebar: true
 
 <h2>Best Online Bitcoin Wallet Overviews (Web Wallets)</h2>			
 <p>Web wallets store your private keys online, where they are encrypted with a user chosen password. Online <a href="https://bitcoin.org/en/choose-your-wallet">bitcoin wallets</a> are accessible from any internet connected device.</p>
-    {% for wallet in pages reversed %}
+    {% for wallet in site.data.wallets %}
 	{% if wallet.tags contains 'web' %}
 	{% include wallet-list.html %}
 	{% endif %}
@@ -34,7 +34,7 @@ hide_sidebar: true
 	
 <h2>Best Android Bitcoin Wallets</h2>			
 <p>Android offers developers more freedom than iOS. For example, it's only possible to use hardware wallets with Android Bitcoin wallets, because Apple doesn't allow the use of OTG cables. The best Android Bitcoin wallets let users control their private keys.</p>
-    {% for wallet in pages reversed %}
+    {% for wallet in site.data.wallets %}
 	{% if wallet.tags contains 'android' %}
 	{% include wallet-list.html %}
 	{% endif %}
@@ -50,7 +50,7 @@ hide_sidebar: true
 	
 <h2>Desktop Wallets</h2>			
 <p>Desktop wallets are downloaded & installed on your computer.</p>
-    {% for wallet in pages reversed %}
+    {% for wallet in site.data.wallets %}
 	{% if wallet.tags contains 'desktop' %}
 	{% include wallet-list.html %}
 	{% endif %}
