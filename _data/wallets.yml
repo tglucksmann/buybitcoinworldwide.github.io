@@ -1,29 +1,29 @@
  - title: Mycelium
    summary: Mycelium, founded in 2008, is a Bitcoin company with 35 employees located in Europe, Asia, and America. Mycelium offers mobile wallets for iPhone and Android. Mycelium is a good option for beginners, with features like watch-only addresses, cold storage spending, and HD accounts. Advanced features include TREZOR & Ledger support, xpub/xpriv key exports, and decrypting BIP38 keys. Mycelium can also restore hardware wallet seeds from TREZOR or Ledger. Mycelium is the most popular Bitcoin wallet on Android.
-   tags: [android, mobile]
+   tags: [android, mobile, nonhw]
    thumb: mycelium.png
    website_url: https://mycelium.com/mycelium-wallet.html
    
  - title: GreenBits
    summary: GreenBits is the native Android version of GreenAddress. It’s a multi-signature wallet that supports hardware wallets like TREZOR and Ledger.
-   tags: [android, mobile]
+   tags: [android, mobile, nonhw]
    thumb: greenbits.png
    website_url: https://play.google.com/store/apps/details?id=com.greenaddress.greenbits_android_wallet&hl=en 
    
  - title: GreenAddress
    summary: GreenAddress is a multisignature Bitcoin wallet available on the web, desktop, Android, and iOS. GreenAddress is compatible with hardware wallets like TREZOR, Ledger Nano, and the HW.1.
-   tags: [web, online]
+   tags: [web, online, nonhw]
    thumb: greenaddress.png
    website_url: https://greenaddress.it/    
    
  - title: Electrum
    summary: Electrum is a light weight Bitcoin wallet for Mac, Linux, and Windows. It was created in November 2011. The main features of Electrum are support for hardware wallets TREZOR, Ledger Nano and HW1, secure cold storage using an offline computer, and decentralized verification using SPV. Electrum is a good option for both beginners and advanced users. 
-   tags: [desktop, mac]
+   tags: [desktop, mac, nonhw]
    thumb: electrum.png
    website_url: http://electrum.org/    
    
  - title: Bitcoin Wallet
    summary: Bitcoin Wallet, or “Schildbach Wallet”, was the first mobile Bitcoin wallet. Bitcoin Wallet is more secure than most mobile Bitcoin wallets, because it connects directly to the Bitcoin network with SPV. Bitcoin Wallet has a simple interface and just the right amount of features, making it the easiest Bitcoin wallet for beginners to learn with.
-   tags: [mobile, android]
+   tags: [mobile, android, nonhw]
    thumb: bwallet.png
    website_url: https://play.google.com/store/apps/details?id=de.schildbach.wallet  
