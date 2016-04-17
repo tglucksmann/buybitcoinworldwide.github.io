@@ -16,10 +16,6 @@
 	{% include hreflang.html %}
 	{% endif %}
 	
-	{% if page.lang == 'en' %}
-	{% include alert.html %}
-	{% endif %}
-	
 	{% if page.pagetype == 'kbsection' or page.pagetype == 'pmethodsindex' %}
 	<meta name="robots" content="noindex">
 	{% endif %}
