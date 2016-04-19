@@ -1941,7 +1941,7 @@
    desc: Buy Bitcoins online with credit card or cash in 100K+ local stores across Europe.
    url: https://www.bitit.gift
    icon: https://www.buybitcoinworldwide.com/img/buy/bitit.png
-   countries: us, fr, ca, gb, pl, de, it, es, nl, ch, be, lu, mt, il, dk, au, gr, is, ie, no, fi, za, mx, hr, at, pt, se, cy, cz, br, ar
+   countries: fr, ca, gb, pl, de, it, es, nl, ch, be, lu, mt, il, dk, au, gr, is, ie, no, fi, za, mx, hr, at, pt, se, cy, cz, br, ar
    po: cc, neosurf
    desc_fr: Acheter des Bitcoins en ligne par carte bancaire ou en espèces dans 100k+ magasins
 
