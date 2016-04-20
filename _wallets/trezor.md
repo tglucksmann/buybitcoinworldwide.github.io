@@ -17,7 +17,7 @@ open_source: yes
 open_source_url: https://github.com/trezor/
 control_priv_keys: yes
 buy: yes
-buy_url: http://buybitcoinww.co/TREZOR_amazon
+buy_url: http://buybitcoinww.co/TREZOR-wallet
 contribute: trezor
 summary: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offering secure cold storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. TREZOR is compatible with a number of software wallets, including Mycelium, Electrum, and Multibit HD. 
 weight: 8
