@@ -20,18 +20,16 @@ buy: yes
 buy_url: http://buybitcoinww.co/Ledger_HW1
 contribute: ledger-hw1
 summary: The Ledger HW.1 is a less fancy version of the Nano. It securely stores Bitcoin private keys offline and signs transactions in its secure environment.
-weight: 5
+weight: 2
 screen: no
 released: Jan 2013
-price: 15€
-released: Oct 2013
-price: $99
+price: $17
 pro1: Screen offers extra protection and verification
 pro2: Affordable hardware wallet with screen
 con1: $99 price tag may be out of reach for those on a budget
 con2: Requires USB cable to use 
-screen: yes
 sidebardesc: The Ledger HW.1 is a less fancy version of the Nano. It securely stores Bitcoin private keys offline and signs transactions in its secure environment.
+pic: ledgerhw1.png
 ---
 ## Price
 The <a rel="nofollow" href="http://buybitcoinww.co/Ledger_HW1">Ledger HW.1</a> costs 15€ and comes with free shipping. 

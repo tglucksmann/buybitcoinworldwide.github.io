@@ -28,8 +28,9 @@ con2: Security card can be confusing and not as user-friendly as a screen
 weight: 9
 screen: no
 released: Dec 2014
-price: 29€
+price: $31
 sidebardesc: The Ledger Nano is a key-sized USB device. It securely stores private keys offline and signs transactions in its smartcard's secure environment.
+pic: ledgernano.png
 ---
 ## Price
 The <a rel="nofollow" href="http://buybitcoinww.co/Ledger_Nano">Ledger Nano</a> costs 29€ for one or 41.5€ for the duo pack (two). One may want to purchase the duo pack if they plan to use the devices as part of a multisignature wallet.

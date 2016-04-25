@@ -1,0 +1,15 @@
+<tr>
+
+  	<td><a target="_blank" rel="nofollow" href="{{ wallet.buy_url }}"><img src="/img/hwpics/{{ wallet.pic }}" alt="{{ wallet.name }}"></a></td>
+    
+    <td><a href="{{ wallet.permalink }}">{{ wallet.title }}</a></td>
+    
+    <td>{% if wallet.screen == true %} <i class="fa fa-check"></i> {% else %} <i class="fa fa-times"></i> {% endif %}</td>
+    
+    <td class="released">{{ wallet.released }}</td>
+    
+    <td>{{ wallet.price }}</td>
+    
+    <td class="wallet-buy"><a target="_blank" class="btn btn-primary" rel="nofollow" href="{{ wallet.buy_url }}" type="button"><i class="fa fa-shopping-cart "></i></a></td>
+    
+</tr>

@@ -25,10 +25,11 @@ pro1: Most secure & feature packed Bitcoin hardware wallet available
 pro2: Digital screen & metal body
 con1: $239 price may be out of range for most buyers
 con2: New wallet, needs to gain more trust
-weight: 8.5
+weight: 10
 screen: yes
 released: Sep 2015
-price: $239
+price: $99
+pic: keepkey.png
 ---
 ![keepkey review][kkh]{: .img-responsive .kb-helper}
 

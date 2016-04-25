@@ -1,23 +1,47 @@
 ---
-layout: page
+layout: kb
 permalink: "/wallets/"
 title: Choose your Bitcoin Wallet
 lang: en
 seotitle: 11 Best Bitcoin Wallet Hardware & Software Reviews 2016
 desc: Quickly find the best bitcoin wallet -- hardware or software -- based on your needs. Our reviews make it easy.
-hide_sidebar: true
 ---
 <div class="post-content wallets-index centered">
 <img class="img-responsive halfimg-right" alt="best bitcoin wallet" src="/img/icons/wallet-compressor.png">
 <p class="browse-wallets-info">Bitcoin wallets (<a href="/kb/what-is-a-bitcoin-wallet/">what is a Bitcoin wallet?</a>) make payments global, easy, fast, and secure. Our wallet overviews help you find a Bitcoin wallet to suit your needs.</p>
 
 <h2>What is the Best Bitcoin Wallet?</h2>
-<p>There is no best Bitcoin wallet. You'll have to consider your needs. Do you need an iPhone wallet? Secure storage? Will your wallet be used across multiple devices? Ask yourself these questions to determine which wallet will be best for you.</p>
+<p>There is no best Bitcoin wallet. Each user has unique needs and different wallets will appeal to different people. If you need secure storage, however, bitcoin hardware wallets are the easiest way to secure your bitcoins.</p>
+
+<h2>Why Use a Bitcoin Hardware Wallet?</h1>
+<ul class="checklist">
+	<li><i class="fa fa-check"></i>Easiest way to create secure Bitcoin cold storage &amp; easy to backup</li>
+	<li><i class="fa fa-check"></i>Software wallet interfaces prevent address reuse</li>
+	<li><i class="fa fa-check"></i>Less margin for error; setup is easy even for less technical users</li>
+</ul>
+
+<h2>Bitcoin Hardware Wallet Comparison</h2>
+<table class="hw-comparison">
+  <tr>
+  	<th></th>
+    <th>Wallet</th>
+    <th>Screen<br></th>
+    <th class="released">Released</th>
+    <th>Price</th>
+    <th class="wallet-buy">Buy</th>
+  </tr>
+  {% assign pages = site.wallets | sort:"weight" %}
+  {% for wallet in pages reversed %}
+  {% if wallet.tags contains 'hardware' %}
+  {% include hw-comparison.html %}
+  {% endif %}
+  {% endfor %}
+</table>
 	
 <h2>Best Bitcoin Hardware Wallet Overviews</h2>			
 <p>Hardware wallets are a good choice if you are serious about secure and easy Bitcoin storage. A hardware wallet is a physical Bitcoin wallet that is built with the sole purpose of securing bitcoins. Hardware Bitcoin wallets keep private keys away from internet-connected devices and allow users to sign transactions in an offline environment.</p>
 
-	{% assign pages = site.wallets | sort:"weight"  %}
+	{% assign pages = site.wallets | sort:"weight" %}
     {% for wallet in pages reversed %}
 	{% if wallet.tags contains 'hardware' %}
 	{% include wallet-list.html %}

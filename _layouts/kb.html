@@ -5,12 +5,13 @@ hide_sidebar: true
 {% assign author = site.data.authors[page.author] %}
 <div class="faq-article kb-article help-article {{ page.faq }}">
 	
+	{% if page.title != "Choose your Bitcoin Wallet" %}
 	<div class="breadcrumbs">
 	<a href="/"><i class="fa fa-home"></i></a> &#155;
 	<a href="/kb/">Knowledge Base</a> &#155; 
 	<strong>{{ page.title }}</strong>
 	</div>
-	 
+	{% endif %}
 
 <div class="row">
 <div class="post-header col-xs-12">
