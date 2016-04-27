@@ -1584,10 +1584,9 @@ iframe {
 }
 
 .sidebar-add .pmethods-sidebar-1 img {
-    float: left;
-    height: auto;
-    margin-right: 10px;
-    width: 53px;
+    height: 55px;
+    margin-right: 12px;
+    width: auto;
 }
 
 .pmethods-sidebar-1 .sidebar-image-wrap {
@@ -1666,6 +1665,12 @@ iframe {
     width: 100%;
 }
 
+.img-wrap-wallet {
+	width: 45px;
+	float: left;
+	text-align: center;
+}
+
 .wallet-index-wrap a:hover {
 	background: #ddd;
 	text-decoration: none;
@@ -1693,10 +1698,15 @@ blockquote {
 	margin-right: 2px;
 }
 
-.wallet-article .wallet-logo {
-	width: 100px;
+.wallet-article {
+	
+	.wallet-logo {
 	float: left;
+    height: 60px;
     margin: 0 15px 0 0;
+    width: auto;
+}
+
 }
 
 .exchange-article .exchange-logo {
@@ -1769,7 +1779,7 @@ blockquote {
 	color: #555;
 }
 
-.exchange-article .exchange-btn-bottom {
+.exchange-btn-bottom {
 	width: 100%;
 	margin-top: 15px;
 }
@@ -1822,7 +1832,7 @@ blockquote {
     margin-bottom: 20px;
 }
 
-.exchange-article .exchange-btn-top {
+.exchange-btn-top {
     width: 100%;
     margin-bottom: 30px;
 }
@@ -1860,14 +1870,6 @@ blockquote {
 
 .wallet-article .ctitle a, .exchange-article .ctitle a {
 	color: #555;
-}
-
-.wallet-content .security {
-    background-image: url("/img/icons/security.png");
-}
-
-.wallet-content .privacy {
-    background-image: url("/img/icons/privacy.png");
 }
 
 .wallet-article .security, .wallet-article .privacy {

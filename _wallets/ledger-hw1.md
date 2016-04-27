@@ -24,10 +24,10 @@ weight: 2
 screen: no
 released: Jan 2013
 price: $17
-pro1: Screen offers extra protection and verification
-pro2: Affordable hardware wallet with screen
-con1: $99 price tag may be out of reach for those on a budget
-con2: Requires USB cable to use 
+pro1: At 15€ (~$17), the Ledger HW.1 is a good option for users on a budger
+pro2: 
+con1: No screen means the HW.1 must be setup on bootable USB or offline computer in order to setup securely
+con2:  
 sidebardesc: The Ledger HW.1 is a less fancy version of the Nano. It securely stores Bitcoin private keys offline and signs transactions in its secure environment.
 pic: ledgerhw1.png
 ---

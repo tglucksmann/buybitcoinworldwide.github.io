@@ -1,6 +1,6 @@
 ---
 layout: default
-hide_sidebar: true
+hide_sidebar: false
 ---
 {% assign wallet = site.data.wallets[page.wallet] %}
 <div class="wallet-article {{ page.wallet }}">
@@ -10,66 +10,84 @@ hide_sidebar: true
 	<a href="/wallets/">Bitcoin Wallets</a> &#155; 
 	<strong>{{ page.title }}</strong>
 	</div>	
-	
+
+<div class="row content-with-sidebar col-md-9">		
 <div class="wallet-header-back">
-<div class="wallet-header {{ page.wallet }}">
+	<div class="wallet-header {{ page.wallet }}">
+		<div class="row">
+		  <div class="col-xs-12">
+		  <img class="wallet-logo" src="/img/hwpics/{{ page.pic }}">
+		  <h1 class="ctitle"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
+		 </div>
+		</div>
+	</div>
+</div>
+
+<div class="wallet-content {{ page.wallet }} entry-content">
+	{% if page.pro1 != null %}
 	<div class="row">
-	  <div class="col-xs-12">
-	  <img class="wallet-logo" src="{{ "/img/wallets/" | prepend: site.baseurl }}{{ page.thumb }}">
-	  <h1 class="ctitle"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
-	 <div class="wallet-info"> 
-	 	<div class="wallet-info-link"><i class="fa fa-fw fa-link fa-lg"></i> <a rel="nofollow" href="{{ page.website_url }}">{{ page.website }}</a></div>
-	 	{% if page.mobile_wallet == true %}
-	 	<div class="wallet-info-link"><i class="fa fa-fw fa-mobile fa-lg"></i> Mobile Wallet</div>
-	 	{% endif %}
-	 	{% if page.web_wallet == true %}
-	 	<div class="wallet-info-link"><i class="fa fa-fw fa-globe fa-lg"></i> Web Wallet</div>
-	 	{% endif %}
-	 	{% if page.hardware_wallet == true %}
-	 	<div class="wallet-info-link"><i class="fa fa-fw fa-key fa-lg"></i>Hardware Wallet</div>
-	 	{% endif %}
-	 	{% if page.desktop_wallet == true %}
-	 	<div class="wallet-info-link"><i class="fa fa-fw fa-desktop fa-lg"></i> Desktop Wallet</div>
-	 	{% endif %}
-	 	{% if page.open_source == true %}
-	 	<div class="wallet-info-link"><i class="fa fa-fw fa-github fa-lg"></i> <a href="{{ page.open_source_url }}">Open Source</a></div>
-	 	{% endif %}
-	 </div>
-	 </div>
+	<div class="exchange-pros col-md-6">
+	<div class="exchange-pros-title">Pros</div>
+	{% endif %}
+	
+	{% if page.pro1 != null %}
+	<li class="exchange-pro">{{ page.pro1 }}</li>
+	{% endif %}
+	{% if page.pro2 != null %}
+	<li class="exchange-pro">{{ page.pro2 }}</li>
+	{% endif %}
+	{% if page.pro3 != null %}
+	<li class="exchange-pro">{{ page.pro3 }}</li>
+	{% endif %}
+	
+	{% if page.pro1 != null %}
+	</div>
+	{% endif %}
+	
+	{% if page.con1 != null %}
+	<div class="exchange-pros col-md-6">
+	<div class="exchange-pros-title">Cons</div>
+	{% endif %}
+	
+	{% if page.con1 != null %}
+	<li class="exchange-pro">{{ page.con1 }}</li>
+	{% endif %}
+	{% if page.con2 != null %}
+	<li class="exchange-pro">{{ page.con2 }}</li>
+	{% endif %}
+	{% if page.con3 != null %}
+	<li class="exchange-pro">{{ page.con3 }}</li>
+	{% endif %}
+	
+	{% if page.con1 != null %}
+	</div>
+	</div>
+	{% endif %}
+   
+   <a type="button" href="{{ page.buy_url }}" rel="nofollow" target="_blank" class="btn exchange-btn-top btn-success"><i class="fa fa-bitcoin"></i> Buy a {{ page.title }}</a>
+   
+    {{ content }} 
+    
+    <a type="button" href="{{ page.buy_url }}" rel="nofollow" target="_blank" class="btn exchange-btn-bottom btn-success"><i class="fa fa-bitcoin"></i> Buy a {{ page.title }}</a>
+    
+    <script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "cldhdw-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "My Amazon Picks";
+amzn_assoc_linkid = "e7ae6c540f1f001d53f7c4c1dc147228";
+amzn_assoc_asins = "B0143M2A5S,B00UA47IIS,B00R6LSAZI,B00R6MKDDE";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+    
 	</div>
 </div>
 </div>
-<div class="wallet-content {{ page.wallet }} entry-content">
-            <! -- Blog Post  -->
-            <div class="list-group vitals">
-			  {% if page.control_priv_keys == true %}
-			  <span class="list-group-item bg-success"><i class="fa fa-key fa-fw"></i>&nbsp; <span>User controls private keys</span></span>
-			  {% endif %}
-			  {% if page.shared_control_priv_keys == true %}
-			  <span class="list-group-item bg-success"><i class="fa fa-key fa-fw"></i>&nbsp; <span>Shared control of private keys</span></span>
-			  {% endif %}
-			  {% if page.control_priv_keys == false %}
-			  <span class="list-group-item bg-danger"><i class="fa fa-key fa-fw"></i>&nbsp; <span>User does not control private keys</span></span>
-			  {% endif %}
-			  {% if page.create == true %}
-	 	<a rel="nofollow" class="list-group-item" href="{{ page.create_url }}"><i class="fa fa-sign-in fa-fw"></i>&nbsp; <span>Create Wallet</span></a>
-	 	      {% endif %}
-	 	      {% if page.buy == true %}
-	 	<a rel="nofollow" class="list-group-item" href="{{ page.buy_url }}"><i class="fa fa-shopping-cart fa-fw"></i>&nbsp; <span>Buy</span></a>
-	 	      {% endif %}
-	 	      {% if page.download_desktop == true %}
-			  <a rel="nofollow" class="list-group-item" href="{{ page.download_desktop_url }}"><i class="fa fa-download fa-fw"></i>&nbsp; <span>Download</span></a>
-			  {% endif %}
-			  {% if page.download_android == true %}
-			  <a rel="nofollow" class="list-group-item" href="{{ page.download_android_url }}"><i class="fa fa-download fa-fw"></i>&nbsp; <span>Download (Android)</span></a>
-			  {% endif %}
-			  {% if page.download_ios == true %}
-			  <a rel="nofollow" class="list-group-item" href="{{ page.download_ios_url }}"><i class="fa fa-download fa-fw"></i>&nbsp; <span>Download (iOS)</span></a>
-			  {% endif %}
-			  <a rel="nofollow" class="list-group-item" href="https://github.com/BuyBitcoinWorldwide/buybitcoinworldwide.github.io/blob/master/_wallets/{{ page.contribute }}.md"><i class="fa fa-pencil fa-fw"></i>&nbsp; <span>Contribute to this page</span></a>
-			</div>
-            {{ content }} 
-</div><! --/container -->
-	
-	
-</div>
+
+<div class="row sidebar-add exchange-sidebar col-md-3">
+{% include sidebar.html %}
+</div>	

@@ -11,7 +11,25 @@
 		{% endfor %}
   </div>
   
-  <div class="guides-exchange guides-exchange-pm">
+<h3 class="not-first">Secure your Bitcoins!</h3>
+	<div class="pmethods-sidebar-1">
+		 <div class="wallets-centered">
+             {% assign pages = site.wallets | sort:"weight"  %}
+             {% for album in pages %}
+			{% if album.cat contains 'hardware' %}
+                <a class="wallet-index-wrap" href="{{ album.url | prepend: site.baseurl }}">
+                <div class="img-wrap-wallet">
+                	<img class="wallet-image-index {{ album.wallet }}" src="/img/hwpics/{{ album.pic }}">
+                </div>
+                <h3 class="ctitle">{{ album.title }}</h3>               
+                </a>
+                {% endif %}
+            {% endfor %}
+			  </div>
+
+</div>
+
+<div class="guides-exchange guides-exchange-pm">
 <h3>Guides</h3>
 <ul>
 	{% for article in site.data.guidessidebar %}
