@@ -59,16 +59,20 @@ body {
     color: rgba(51, 51, 51, 0.8);
 }
 
-.exchanges-home h4 {
+.exchanges-home {
+	h4 {
 	margin-top: 0;
-}
-
-.exchanges-home .advantage-desc {
+	}
+	
+	.advantage-desc {
     padding-left: 55px !important;
-}
+	}
 
-.exchanges-home img {
+
+	img {
 	margin-top: 5px !important;
+	}
+	
 }
 
 .footer  {
@@ -80,17 +84,18 @@ body {
 .footer-english {
 	font-size: 17px;
 	font-weight: 400;
-}
-
-.footer-english .footer-menu-title {
+	
+	.footer-menu-title {
 	font-weight: 600;
 	color: #2c2c2c;
-}
-
-.footer-english ul {
+	}
+	
+	ul {
 	list-style-type: none;
 	padding-left: 0;
+	}
 }
+
 
 .exchange-compare-line {
     border-top: 1px solid #ddd;
