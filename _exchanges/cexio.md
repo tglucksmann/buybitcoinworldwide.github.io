@@ -48,6 +48,8 @@ fees_width: 80
 
 </div>
 
+CEX.IO also offers users the ability to sell bitcoins to credit or debit cards.
+
 ## Supported Countries
 CEX.IO supports all countries, unless noted below. 
 
