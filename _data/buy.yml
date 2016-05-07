@@ -48,6 +48,7 @@
    desc_ru: Цифровая валютная биржа. Самый простой способ купить биткоины с помощью PayPal.
    desc_pt_br: Câmbio de moeda digital. A maneira mais fácil de comprar bitcoins com o PayPal.
    desc_es: Intercambio de moneda digital. La forma más fácil de comprar bitcoin con PayPal. 
+   desc_he: המרת מטבע דיגיטלי. הדרך הקלה ביותר לקנות ביטקוין באמצעות פייפאל.
  
  - name: Bity
    desc: Fast and easy way to buy bitcoin. Buy up to 250 €/CHF a day with phone verification.
@@ -206,6 +207,32 @@
 ##   desc_uk: Купити біткоін швидко грошовим внеском або SEPA-платежем в ЄС. Збір - 2%.
 
 
+ - name: Coinimal
+   desc: Buy bitcoin with SOFORT, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
+   url: http://buybitcoinww.co/coinimal
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinimal.png
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
+   po: sofort, giro, sepa, ccww, ccwwtop, giropay, babt, sell
+   desc_ccww_short: Buy bitcoin in Europe with a Visa or Mastercard credit or debit card via Neteller. 
+   desc_ccww: Coinimal is a Bitcoin broker located in Austria. You can purchase bitcoin with a CC indirectly via NETELLER for a 7% fee. Coinimal is available to residents of the EU.
+   desc_ccww_fr: Coinimal est un courtier Bitcoin basé en Autriche. Vous pouvez y acheter indirectement des bitcoins avec une carte de crédit à travers NETELLER pour une commission de 7%. Coinimal est disponible pour les résidents de l'UE.
+   desc_ccww_ptbr: Coinimal é uma corretora de Bitcoins localizada na Áustria. Você pode comprar bitcoin com cartão de crédito indiretamente via NETELLER por uma taxa de 7%. Coinimal está disponível para residentes da UE.
+   desc_ccww_it: Coinimal è un broker di Bitcoin situato in Austria. È possibile acquistare Bitcoin con una carta di credito in maniera indiretta tramite NETELLER con una commissione del 7%. Coinimal è disponibile per coloro che risiedono nell’UE.
+   desc_ccww_ru: Coinimal — это биткоин-брокер, расположенный в Австрии. Вы можете купить биткоины при помощи кредитной карты, используя сторонний сервис NETELLER, с комиссией 7%. Coinimal доступен жителям Евросоюза.
+   desc_ccww_es: Coinimal es un corredor de Bitcoin ubicado en Austria. Puede comprar bitcoin con tarjeta de crédito indirectamente a través de NETELLER con una comisión del 7%. Coinimal está disponible para los residentes de la Unión Europea.
+   desc_ccww_de: Coinimal ist ein Bitcoin-Broker aus der Österreich. Sie können Bitcoin mit einer Kreditkarte indirekt über NETELLER für eine 7% Gebühr kaufen. Coinimal ist für die Bewohner der EU verfügbar.
+   desc_ar:  شراء بيتكوين بـ EPS وgiropay و NETELLER وSOFORT وSEPA و SEPA، والتحويل المصرفي عبر الإنترنت.
+   desc_fr: Achetez des bitcoins avec SOFORT, NETELLER, giropay, eps, SEPA et virement bancaire en ligne.
+   desc_el: Αγοράστε bitcoin με SOFORT, NETELLER, giropay, eps, SEPA και διαδικτυακή τραπεζική μεταφορά.
+   desc_nl: Koop Bitcoin met SOFORT, NETELLER, giropay, eps, SEPA en via een online overschrijving.
+   desc_it: Acquista Bitcoin tramite SOFORT, NETELLER, giropay, eps, SEPA, e bonifico bancario online.
+   desc_pt_br: Compre Bitcoins através de transferências bancárias online, SOFORT, NETELLER, Giropay, EPS e SEPA.
+   desc_de: Bitcoing mit SOFORT, NETELLER, giropay, eps, SEPA und Online Banküberweisungen kaufen.
+   desc_bg: Купете биткойн чрез SOFORT, NETELLER, giropay, eps, SEPA, и онлайн банков превод.
+   desc_ru: Купить биткоин через SOFORT, NETELLER, giropay, eps, SEPA или банковским переводом онлайн. 
+   desc_uk: Купити біткоіни через SOFORT, NETELLER, giropay, eps, SEPA або банківським переказом онлайн.
+   desc_sell: Sell bitcoins for Skrill, NETELLER, PayPal (EU only), Amazon.de credit, or SEPA transfer.
+
  - name: 247Exchange
    url: http://buybitcoinww.co/247exchange
    icon: /img/buy/247.png
@@ -247,52 +274,6 @@
    desc_ru: Купить биткоин у местных посредников, онлайн или лично (в "оффлайн"). Сбор в размере 1%.
    desc_uk: Купити біткоін у місцевих посередників, онлайн або особисто (в "оффлайн"). Сбор в размере 1%.
    desc_sell: Sell bitcoins for cash deposit, or meet in person and make a cash trade. 1% fee. 
-
- - name: Bitstamp
-   desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
-   url: http://buybitcoinww.co/buy_bitstamp
-   icon: https://www.buybitcoinworldwide.com/img/buy/stamp.png
-   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
-   po: sepa, lowfees, babt, sell
-   es: yes
-   name_es: Bitstamp
-   desc_es: Comprar bitcoin en Bitstamp a través de SEPA o transferencia bancaria. Comisiones varias.
-   ar: yes
-   desc_ar:  شراء بيتكوين على Bitstamp عبر SEPA أو حوالة مصرفية. تختلف الرسوم.
-   desc_fr: Achetez des bitcoins sur Bitstamp avec un virement bancaire ou SEPA. Commission variable.
-   desc_el: Αγοράστε bitcoin στο Bitstamp μέσω SEPA ή εμβάσματος. Κυμαινόμενο τέλος.
-   desc_nl: Koop bitcoin op Bitstamp via SEPA of een overschrijving. Toeslag varieert.
-   desc_it: Acquista Bitcoin su Bitstamp attraverso trasferimento SEPA o bonifico bancario. 
-   desc_pt_br: Compre Bitcoins na Bitstamp via SEPA ou transferência bancária. Taxas variáveis. 
-   desc_de: Bitcoin auf Bitstamp durch SEPA oder Banküberweisungen kaufen. Gebühren variieren.
-   desc_zh: 通过国家环保总局或电汇在Bitstamp购买比特币。费用略不同。
-   desc_bg: Купете биткойн от Bitstamp чрез SEPA или банков превод. Таксите варират.
-   desc_ru: Купить биткоин на Bitstamp через SEPA-платеж или денежным переводом. Сборы могут меняться.
-   desc_uk: Купити біткоін на Bitstamp через SEPA-платіж або грошовим переказом. Збори можуть змінюватися.
-   desc_sell: Sell bitcoins on Bitstramp, then transfer your funds to a bank account through SEPA transfer. 
-      
- - name: Kraken
-   desc: Bitcoin exchange supporting SEPA deposits, bank wires, SWIFT, and JPY bank deposit. 
-   url: http://buybitcoinww.co/kraken_bitcoin
-   icon: https://www.buybitcoinworldwide.com/img/buy/kraken.png
-   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, ca
-   po: sepa, io, lowfees, babt, sell
-   es: yes
-   name_es: Kraken
-   desc_es: El intercambio de Bitcoin soporta depósitos SEPA, transferencias bancarias, y SWIFT.
-   ar: yes
-   desc_ar:  صرافة بيتكوين التي تدعم ودائع SEPA والتحويلات البنكية، والحوالات البنكية السريعة SWIFT، والإيداع المصرفي بالين الياباني JPY.
-   desc_fr: Bourse d'échange de bitcoins acceptant dépôts SEPA, virements bancaires, SWIFT et dépôts bancaires JPY.
-   desc_nl: Bitcoin exchange die SEPA storting, bankoverschrijvingen, SWIFT. 
-   desc_it: Società di cambio di Bitcoin che supporta depositi SEPA, bonifici bancari, SWIFT e depositi bancari JPY.
-   desc_el: Ανταλλακτήριο bitcoin που υποστηρίζει καταθέσεις SEPA, εμβάσματα, SWIFT και τραπεζικές καταθέσεις JPY.
-   desc_pt_br: A conversão de Bitcoins trabalha com depósitos SEPA, transferências bancárias, códigos SWIFT.
-   desc_de: Börse. Einzahlen über SEPA, Banküberweisungen, SWIFT und JPY Bankeinzahlungen.
-   desc_zh: 比特币交易平台可接受国家环保总局存款、银行电汇、SWIFT和JPY银行交存。
-   desc_bg: Биткойн борса, поддържаща SEPA депозити, банкови преводи, SWIFT, или JPY банков депозит.
-   desc_ru: Биткоин-биржи, поддерживающие SEPA-депозиты, банковские переводы, SWIFT.
-   desc_uk: Біткоін-біржі, що підтримують SEPA-депозити, банківські перекази, SWIFT.
-   desc_sell: Sell bitcoins to your bank account in Europe through SEPA transfer. 
 
  - name: Coinbase Exchange
    desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or <a href="/en/buy-bitcoin-ach-bank-transfer-united-states/">ACH bank transfer</a>.
@@ -447,32 +428,6 @@
    
    
 ##### Austria ####################################################   
-
- - name: Coinimal
-   desc: Buy bitcoin with SOFORT, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
-   url: http://buybitcoinww.co/coinimal
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinimal.png
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
-   po: sofort, giro, sepa, ccww, ccwwtop, giropay, babt, sell
-   desc_ccww_short: Buy bitcoin in Europe with a Visa or Mastercard credit or debit card via Neteller. 
-   desc_ccww: Coinimal is a Bitcoin broker located in Austria. You can purchase bitcoin with a CC indirectly via NETELLER for a 7% fee. Coinimal is available to residents of the EU.
-   desc_ccww_fr: Coinimal est un courtier Bitcoin basé en Autriche. Vous pouvez y acheter indirectement des bitcoins avec une carte de crédit à travers NETELLER pour une commission de 7%. Coinimal est disponible pour les résidents de l'UE.
-   desc_ccww_ptbr: Coinimal é uma corretora de Bitcoins localizada na Áustria. Você pode comprar bitcoin com cartão de crédito indiretamente via NETELLER por uma taxa de 7%. Coinimal está disponível para residentes da UE.
-   desc_ccww_it: Coinimal è un broker di Bitcoin situato in Austria. È possibile acquistare Bitcoin con una carta di credito in maniera indiretta tramite NETELLER con una commissione del 7%. Coinimal è disponibile per coloro che risiedono nell’UE.
-   desc_ccww_ru: Coinimal — это биткоин-брокер, расположенный в Австрии. Вы можете купить биткоины при помощи кредитной карты, используя сторонний сервис NETELLER, с комиссией 7%. Coinimal доступен жителям Евросоюза.
-   desc_ccww_es: Coinimal es un corredor de Bitcoin ubicado en Austria. Puede comprar bitcoin con tarjeta de crédito indirectamente a través de NETELLER con una comisión del 7%. Coinimal está disponible para los residentes de la Unión Europea.
-   desc_ccww_de: Coinimal ist ein Bitcoin-Broker aus der Österreich. Sie können Bitcoin mit einer Kreditkarte indirekt über NETELLER für eine 7% Gebühr kaufen. Coinimal ist für die Bewohner der EU verfügbar.
-   desc_ar:  شراء بيتكوين بـ EPS وgiropay و NETELLER وSOFORT وSEPA و SEPA، والتحويل المصرفي عبر الإنترنت.
-   desc_fr: Achetez des bitcoins avec SOFORT, NETELLER, giropay, eps, SEPA et virement bancaire en ligne.
-   desc_el: Αγοράστε bitcoin με SOFORT, NETELLER, giropay, eps, SEPA και διαδικτυακή τραπεζική μεταφορά.
-   desc_nl: Koop Bitcoin met SOFORT, NETELLER, giropay, eps, SEPA en via een online overschrijving.
-   desc_it: Acquista Bitcoin tramite SOFORT, NETELLER, giropay, eps, SEPA, e bonifico bancario online.
-   desc_pt_br: Compre Bitcoins através de transferências bancárias online, SOFORT, NETELLER, Giropay, EPS e SEPA.
-   desc_de: Bitcoing mit SOFORT, NETELLER, giropay, eps, SEPA und Online Banküberweisungen kaufen.
-   desc_bg: Купете биткойн чрез SOFORT, NETELLER, giropay, eps, SEPA, и онлайн банков превод.
-   desc_ru: Купить биткоин через SOFORT, NETELLER, giropay, eps, SEPA или банковским переводом онлайн. 
-   desc_uk: Купити біткоіни через SOFORT, NETELLER, giropay, eps, SEPA або банківським переказом онлайн.
-   desc_sell: Sell bitcoins for Skrill, NETELLER, PayPal (EU only), Amazon.de credit, or SEPA transfer.
 
  - name: bitcoinbon
    desc: Buy bitcoin with cash at over 600 physical locations across Austria. Buy €25, €50, or €100. 
@@ -1711,6 +1666,52 @@
    desc: Bitcoin broker. Buy bitcoin with a credit card or debit card instantly.  
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mx, ar, br, bo, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, ru, uk, au, il, ae 
 
+ - name: Bitstamp
+   desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
+   url: http://buybitcoinww.co/buy_bitstamp
+   icon: https://www.buybitcoinworldwide.com/img/buy/stamp.png
+   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
+   po: sepa, lowfees, babt, sell
+   es: yes
+   name_es: Bitstamp
+   desc_es: Comprar bitcoin en Bitstamp a través de SEPA o transferencia bancaria. Comisiones varias.
+   ar: yes
+   desc_ar:  شراء بيتكوين على Bitstamp عبر SEPA أو حوالة مصرفية. تختلف الرسوم.
+   desc_fr: Achetez des bitcoins sur Bitstamp avec un virement bancaire ou SEPA. Commission variable.
+   desc_el: Αγοράστε bitcoin στο Bitstamp μέσω SEPA ή εμβάσματος. Κυμαινόμενο τέλος.
+   desc_nl: Koop bitcoin op Bitstamp via SEPA of een overschrijving. Toeslag varieert.
+   desc_it: Acquista Bitcoin su Bitstamp attraverso trasferimento SEPA o bonifico bancario. 
+   desc_pt_br: Compre Bitcoins na Bitstamp via SEPA ou transferência bancária. Taxas variáveis. 
+   desc_de: Bitcoin auf Bitstamp durch SEPA oder Banküberweisungen kaufen. Gebühren variieren.
+   desc_zh: 通过国家环保总局或电汇在Bitstamp购买比特币。费用略不同。
+   desc_bg: Купете биткойн от Bitstamp чрез SEPA или банков превод. Таксите варират.
+   desc_ru: Купить биткоин на Bitstamp через SEPA-платеж или денежным переводом. Сборы могут меняться.
+   desc_uk: Купити біткоін на Bitstamp через SEPA-платіж або грошовим переказом. Збори можуть змінюватися.
+   desc_sell: Sell bitcoins on Bitstramp, then transfer your funds to a bank account through SEPA transfer. 
+      
+ - name: Kraken
+   desc: Bitcoin exchange supporting SEPA deposits, bank wires, SWIFT, and JPY bank deposit. 
+   url: http://buybitcoinww.co/kraken_bitcoin
+   icon: https://www.buybitcoinworldwide.com/img/buy/kraken.png
+   countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, ca
+   po: sepa, io, lowfees, babt, sell
+   es: yes
+   name_es: Kraken
+   desc_es: El intercambio de Bitcoin soporta depósitos SEPA, transferencias bancarias, y SWIFT.
+   ar: yes
+   desc_ar:  صرافة بيتكوين التي تدعم ودائع SEPA والتحويلات البنكية، والحوالات البنكية السريعة SWIFT، والإيداع المصرفي بالين الياباني JPY.
+   desc_fr: Bourse d'échange de bitcoins acceptant dépôts SEPA, virements bancaires, SWIFT et dépôts bancaires JPY.
+   desc_nl: Bitcoin exchange die SEPA storting, bankoverschrijvingen, SWIFT. 
+   desc_it: Società di cambio di Bitcoin che supporta depositi SEPA, bonifici bancari, SWIFT e depositi bancari JPY.
+   desc_el: Ανταλλακτήριο bitcoin που υποστηρίζει καταθέσεις SEPA, εμβάσματα, SWIFT και τραπεζικές καταθέσεις JPY.
+   desc_pt_br: A conversão de Bitcoins trabalha com depósitos SEPA, transferências bancárias, códigos SWIFT.
+   desc_de: Börse. Einzahlen über SEPA, Banküberweisungen, SWIFT und JPY Bankeinzahlungen.
+   desc_zh: 比特币交易平台可接受国家环保总局存款、银行电汇、SWIFT和JPY银行交存。
+   desc_bg: Биткойн борса, поддържаща SEPA депозити, банкови преводи, SWIFT, или JPY банков депозит.
+   desc_ru: Биткоин-биржи, поддерживающие SEPA-депозиты, банковские переводы, SWIFT.
+   desc_uk: Біткоін-біржі, що підтримують SEPA-депозити, банківські перекази, SWIFT.
+   desc_sell: Sell bitcoins to your bank account in Europe through SEPA transfer. 
+
  - name: Wall of Coins
    desc: Buy bitcoin with cash in the US, Canada, Germany, Poland, Argentina, and more. <a href="/exchanges/wall-of-coins/">Wall of Coins review</a>. 
    url: http://buybitcoinww.co/Wall_of_Coins
@@ -1936,6 +1937,12 @@
    countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb
    po: pp, cc, skrill, okpay, sell
    desc_sell: One of the few ways to sell bitcoins to PayPal, but will cost around 9% in fees. 
+   desc_fr: Bureau de change numérique. Le moyen le plus facile d’acheter des bitcoins avec PayPal.  
+   desc_de: Digitaler Währungshandelsplatz. Der einfachste Weg um Bitcoins mit PayPal zu kaufen.
+   desc_ru: Цифровая валютная биржа. Самый простой способ купить биткоины с помощью PayPal.
+   desc_pt_br: Câmbio de moeda digital. A maneira mais fácil de comprar bitcoins com o PayPal.
+   desc_es: Intercambio de moneda digital. La forma más fácil de comprar bitcoin con PayPal. 
+   desc_he: המרת מטבע דיגיטלי. הדרך הקלה ביותר לקנות ביטקוין באמצעות פייפאל.
 
  - name: Bitit
    desc: Buy Bitcoins online with credit card or cash in 100K+ local stores across Europe.

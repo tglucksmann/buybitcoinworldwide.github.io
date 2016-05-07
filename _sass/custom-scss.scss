@@ -280,8 +280,21 @@ html, body {
     margin-top: -3px;
 }
 
-.arabic .navbar-header {
-	float: right;
+
+.arabic {
+	.navbar-header {
+		float: right;
+	}
+	
+	.post-title-main {
+		direction: rtl;
+	}
+}
+
+.arabic .guide-article {
+	.post-title-main {
+		float: right;
+	}
 }
 
 .arabic .navbar-nav {
