@@ -17,7 +17,7 @@ open_source: yes
 open_source_url: https://github.com/trezor/
 control_priv_keys: yes
 buy: yes
-buy_url: http://buybitcoinww.co/TREZOR-wallet
+buy_url: http://geni.us/trezor
 contribute: trezor
 summary: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offering secure cold storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. TREZOR is compatible with a number of software wallets, including Mycelium, Electrum, and Multibit HD. 
 weight: 9
@@ -31,13 +31,13 @@ screen: yes
 sidebardesc: TREZOR was released in October 2013 and was the first Bitcoin hardware wallet with a screen. TREZOR is a small, USB sized device that is actually a small computer.
 pic: trezor.png
 ---
-[TREZOR](http://buybitcoinww.co/TREZOR_amazon){:rel="nofollow"} launched in [August 2014](http://satoshilabs.com/news/2014-08-07-trezor-sales-launched-buytrezor-com/) as the first Bitcoin hardware wallet, offering secure cold storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. 
+[TREZOR](http://geni.us/trezor){:rel="nofollow"} launched in [August 2014](http://satoshilabs.com/news/2014-08-07-trezor-sales-launched-buytrezor-com/) as the first Bitcoin hardware wallet, offering secure cold storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. 
 
 * Table of Contents
 {:toc}
 
 ## Price
-Costs $99 for one, or $189 for two. You can buy with bitcoin from [TREZOR's website](http://buybitcoinww.co/TREZOR_hwallet){:rel="nofollow"} with credit card or bank account from [Amazon](http://buybitcoinww.co/TREZOR_amazon){:rel="nofollow"}. 
+Costs $99 for one, or $189 for two. You can buy with bitcoin from [TREZOR's website](http://buybitcoinww.co/TREZOR_hwallet){:rel="nofollow"} with credit card or bank account from [Amazon](http://geni.us/trezor){:rel="nofollow"}. 
 
 ## Security
 
@@ -71,19 +71,19 @@ myTREZOR.com is TREZOR's web wallet, while the Chrome extension is an app instal
 
 ## Privacy
 
-TREZOR itself offers very good privacy. Satoshi Labs has no way of tracking your actions after you receive the device because it has no serial number. All of the software is open source. No usernames or passwords are needed when using [TREZOR](http://buybitcoinww.co/TREZOR_amazon){:rel="nofollow"}.
+TREZOR itself offers very good privacy. Satoshi Labs has no way of tracking your actions after you receive the device because it has no serial number. All of the software is open source. No usernames or passwords are needed when using [TREZOR](http://geni.us/trezor){:rel="nofollow"}.
 
-Privacy is determined by the wallet used with TREZOR: [Electrum](/wallets/electrum/), MultiBit HD, and [GreenAddress](/wallets/greenaddress/) on desktop, [GreenBits](/wallets/greenbits/) and [Mycelium](/wallets/mycelium/) on Android, and myTREZOR.com on the web.
+Privacy is determined by the wallet used with TREZOR: Electrum, MultiBit HD, and GreenAddress on desktop, GreenBits and Mycelium on Android, and myTREZOR.com on the web.
 
 Data can be leaked upon setup if using TREZOR's myWallet. For a more private initialization, use the Chrome extension or the python tools to setup your device on an offline computer. 
 
 ## Software Wallets
 
-Trezor is compatible with a number of wallets, including [Electrum](/wallets/electrum/), MultiBit HD, and [GreenAddress](/wallets/greenaddress/) on desktop, [GreenBits](/wallets/greenbits/) and [Mycelium](/wallets/mycelium/) on Android, and [myTREZOR.com](https://mytrezor.com) on the web. Use the TREZOR Chrome extension to manage your device. 
+Trezor is compatible with a number of wallets, including Electrum, MultiBit HD, and GreenAddress on desktop, GreenBits and Mycelium on Android, and myTREZOR.com on the web. Use the TREZOR Chrome extension to manage your device. 
 
 ## TREZOR vs. Ledger Wallet Nano
 
-TREZOR and the [Ledger Nano](/ledger-nano-review/) are often compared. The main difference is TREZOR offers a screen, the ability to add a passphrase to the HD seed, and the ability to setup offline. The Ledger Nano wins in terms of price. 
+TREZOR and the [Ledger Nano](/wallets/ledger-nano/) are often compared. The main difference is TREZOR offers a screen, the ability to add a passphrase to the HD seed, and the ability to setup offline. The Ledger Nano wins in terms of price. 
 
 ## TREZOR vs. KeepKey
 

@@ -17,7 +17,7 @@ open_source: yes
 open_source_url: https://github.com/trezor/
 control_priv_keys: yes
 buy: yes
-buy_url: http://buybitcoinww.co/KeepKey_Amazon
+buy_url: http://geni.us/ckz
 contribute: trezor
 summary: KeepKey was released in September 2015 and is the second hardware Bitcoin wallet to offer a screen.
 weight: 9
@@ -35,7 +35,7 @@ pic: keepkey.png
 
 ## Price 
 
-Costs $239 and can be [purchased on Amazon](http://buybitcoinww.co/KeepKey_Amazon){:rel="nofollow"}. High price tag is due to its digital screen, metal body, and high level of security.  
+Costs $239 and can be [purchased on Amazon](http://geni.us/ckz){:rel="nofollow"}. High price tag is due to its digital screen, metal body, and high level of security.  
 
 * Table of Contents
 {:toc}
@@ -48,7 +48,7 @@ In addition to offline storage, KeepKey's pin code and number randomization make
 
 <iframe src="https://player.vimeo.com/video/141067566?title=0&byline=0&portrait=0" width="700" height="438" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[KeepKey](http://buybitcoinww.co/KeepKey_Amazon){:rel="nofollow"} is an HD wallet, meaning your entire wallet can be backed up with the 12 words generated on setup. 12 words is the default setting, although KeepKey supports seed lengths of 18 and 24. 
+[KeepKey](http://geni.us/ckz){:rel="nofollow"} is an HD wallet, meaning your entire wallet can be backed up with the 12 words generated on setup. 12 words is the default setting, although KeepKey supports seed lengths of 18 and 24. 
 
 The seed is generated using entropy from both the device itself and the computer used for setup. The seed is generated offline on the KeepKey and displayed on the device's screen. The device's offline screen makes sure the seed is never displayed on an internet-connected device.
 
