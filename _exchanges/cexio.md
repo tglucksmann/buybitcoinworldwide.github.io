@@ -48,7 +48,11 @@ fees_width: 80
 
 </div>
 
-CEX.IO also offers users the ability to sell bitcoins to credit or debit cards.
+CEX.IO also offers users the ability to sell bitcoins to credit or debit cards. The fees for this are as follows: 
+
+* 2.9% + $4.99 for USD
+* 2.9% + €4.99 for EUR
+* 2.9% + 499 RUB for RUB
 
 ## Supported Countries
 CEX.IO supports all countries, unless noted below. 

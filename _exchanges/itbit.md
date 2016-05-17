@@ -48,7 +48,7 @@ Traders can funds accounts via wire transfer. itBit charges no deposit fees. Fee
 
 ## Supported Countries
 
-itBit supports customers around the globe.
+itBit supports customers around the globe in most countries. Texas is the only U.S. state not supported.  
 
 * Table of Contents
 {:toc}
@@ -63,7 +63,9 @@ More information on itBit's OTC trading [can be found here](https://www.itbit.co
 
 ## Privacy
 
-itBit requires scans of an ID and proof of residence documents.
+U.S. residents can complete identity verification using itBit's Knowledge Based Authentication, which does not require ID scans. 
+
+Users outside the United States must provide ID scans and proof of residence documents.  
 
 ## Speed
 
