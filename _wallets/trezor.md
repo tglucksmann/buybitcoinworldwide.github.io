@@ -17,7 +17,7 @@ open_source: yes
 open_source_url: https://github.com/trezor/
 control_priv_keys: yes
 buy: yes
-buy_url: http://geni.us/trezor
+buy_url: http://buybitcoinww.co/TREZOR_Wallet
 contribute: trezor
 summary: TREZOR launched in August 2014 as the first Bitcoin hardware wallet, offering secure cold storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. TREZOR is compatible with a number of software wallets, including Mycelium, Electrum, and Multibit HD. 
 weight: 9
@@ -31,13 +31,13 @@ screen: yes
 sidebardesc: TREZOR was released in October 2013 and was the first Bitcoin hardware wallet with a screen. TREZOR is a small, USB sized device that is actually a small computer.
 pic: trezor.png
 ---
-[TREZOR](http://geni.us/trezor){:rel="nofollow"} launched in [August 2014](http://satoshilabs.com/news/2014-08-07-trezor-sales-launched-buytrezor-com/) as the first Bitcoin hardware wallet, offering secure cold storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. 
+[TREZOR](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"} launched in [August 2014](http://satoshilabs.com/news/2014-08-07-trezor-sales-launched-buytrezor-com/) as the first Bitcoin hardware wallet, offering secure cold storage plus the ability to spend with the convenience of a hot wallet. TREZOR is a small, key-sized device which connects to your computer with a USB cable. It stores your Bitcoin private keys offline and signs transactions. It can be safely used on a malware infected computer. 
 
 * Table of Contents
 {:toc}
 
 ## Price
-Costs $99 for one, or $189 for two. You can buy with bitcoin from [TREZOR's website](http://buybitcoinww.co/TREZOR_hwallet){:rel="nofollow"} with credit card or bank account from [Amazon](http://geni.us/trezor){:rel="nofollow"}. 
+Costs $99 for one, or $189 for two. You can buy with bitcoin from [TREZOR's website](http://buybitcoinww.co/TREZOR_hwallet){:rel="nofollow"} with credit card or bank account from [Amazon](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"}. 
 
 ## Security
 
@@ -71,7 +71,7 @@ myTREZOR.com is TREZOR's web wallet, while the Chrome extension is an app instal
 
 ## Privacy
 
-TREZOR itself offers very good privacy. Satoshi Labs has no way of tracking your actions after you receive the device because it has no serial number. All of the software is open source. No usernames or passwords are needed when using [TREZOR](http://geni.us/trezor){:rel="nofollow"}.
+TREZOR itself offers very good privacy. Satoshi Labs has no way of tracking your actions after you receive the device because it has no serial number. All of the software is open source. No usernames or passwords are needed when using [TREZOR](http://buybitcoinww.co/TREZOR_Wallet){:rel="nofollow"}.
 
 Privacy is determined by the wallet used with TREZOR: Electrum, MultiBit HD, and GreenAddress on desktop, GreenBits and Mycelium on Android, and myTREZOR.com on the web.
 

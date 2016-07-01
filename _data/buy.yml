@@ -79,7 +79,7 @@
    desc_ach: Circle lets you connect a bank account and buy via ACH transfer. Circle doesn't officially charge a fee, but its exchange rate is usually 0.5% higher than Bitcoin exchanges. Bitcoin will be delivered within 1-4 days.
    desc_achshort: Buy bitcoin with your bank account via ACH transfer. Limited to $300 per week.
    desc_usbankshort: Buy bitcoin with your bank account via ACH transfer. Limited to $300 per week.
-   desc_ccww: Circle lets you buy bitcoin online with a credit or debit card instantly with no fee. If you use a credit card you'll have to pay a 3% fee. Circle is currently only available in the United States. Purchasing through Circle is the only way to buy bitcoin with a debit card with no fees. You're initial buy limit is $300 of bitcoin per week although this limit can be raised if requested.
+   desc_ccww: Circle lets you buy bitcoin online with a credit or debit card instantly. If you use a credit card you'll have to pay a 3% fee, while purchases made with a debit card come with absolutely no fees. Circle is currently only available in the United States. Purchasing through Circle is the only way to buy bitcoin with a debit card with no fees. You're initial buy limit is $300 of bitcoin per week although this limit can be raised if requested.
    desc_es: Comprar Bitcoin de forma instantánea con una cuenta bancaria o tarjeta de crédito. Sin comisiones.
    ar: yes
    desc_ar:  شراء بيتكوين عبر حساب مصرفي أو بطاقة الائتمان. بسرعة ويسر.
