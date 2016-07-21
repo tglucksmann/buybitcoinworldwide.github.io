@@ -182,20 +182,20 @@
    desc_ccww_de: Coinhouse kann 3D-Sichere Kreditkarten und Debitkarten  in der SEPA Zone verarbeiten.Die Lieferung von Bitcoins ist unmittelbar. Dieser Dienst wird von Ledger, einer bekannten Sicherheitsfirma im Bitcoinraum betrieben. Gebühren laufen von 6 bis 10%, je nach Kaufvolumen.
    desc_ccww: European residents can buy bitcoin with a 3D secure credit or debit card at Coinhouse. The fees range from 6-10% depending on your total buy volume. <a href="/exchanges/coinhouse/">Learn more in our Coinhouse review</a>.
 
- - name: Coinimal
+ - name: BitPanda
    desc: Buy bitcoin with SOFORT, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
-   url: http://buybitcoinww.co/coinimal
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinimal.png
+   url: http://buybitcoinww.co/bitpanda
+   icon: https://www.buybitcoinworldwide.com/img/buy/bitpanda.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
    po: sofort, giro, sepa, ccww, ccwwtop, giropay, babt, sell
    desc_ccww_short: Buy bitcoin in Europe with a Visa or Mastercard credit or debit card via Neteller. 
-   desc_ccww: Coinimal is a Bitcoin broker located in Austria. You can purchase bitcoin with a CC indirectly via NETELLER for a 7% fee. Coinimal is available to residents of the EU.
-   desc_ccww_fr: Coinimal est un courtier Bitcoin basé en Autriche. Vous pouvez y acheter indirectement des bitcoins avec une carte de crédit à travers NETELLER pour une commission de 7%. Coinimal est disponible pour les résidents de l'UE.
-   desc_ccww_ptbr: Coinimal é uma corretora de Bitcoins localizada na Áustria. Você pode comprar bitcoin com cartão de crédito indiretamente via NETELLER por uma taxa de 7%. Coinimal está disponível para residentes da UE.
-   desc_ccww_it: Coinimal è un broker di Bitcoin situato in Austria. È possibile acquistare Bitcoin con una carta di credito in maniera indiretta tramite NETELLER con una commissione del 7%. Coinimal è disponibile per coloro che risiedono nell’UE.
-   desc_ccww_ru: Coinimal — это биткоин-брокер, расположенный в Австрии. Вы можете купить биткоины при помощи кредитной карты, используя сторонний сервис NETELLER, с комиссией 7%. Coinimal доступен жителям Евросоюза.
-   desc_ccww_es: Coinimal es un corredor de Bitcoin ubicado en Austria. Puede comprar bitcoin con tarjeta de crédito indirectamente a través de NETELLER con una comisión del 7%. Coinimal está disponible para los residentes de la Unión Europea.
-   desc_ccww_de: Coinimal ist ein Bitcoin-Broker aus der Österreich. Sie können Bitcoin mit einer Kreditkarte indirekt über NETELLER für eine 7% Gebühr kaufen. Coinimal ist für die Bewohner der EU verfügbar.
+   desc_ccww: BitPanda is a Bitcoin broker located in Austria. You can purchase bitcoin with a CC indirectly via NETELLER for a 7% fee. BitPanda is available to residents of the EU.
+   desc_ccww_fr: BitPanda est un courtier Bitcoin basé en Autriche. Vous pouvez y acheter indirectement des bitcoins avec une carte de crédit à travers NETELLER pour une commission de 7%. BitPanda est disponible pour les résidents de l'UE.
+   desc_ccww_ptbr: BitPanda é uma corretora de Bitcoins localizada na Áustria. Você pode comprar bitcoin com cartão de crédito indiretamente via NETELLER por uma taxa de 7%. BitPanda está disponível para residentes da UE.
+   desc_ccww_it: BitPanda è un broker di Bitcoin situato in Austria. È possibile acquistare Bitcoin con una carta di credito in maniera indiretta tramite NETELLER con una commissione del 7%. BitPanda è disponibile per coloro che risiedono nell’UE.
+   desc_ccww_ru: BitPanda — это биткоин-брокер, расположенный в Австрии. Вы можете купить биткоины при помощи кредитной карты, используя сторонний сервис NETELLER, с комиссией 7%. BitPanda доступен жителям Евросоюза.
+   desc_ccww_es: BitPanda es un corredor de Bitcoin ubicado en Austria. Puede comprar bitcoin con tarjeta de crédito indirectamente a través de NETELLER con una comisión del 7%. BitPanda está disponible para los residentes de la Unión Europea.
+   desc_ccww_de: BitPanda ist ein Bitcoin-Broker aus der Österreich. Sie können Bitcoin mit einer Kreditkarte indirekt über NETELLER für eine 7% Gebühr kaufen. BitPanda ist für die Bewohner der EU verfügbar.
    desc_ar:  شراء بيتكوين بـ EPS وgiropay و NETELLER وSOFORT وSEPA و SEPA، والتحويل المصرفي عبر الإنترنت.
    desc_fr: Achetez des bitcoins avec SOFORT, NETELLER, giropay, eps, SEPA et virement bancaire en ligne.
    desc_el: Αγοράστε bitcoin με SOFORT, NETELLER, giropay, eps, SEPA και διαδικτυακή τραπεζική μεταφορά.
@@ -1904,20 +1904,20 @@
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
    desc_neosurf: Coinhouse will let you buy bitcoin with a Neosurf prepaid card. Neosurf cards can be purchased at over <a href="http://www.neosurf.com/en_GB/application/findcard">70,000</a> locations across Europe. Coinhouse charges a 17% fee for all purchases made with a Neosurf card. Coinhouse is located in Paris, France and is operated by Ledger, a Bitcoin security company. 
    
- - name: Coinimal
-   url: http://buybitcoinww.co/coinimal_skrill
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinimal.png 
+ - name: BitPanda
+   url: http://buybitcoinww.co/bitpanda_skrill
+   icon: https://www.buybitcoinworldwide.com/img/buy/bitpanda.png 
    po: skrill
-   desc_skrill: Coinimal is a bitcoin exchange based in Austria. Among many payment methods accepted, customers can buy bitcoins with Skrill in under 10 seconds. 
+   desc_skrill: BitPanda is a bitcoin exchange based in Austria. Among many payment methods accepted, customers can buy bitcoins with Skrill in under 10 seconds. 
    desc_skrill_short: Buy bitcoins with Skrill online in under 10 seconds. Available for European users. 
    hide: yes
    
- - name: Coinimal
-   url: http://buybitcoinww.co/coinimal_neteller
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinimal.png 
+ - name: BitPanda
+   url: http://buybitcoinww.co/bitpanda_neteller
+   icon: https://www.buybitcoinworldwide.com/img/buy/bitpanda.png 
    po: neteller
-   desc_neteller_short: Buy bitcoins online at Coinimal with NETELLER in under 10 seconds. 
-   desc_neteller: European users can buy bitcoins with Neteller in under 10 seconds using Coinimal. Coinimal is a bitcoin exchange based in Vienna, Austria. 
+   desc_neteller_short: Buy bitcoins online at BitPanda with NETELLER in under 10 seconds. 
+   desc_neteller: European users can buy bitcoins with Neteller in under 10 seconds using BitPanda. BitPanda is a bitcoin exchange based in Vienna, Austria. 
    hide: yes   
    
  - name: Cubits
