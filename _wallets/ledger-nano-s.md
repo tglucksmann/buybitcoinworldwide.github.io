@@ -7,7 +7,7 @@ seotitle: "Ledger Nano S Review"
 title: "Ledger Nano S"
 desc: The Ledger Nano S is Ledger's first USB hardware wallet with a screen.
 wallet: nanos
-cat: 
+cat: [cold, hardware]
 thumb: nanos.png
 website: ledgerwallet.com
 website_url: http://ledgerwallet.com/
