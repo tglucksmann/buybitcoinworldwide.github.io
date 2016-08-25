@@ -52,7 +52,7 @@ author: jordantuwiner
 <h3>As a PayPal merchant, can I accept bitcoins?</h3>
 <p>There have been rumors of Bitcoin integration for PayPal merchants. At this time, however, this is still no way to accept bitcoins through PayPal's merchant tools.</p>
 	
-	<p>There will likely never be an easy, straight forward way to buy bitcoin with PayPal due to the irreversible nature of Bitcoin transactions. Although it does seem that <a href="http://www.coindesk.com/paypal-hosts-packed-introduction-bitcoin-event/" target="_blank">PayPal is taking interest in Bitcoin</a>. If you can, transfer your PayPal funds to your bank and buy via <a href="/en/buy-bitcoin-ach-bank-transfer-united-states/">bank transfer</a>. Or, transfer your PayPal funds to your bank, withdrawal as cash, and <a href="/en/buy-bitcoin-cash-deposit-united-states/">buy bitcoin with cash deposit</a>.</p>
+	<p>There will likely never be an easy, straight forward way to <a href="http://bitcoinburrow.com/buy-bitcoin/paypal/">buy bitcoin with PayPal</a> due to the irreversible nature of Bitcoin transactions. Although it does seem that <a href="http://www.coindesk.com/paypal-hosts-packed-introduction-bitcoin-event/" target="_blank">PayPal is taking interest in Bitcoin</a>. If you can, transfer your PayPal funds to your bank and buy via <a href="/en/buy-bitcoin-ach-bank-transfer-united-states/">bank transfer</a>. Or, transfer your PayPal funds to your bank, withdrawal as cash, and <a href="/en/buy-bitcoin-cash-deposit-united-states/">buy bitcoin with cash deposit</a>.</p>
 	{% include share.html %}
 </div>
 <div class="sidebar-add col-md-3">

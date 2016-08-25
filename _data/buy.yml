@@ -444,32 +444,6 @@
    desc_de: Österreichischer Bitcoin-Broker. Bitcoins mit SOFORT Überweisung oder Banküberweisung kaufen.
 
 ##### France ####################################################
- 
- - name: Clevercoin
-   desc: Buy bitcoin with SEPA bank transfer, credit card, or iDEAL.
-   url: http://buybitcoinww.co/Clevercoin
-   icon: https://www.buybitcoinworldwide.com/img/buy/clever.png
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
-   po: sepa, ideal, ccww, cc
-   desc_ccww_short: Buy bitcoin using a debit or credit card instantly in the UK or Europe.  
-   desc_ccww: Clevercoin is a Bitcoin broker located in France. Residents of Europe can purchase bitcoin with a credit card for a 3.6% fee plus €0.30. Initial limit is €250 per day. Your limit is increased the more you purchase, and can reach €2,500 per day.
-   desc_ccww_fr: Clevercoin est un courtier Bitcoin basé en France. Les résidents de l'union européenne peuvent acheter des bitcoins avec une carte de crédit pour une commission de 3.6% + 0.30€. Bien que la limite d'achat soit initialement de 250€ par jour, plus vous achetez, plus cette limite s'étend, jusqu'à atteindre 2,500€ par jour.
-   desc_ccww_it: Clevercoin è un broker di Bitcoin situato in Francia. Coloro che risiedono in Europa possono acquistare Bitcoin con una carta di credito con una commissione del 3,6% più €0.30. Il limite iniziale è pari a €250 al giorno. Il tuo limite viene aumentato con l’aumentare degli acquisti e può raggiungere €2.500 al giorno.
-   desc_ccww_ptbr: Clevercoin é uma corretora de Bitcoins localizada na França. Residentes da Europa podem comprar bitcoin com cartão de crédito por uma taxa de 3.6% mais €0.30. Limite inicial é de €250 por dia. Quanto mais você comprar mais o seu limite é elevado e você pode alcançar €2,500 por dia.
-   desc_ccww_ru: Clevercoin — это биткоин-брокер, расположенный во Франции. Жители Европы могут купить биткоины при помощи кредитной карты с комиссией в 3,6% плюс 0,30€. Первоначальный лимит составляет 250€ в день. Ваш лимит увеличивается в зависимости от суммы покупок, и может достигать 2500€ в день.
-   desc_ccww_es: Clevercoin es un corredor de Bitcoin ubicado en Francia. Los residentes de Europa pueden comprar bitcoin con una tarjeta de crédito por una comisión de 3,6% más €0.30. El límite inicial es de €250 al día. Este límite aumenta mientras más compras realice y puede alcanzar hasta €2.500 al día.
-   desc_ccww_de: Clevercoin ist ein Bitcoin-Broker aus der Frankreich. Bewohner von Europa können Bitcoin mit einer Kreditkarte für eine 3,6% Gebühr zuzüglich 0,30 € kaufen. Erstes Limit ist 250 € pro Tag. Ihr Limit erhöht je mehr Sie kaufen, und kann 2.500 € pro Tag erreichen.
-   ar: yes
-   desc_ar:  شراء بيتكوين بالتحويل المصرفي SEPA ، ووبطاقات الائتمان، أو iDEAL.
-   desc_fr: Achetez des bitcoins avec un virement bancaire SEPA, une carte de crédit ou iDEAL.
-   desc_el: Αγοράστε bitcoin με εμβάσματα SEPA, πιστωτική κάρτα ή iDEAL.
-   desc_nl: Koop Bitcoin met SEPA overschrijving, credit card, of iDEAL.
-   desc_it: Acquista Bitcoin tramite bonifico bancario SEPA, carta di credito o iDEAL.
-   desc_pt_br: Compre Bitcoins através de transferência bancária SEPA, cartão de crédito ou iDEAL. 
-   desc_de: Bitcoin mit SEPA Banküberweisungen, Kreditkarten oder iDEAL.
-   desc_bg: Купете биткойн чрез SEPA банков превод, кредитна карта или iDEAL.
-   desc_ru: Купить биткоин с помощью SEPA-платежа, кредитной карты или через iDEAL.
-   desc_uk: Купити біткоіни за допомогою SEPA-платежу, кредитної карти або через iDEAL. 
    
  - name: Paymium
    desc: Bitcoin exchange. Buy bitcoin with bank transfers in France. 
