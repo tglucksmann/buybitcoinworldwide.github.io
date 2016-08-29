@@ -3,6 +3,8 @@
   <span id="matched" class="number-matches"></span>
 </div>
 
+{% if page.lang == 'en' %}
+
 <script>
 
    window.onload = function() {
@@ -10,3 +12,5 @@
    	document.getElementById('matched').innerHTML = 'We found <b>' + numItems + '</b> Bitcoin exchanges';
    }
 </script>
+
+{% endif %}
