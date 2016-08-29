@@ -15,7 +15,7 @@ include_javascript:
     <div class="form-group">
       <label for="country"><i class="fa fa-fw fa-globe"></i> Country:</label>
 
-      <select id="country" class="form-control">
+      <select id="country" class="type-select-container form-control">
         <option value="">All</option>
         {% assign countries = (site.data.countries | sort: 'country') %}
         {% for country in countries %}
