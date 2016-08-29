@@ -1,3 +1,12 @@
 <div class="post-header">
   <h1 class="post-title-main country-single-index"><a href="{{ page.url }}"><span class="flag-icon flag-icon-squared flag-icon-{{ cty.short }}"></span>{{ page.title }}</a></h1>
+  <span class="number-matches"></span>
 </div>
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script> 
+<script>
+   $(document).ready(function(){
+   	var numItems = $('.buy-info').length;
+   	$('.number-matches').html('Number of Matches: <b>' + numItems + '</b>');
+   })
+</script>
