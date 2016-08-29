@@ -43,4 +43,5 @@ $country.change ->
 $method.change ->
   filterAndRenderSellers($country.val(), $method.val(), "#sellers")
 $(document).ready ->
+  $(".type-select-container").select2();
   filterAndRenderSellers($country.val(), $method.val(), "#sellers")
