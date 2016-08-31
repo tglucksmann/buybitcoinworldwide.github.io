@@ -1622,6 +1622,15 @@
    desc_ru: Биткоин-биржа. Депозит с помощью банковского перевода. Сборы в размере 0.5% на все сделки.
    desc_uk: Біткоін-біржа. Депозит за допомогою банківського переказу. Збори в розмірі 0.5% на всі операції.  
 
+##### Dominican Republic ####################################################
+
+ - name: BitcoinRD
+   desc: Buy bitcoins in the Dominican Republic via bank transfer. Support offered via phone.
+   url: http://bitcoinrd.online/comprar-bitcoin.html
+   icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinrd.png
+   countries: do
+   po: bt
+
 ##### Nigeria ####################################################
 
  - name: NairaEx
