@@ -40,10 +40,12 @@ fees_width: 80
 <div class="table-responsive">
 | Payment Method | Funds Available | Currencies    | Fees           |
 |----------------|-----------------|---------------|----------------|
-| Credit Card    | 1-2 days        | USD           | 3.9% + $0.25   |
-| Credit Card    | 1-2 days        | EUR           | 3.9% + € 0.20  |
-| Credit Card    | 1-2 days        | RUB           | 5.39% +  15.57 RUB |
-| Bank Transfer  | Varies          | USB, EUR, RUB | free           |
+| Credit Card    | 1-2 days        | USD           | 3.5% + $0.25   |
+| Credit Card    | 1-2 days        | EUR           | 3.5% + € 0.20  |
+| Credit Card    | 1-2 days        | RUB           | 5.25% +  15.57 RUB |
+| Bank Transfer  | Varies          | USD           | $10.00         |
+| Bank Transfer  | Varies          | EUR           | €10.00         |
+| Bank Transfer  | Varies          | RUB           | N/A            |
 {:.table-striped .table-bordered .table-hover .exchange-pmethods-table}
 
 </div>
@@ -53,6 +55,8 @@ CEX.IO also offers users the ability to sell bitcoins to credit or debit cards. 
 * 2.9% + $4.99 for USD
 * 2.9% + €4.99 for EUR
 * 2.9% + 499 RUB for RUB
+
+* _Bank transfers are not charged fees by CEX.io, but your bank may charge conversion fees on your deposit._
 
 ## Supported Countries
 CEX.IO supports all countries, unless noted below. 
