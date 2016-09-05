@@ -1,6 +1,7 @@
  - name: Coinbase
    desc: The world's largest Bitcoin broker. Easy, fast, convenient. Read our <a href="/exchanges/coinbase/">Coinbase review</a>. 
    url: http://buybitcoinww.co/buycoinbase
+   internal_url: /exchanges/coinbase/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbase.png
    countries: gr, at, ro, be, hu, sg, bg, ie, sk, ca, it, es, hr, lv, se, cy, mt, ch, cz, nl, gb, dk, nor, us, fi, pl, fr, pt, pr, si, li, mc, sm
    po: sepa, usbt, fast, io, ideal, lowfees, ccww, ccwwtop, cc, bt, ach, babt, sell
@@ -162,6 +163,7 @@
  - name: Coinhouse
    desc: Buy bitcoins with a 3D secure credit or debit card in Europe. High limits available. <a href="/exchanges/coinhouse/">Coinhouse review</a>.
    url: http://buybitcoinww.co/coinhouse
+   internal_url: /exchanges/coinhouse/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinhouse.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    desc_fr: Coinhouse peut traiter les cartes de crédit et cartes de débit 3D Secure dans toute la zone SEPA. 
@@ -253,6 +255,7 @@
  - name: Coinbase Exchange
    desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or <a href="/en/buy-bitcoin-ach-bank-transfer-united-states/">ACH bank transfer</a>.
    url: http://buybitcoinww.co/buycoinbase
+   internal_url: /exchanges/coinbase/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png
    countries: us, gb   
    po: sepa, usbt, lowfees, bt, ach, babt, sell
@@ -1980,6 +1983,7 @@
  - name: itBit
    desc: New York based Bitcoin exchange. Deposit with ACH transfer, SEPA, or international wire transfer.
    url: https://www.itbit.com/
+   internal_url: /exchanges/itbit/
    icon: https://www.buybitcoinworldwide.com/img/buy/itbit.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg
    po: sepa, babt

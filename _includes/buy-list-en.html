@@ -1,7 +1,7 @@
 {% if page.pmethod == 'ccww' and name.internal_url and page.lang == 'en' and name.desc_ccww_short != null %}
 <div class="col-md-6 buy-info">
 		<h4>
-		<a href="{{ name.internal_url }}" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a href="{{ name.internal_url }}" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }} <i class="fa fa-info-circle"></i></a> 
 		<a type="button" href="{{ name.internal_url }}" target="_blank" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
@@ -13,7 +13,7 @@
 {% elsif page.lang == 'en' and name.internal_url %}
 <div class="col-md-6 buy-info">
 		<h4>
-		<a href="{{ name.internal_url }}" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }}</a> 
+		<a href="{{ name.internal_url }}" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }} <i class="fa fa-info-circle"></i></a> 
 		<a type="button" target="_blank" href="{{ name.internal_url }}" class="btn btn-success pull-right large-screen-buy">
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 		</h4>
