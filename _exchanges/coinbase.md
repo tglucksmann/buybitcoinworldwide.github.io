@@ -46,13 +46,14 @@ Coinbase supports 30+ countries. The payment methods available depend on your co
 
 | Payment Method        | Countries | Funds Available | Currency | Fees*   |
 |-----------------------|-----------|-----------------|----------|---------|
-| Bank Transfer         | USA       | 5-7 days**      | USD      | free      |
-| Interac Online        | Canada    | instant         | CAD      | free      |
-| EFT Transfer          | Canada    | 4 days          | CAD      | 1 CAD     |
-| SEPA Transfer         | Europe    | 1-3 days        | EUR      | free      |
-| 3D Secure Credit Card | Europe    | instant         | EUR      | 3%        |
-| 3D Secure Debit Card  | Europe    | instant         | EUR      | 3%        |
-| Xfers Transfer        | Singapore | instant         | SGD      | free      |
+| Bank Transfer         | USA       | 5-7 days**      | USD      | 1.49%   |
+| Credit / Debit Card   | USA       | instant         | EUR      | 3.99%   |
+| Credit / Debit Card   | Canada    | instant         | CAD      | 3.99%   |
+| SEPA Transfer         | Europe    | 1-3 days        | EUR      | 1.49%   |
+| Credit / Debit Card   | Europe    | instant         | EUR      | 3.99%   |
+| Credit / Debit Card   | UK        | instant         | GBP      | 3.99%   |
+| Xfers Transfer        | Singapore | instant         | SGD      | 1.49%   |
+| Credit / Debit Card   | Australia | instant         | AUD      | 3.99%   |
 {:.table-striped .table-bordered .table-hover .exchange-pmethods-table}
 
 </div>
