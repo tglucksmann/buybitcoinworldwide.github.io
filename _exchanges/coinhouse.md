@@ -31,6 +31,7 @@ reputation_score: 10
 reputation_width: 100
 fees_score: 7
 fees_width: 70
+aff: yes
 --- 
 Coinhouse is a Bitcoin broker operated by Ledger, a Bitcoin security company. Coinhouse allows users to buy bitcoin with a 3D secure credit or debit card, or with Neosurf prepaid cards. 
 

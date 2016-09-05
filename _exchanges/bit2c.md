@@ -33,6 +33,7 @@ reputation_score: 10
 reputation_width: 100
 fees_score: 9
 fees_width: 90
+aff: yes
 ---
 Bit2C is an Israeli Bitcoin exchange founded in 2013. The exchange is available in four languages: Hebrew, English, Russian, and Arabic. 
 

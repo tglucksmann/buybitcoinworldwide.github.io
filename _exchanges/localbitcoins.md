@@ -31,6 +31,7 @@ reputation_score: 9
 reputation_width: 90
 fees_score: 9
 fees_width: 90
+aff: yes
 ---
 [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} is a P2P Bitcoin exchange. Buyers and sellers agree on trade terms, and LocalBitcoins is used as escrow. 
 
