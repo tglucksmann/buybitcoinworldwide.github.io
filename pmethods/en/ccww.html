@@ -27,6 +27,8 @@ author: jordantuwiner
 <p>Below you can find a list of companies that let you purchase bitcoin with a debit card or credit card. The availability of each service may vary by location.</p>
 </div>
 
+{% include country-disclosure.html %}
+
 <div class="col-sm-12">
 	{% include country-loops.html %}
 	{% for name in site.data.buy %}
