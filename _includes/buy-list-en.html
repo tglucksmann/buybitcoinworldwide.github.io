@@ -10,7 +10,7 @@
 		<i class="fa fa-bitcoin"></i> {{ lang.buy }}</a>
 </div>
 
-{% elsif page.lang == 'en' and name.internal_url %}
+{% elsif page.lang == 'en' and name.internal_url and page.pmethod != 'nobank' %}
 <div class="col-md-6 buy-info">
 		<h4>
 		<a href="{{ name.internal_url }}" target="_blank"><img src="{{ name.icon }}" alt="{{ name.name }}">{{ name.name }} <i class="fa fa-info-circle"></i></a> 
