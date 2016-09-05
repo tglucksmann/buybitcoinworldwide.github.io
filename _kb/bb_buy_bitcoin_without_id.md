@@ -14,9 +14,7 @@ weight: 7.5
 ---
 <img class="img-responsive halfimg-right" alt="how to buy bitcoins with cash" src="/img/icons/sepa.png">
 
-There are four main ways to buy bitcoins without verification or ID: BitQuick, [LocalBitcoins](/exchanges/localbitcoins/), [Wall of Coins](/exchanges/wall-of-coins/) or at a Bitcoin ATM. 
-
-{% include country-disclosure.html %}
+There are four main ways to buy bitcoins without verification or ID: [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"}, [LocalBitcoins](/exchanges/localbitcoins/), [Wall of Coins](/exchanges/wall-of-coins/) or at a Bitcoin ATM. 
 
 ## BitQuick
 
