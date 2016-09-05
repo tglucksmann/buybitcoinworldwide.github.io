@@ -23,6 +23,10 @@ hide_sidebar: true
 <div class="exchange-content {{ page.exchange }}-exchange entry-content">   
 	<div class="exchange-summary">{{ page.summary }}</div>
 	
+	{% if page.aff %}
+	{% include exchange-disclosure.html %}
+	{% endif %}
+	
 	<div class="exchange-ratings">
 	
 		<div class="privacy-score single-rating">
