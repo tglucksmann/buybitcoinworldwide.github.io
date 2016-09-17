@@ -9,7 +9,7 @@ lang: en
 cat: broker, us
 seotitle: "Circle Review: Good Exchange, Bad Wallet"
 website: circle.com
-website_url: http://buybitcoinww.co/buy_circle
+website_url: http://buybitcoinww.co/Circle_Bitcoin
 twitter: circlebits
 twitter_url: https://twitter.com/circlebits
 contribute: circle
