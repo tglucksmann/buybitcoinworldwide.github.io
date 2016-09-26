@@ -1,0 +1,21 @@
+{% if page.lang == 'en' and page.pmethod == 'ccww' %}
+{{ name.desc_ccww }}
+{% elsif page.lang == 'en' and page.pmethod == 'cash' %}
+{{ name.desc_cdus }}
+{% elsif page.lang == 'en' and page.pmethod == 'ach' %}
+{{ name.desc_ach }}
+{% elsif page.lang == 'en' and page.pmethod == 'babt' %}
+{{ name.desc_babt}}
+{% elsif page.lang == 'en' and page.pmethod == 'neosurf' %}
+{{ name.desc_neosurf }}
+{% elsif page.lang == 'en' and page.pmethod == 'neteller' %}
+{{ name.desc_neteller }}
+{% elsif page.lang == 'en' and page.pmethod == 'nobank' %}
+{{ name.desc_nobank }}
+{% elsif page.lang == 'en' and page.pmethod == 'skrill' %}
+{{ name.desc_skrill }}
+{% elsif page.lang == 'pl' and page.pmethod == 'paypal' %}
+{{ name.desc_pl }}
+{% elsif page.lang == 'en' %}
+{{ name.desc }}
+{% endif %}

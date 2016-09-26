@@ -12,11 +12,7 @@ author: jordantuwiner
 ---
 <div class="col-sm-12">
 
-	{% for post in site.data.paypal %}
-	{% if post.lang != page.lang %}
-	{% include languages.html %}
-	{% endif %}
-	{% endfor %}
+{% include languages.html %}
 
 <p>Многие хотят купить Bitcoin с помощью PayPal, потому что PayPal — это популярное средство онлайн-платежей. Но платежи, совершаемые через PayPal, можно отменить, а биткоин-транзакции нельзя, что накладывает риск на биржи, позволяющие  покупку биткоин по средствам PayPal.</p>
 

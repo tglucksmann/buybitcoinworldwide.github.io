@@ -13,10 +13,10 @@
    url: /en/buy-bitcoins-with-cash/
    desc: Buy bitcoin with cash via local bank deposit.  
    
- - pmethod: ACH Transfer
+ - pmethod: Bank Account
    icon: bank
-   url: /en/buy-bitcoin-ach-bank-transfer-united-states/
-   desc: Buy bitcoin online via ACH bank transfer.  
+   url: /buy-bitcoin-bank-transfer-account/
+   desc: Buy bitcoin with bank account/transfer.  
    
  - pmethod: SEPA Transfer
    icon: eur

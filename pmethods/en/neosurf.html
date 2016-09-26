@@ -1,8 +1,8 @@
 ---
 layout: guidehelp
 title: "How to Buy Bitcoin with Neosurf"
-seotitle: "How to Buy Bitcoin with Neosurf"
-permalink: "/en/buy-bitcoin-neosurf/"
+seotitle: "5 Ways to Buy Bitcoin with Neosurf"
+permalink: "/buy-bitcoin-neosurf/"
 sitemap:
     priority: 0.7
 desc: Learn where to buy bitcoin with Neosurf prepaid cards, which are available in most of Europe.  
@@ -24,23 +24,4 @@ author: jordantuwiner
 	{% include buy-list-en.html %}
 	{% endif %}
 	{% endfor %}
-</div>
-
-<div class="col-sm-12 small-large-break">
-<p>The list below contains the same companies listed above, but with more information about fees, countries supported, and many more additional details.</p>
-</div>
-
-
-<div class="content-with-sidebar col-md-9">
-	{% include country-loops.html %}
-	{% for name in site.data.buy %}
-	{% if name.po contains 'neosurf' %}
-	{% include buy-list-large.html %}
-	{% endif %}
-	{% endfor %}
-	<p>If you want to buy bitcoin with lower fees, try buying with a <a href="/en/buy-bitcoin-sepa-transfer/">SEPA transfer</a>. Or, check out more <a href="/en/payment-methods/">payment methods</a>.</p>
-	{% include share.html %}
-</div>
-<div class="sidebar-add col-md-3">
-	{% include sidebar.html %}
 </div>

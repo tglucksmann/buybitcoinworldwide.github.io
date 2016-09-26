@@ -1,20 +1,63 @@
  - lang: en
    url: /en/buy-bitcoin-credit-debit-card/    
+   pmethod: ccww
    
  - lang: de
    url: /de/bitcoin-kaufen-mit-kreditkarte/
+   pmethod: ccww
    
  - lang: ru
-   url: /ru/Покупка-биткоинов-при-помощи-банковской-карты/      
+   url: /ru/Покупка-биткоинов-при-помощи-банковской-карты/
+   pmethod: ccww      
    
  - lang: fr
-   url: /fr/acheter-des-bitcoins-avec-une-carte-de-credit-ou-debit/      
-   
- - lang: it
-   url: /it/acquista-bitcoin-con-carta-di-credito-debito/       
+   url: /fr/acheter-des-bitcoins-avec-une-carte-de-credit-ou-debit/
+   pmethod: ccww               
    
  - lang: pt
    url: /pt-br/compre-bitcoin-cartao-de-credito-e-debito/
+   pmethod: ccww
    
  - lang: es
    url: /es/comprar-bitcoins-con-tarjeta-de-credito-o-debito/
+   pmethod: ccww
+
+ - lang: it
+   url: /it/acquista-bitcoin-con-carta-di-credito-debito/
+   pmethod: ccww 
+   
+ - lang: en
+   url: /en/buy-bitcoin-paypal/
+   pmethod: paypal    
+   
+ - lang: de
+   url: /de/bitcoin-kaufen-paypal/   
+   pmethod: paypal
+   
+ - lang: ru
+   url: /ru/купить-биткоины-paypal/  
+   pmethod: paypal       
+   
+ - lang: fr
+   url: /fr/acheter-des-bitcoins-avec-paypal/ 
+   pmethod: paypal 
+   
+ - lang: pt
+   url: /pt-br/compre-bitcoins-com-paypal/
+   pmethod: paypal   
+  
+ - lang: es
+   url: /es/comprar-bitcoin-paypal/  
+   pmethod: paypal  
+
+ - lang: it
+   url: /it/come-acquistare-bitcoin-con-paypal/
+   pmethod: paypal  
+   
+ - lang: pl
+   url: /pl/kup-bitcoiny-paypal/ 
+   pmethod: paypal    
+   
+ - lang: pl
+   url: /pl/jak-kupic-bitcoiny-za-pomoca-karty-kredytowej/ 
+   pmethod: ccww            

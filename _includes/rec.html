@@ -1,0 +1,5 @@
+{% if name.tags contains 'reccc' and page.pmethod == 'ccww' %}
+<div class="recommended"><div class="rec-info"><i class="fa fa-star"></i> {{ lang.popular }}</div></div>
+{% elsif name.tags contains 'rec' and page.pmethod != 'ccww' %}
+<div class="recommended"><div class="rec-info"><i class="fa fa-star"></i> {{ lang.popular }}</div></div>
+{% endif %}

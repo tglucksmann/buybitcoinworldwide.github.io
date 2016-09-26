@@ -1,26 +1,27 @@
  - name: Coinbase
-   desc: The world's largest Bitcoin broker. Easy, fast, convenient. Read our <a href="/exchanges/coinbase/">Coinbase review</a>. 
+   desc: Coinbase is the world's largest Bitcoin broker. It offers an easy and fast way for new users to purchase bitcoins. Coinbase supports customers in over 30 countries, including the United States, Europe (not Germany), UK, Singapore, Canada, and Australia. <br><br> Customers in the above mentioned countries can purchase bitcoins with <a href="/en/buy-bitcoin-credit-debit-card/">credit card</a>, debit card, bank transfer, SEPA transfer, and more.<br><br> Get $10 or €10 worth of free bitcoin when you buy more than $100 or €100 worth through <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">this link</a>. 
    url: http://buybitcoinww.co/buycoinbase
    internal_url: /exchanges/coinbase/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbase.png
+   tags: [quickinfo, reccc, rec, review, lowprivacy, avgspeed, avgfees, trusted, eoueasy, highlimits]
    countries: gr, at, ro, be, hu, sg, bg, ie, sk, ca, it, es, hr, lv, se, cy, mt, ch, cz, nl, gb, dk, nor, us, fi, pl, fr, pt, pr, si, li, mc, sm
    po: sepa, usbt, fast, io, ideal, lowfees, ccww, ccwwtop, cc, bt, ach, babt, sell
    desc_fast: <a href="/exchanges/coinbase/">Coinbase</a> lets you buy bitcoin with a connected bank account via ACH bank transfer. The bitcoin bought in your first purchase will only be available to you after five days. However, if you add a credit card to your account all purchases after your initial purchase will have your bitcoin delivered instantly. Coinbase is available in the United States and most of Europe.  
-   desc_ach: Coinbase is the world's largest bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. Coinbase charges a flat 1% fee on all transactions, which is the standard among U.S. Bitcoin brokers. You'll have to wait five days to receive your bitcoin. If you add a Visa or Mastercard credit card to your account all bitcoin purchases besides your first will be delivered instantly.  
-   desc_achshort: The world's largest Bitcoin broker. Buy bitcoin via ACH. Easy and convenient. 
+   desc_ach: Coinbase is the world's largest bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. Coinbase charges a flat 1.49% fee on all transactions. You'll have to wait five days to receive your bitcoin. If you add a Visa or Mastercard credit card to your account all bitcoin purchases besides your first will be delivered instantly.  
    desc_ccww_short: Buy bitcoin instantly with a debit card in the USA, or with a 3D secure credit/debit card in Europe and UK.
    desc_usbankshort: The world's largest Bitcoin broker. Buy bitcoin with a connected bank account. 
-   desc_ccww: <a href="/exchanges/coinbase/">Coinbase</a> is the world's largest Bitcoin broker. At Coinbase you can buy up to €100 of bitcoin per day instantly with a 3D secure credit or debit card in Europe or the United Kingdom. Coinbase charges a flat 3% fee on all purchases via credit or debit card. Coinbase's 3% fee on credit card purchases is the lowest among Bitcoin brokers servicing European customers. If you buy more than $100 or €100 worth of bitcoin through <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">this link</a> you'll get $10 or €10 worth of bitcoin as a bonus (this can be done in multiple purchases, i.e. two purchases of €50 each).
+   desc_ccww: Coinbase is the world's largest Bitcoin broker. At Coinbase you can buy up to $150 or €150 of bitcoin per week instantly with a credit or debit card in the United States, Canada, Europe, United Kingdom, Australia, and Singapore. Coinbase charges a flat 3.99% fee on all purchases via credit or debit card. Coinbase's 3.99% fee on these purchases is among the lowest among Bitcoin brokers servicing European and US customers. <br><br> If you buy more than $100 or €100 worth of bitcoin through <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">this link</a> you'll get $10 or €10 worth of bitcoin for free.
    desc_ccww_fr: <a href="/exchanges/coinbase/">Coinbase</a> est le courtier Bitcoin le plus important au monde. Chez Coinbase, vous pouvez acheter jusqu'à 100€ de bitcoins par jour avec une carte de crédit ou de débit 3D Secure en Europe et dans le Royaume-Uni. Coinbase facture une commission forfaitaire de 3% sur tous les achats effectués par carte de crédit ou de débit. La commission de 3% que Coinbase facture sur les achats par carte de crédit est la moins élevée de tous les courtiers Bitcoin offrant leurs services aux clients européens. Si vous achetez pour plus de $100 ou 100€ de bitcoins à partir de <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">ce lien</a>, vous obtiendrez un bonus de bitcoins d'une valeur de $10 ou 10€ (cela peut s'effectuer lors de plusieurs achats, par ex - 2 achats de 50€ chacun).
    desc_ccww_it: <a href="/exchanges/coinbase/">Coinbase</a> è il maggior broker di Bitcoin a livello mondiale. Su Coinbase è possibile acquistare fino a un valore di €100 di Bitcoin al giorno istantaneamente con una carta di credito o di debito in Europa o nel Regno Unito. Coinbase applica una commissione fissa del 3% su tutti gli acquisti effettuati tramite carta di credito o di debito. La commissione del 3% di Coinbase sugli acquisti con carta di credito è la più bassa tra i broker di Bitcoin per i clienti europei. Se si acquistano più di $100 o un valore di €100 di Bitcoin attraverso <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">questo link</a> si otterranno $10 o un valore di €10 di Bitcoin come bonus (questo può essere ottenuto con più acquisti, ossia due acquisti da €50 ognuno).
    desc_ccww_ptbr: <a href="/exchanges/coinbase/">Coinbase</a> é a maior corretora de bitcoin do mundo. No Coinbase você pode comprar instantaneamente até €100 de bitcoin por dia com um cartão de crédito ou débito seguro 3D na Europa ou no Reino Unido. Coinbase cobra uma taxa de 3% em todas as compras via cartão de crédito ou débito. A taxa de 3% na compra em cartão de crédito no Coinbase é a mais baixa entre as corretoras que atendem clientes europeus. Se você comprar mais que $100 ou €100 em bitcoin através <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">deste link</a> você ganhará $10 ou €10 em bitcoin como bônus (você pode alcançar este valor fazendo várias compras, como por exemplo duas compras de €50).
    desc_ccww_ru: <a href="/exchanges/coinbase/">Coinbase</a> — крупнейший в мире биткоин-брокер. На Coinbase можно покупать биткоинов на сумму до 100€ в день мгновенно, имея банковскую карту с поддержкой 3D Secure, в Европе или Великобритании. Coinbase удерживает фиксированную комиссию в 3% со всех платежей кредитными и дебетовыми картами. Комиссия Coinbase, составляющая 3%, является самой низкой среди биткоин-брокеров, предоставляющих услуги европейским потребителям. Если вы купите биткоинов на сумму более 100$ или 100€ <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">по этой ссылке</a>, вы получите бонус в виде биткоинов на сумму 10$ или 10€ (вы можете осуществить это в несколько приёмов, например, за две покупки по 50€ каждая).
    desc_ccww_es: <a href="/exchanges/coinbase/">Coinbase</a> es el corredor de Bitcoin más grande del mundo. En Coinbase puede comprar hasta €100 al día en bitcoin de manera inmediata con una tarjeta de crédito o débito 3DSecure en Europa y el Reino Unido. Coinbase cobra una comisión fija de 3% en todas las compras por tarjeta de crédito o débito; esta comisión de 3% es la más baja entre los corredores de Bitcoin que ofrecen servicio a clientes europeos. Si compra más de $100 o €100 en bitcoin a través de <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">este enlace</a> obtendrá un bono de $10 o €10 en bitcoin (puede hacer esto en compras múltiples, es decir, dos compras de €50 cada una). 
    desc_ccww_de: <a href="/exchanges/coinbase/">Coinbase</a> ist der weltweit größte Bitcoin-Broker. Bei Coinbase können Sie bis zu 100 € von Bitcoin pro Tag ,sofort mit einer sicheren 3D Kredit- oder Debitkarte in Europa oder Großbritannien, kaufen. Coinbase hat eine flache Gebühr von 3% auf alle Einkäufe über einer Kredit- oder Debitkarte. Die 3% Gebühr auf Kreditkartenkäufe von Coinbase ist der niedrigste unter allen Bitcoin-Broker, die europäische Kunden bedienen. Wenn Sie mehr als $ 100 oder 100 € im Wert von Bitcoin über <a rel="nofollow" href="http://buybitcoinww.co/buycoinbase">diesen Link</a> kaufen, erhalten Sie $ 10 oder € 10 als Bonus im Wert von Bitcoin (dies kann in mehrfachen Käufe durchgeführt werden, d.h zwei Käufe von je € 50).
+   desc_ccww_pl: Coinbase jest największym na świecie brokerem Bitcoin. Na Coinbase możesz natychmiastowo zakupić bitcoiny do równowartości 100 euro dziennie kartą kredytową lub debetową 3D secure w Europie i Zjednoczonym Królestwie. Coinbase pobiera niską opłatę w wysokości 3% od wszystkich zakupów za pomocą karty kredytowej lub debetowej. Ta opłata od zakupów kartą kredytową jest najniższa wśród brokerów bitcoinów, obsługujących klientów europejskich. Jeśli kupisz bitcoiny o wartości większej niż 100 dolarów lub 100 euro, klikając w <a href="http://buybitcoinww.co/buycoinbase">ten link</a> otrzymasz bitcoiny o wartości 10 dolarów lub 10 euro jako bonus (można to zrobić w drodze wielu zamówień, np. dwa zamówienia o wartości 50 euro każde).
    desc_ccww_de_short: Bitcoins mit einer 3D-Sicheren Kredit- oder Debitkarte in Europa kaufen. Einfach, schnell, bequem.
    desc_ccww_ptbr_short: Coinnase pode processar cartões de crédito e débito 3D garantido em toda zona SEPA.
    desc_ccww_fr_short: Courtier bitcoin. Achetez vos bitcoins par carte de crédit en Europe. Facile, rapide, pratique.
-   desc_babt: <a href="/exchanges/coinbase/">Coinbase</a> is the world's largest bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. In Europe you can buy with your bank account via SEPA transfer. Purchases made with ACH take 5 days for the coins to be delivered, while SEPA purchases take less than two days. Coinbase charges a flat 1% fee on all transactions. Americans may add a Visa or Mastercard credit card to as a backup to unlock instant payments via bank transfer. 
+   desc_babt: <a href="/exchanges/coinbase/">Coinbase</a> is the world's largest bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. In Europe you can buy with your bank account via SEPA transfer. Purchases made with ACH take 5 days for the coins to be delivered, while SEPA purchases take less than two days. Coinbase charges a flat 1.49% fee on all transactions. Americans may add a Visa or Mastercard credit card to as a backup to unlock instant payments via bank transfer. 
    desc_babt_short: Buy bitcoins with ACH bank transfer or bank account via SEPA in Europe.
    es: yes
    desc_es: Comprar Bitcoin con su cuenta bancaria o tarjeta de crédito. Fácil, rápido, aconsejable. 
@@ -37,12 +38,14 @@
    desc_ru: Купить биткоин с помощью Вашего банковского счета. Легко, быстро, удобно. Сбор в размере 1%.
    desc_uk: Купити біткоін за допомогою Вашого банківського рахунку. Легко, швидко, зручно. Збір у розмірі 1%.
    desc_sell: Sell bitcoins to a bank account in the US (ACH), Europe (SEPA), Canada (Interac) and UK. 
+   pros:  <li>High liquidity and buying limits</li> <li>Easy way for new users to buy bitcoins</li> <li>Instant buy available with credit card or debit card</li> 
+   cons: <li>Purchases made with bank transfer can take up to 5 days to complete</li>
 
  - name: VirWoX
-   desc: Digital currency exchange. The easiest way to buy bitcoin with PayPal. <a href="/exchanges/virwox/">VirWoX review</a>.   
+   desc: Technically, VirWoX isn't even a Bitcoin exchange. It mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can't buy Bitcoin with PayPal directly at VirWoX, but it's possible to first buy Second Life Lindens (SLL) and then trade your SLL for Bitcoin. This process works perfectly, but in the end will cost you about 10% in fees. <br><br> This workaround/hack has made VirWoX the easiest and most popular way to buy bitcoins with PayPal.  
    url: http://buybitcoinww.co/bitcoin_virwox
    icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
-   po: paypal
+   po: paypal, paypal1
    desc_paypal: VirWoX stands for Virtual World Exchange, and mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can't buy Bitcoin with PayPal directly at VirWoX, but it's possible to first buy Second Life Lindens (SLL) and then trade your SLL for Bitcoin. This process works perfectly, but in the end will cost you about 7% in fees. 
    desc_fr: Bureau de change numérique. Le moyen le plus facile d’acheter des bitcoins avec PayPal.  
    desc_de: Digitaler Währungshandelsplatz. Der einfachste Weg um Bitcoins mit PayPal zu kaufen.
@@ -50,6 +53,10 @@
    desc_pt_br: Câmbio de moeda digital. A maneira mais fácil de comprar bitcoins com o PayPal.
    desc_es: Intercambio de moneda digital. La forma más fácil de comprar bitcoin con PayPal. 
    desc_he: המרת מטבע דיגיטלי. הדרך הקלה ביותר לקנות ביטקוין באמצעות פייפאל.
+   desc_pl: Wymiana cyfrowej waluty. Najprostszy sposób na kupienie bitconów poprzez PayPal. 
+   desc_it: Lo scambio di valuta digitale. Il modo più semplice per acquistare Bitcoin con PayPal.
+   internal_url: /exchanges/virwox/
+   tags: [rec, review]
  
  - name: Bity
    desc: Fast and easy way to buy bitcoin. Buy up to 250 €/CHF a day with phone verification.
@@ -69,19 +76,24 @@
    desc_bg: Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно. 
    
  - name: Circle
-   desc: Buy bitcoin with a bank account or credit card. Fast and easy. <a href="/exchanges/circle/">Circle review</a>.
+   desc: Buy bitcoin with a connected bank account, credit card, or debit card in the United States and United Kingdom. 
    url: http://buybitcoinww.co/Circle_Bitcoin
    internal_url: /exchanges/circle/
    icon: https://www.buybitcoinworldwide.com/img/buy/circle.png
+   tags: [quickinfo, rec, reccc, review, lowprivacy, fast, lowfees, trusted, eoueasy, lowlimits]
    countries: us
+   pros: <li>Low fees for debit card purchases</li> <li>Instant delivery on credit card and debit card buys</li> 
+   cons: <li>Extremely low limits, just $300 per week</li>
    po: ccus, usbt, fast, lowfees, ccww, ccwwtop, bt, cc, ach, babt, sell
    desc_ccww_short: Buy bitcoins online with a credit card or debit card instantly in the United States. <a href="/exchanges/circle/">Circle review</a>. 
    desc_fast: Circle lets you buy bitcoin with a credit card, debit card, or ACH bank transfer. Purchases of bitcoin made with a debit card are available instantly. Circle is currently only available in the United States.
-   desc_ach: Circle lets you connect a bank account and buy via ACH transfer. Circle doesn't officially charge a fee, but its exchange rate is usually 0.5% higher than Bitcoin exchanges. Bitcoin will be delivered within 1-4 days.
-   desc_achshort: Buy bitcoin with your bank account via ACH transfer. Limited to $300 per week.
+   desc_ach: Circle lets you connect a bank account and buy via ACH transfer. Circle doesn't officially charge a fee, but its exchange rate is usually 0.5% higher than Bitcoin exchanges. Circle charges no fees and delivery of your coins is instant! 
+   desc_achshort: Buy bitcoin with your bank account via ACH transfer. Limited to $300 per week. Circle charges no fees and delivery of your coins is instant! 
    desc_usbankshort: Buy bitcoin with your bank account via ACH transfer. Limited to $300 per week.
-   desc_ccww: Circle lets you buy bitcoin online with a credit or debit card instantly. If you use a credit card you'll have to pay a 3% fee, while purchases made with a debit card come with absolutely no fees. Circle is currently only available in the United States. Purchasing through Circle is the only way to buy bitcoin with a debit card with no fees. You're initial buy limit is $300 of bitcoin per week although this limit can be raised if requested.
-   desc_es: Comprar Bitcoin de forma instantánea con una cuenta bancaria o tarjeta de crédito. Sin comisiones.
+   desc_ccww: "Circle lets you buy bitcoin online with a credit or debit card instantly. If you use a credit card you'll have to pay a 3% fee, while purchases made with a debit card come with absolutely no fees. Both credit card and debit purchases are delivered instantly to your Circle wallet. Circle is currently only available in the United States and UK. Purchasing through Circle is the only way to buy bitcoin with a debit card with no fees. Your initial buy limit is $300 of bitcoin per week although this limit can be raised if requested."
+   desc_ccww_pl: Circle pozwala natychmiastowo kupować bitcoiny on-line za pomocą karty kredytowej lub debetowej bez dodatkowych opłat. W przypadku korzystania z karty kredytowej, należy uiścić opłatę w wysokości 3%. Circle jest obecnie dostępne tylko w Stanach Zjednoczonych. Zakup poprzez Circle jest jedynym sposobem na zakup bitcoinów kartą debetową bez opłat. Twój początkowy limit na zakupy to bitcoiny o równowartości 300 dolarów tygodniowo, chociaż ten limit może zostać podniesiony na Twoją prośbę.
+   desc_babt: Circle lets US customers purchase bitcoins with a connected bank account. Initial bank verification may take 1-4 days. 
+   desc_es: "Comprar Bitcoin de forma instantánea con una cuenta bancaria o tarjeta de crédito. Sin comisiones."
    ar: yes
    desc_ar:  شراء بيتكوين عبر حساب مصرفي أو بطاقة الائتمان. بسرعة ويسر.
    desc_fr: Achetez des bitcoins avec un compte en banque ou par carte de crédit. Rapide et facile.
@@ -146,6 +158,9 @@
    url: http://buybitcoinww.co/CoinMama_Bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
    po: ccww, ccwwtop, cc
+   tags: [rec, quickinfo, lowprivacy, avgspeed, highfees, avgrep, eoueasy, highlimits]
+   pros: <li>Works in almost all countries</li> <li>Reliable and trusted broker</li>
+   cons: <li>Some of the highest fees among credit/debit card bitcoin brokers</li>
    desc: Bitcoin broker. Buy bitcoin with a credit card. ~10% fee on each purchase. 
    desc_it: CoinMama è un broker di Bitcoin specializzato nel lasciar acquistare Bitcoin tramite carta di credito. 
    desc_pt_br: CoinMama é uma corretora de bitcoin especializada na compra de bitcoin com cartão de crédito ou débito.
@@ -154,48 +169,32 @@
    desc_ccww: CoinMama is a bitcoin broker that specializes in letting you purchase bitcoin with a debit or CC. You'll be charged a 10% fee due to the risks and processing fees that come with credit card payments. It's possible buy up to $520 worth of bitcoin per day. After your account is verified and a purchase is made you will receive your bitcoin within a few hours. Use <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">this link</a> to get 5% off your order. CoinMama is not available to residents of the United States.  
    desc_ccww_short: Buy bitcoin with a CC anywhere in the world besides the <a href="/en/us/">United States</a>.
    desc_ccww_fr: CoinMama est un courtier Bitcoin dont la spécialité est de vous permettre d'acheter des bitcoins avec une carte de crédit ou de débit. Vous y serez facturé une commission de 10% à cause des risques et des frais de traitement découlant des paiements par carte de crédit. Il est possible d'y acheter jusqu'à $520 de bitcoins par jour. Une fois votre compte vérifié et l'achat effectué, vous recevrez vos bitcoins en l'espace de quelques heures. Utilisez <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">ce lien</a> pour bénéficier de 5% de remise sur votre commande. CoinMama n'est pas disponible pour les résidents des États-Unis.
+   desc_ccww_pl: CoinMama jest brokerem bitcoinów, który specjalizuje się umożliwianiu Ci zakupu bitcoinów kartą kredytową lub debetową. Zostaniesz obciążony opłatą 10% z powodu ryzyka i opłat manipulacyjnych, które wynikają z płatności kartą kredytową. Jest możliwy zakup bitcoinów o wartości aż 520 dolarów dziennie. Gdy Twoje konto zostanie zweryfikowane i dokonasz zakupu, otrzymasz Twoje bitcoiny w ciągu kilku godzin. Użyj tego linku, aby uzyskać 5% zniżkę od Twojego zamówienia. CoinMa5ma nie jest dostępna dla mieszkańców Stanów Zjednoczonych.
    desc_ccww_it: CoinMama è un broker di Bitcoin specializzato nel lasciar acquistare Bitcoin tramite carta di credito o carta di debito. Verrà applicata una commissione del 10% per i rischi e per le commissioni connesse ai pagamenti con carta di credito. È possibile acquistare fino a un valore di $520 di Bitcoin al giorno. Dopo la verifica dell’account e l’esecuzione di un acquisto, si riceveranno Bitcoin entro poche ore. Utilizzare <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5"questo link</a> per ottenere uno sconto del 5% sull’ordine. CoinMama non è disponibile per coloro che risiedono negli Stati Uniti.
    desc_ccww_ptbr: CoinMama é uma corretora de bitcoin especializada na compra de bitcoin com cartão de crédito ou débito. Você será cobrado uma taxa de 10% devido aos riscos e taxas de processamento que vem com pagamentos do cartão de crédito. Você pode comprar até $520 de bitcoin por dia. Depois que sua conta é verificada e uma compra é feita você receberá seu bitcoin em dentro de algumas horas. Use <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">este link</a> para ganhar 5% de desconto no seu pedido. CoinMama não está disponível para os residentes dos Estados Unidos.
    desc_ccww_ru: CoinMama — биткоин-брокер, специализирующийся на предоставлении биткоинов за платежи кредитными и дебетовыми картами. В связи с высоким риском и комиссией процессинга, с вас будет удержана комиссия в 10%. Ежедневно возможна покупка биткоинов на сумму до 520$. После того, как ваша учётная запись пройдёт подтверждение, и вы совершите покупку, вы получите свои биткоины в течение нескольких часов. Воспользуйтесь <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">этой ссылкой</a>, чтобы получить скидку в 5% от суммы вашего заказа. CoinMama недоступна жителям Соединённых Штатов. 
    desc_ccww_es: CoinMama es un corredor de bitcoin que se especializa en la compra de bitcoin con tarjeta de crédito o débito. Este servicio cobra una comisión del 10% debido a los riesgos y las tasas de procesamiento que generan los pagos con tarjetas de crédito. Es posible comprar hasta $520 en bitcoin al día. Después de verificar su cuenta y realizar la compra recibirá sus bitcoin en pocas horas. <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">Este enlace</a> le otorga un 5% de descuento en su orden. CoinMama no está disponible para residentes de los Estados Unidos.
    desc_ccww_de: CoinMama ist ein Bitcoin-Broker, der spezialisiert im Ermöglichen des Kaufs von Bitcoins mit einer Kredit- oder Debitkarte ist. Ihnen wird eine 10% Gebühr auf Grund der Risiken und Bearbeitungsgebühren, die mit Kreditkartenzahlungen kommen, berechnet. Es ist möglich  $520 im Wert von Bitcoin pro Tag zu kaufen. Nachdem Ihr Konto verifiziert wird und ein Kauf erfolgt, werden Sie Ihre Bitcoin innerhalb weniger Stunden erhalten. Verwenden Sie <a rel="nofollow" href="http://buybitcoinww.co/CoinMama_5">diesen Link</a>, um 5% Rabatt auf Ihre Bestellung zu erhalten. CoinMama nicht verfügbar ist für die Bewohner der Vereinigten Staaten.   
 
- - name: Coinhouse
-   desc: Buy bitcoins with a 3D secure credit or debit card in Europe. High limits available. <a href="/exchanges/coinhouse/">Coinhouse review</a>.
-   url: http://buybitcoinww.co/coinhouse
-   internal_url: /exchanges/coinhouse/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinhouse.png
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
-   desc_fr: Coinhouse peut traiter les cartes de crédit et cartes de débit 3D Secure dans toute la zone SEPA. 
-   desc_de: Bitcoins mit einer 3D-Sicheren Kredit- oder Debitkarte. Hohe Limits verfügbar.
-   desc_it: Acquista Bitcoin con una carta di credito o debito 3D Secure in Francia. Elevati limiti disponibili.
-   desc_ru: Coinhouse принимает кредитные и дебетовые карты с поддержкой 3D Secure в Франция.
-   desc_de: Bitcoins mit einer 3D-Sicheren Kredit- oder Debitkarte in Europa kaufen. Hohe Limits verfügbar.
-   desc_it: Acquista Bitcoin con una carta di credito o debito 3D Secure in tutta l’area SEPA.
-   desc_es: Coinhouse puede procesar tarjetas de crédito y débito 3Dsecure en toda la zona SEPA. 
-   desc_pt_br: Coinhouse pode processar cartões de crédito e débito 3D garantido em toda zona SEPA.
-   desc_ru: Coinhouse принимает кредитные и дебетовые карты с поддержкой 3D Secure в пределах еврозоны (SEPA).
-   po: cc, ccwwtop, ccww
-   desc_ccww_fr: Coinhouse peut traiter les cartes de crédit et cartes de débit 3D Secure dans toute la zone SEPA. La livraison des bitcoins est instantanée. Ce service est dirigé par Ledger, une société spécialisée dans la sécurisation de portefeuilles et extrêmement réputée dans le milieu du Bitcoin. Les commissions varient entre 6 et 10%, en fonction du volume d'achat.
-   desc_ccww_it: Coinhouse può elaborare carte di credito e carte di debito 3D Secure in tutta l’area SEPA. La consegna dei Bitcoin è immediata. Questo servizio è gestito da Ledger, una nota società di sicurezza nell’area di Bitcoin. Le commissioni vanno dal 6 al 10% in base al volume d’acquisto.
-   desc_ccww_ptbr: "Coinhouse pode processar cartões de crédito e débito 3D garantido em toda zona SEPA.  Entrega de bitcoins é imediata. Este serviço é administrado por Ledger, uma empresa de seguro bem conhecida no meio Bitcoin. Taxas variam de 6-10% dependo do volume de compra. English: Coinhouse can process 3D secure credit cards and debit cards in all the SEPA zone. Delivery of bitcoins is immediate. This service is operated by Ledger, a well known security company in the Bitcoin space. Fees run from 6-10% depending on buy volume." 
-   desc_ccww_ru: Coinhouse принимает кредитные и дебетовые карты с поддержкой 3D Secure в пределах еврозоны (SEPA). Биткоины доставляются мгновенно. Сервисом управляет Ledger, широко известная в биткоин-среде компания, специализирующаяся на защите инфорации. Комиссия составляет от 6 до 10%, в зависимости от объёма покупки.
-   desc_ccww_es: Coinhouse puede procesar tarjetas de crédito y débito 3Dsecure en toda la zona SEPA (Zona única de pagos en euros). La entrega es inmediata. Este servicio es operado por Ledger, una compañía de seguridad muy reconocida en el mundo del bitcoin. Las comisiones oscilan entre 6% y 10% dependiendo del volumen de la compra.
-   desc_ccww_de: Coinhouse kann 3D-Sichere Kreditkarten und Debitkarten  in der SEPA Zone verarbeiten.Die Lieferung von Bitcoins ist unmittelbar. Dieser Dienst wird von Ledger, einer bekannten Sicherheitsfirma im Bitcoinraum betrieben. Gebühren laufen von 6 bis 10%, je nach Kaufvolumen.
-   desc_ccww: European residents can buy bitcoin with a 3D secure credit or debit card at Coinhouse. The fees range from 6-10% depending on your total buy volume. <a href="/exchanges/coinhouse/">Learn more in our Coinhouse review</a>.
-
  - name: BitPanda
-   desc: Buy bitcoin with SOFORT, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
+   desc: BitPanda is a Bitcoin broker based in Austria. It has low fees across the board for its wide range of payment methods, and high limits. It offers customers the option to buy bitcoins with credit card, debit card, SOFORT, Skrill, NETELLER, giropay, eps, SEPA, and Online Bank Transfer.
    url: http://buybitcoinww.co/bitpanda
    icon: https://www.buybitcoinworldwide.com/img/buy/bitpanda.png
-   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
-   po: sofort, giro, sepa, ccww, ccwwtop, giropay, babt, sell
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
+   tags: [quickinfo, rec, lowprivacy, fast, lowfees, trusted, eoueasy, highlimits]
+   pros: <li>Some of the lowest fees for buying bitcoins with credit/debit card</li>
+   cons: <li>Fees are not displayed publically on website but instead included in buy price</li>  
+   po: sofort, giro, sepa, ccww, ccwwtop, giropay, babt, sell, neteller, skrill
+   desc_neteller: BitPanda is a bitcoin exchange based in Vienna, Austria. European users can buy bitcoins with Neteller in under 10 seconds using BitPanda. Note that the exact fees for purchasing with NETELLER are not displayed publically. You will be shown a buy price at check out and the fees for using NETELLER are included in that price.  
+   desc_skrill: BitPanda is a bitcoin exchange based in Austria. Among many payment methods accepted, customers can buy bitcoins with Skrill in under 10 seconds. Note that the exact fees for purchasing with Skrill are not displayed publically. You will be shown a buy price at check out and the fees for using Skrill are included in that price
    desc_ccww_short: Buy bitcoin in Europe with a Visa or Mastercard credit or debit card via Neteller. 
-   desc_ccww: BitPanda is a Bitcoin broker located in Austria. You can purchase bitcoin with a CC indirectly via NETELLER for about a 4% fee. BitPanda is available to residents of the EU.
+   desc_babt: BitPanda accepts bank account payments via SEPA, SOFORT, and Online Bank Transfer. 
+   desc_ccww: BitPanda is a Bitcoin broker located in Austria. You can purchase coins with a credit/debit card for 3-4% fees. Note that the fees are not displayed publically but displayed in your buy price when completing your purchase. 
    desc_ccww_fr: BitPanda est un courtier Bitcoin basé en Autriche. Vous pouvez y acheter indirectement des bitcoins avec une carte de crédit à travers NETELLER pour une commission de 4%. BitPanda est disponible pour les résidents de l'UE.
    desc_ccww_ptbr: BitPanda é uma corretora de Bitcoins localizada na Áustria. Você pode comprar bitcoin com cartão de crédito indiretamente via NETELLER por uma taxa de 4%. BitPanda está disponível para residentes da UE.
    desc_ccww_it: BitPanda è un broker di Bitcoin situato in Austria. È possibile acquistare Bitcoin con una carta di credito in maniera indiretta tramite NETELLER con una commissione del 4%. BitPanda è disponibile per coloro che risiedono nell’UE.
    desc_ccww_ru: BitPanda — это биткоин-брокер, расположенный в Австрии. Вы можете купить биткоины при помощи кредитной карты, используя сторонний сервис NETELLER, с комиссией 4%. BitPanda доступен жителям Евросоюза.
+   desc_ccww_pl: Coininal jest brokerem bitcoinów w Austrii. Możesz zamówić bitcoiny za pomocą karty kredytowej pośrednio przez NETELLER z 7% opłatą. Coinimal jest dostępny dla mieszkańców Unii Europejskiej.
    desc_ccww_es: BitPanda es un corredor de Bitcoin ubicado en Austria. Puede comprar bitcoin con tarjeta de crédito indirectamente a través de NETELLER con una comisión del 4%. BitPanda está disponible para los residentes de la Unión Europea.
    desc_ccww_de: BitPanda ist ein Bitcoin-Broker aus der Österreich. Sie können Bitcoin mit einer Kreditkarte indirekt über NETELLER für eine 4% Gebühr kaufen. BitPanda ist für die Bewohner der EU verfügbar.
    desc_ar:  شراء بيتكوين بـ EPS وgiropay و NETELLER وSOFORT وSEPA و SEPA، والتحويل المصرفي عبر الإنترنت.
@@ -210,10 +209,42 @@
    desc_uk: Купити біткоіни через SOFORT, NETELLER, giropay, eps, SEPA або банківським переказом онлайн.
    desc_sell: Sell bitcoins for Skrill, NETELLER, PayPal (EU only), Amazon.de credit, or SEPA transfer.
 
+
+ - name: Coinhouse
+   desc: Coinhouse lets you buy bitcoins with a 3D secure credit or debit card in Europe. While its fees are somewhat high, it offers high limits. 
+   url: http://buybitcoinww.co/coinhouse
+   internal_url: /exchanges/coinhouse/
+   icon: https://www.buybitcoinworldwide.com/img/buy/coinhouse.png
+   tags: [quickinfo, rec, review, lowprivacy, fast, highfees, trusted, eoueasy, highlimits]
+   countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
+   desc_fr: Coinhouse peut traiter les cartes de crédit et cartes de débit 3D Secure dans toute la zone SEPA. 
+   desc_de: Bitcoins mit einer 3D-Sicheren Kredit- oder Debitkarte. Hohe Limits verfügbar.
+   desc_it: Acquista Bitcoin con una carta di credito o debito 3D Secure in Francia. Elevati limiti disponibili.
+   desc_ru: Coinhouse принимает кредитные и дебетовые карты с поддержкой 3D Secure в Франция.
+   desc_de: Bitcoins mit einer 3D-Sicheren Kredit- oder Debitkarte in Europa kaufen. Hohe Limits verfügbar.
+   desc_it: Acquista Bitcoin con una carta di credito o debito 3D Secure in tutta l’area SEPA.
+   desc_es: Coinhouse puede procesar tarjetas de crédito y débito 3Dsecure en toda la zona SEPA. 
+   desc_pt_br: Coinhouse pode processar cartões de crédito e débito 3D garantido em toda zona SEPA.
+   desc_ru: Coinhouse принимает кредитные и дебетовые карты с поддержкой 3D Secure в пределах еврозоны (SEPA).
+   po: cc, ccwwtop, ccww
+   desc_ccww_fr: Coinhouse peut traiter les cartes de crédit et cartes de débit 3D Secure dans toute la zone SEPA. La livraison des bitcoins est instantanée. Ce service est dirigé par Ledger, une société spécialisée dans la sécurisation de portefeuilles et extrêmement réputée dans le milieu du Bitcoin. Les commissions varient entre 6 et 10%, en fonction du volume d'achat.
+   desc_ccww_pl: Mieszkańcy Europy mogą kupować bitcoiny poprzez 3D secure kartą kredytową lub debetową dzięki Coinhouse. Opłąty mieszczą się w granicach 6-10% w zależności od rozmiarów zamówienia.
+   desc_ccww_it: Coinhouse può elaborare carte di credito e carte di debito 3D Secure in tutta l’area SEPA. La consegna dei Bitcoin è immediata. Questo servizio è gestito da Ledger, una nota società di sicurezza nell’area di Bitcoin. Le commissioni vanno dal 6 al 10% in base al volume d’acquisto.
+   desc_ccww_ptbr: "Coinhouse pode processar cartões de crédito e débito 3D garantido em toda zona SEPA.  Entrega de bitcoins é imediata. Este serviço é administrado por Ledger, uma empresa de seguro bem conhecida no meio Bitcoin. Taxas variam de 6-10% dependo do volume de compra. English: Coinhouse can process 3D secure credit cards and debit cards in all the SEPA zone. Delivery of bitcoins is immediate. This service is operated by Ledger, a well known security company in the Bitcoin space. Fees run from 6-10% depending on buy volume." 
+   desc_ccww_ru: Coinhouse принимает кредитные и дебетовые карты с поддержкой 3D Secure в пределах еврозоны (SEPA). Биткоины доставляются мгновенно. Сервисом управляет Ledger, широко известная в биткоин-среде компания, специализирующаяся на защите инфорации. Комиссия составляет от 6 до 10%, в зависимости от объёма покупки.
+   desc_ccww_es: Coinhouse puede procesar tarjetas de crédito y débito 3Dsecure en toda la zona SEPA (Zona única de pagos en euros). La entrega es inmediata. Este servicio es operado por Ledger, una compañía de seguridad muy reconocida en el mundo del bitcoin. Las comisiones oscilan entre 6% y 10% dependiendo del volumen de la compra.
+   desc_ccww_de: Coinhouse kann 3D-Sichere Kreditkarten und Debitkarten  in der SEPA Zone verarbeiten.Die Lieferung von Bitcoins ist unmittelbar. Dieser Dienst wird von Ledger, einer bekannten Sicherheitsfirma im Bitcoinraum betrieben. Gebühren laufen von 6 bis 10%, je nach Kaufvolumen.
+   desc_ccww: European residents can buy bitcoin with a 3D secure credit or debit card at Coinhouse. The fees range from 6-10% depending on your total buy volume. Coinhouse is a popular option due to its high limits. 
+   pros: <li>High limits make it easy to buy large amounts of bitcoins fast</li>
+   cons: <li>Highest fees among trusted exchanges that accept credit/debit cards</li>
+
  - name: 247Exchange
    url: http://buybitcoinww.co/247exchange
    icon: /img/buy/247.png
    po: ccww
+   tags: [quickinfo, lowprivacy, avgspeed, avgfees, avgrep, eouavg, avglimits]
+   pros: <li>Offers wide range of payment methods in many countries</li>
+   cons: <li>Somewhat high fees for credit and debit card purchases</li>
    desc: Buy bitcoin with a credit card, SWIFT, SEPA, and many other payment methods. 
    desc_ccww: 247Exchange lets you buy bitcoin with a credit or debit card. There's a 7% fee on each purchase of bitcoin; 4% to cover the credit card processing fees, and 3% more as a service fee. 247Exchange is not available to residents of the United States. 
    desc_ccww_it: 247Exchange consente di acquistare Bitcoin con carta di credito o di debito. Su ogni acquisto di Bitcoin si applica una commissione del 7%; 4% per coprire le commissioni di elaborazione della carta di credito e 3% in più come commissione per il servizio. 247Exchange non è disponibile per coloro che risiedono negli Stati Uniti.
@@ -222,13 +253,17 @@
    desc_ccww_ru: 247Exchange позволяет купить биткоины при помощи кредитной или дебетовой карты. С каждой покупки удерживается комиссия в 7%, из которых 4% уходит на покрытие комиссии банковского процессинга, и 3% взимается в качестве сервисного сбора. 247Exchange недоступен жителям Соединённых Штатов.
    desc_ccww_es: 247Exchage permite comprar bitcoin con tarjeta de crédito o débito. Hay una comisión de 7% en cada compra de bitcoin - 4% para cubrir las tasas de procesamientos de las tarjetas de crédito y 3% más de comisión por el servicio. 247Exchange no está disponible para residentes de los Estados Unidos.
    desc_ccww_de: 247Exchange ermöglicht Ihnen Bitcoin mit einer Kredit- oder Debitkarte zu kaufen. Es gibt eine 7% Gebühr auf jedem Kauf von Bitcoin; 4%, um die Verarbeitung von Kreditkartengebühren zu decken, und 3% mehr als eine Dienstgebühr. 247Exchange ist nicht verfügbar für die Bewohner der Vereinigten Staaten.
+   desc_ccww_pl: 247Exchange pozwoli Ci kupić bitcoiny za pomocą karty kredytowej lub debetowej. Każdemu zakupowi bitcoinów towarzyszy opłata w wysokości 7%; 4% na pokrycie opłat manipulacyjnych, 3% to opłata serwisowa. 247Exchange nie jest dostępny dla mieszkańców Stanów Zjednoczonych.
 
  - name: LocalBitcoins
-   desc: Buy bitcoin from local dealers, online or in person. Private and quick. <a href="/exchanges/localbitcoins/">LocalBitcoins review</a>.
+   desc: LocalBitcoins is a peer-to-peer escrow service that helps match bitcoin buyers and sellers. The most common method of payment for purchase is cash deposit. Users, however, can create ads to buy or sell using the payment method of their choice. Buying bitcoins via an in-person meeting facilitated by LocalBitcoins can be one of the fastest and most private ways to buy bitcoins. 
    url: http://buybitcoinww.co/local_bitcoins
    internal_url: /exchanges/localbitcoins/
    icon: https://www.buybitcoinworldwide.com/img/buy/localbitcoins.png
+   tags: [quickinfo, rec, review, highprivacy, fast, lowfees, trusted, eouhard, avglimits]
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
+   pros: <li>Can be private, fast and easy</li> <li>In person trades require no personal information</li> <li>Purchases of bitcoin can be made quickly via cash deposit</li>
+   cons: <li>Need to keep eye out for scams</li> <li>Hard to buy large amounts of bitcoins compared to larger exchanges</li>
    desc_paypal: Local Bitcoins connects you with local sellers who accept PayPal for Bitcoin. It's best to meet the seller in person and make the transaction in order to reduce the risk of fraud. Only deal with Local Bitcoins sellers with good feedback and a history of sales.  
    desc_nobank: <a href="/exchanges/localbitcoins/">Local Bitcoins</a> provides escrow and offers a number of payment methods for buying bitcoin with no bank account. Cash deposit, Western Union, face-to-face cash trade, Amazon gift card are all offered on top of many other payment methods. Local Bitcoins provides escrow, but be sure to buy from sellers with previous trade history and positive feedback. 
    desc_cdus: It's possible to buy bitcoins with cash on <a href="/exchanges/localbitcoins/">LocalBitcoins</a> via cash trade in-person or with cash deposit. LocalBitcoins provides escrow and connects you with sellers. It's private and LocalBitcoins does not require any personal details or verification, altough specific sellers may request. Be sure to buy from sellers with previous trade history and positive feedback. Local Bitcoins charges a flat 1% fee on each purchase. 
@@ -237,7 +272,7 @@
    desc_neosurf: <a href="/exchanges/localbitcoins/">LocalBitcoins</a> connects you with local sellers who accept Neosurf prepaid cards for Bitcoin. It's best to meet the seller in person and make the transaction in order to reduce the risk of fraud. Only deal with Local Bitcoins sellers with good feedback and a history of sales. Local Bitcoins charges a flast 1% fee on all transactions.
    name_he: Local Bitcoins
    desc_he: קנייה של ביטקוין מסוחרים מקומיים ,דרך האינטרנט או פנים מול פנים. מהיר ופרטי. 1% עמלה.
-   po: sepa, fast, cdus, paypal, nobank, lowfees, pp, cash, wmru, mpesa, neosurf, venmo, sell
+   po: sepa, fast, cdus, nobank, lowfees, pp, cash, wmru, mpesa, neosurf, venmo, sell, paypal
    desc_es: Comprar Bitcoin a distribuidores locales, online o en persona. Privado y rápido. 1% de comision.
    desc_ar:  شراء بيتكوين من التجار المحليين، أو عبر الإنترنت أو بشخصك. بخصوصية وسرعة. برسوم 1٪.
    desc_fr: Achetez des bitcoins à des vendeurs, en ligne ou en personne. Confidentiel et rapide. 1% de commission. 
@@ -250,17 +285,20 @@
    desc_bg: Купете биткойн от местни дилъри, онлайн или лично. Бързо и анонимно. 1% такса.
    desc_ru: Купить биткоин у местных посредников, онлайн или лично (в "оффлайн"). Сбор в размере 1%.
    desc_uk: Купити біткоін у місцевих посередників, онлайн або особисто (в "оффлайн"). Сбор в размере 1%.
+   desc_pl: Kup bitcoiny od lokalnych sprzedawców, online lub też osobiście. Poufnie i szybko.
    desc_sell: Sell bitcoins for cash deposit, or meet in person and make a cash trade. 1% fee. 
 
  - name: Coinbase Exchange
-   desc: U.S. based Bitcoin exchange. Fund with SEPA transfer or <a href="/en/buy-bitcoin-ach-bank-transfer-united-states/">ACH bank transfer</a>.
+   desc: Coinbase Exchange is one of the largest Bitcoin exchanges in the United States. Users can fund accounts with bank transfer, SEPA, and bank wire. Coinbase Exchange offers good prices and low fees, but its confusing user interface makes it difficult for first time buyers. 
+   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
    url: http://buybitcoinww.co/buycoinbase
    internal_url: /exchanges/coinbase/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbaseexchange.png
    countries: us, gb   
    po: sepa, usbt, lowfees, bt, ach, babt, sell
    desc_achshort: Fund your Coinbase exchange account via ACH bank transfer.  
-   desc_ach: Coinbase Exchange is only available in <a rel="nofollow" href="https://support.coinbase.com/customer/portal/articles/1826671-what-countries-us-states-are-supported-for-coinbase-exchange-">certrain U.S. States</a>. You can fund your account via ACH transfer.  
+   desc_ach: Coinbase Exchange is only available in <a href="https://support.coinbase.com/customer/portal/articles/1826671-what-countries-us-states-are-supported-for-coinbase-exchange-">certrain U.S. States</a>. You can fund your account via ACH transfer.  
+   desc_babt: US customers can fund their Coinbase Exchange trading accounts via ACH or bank wire. Residents of Europe and the UK can fund with SEPA transfer. 
    es: yes
    name_es: Coinbase Exchange
    desc_es: Fondos con transferencia SEPA o transferencia bancaria ACH.
@@ -277,13 +315,16 @@
    desc_ru: Биткоин-биржа. Покупка SEPA-платежом или банковским (Automated Clearing House) переводом.
    desc_uk: Біткоін-біржа. Купівля SEPA-платежем або банківським (Automated Clearing House) переказом.
    desc_sell: Sell bitcoins on Coinbase Exchange, then transfer to a United States bank account via ACH. 
+   pros: <li>Some of the lowest fees available for US and EU customers</li>
+   cons: <li>User interface is confusing for first time buyers</li>
 
  - name: BitQuick
-   desc: Buy bitcoin quickly with cash deposits at thousands of locations across the United States. 
+   desc: BitQuick is one of the fastest ways to buy bitcoins in the United States using cash deposit. Users can browse a wide range of offers at different prices. Once a desired offer is found users make a cash deposit into the seller's account and will usually receive bitcoins within an hour.  
    url: http://buybitcoinww.co/buybitquick
    icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
    countries: us 
    po: fast, cdus, nobank, cash
+   tags: [quickinfo, rec, highprivacy, fast, avgfees, trusted, eouavg, avglimits]
    desc_nobank: BitQuick provides escrow between buyers and sellers. Payments are made via cash deposit at bank locations across the U.S., and via SEPA transfer in the EU. Your coins will usually be delivered in under two hours if payment was made via cash deposit.  
    desc_fast: "BitQuick's goal is to make buying bitcoin fast and easy. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour. BitQuick can be used in the United States and Europe."
    desc_cdus: BitQuick provides escrow and connects you with sellers. You can buy bitcoin via cash deposit at a number of banks across the United States and Europe. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour. 
@@ -300,13 +341,16 @@
    desc_bg: Купете биткойн бързо с депозит в брой или SEPA превод в ЕС. 2% такса.
    desc_ru: Купить биткоин быстро денежным вкладом или SEPA-платежом в ЕС. Сбор - 2%.
    desc_uk: Купити біткоін швидко грошовим внеском або SEPA-платежем в ЄС. Збір - 2%.
+   pros: <li>One of the fastest ways to buy bitcoins</li>
+   cons: <li>2% fees on purchases are somewhat high for cash purchase</li>
 
  - name: Bitcoin.de
-   desc: Buy bitcoin online from other users with <a href="/en/buy-bitcoin-sepa-transfer/">SEPA bank transfers</a>.
+   desc: Bitcoin.de is a major European peer-to-peer Bitcoin exchange. Users can buy bitcoin online from other users with <a href="/en/buy-bitcoin-sepa-transfer/">SEPA bank transfers</a>.
    url: http://buybitcoinww.co/Bitcoin_de
    icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinde.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    po: sepa, cash, lowfees, sell
+   tags: [quickinfo, rec, avgprivacy, avgspeed, highfees, trusted, eouhard, avglimits]
    es: yes
    desc_es: Comprar bitcoin en Bitcoin.de a través de SEPA o transferencia bancaria. Comisiones varias.
    ar: yes
@@ -340,35 +384,15 @@
 ##### USA ####################################################    
 
  - name: Gemini
-   desc: U.S. based Bitcoin exchange. Deposit via wire transfer or ACH transfer. 
+   desc: Gemini is a New York based Bitcoin exchange open to residents of the United States, UK, and Canada. Deposits can be made via wire transfer, SEPA or ACH transfer. <br><br>While Gemini is available in most US states, US residents should <a href="https://gemini.com/areas-of-operation/">check Gemini's areas of operations page</a>. 
    url: https://gemini.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/gemini.png
    countries: us
    po: usbt, bt, babt, sell
    desc_ach: Gemini is a Bitcoin exchange that serves both individual and institutional clients. You can fund your exchange account via ACH transfer or wire transfer. Currently available in <a rel="nofollow" href="https://blog.gemini.com/geminis-area-of-operation/">26 U.S. states</a>.  
    desc_sell: Sell bitcoins on Gemini and then transfer your funds to a US bank account via ACH transfer. 
-   
- - name: Coinsetter
-   desc: New York based Bitcoin exchange. Deposit money with ACH transfer or SWIFT. 
-   url: https://www.coinsetter.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/coinsetter.png
-   countries: us
-   po: swift
-   es: yes
-   name_es: Coinsetter
-   desc_es: Intercambio de Bitcoin con sede en Nueva York. Deposite dinero con transferencia ACH o SWIFT.
-   ar: yes
-   desc_ar:  صرافة Bitcoin الموجود بنيويورك. إيداع الأموال بتحويل ACH أو SWIFT.
-   desc_fr: Bourse d'échange de Bitcoins basée à New York. Faites des dépôts par virement ACH ou SWIFT.
-   desc_el: Ανταλλακτήριο Βitcoin με έδρα τη Νέα Υόρκη. Κατάθεση χρημάτων με μεταφορά ACH ή SWIFT.
-   desc_nl: Bitcoin uitwisseling in New York. Stort geld met ACH overschrijving of SWIFT.
-   desc_it: Società di cambio di Bitcoin con sede a New York. Deposita Denaro con trasferimento ACH o SWIFT.
-   desc_pt_br: Conversão de Bitcoins. Deposite valores em dinheiro através de transferências ACH ou SWIFT.
-   desc_de: New York basierter Bitcoin Börse. Zahlen Sie Geld mit ACH Überweisungen oder SWIFT ein.
-   desc_zh: 纽约比特币交易所。以ACH转账或SWIFT交存。
-   desc_bg: Базирана в Ню Йорк биткойн борса. Депозирайте пари чрез ACH превод или SWIFT.
-   desc_ru: Нью-Йоркская биткоин-биржа. Внесите деньги с помощью ACH перевода или SWIFT.
-   desc_uk: Нью-Йоркська біткоін-біржа. Внесіть гроші за допомогою ACH переведення або SWIFT.
+   tags: [quickinfo, lowprivacy, slow, lowfees, trusted, eouhard, highlimits]
+   desc_babt: US customers can purchase bitcoins on Gemini by funding their account with ACH transfer. 
 
 ##### England ####################################################  
   
@@ -381,9 +405,10 @@
    ar: yes
    desc_ar:  شراء كميات صغيرة جدًا من بيتكوين عبر باركليز Pingit، أو عبر التحويل المصرفي أو ببطاقة الائتمان / الخصم.
    desc_sell: It's possible to sign up with Bittylicious and become a broker online. 
+   desc_babt: UK residents can purchase bitcoins within 15 minutes via online bank transfer. 
    
  - name: Coinfloor
-   desc: Bitcoin exchange and broker. Deposit via bank transfer, SEPA, and more.
+   desc: Coinfloor is a Bitcoin exchange and broker based in the United Kingdom. Deposit via bank transfer, SEPA, and more. 
    url: https://coinfloor.co.uk/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinfloor.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
@@ -398,6 +423,10 @@
    desc_de: Bitcoin Börse und Broker. Einzahlen über Banküberweisungen, SEPA und mehr.
    desc_bg: Биткойн борса и брокер. Депозирайте чрез банков превод, SEPA и други.
    desc_sell: Sell bitcoins to a bank account via bank transfer, SEPA, and more. 
+   tags: [quickinfo, rec, lowprivacy, avgspeed, highfees, trusted, eouhard, avglimits]
+   pros: <li>Trustworthy and regulated exchange </li>
+   cons: <li>High minimum deposit amount; must deposit at least 1,000 units of currency</li>
+   desc_babt: UK residents can fund their Coinfloor exchange account with SEPA or online bank transfer, while EU residents can use SEPA. Note that there is a minimum deposit amount of 1,000 currency units (i.e. 1,000 euros or 1,000 pounds). 
    
  - name: BitBargain
    desc: P2P marketplace for buying and selling bitcoin. Multiple payment methods available.
@@ -431,7 +460,7 @@
 ##### Austria ####################################################   
 
  - name: bitcoinbon
-   desc: Buy bitcoin with cash at over 600 physical locations across Austria. Buy €25, €50, or €100. 
+   desc: bitcoinbon is a Bitcoin network that allows users to buy bitcoin with cash at over 600 physical locations across Austria. Users can buy in amounts of €25, €50, or €100. 
    url: http://buybitcoinww.co/bitcoinbon
    icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinbon.png
    countries: at
@@ -439,12 +468,13 @@
    desc_de: Bitcoins mit Bargeld in über 600 Verkaufsstellen kaufen. Erhältlich in €25, €50 und €100.  
    
  - name: Coinfinity
-   desc: Austrian Bitcoin broker. Buy bitcoin via SEPA transfer or SOFORT.  
+   desc: Coinfinity is an Austrian Bitcoin broker. Customers can buy bitcoin via SEPA transfer or SOFORT.  
    url: http://buybitcoinww.co/coinfinity
    icon: https://www.buybitcoinworldwide.com/img/buy/coinfinity.png
    countries: at
    po: sofort, sepa, babt
    desc_de: Österreichischer Bitcoin-Broker. Bitcoins mit SOFORT Überweisung oder Banküberweisung kaufen.
+   desc_babt: Residents in Austria can buy bitcoins with a bank account online using SOFORT transfer. 
 
 ##### France ####################################################
    
@@ -463,7 +493,8 @@
    desc_de: Bitcoin Börse. Bitcoin mit Banküberweisungen in Frankreich kaufen.
    desc_ru: Биткоин-биржа. Купить биткоин банковским переводом во Франции.
    desc_uk: Біткоін-біржа. Купити біткоіни банківським переказом у Франції.
-   desc_sell: Sell bitcoins in France via French national bank transfer or SEPA. 
+   desc_sell: Sell bitcoins in France via French national bank transfer or SEPA.
+   desc_babt: Paymium is a Bitcoin exchange based in France; anyone in the country can get bitcoins with a bank transfer using Paymium. 
 
  - name: Bitboat
    desc: Buy bitcoin fast with cash in the UK, Spain, Italy, France, Belgium, Cyprus, and Romania. 
@@ -476,7 +507,7 @@
 ##### Switzerland ####################################################   
 
  - name: Bity
-   desc: Fast and easy registration. Place your first order within minutes. 
+   desc: Bity is a Bitcoin exchange based in Switzerland. It allows for a quick first purchase and only requires phone verification for initial buy limits.  
    url: https://bity.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/bity.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb   
@@ -490,6 +521,8 @@
    desc_pt_br: Compre Bitcoins na Suíça por transferência bancária ou SEPA. Rápido e fácil. 
    desc_de: Die Anmeldung ist einfach und schnell. Tätigen Sie Ihren ersten Einkauf in wenigen Minuten.
    desc_bg: Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно.
+   tags: [quickinfo, avgprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
+   desc_babt: Bity is a Bitcoin broker that makes it possible for all Europeans to purchase bitcoins with SEPA. At first, only verification using a phone number is required. 
 
 
 ##### Canada ####################################################   
@@ -555,7 +588,7 @@
    desc_uk: Біткоін-біржа. Поповніть рахунок за допомогою INTERAC Online та іншими способами оплати.
    
  - name: Safello
-   desc: Buy bitcoin via SEPA, Swish, International Bank Transfer, Bankgiro, and more. 
+   desc: Safello is a Bitcoin exchange registered as a financial institution in Sweden. It offers a wide range of payment methods--Swish, SEPA, and iDEAL--to residents of Europe. 
    url: https://safello.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/safello.png
    countries: se, es, pl, hu, be, nl, gb, it, ch, de, fr, at, bg, cy, hr, cz, dk, ee, fi, gr, ie, li, lt, lu, mc, mt, pt, ro, sm, sk
@@ -574,6 +607,7 @@
    desc_bg: Купете биткойн чрез SEPA, Swish, международен банков превод, Bankgiro и много други възможности.
    desc_ru: Купить биткоин через SEPA, Swish, SWIFT, Bankgiro и другими способами.
    desc_uk: Купити біткоіни через SEPA, Swish, SWIFT, Bankgiro та іншими способами.
+   tags: [quickinfo, avgprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
    
  - name: Canadian Bitcoins
    desc: Buy bitcoin with cash in office, cash through express mail, online banking, & Interac Online.
@@ -1061,7 +1095,7 @@
 ##### China #################################################### 
  
  - name: OKCoin
-   desc: Largest Bitcoin exchange in China. No trading fees. Deposit via bank transfer.  
+   desc: OKCoin is the largest Bitcoin exchange in China. In terms of trading volume, it is the largest Bitcoin exchange in the world, but this is largely due to the fact that there are no trading fees. Customers can make deposits via bank transfer.  
    url: https://www.okcoin.cn/
    icon: https://www.buybitcoinworldwide.com/img/buy/okcoin.png
    countries: cn, hk, mo
@@ -1085,7 +1119,7 @@
    desc_zh: 中国零交易费的比特币交易平台。通过银行转账交存。
    
  - name: LakeBTC
-   desc: Bitcoin exchange in China. Deposit via bank transfer or SEPA.  
+   desc: LakeBTC is a Bitcoin exchange based in China. Customers can deposit via bank transfer or SEPA. LakeBTC is one of the top 15 global exchanges based average daily trading volume.
    url: http://buybitcoinww.co/Lake_BTC
    icon: https://www.buybitcoinworldwide.com/img/buy/lakebtc.png
    countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mo
@@ -1093,6 +1127,7 @@
    desc_de: Bitcoin Börse in China. Einzahlen über Banküberweisungen oder SEPA.
    desc_zh: 中国比特币交易平台。通过银行转账或国家环保总局交存。
    desc_bg: Биткойн борса в Китай. Депозирайте чрез банков превод или SEPA.
+   tags: [quickinfo, lowprivacy, avgspeed, lowfees, trusted, eouhard, avglimits]
    
  - name: BtcTrade
    desc: Bitcoin exchange in China. Fee varies. Trade in USD and CNY. 
@@ -1102,7 +1137,7 @@
    desc_zh: 中国比特币交易平台。交易费略不同。以美元和人民币交易。
    
  - name: Gatecoin
-   desc: Bitcoin exchange in Hong Kong. Deposit with SEPA transfer, SWIFT, and OKPAY.  
+   desc: Gatecoin is a Bitcoin exchange based in Hong Kong. Customers can deposit with SEPA transfer, SWIFT, and OKPAY. Gatecoin was recently hacked and lost user funds.
    url: https://gatecoin.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/gatecoin.png
    countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
@@ -1110,23 +1145,14 @@
    desc_de: Bitcoin Börse in Hong Kong. Einzahlen mit SEPA Überweisung,SWIFT und OKPAY.
    desc_zh: 香港比特币交易平台。通过国家环保总局转账、SWIFT和OKPAY交存。
    desc_bg: Биткойн борса в Хонг Конг. Депозирайте чрез  SEPA превод, SWIFT и OKPAY.
+   tags: [quickinfo, lowprivacy, speedvaries, feesvary, lowtrust, eouavg, avglimits]
    
  - name: Yunbi
    desc: Small Bitcoin exchange in China. Fee varies. Trade in CNY. 
    url: https://yunbi.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/yunbi.png
    countries: cn, hk, mo 
-   desc_zh: 中国小型比特币交易平台。交易费略不同。以人民币交易。  
-   
- - name: ANXPRO
-   desc: Buy bitcoin with cash deposit, bank transfer, SEPA, and more.
-   url: http://anxpro.com/
-   icon: https://www.buybitcoinworldwide.com/img/buy/anxbtc.png
-   countries: hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
-   po: sepa
-   desc_es: Comprar Bitcoin con un depósito de efectivo, transferencia bancaria, SEPA y más.
-   desc_ar:  شراء بيتكوين بالإيداع النقدي، أو بحوالة مصرفية، أو SEPA، وغير ذلك من الطرق الكثيرة.
-   desc_fr: Achetez des bitcoins par dépôt d'espèces, virement bancaire, SEPA et bien plus.  
+   desc_zh: 中国小型比特币交易平台。交易费略不同。以人民币交易。    
    
 ##### Vietnam #################################################### 
    
@@ -1628,7 +1654,7 @@
 ##### Dominican Republic ####################################################
 
  - name: BitcoinRD
-   desc: Buy bitcoins in the Dominican Republic via bank transfer. Support offered via phone.
+   desc: BitcoinRD is the easiest way to purchase bitcoins in the Dominican Republic. Users can purchase with bank transfer. 
    url: http://bitcoinrd.online/comprar-bitcoin.html
    icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinrd.png
    countries: do
@@ -1663,15 +1689,17 @@
    url: http://buybitcoinww.co/CoinMama_Bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/coinmama.png
    po: cc
-   desc: Bitcoin broker. Buy bitcoin with a credit card or debit card instantly.  
+   desc: CoinMama is a Bitcoin broker. Its main offering is the ability for customers in nearly any country to purchase bitcoins with a credit card or debit card. It has high fees, but as one of the first exchanges to sell bitcoins for credit/debit card it has created a strong reputation and trust. Once initial identity verification is completed, bitcoins are delivered in seconds.  
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, mx, ar, br, bo, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, ru, uk, au, il, ae 
+   tags: [quickinfo, rec, lowprivacy, fast, highfees, trusted, eouavg, highlimits]
 
  - name: Bitstamp
-   desc: Buy bitcoin on Bitstamp through SEPA or wire transfer. Fee varies.
+   desc: BitStamp is one of the world's largest and most well known Bitcoin exchanges. Deposits can be made through bank transfer, SEPA transfer, or even credit card. 
    url: http://buybitcoinww.co/buy_bitstamp
    icon: https://www.buybitcoinworldwide.com/img/buy/stamp.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
    po: sepa, lowfees, babt, sell
+   tags: [quickinfo, lowprivacy, slow, avgfees, trusted, eouhard, highlimits]
    es: yes
    name_es: Bitstamp
    desc_es: Comprar bitcoin en Bitstamp a través de SEPA o transferencia bancaria. Comisiones varias.
@@ -1688,13 +1716,17 @@
    desc_ru: Купить биткоин на Bitstamp через SEPA-платеж или денежным переводом. Сборы могут меняться.
    desc_uk: Купити біткоін на Bitstamp через SEPA-платіж або грошовим переказом. Збори можуть змінюватися.
    desc_sell: Sell bitcoins on Bitstramp, then transfer your funds to a bank account through SEPA transfer. 
+   desc_babt: Bitstamp is one of the world's largest Bitcoin exchanges. It makes it easy for Europeans to purchase large amounts of bitcoins fast with SEPA bank transfer. Almost anyone in the world can use their bank account to send a wire transfer to Bitstamp, although fees may apply. 
       
  - name: Kraken
-   desc: Bitcoin exchange supporting SEPA deposits, bank wires, SWIFT, and JPY bank deposit. 
+   desc: Kraken is the world's largest euro-denominated Bitcoin exchange based on daily average trading volume. It supports deposits from US, European, Canadian, British, and Japanese customers. Deposits can be made via international bank transfer, SEPA transfer, and Interac.
    url: http://buybitcoinww.co/kraken_bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/kraken.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, ca
    po: sepa, io, lowfees, babt, sell
+   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
+   pros: <li>High liquidity for large volume buyers in European markets</li>
+   cons: <li>User-interface makes it difficult for first time buyers</li>
    es: yes
    name_es: Kraken
    desc_es: El intercambio de Bitcoin soporta depósitos SEPA, transferencias bancarias, y SWIFT.
@@ -1711,14 +1743,18 @@
    desc_ru: Биткоин-биржи, поддерживающие SEPA-депозиты, банковские переводы, SWIFT.
    desc_uk: Біткоін-біржі, що підтримують SEPA-депозити, банківські перекази, SWIFT.
    desc_sell: Sell bitcoins to your bank account in Europe through SEPA transfer. 
+   desc_babt: Kraken is the world's largest euro-denominated Bitcoin exchange based on daily average trading volume. It supports bank transfer deposits from US, European, Canadian, British, and Japanese customers. Deposits can be made via international bank transfer, SEPA transfer, and Interac.
 
  - name: Wall of Coins
-   desc: Buy bitcoin with cash in the US, Canada, Germany, Poland, Argentina, and more. <a href="/exchanges/wall-of-coins/">Wall of Coins review</a>. 
+   desc: Wall of Coins is an escrow service that makes it easy to buy bitcoins with cash deposit in the US, Canada, Germany, Poland, Argentina, and more. It offers low fees and is a more private way to purchase coins.  
+   tags: [quickinfo, rec, review, highprivacy, fast, lowfees, trusted, eoueasy, avglimits]
    url: http://buybitcoinww.co/Wall_of_Coins
    internal_url: /exchanges/wall-of-coins/
    icon: https://www.buybitcoinworldwide.com/img/buy/wallofcoins.png
    countries: us, ca, de, ph, ar, pl, lv
    po: fast, cash, cdus, nobank, lowfees
+   pros: <li>Easy and private way to purchase bitcoins</li>
+   cons: <li>Currently limited to seven countries</li>
    desc_nobank: <a href="/exchanges/wall-of-coins/">Wall of Coins</a> is a peer-to-peer Bitcoin exchange that offers a number of payment methods. Cash deposit, however, is the exchange's most common payment method. There are over 100,000 deposit locations available across the United States. Wall of Coins also supports Canada, Germany, Poland, Argentina, Latvia, Poland, and the Philippines. After a cash deposit is made you'll usually receive your bitcoins within 15 minutes. 
    desc_cdus: <a href="/exchanges/wall-of-coins/">Wall of Coins</a> is a peer-to-peer Bitcoin exchange that offers a number of payment methods. Cash deposit, however, is the exchange's most common payment method. There are over 100,000 deposit locations available across the United States. Wall of Coins also supports Canada, Germany, Poland, Argentina, Latvia, Poland, and the Philippines. After a cash deposit is made you'll usually receive your bitcoins within 15 minutes. 
    desc_cdus_short: Wall of Coins makes it easy and fast to buy bitcoins with cash. <a href="/exchanges/wall-of-coins/">Wall of Coins review</a>.
@@ -1740,9 +1776,12 @@
    po: cc, sepa, swift, cash, io, okpay
    desc: Buy bitcoin with a credit card, SWIFT, SEPA, and many other payment methods. 
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, gy, py, pe, sr, uy, ve, cr, sv, gt, hn, ni, pa, bh, eg, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
+   tags: [quickinfo, lowprivacy, avgspeed, avgfees, avgrep, eouavg, avglimits]
+   pros: <li>Offers wide range of payment methods in many countries</li>
+   cons: <li>Somewhat high fees for credit and debit card purchases</li>
 
  - name: Changetip
-   desc: Buy small amounts of bitcoin with a Visa or Mastercard debit/credit card. 
+   desc: Changetip makes it easy to buy small amounts of bitcoin with a Visa or Mastercard debit/credit card. 
    url: https://www.changetip.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/changetip.png
    countries: us
@@ -1761,9 +1800,11 @@
    desc_zh: 以Visa或Mastercard借记卡／信用卡购买少量的比特币。
    desc_ru: Купить небольшие количества биткоин с помощью дебетовых/кредитных VISA или Mastercard.
    desc_uk: Купити невеликі кількості біткоін за допомогою дебетових / кредитних VISA або Mastercard.
+   pros: <li>Quick and easy way to buy small amounts of bitcoin with a debit or credit card</li>
+   cons: <li>Extremely low limits make it impossible to buy even average amounts of bitcoins</li>
      
  - name: CEX.io
-   desc: <a href="/en/buy-bitcoin-credit-debit-card/">Buy bitcoin with credit card</a>, SEPA/ACH bank transfer, cash, or AstroPay. 
+   desc: CEX.io lets you <a href="/en/buy-bitcoin-credit-debit-card/">buy bitcoin with a credit card</a>, ACH bank transfer, SEPA transfer, cash, and AstroPay. Purchases made with a credit card give you access to your bitcoin immediately. CEX.io works in the United States, Europe, and some countries in South America.
    url: http://buybitcoinww.co/cex_io_bitcoin
    internal_url: /exchanges/cex-io/
    icon: https://www.buybitcoinworldwide.com/img/buy/cex.png
@@ -1779,6 +1820,7 @@
    desc_ccww_ru: CEX.io позволяет покупать биткоины при помощи кредитной или дебетовой карты, и предоставляет биткоины мгновенно. CEX.io работает в США, Европе, и некоторых странах Южной Америки.
    desc_ccww_es: CEX.io permite comprar bitcoin con tarjeta de crédito o débito y sus bitcoin estarán disponibles de manera inmediata. CEX.io trabaja en los Estados Unidos, Europa y algunos países de América del Sur.
    desc_ccww_de: CEX.io ermöglicht Ihnen Bitcoin mit einer Kredit- oder Debitkarte zu kaufen und Ihre Bitcoin werden sofort verfügbar sein. CEX.io arbeitet in den Vereinigten Staaten, Europa und in einigen Ländern der Südamerika.
+   desc_ccww_pl: CEX.io pozwoli Ci kupić bitcoiny za pomocą karty kredytowej lub debetowej i będą one dostępne natychmiastowo. CEX.io działa w Stanach Zjednoczonych. Europie i niektórych krajach Południowej Ameryki. 
    desc_astropay: CEX.IO is a bitcoin exchange and broker based in London. Users in Brazil, Mexico, Argentina, Chile, Peru, Uruguay, China and Turkey can buy bitcoin with AstroPay at CEX.IO. A flat 2.5% fee is charged on all purchases, and users can buy up to $2,000 worth of bitcoins per day and up to $4,000 worth of bitcoins per month. 
    es: yes
    name_es: CEX.io
@@ -1795,13 +1837,18 @@
    desc_bg: Купете биткойн чрез кредитна карта, SEPA/ACH банков превод, в брой, или чрез AstroPay.
    desc_ru: Купить биткоин кредитной картой, ACH/SEPA-платежом, наличными или AstroPay.
    desc_uk: Купити біткоіни кредитною карткою, ACH/SEPA, готівкою або AstroPay.
+   tags: [quickinfo, review, lowprivacy, avgspeed, avgfees, trusted, eouavg, avglimits]
+   pros: <li>Support for many countries and has decent fees</li>
+   cons: <li>Verification process is extensive; requires tons of information and takes a long time</li>
+   desc_babt: CEX.io allows for purchases of bitcoins using ACH in the USA and with SEPA transfer in EU countries. 
    
  - name: LibertyX
-   desc: Buy bitcoin with cash at a number of retail stores across the US.  
+   desc: LibertyX makes buying bitcoins with cash a simple process. You first use LibertyX's app to locate a store near you that sells LibertyX codes. Once you locate a store you enter your LibertyX code to the app along with a Bitcoin address and your coins will be delivered. <br><br> If you connect a Facebook account to your LibertyX app, your first $500 of purchases are fee-free. Otherwise all purchases cost 1% in fees.   
    url: http://buybitcoinww.co/libertyx_bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/libertyx.png
    countries: us
    po: fast, cdus, nobank, lowfees, cash
+   tags: [quickinfo, avgprivacy, avgspeed, avgfees, trusted, eouavg, avglimits]
    desc_nobank: LibertyX lets you buy bitcoin with cash at a number of retail stores across the United States. You'll have to verify your identity before buying, making LibertyX less private than some of the other options. You can buy up to $1000 worth of bitcoin. You'll be charged a 1% fee on all purchases, but if you sign up with Facebook you can buy your first $1000 fee free. Your bitcoin should arrive a few minutes after your payment is made. 
    desc_cdus: LibertyX lets you buy bitcoin with cash at a number of retail stores across the United States. You'll have to verify your identity before buying, making LibertyX less private than some of the other options. You can buy up to $1000 worth of bitcoin and will be charged a 1% fee on all purchases. If you sign up with Facebook you can buy your first $1000 fee free. Your bitcoin should arrive a few minutes after your payment is made. 
    desc_cdus_short: Purchase bitcoins with cash at over 15,000 retail locations across the United States.
@@ -1818,36 +1865,44 @@
    desc_zh: 可在美国的一些零售店以现金购买比特币。
    desc_ru: Купить биткоин за наличные во множестве магазинов США.
    desc_uk: Біткоіни-брокер. Купити біткоіни за готівку в безлічі магазинів США.
+   pros: <li>Easy way to buy bitcoins with cash for low fees</li>
+   cons: <li>Some verification is required so it is a less private way of buying with cash</li>
 
  - name: CoinCorner
-   desc: Buy bitcoin in the UK and Europe with SEPA, credit/debit card, or GBP bank transfer. 
-   desc_ccww_short: Buy bitcoin in the UK and Europe with debit card or credit card. 
+   desc: CoinCorner is a Bitcoin exchange based in the Isle of Man. Users in the UK and Europe can purchase bitcoins with SEPA, credit/debit card, or GBP bank transfer. 
+   desc_ccww_short: Buy bitcoin in the UK and Europe with debit card or credit card.
+   desc_babt: CoinCorner is a Bitcoin exchange based in the Isle of Man. Users in the UK and Europe can purchase bitcoins with SEPA, credit/debit card, or GBP bank transfer.  
    url: http://buybitcoinww.co/coincorner
    icon: https://www.buybitcoinworldwide.com/img/buy/ccoiner.png
    countries: gb, be, dk, fi, lu, nl, pl, sk, es, au, bg, cy, ee, fr, gr, hu, it, mt, nz, pt, si, se, at, ca, cz, de, ie, mc, nor, sm, ch, za
-   po: bt, sepa, cc, babt, ccww
+   po: bt, sepa, cc, babt, ccww, neteller
    ar: yes
    desc_ar:  الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.
+   tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
+   desc_neteller: CoinCorner recently added support for NETELLER. It lets you use CoinCorner and fund your account without giving up your credit card details or extra personal information. 
 
  - name: Coin ATM Radar
-   desc: Coin ATM Radar helps you locate Bitcoin ATMs in your area to <a href="/en/buy-bitcoins-with-cash/">buy bitcoins with cash</a>.  
-   internal_url: /en/buy-bitcoins-with-cash/#coinatmradar
-   url: http://coinatmradar.com/
+   desc: Coin ATM Radar is a Bitcoin ATM database that helps you locate Bitcoin ATMs in your area to <a href="/en/buy-bitcoins-with-cash/">buy bitcoins with cash</a>. Bitcoin ATMs can be quick and easy ways to buy bitcoins and are also private. That convenience and privacy, however, comes with a price as most ATMs have fees of 5-10%.  
+   url: /en/buy-bitcoins-with-cash/#coinatmradar
    icon: https://www.buybitcoinworldwide.com/img/buy/car.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye 
    po: fast, cdus, nobank, cash
    desc_nobank: Coin ATM Radar helps you find Bitcoin ATMs in your area, where you can by bitcoins with cash and no bank account. 
    desc_cdus: Coin ATM Radar is a Bitcoin ATM map that helps you find a Bitcoin ATM in your local area. Using Bitcoin ATMs you can buy bitcoins with cash. The average ATM charges a fee of 5-10%, but this is what people are willing to pay to buy bitcoins privately and with no verification. There are many Bitcoin ATM manufacturates, so each ATM is different. Some require verification, some don't.
    desc_cdus_short: Find a Bitcoin ATM in your area where you can purchase bitcoins with cash.  
+   pros: <li>Coin ATM Radar makes it super easy to find a Bitcoin ATM near you</li> 
+   cons: <li>Bitcoin ATMs often have 5-10% fees per purchase</li>
+   
 
  - name: Snapcard
-   desc: Buy bitcoin with a connected U.S. bank account. Convenient and easy.    
+   desc: Snapcard is a California based Bitcoin broker. It serves US customers who can buy bitcoins with a wire transfer or ACH transfer.    
    url: https://www.snapcard.io/buy-bitcoin
    icon: https://www.buybitcoinworldwide.com/img/buy/snapcard.png
    countries: us
-   po: usbt, lowfees, bt, babt
+   po: usbt, lowfees, bt, babt, ach
    desc_usbankshort: Buy bitcoin with a connected U.S. bank account. 0.5% fee. 
    desc_ach: Snapcard lets you buy bitcoin with a connected bank account via ACH transfer. Snapcard charges a flat 0.5% fee on all purchases. 
+   desc_babt: Snapcard lets you buy bitcoin with a connected bank account via ACH transfer. Snapcard charges a flat 0.5% fee on all purchases. 
    desc_es: Comprar Bitcoin con su cuenta bancaria. Fácil, rápido, aconsejable.
    desc_fr: Achetez des bitcoins avec votre compte en banque. Rapide et facile.
    desc_el: Αγοράστε bitcoin με τον τραπεζικό σας λογαριασμό. Εύκολα και γρήγορα.
@@ -1855,9 +1910,10 @@
    desc_it: Acquista Bitcoin con il tuo conto bancario. Facile e veloce.
    desc_pt_br: Compre Bitcons usando sua conta bancária. Simples, rápido e conveniente.
    desc_de: Kaufen Sie Bitcoin mit Ihren Bankkonto. Einfach, schnell, bequem.
+   tags: [quickinfo, lowprivacy, slow, avgfees, trusted, eoueasy, avglimits]
    
  - name: Purse.io
-   desc: Buy bitcoin with a credit card or Amazon gift cards. Fee varies.
+   desc: "With Purse.io you purchase bitcoin with a credit or debit card but not directly. Purse.io connects you with a buyer who wants to make a purchase on Amazon. You use your credit card or debit card to order items from the buyer's Amazon wish list. When the items have been delivered to the buyer, you are given bitcoin equivalent to the value of the items you ordered for the buyer. Purse.io is available in the United States, Canada, Japan, Brazil, France, Italy, Spain, China, and India."
    url: http://buybitcoinww.co/purse_io
    icon: https://www.buybitcoinworldwide.com/img/buy/purse.png
    countries: us, ca, jp, br, uk, fr, it, es, cn, in
@@ -1884,35 +1940,21 @@
    desc_it: Con Purse.io è possibile acquistare Bitcoin con una carta di credito ma non direttamente.
 
  - name: Coinhouse
-   desc: Buy bitcoins with NeoSurf prepaid gift cards. High limits available. 
+   desc: Coinhouse will let you buy bitcoin with a Neosurf prepaid card. Neosurf cards can be purchased at over <a href="http://www.neosurf.com/en_GB/application/findcard">70,000</a> locations across Europe. Coinhouse charges a 17% fee for all purchases made with a Neosurf card. Coinhouse is located in Paris, France and is operated by Ledger, a Bitcoin security company. 
    url: http://buybitcoinww.co/coinhouse
    po: neosurf
    icon: https://www.buybitcoinworldwide.com/img/buy/coinhouse.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
    desc_neosurf: Coinhouse will let you buy bitcoin with a Neosurf prepaid card. Neosurf cards can be purchased at over <a href="http://www.neosurf.com/en_GB/application/findcard">70,000</a> locations across Europe. Coinhouse charges a 17% fee for all purchases made with a Neosurf card. Coinhouse is located in Paris, France and is operated by Ledger, a Bitcoin security company. 
-   
- - name: BitPanda
-   url: http://buybitcoinww.co/bitpanda_skrill
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitpanda.png 
-   po: skrill
-   desc_skrill: BitPanda is a bitcoin exchange based in Austria. Among many payment methods accepted, customers can buy bitcoins with Skrill in under 10 seconds. 
-   desc_skrill_short: Buy bitcoins with Skrill online in under 10 seconds. Available for European users. 
-   hide: yes
-   
- - name: BitPanda
-   url: http://buybitcoinww.co/bitpanda_neteller
-   icon: https://www.buybitcoinworldwide.com/img/buy/bitpanda.png 
-   po: neteller
-   desc_neteller_short: Buy bitcoins online at BitPanda with NETELLER in under 10 seconds. 
-   desc_neteller: European users can buy bitcoins with Neteller in under 10 seconds using BitPanda. BitPanda is a bitcoin exchange based in Vienna, Austria. 
-   hide: yes   
+   tags: [quickinfo, lowprivacy, fast, highfees, trusted, eouavg, highlimits]
    
  - name: Cubits
-   desc: Buy bitcoin in a number of countries via SEPA, OKPAY, SOFORT and Skrill. 
-   url: https://cubits.com/
+   desc: Cubits is a Bitcoin exchange based in the United Kingdom. It allows users in almost any country besides the United States to purchase bitcoins using a wide range of currencies and payment methods. The payment options include SEPA, OKPAY, SOFORT, Skrill, Dotpay, and Online Bank Transfer. 
+   url: http://buybitcoinww.co/Cubits_
    icon: https://www.buybitcoinworldwide.com/img/buy/cubits.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, ca
    po: sepa, okpay, swift, sofort, onlinebt, babt
+   tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eoueasy, lowlimits]
    desc_skrill: 
    desc_short_skrill: 
    es: yes
@@ -1927,15 +1969,18 @@
    desc_pt_br: Compre Bitcoins em diversos países via SEPA, OKPAY, SOFORT e Skrill.
    desc_de: Bitcoin in verschiedenen Ländern über SEPA, OKPAY, SOFORT und Skrill kaufen.
    desc_bg: Купете биткойн в голям брой страни чрез SEPA, OKPAY, SOFORT и Skrill.
+   desc_babt: Cubits accepts SWIFT transfers, and other local bank transfer methods like SOFORT and Online Bank Transfer. 
 
  - name: VirWoX
-   desc: One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a>. Buy Second Life Lindens, and trade them for bitcoin. 
+   desc: Technically, VirWoX isn't even a Bitcoin exchange. It mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can't buy Bitcoin with PayPal directly at VirWoX, but it's possible to first buy Second Life Lindens (SLL) and then trade your SLL for Bitcoin. This process works perfectly, but in the end will cost you about 10% in fees. <br><br> This workaround/hack has made VirWoX the easiest and most popular way to <a href="/en/buy-bitcoin-paypal/">buy bitcoins with PayPal</a>. 
    desc_skrill_short: One of the few ways to <a href="/en/buy-bitcoin-paypal/">buy bitcoin with PayPal</a> or Skrill. Buy Second Life Lindens, and trade them for bitcoin. 
    desc_skrill: VirWoX isn't a Bitcoin exchange, but rather used to acquire Second Life Lindens (SLL), a currency used in the virtual world Second Life. It is, however, possible to buy SLL with Skrill, and then trade the SLL for bitcoin. We don't have a step-by-step tutorial for how to go through the process with Skrill, but it's <a href="/en/buy-bitcoin-paypal/">very similar to how it's done with PayPal</a>. Simply deposit with Skrill, buy SLL, and trade the SLL for BTC. You can follow the steps shown in the PayPal article for an approximate how-to.  
    url: http://buybitcoinww.co/bitcoin_virwox
+   internal_url: /exchanges/virwox/
    icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
    countries: us, fr, pl, va, be, cz, at, pt, ch, is, dk, bg, de, ir, ro, tr, it, ru, nl, es, uk, cy, fi, gr, nor, uk, hk, jo, ph, sg, ae, il, au, cn, in, my, th, id, qa, ye, sa, tw, nz, br, cl, pa, ar, ca, mx, gb
    po: pp, cc, skrill, okpay, sell
+   tags: [quickinfo, rec, review, lowprivacy, fast, highfees, trusted, eouhard, avglimits]
    desc_sell: One of the few ways to sell bitcoins to PayPal, but will cost around 9% in fees. 
    desc_fr: Bureau de change numérique. Le moyen le plus facile d’acheter des bitcoins avec PayPal.  
    desc_de: Digitaler Währungshandelsplatz. Der einfachste Weg um Bitcoins mit PayPal zu kaufen.
@@ -1943,14 +1988,18 @@
    desc_pt_br: Câmbio de moeda digital. A maneira mais fácil de comprar bitcoins com o PayPal.
    desc_es: Intercambio de moneda digital. La forma más fácil de comprar bitcoin con PayPal. 
    desc_he: המרת מטבע דיגיטלי. הדרך הקלה ביותר לקנות ביטקוין באמצעות פייפאל.
+   desc_pl: Wymiana cyfrowej waluty. Najprostszy sposób na kupienie bitconów poprzez PayPal. 
+   pros: <li>The easiest and basically only way to purchase bitcoins with PayPal or Skrill</li>
+   cons: "<li>Comes with a price: it will cost around 10% in fees to buy with PayPal</li>"
 
  - name: Bitit
-   desc: Buy Bitcoins online with credit card or cash in 100K+ local stores across Europe.
+   desc: Bitit lets you purchase bitcoins online with a credit card or cash in 100K+ local stores across Europe.
    url: https://www.bitit.gift
    icon: https://www.buybitcoinworldwide.com/img/buy/bitit.png
    countries: fr, ca, gb, pl, de, it, es, nl, ch, be, lu, mt, il, dk, au, gr, is, ie, no, fi, za, mx, hr, at, pt, se, cy, cz, br, ar
    po: cc, neosurf
    desc_fr: Acheter des Bitcoins en ligne par carte bancaire ou en espèces dans 100k+ magasins
+   tags: [quickinfo, avgprivacy, fast, avgfees, avgrep, eouavg, lowlimits]
 
 ## - name: Trucoin
 ##   desc: Buy bitcoin instantly with a credit or debit card in over 30 US states.
@@ -1974,19 +2023,21 @@
 ##   desc_uk: Купити біткоіни кредитною карткою миттєво в більш ніж 30 штатах США.
    
  - name: CoinBTM
-   desc: New York based Bitcoin ATM provider with over 30 machines in NY and New Jersey. 
+   desc: CoinBTM is a New York based Bitcoin ATM provider with over 30 machines in NY and New Jersey. Check its website for the latest details on locations, fees, and hours. 
    url: http://coinbtm.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/coinbtm.png
    countries: us
-   po: 
 
  - name: itBit
-   desc: New York based Bitcoin exchange. Deposit with ACH transfer, SEPA, or international wire transfer.
+   desc: itBit is a global Bitcoin exchange licensed with the New York State Department of Financial Services. It also operates a global OTC trading desk, making it easy for customers to buy large amounts of bitcoins. It supports all US states besides Texas. 
    url: https://www.itbit.com/
    internal_url: /exchanges/itbit/
    icon: https://www.buybitcoinworldwide.com/img/buy/itbit.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, sg
-   po: sepa, babt
+   po: sepa
+   tags: [quickinfo, review, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
+   pros: <li>OTC trading desk is one of the best ways to buy large amounts of bitcoins</li>
+   cons: <li>Limited payment options</li> <li>User interface is hard for first time buyers </li> 
    es: yes
    name_es: itBit
    desc_es: Deposite con transferencia ACH, SEPA o transferencia bancaria internacional. 
@@ -2001,25 +2052,25 @@
    desc_zh: 纽约比特币交易所。以ACH、国家环保总局转账或国际电汇交存。
    desc_bg: Биткойн борса. Депозирайте чрез ACH превод, SEPA, или международен банков превод.
    
- - name: expresscoin
-   desc: Buy bitcoin with money orders or personal checks. Good for those without a bank account.
-   url: http://buybitcoinww.co/expresscoin_bitcoin
-   icon: https://www.buybitcoinworldwide.com/img/buy/expresscoin.png
-   countries: us
-   po: nobank, mo, pc
+## - name: expresscoin
+##   desc: Buy bitcoin with money orders or personal checks. Good for those without a bank account.
+##   url: http://buybitcoinww.co/expresscoin_bitcoin
+##   icon: https://www.buybitcoinworldwide.com/img/buy/expresscoin.png
+##   countries: us
+##   po: nobank, mo, pc
    desc_nobank: Expresscoin is a bitcoin broker geared towards those without a bank account. The company's only payment options at the moment are money order and personal check. 
-   es: yes
-   name_es: expresscoin
-   desc_es: Comprar con giros postales o cheques personales. Ideal para los que no tienen una cuenta bancaria.  
-   ar: yes
-   desc_ar:  شراء بيتكوين بالحوالات أو الشيكات الشخصية. جيد للذين لا يملكون حسابا مصرفيا. 
-   desc_fr: Acheter des bitcoins par mandats ou chèques personnels. 
-   desc_it: Acquista Bitcoin con vaglia postali o assegni. Ottimo per coloro che non hanno un conto bancario.
-   desc_pt_br: Compre Bitcoins através de ordens de pagamento ou cheque pessoal. 
-   desc_de: Bitcoin mit Geldbestellungen oder persönlichen Schecks kaufen. Gut für die ohne einen Bankkonto.
-   desc_zh: 对于那些没有银行账户的顾客，可以使用汇票或个人支票购买比特币。
-   desc_ru: Купить биткоин денежным переводом или с помощью именного чека. 
-   desc_uk: Купити біткоіни грошовим переказом або за допомогою іменного чека. 
+##   es: yes
+##   name_es: expresscoin
+##   desc_es: Comprar con giros postales o cheques personales. Ideal para los que no tienen una cuenta bancaria.  
+##   ar: yes
+##   desc_ar:  شراء بيتكوين بالحوالات أو الشيكات الشخصية. جيد للذين لا يملكون حسابا مصرفيا. 
+##   desc_fr: Acheter des bitcoins par mandats ou chèques personnels. 
+##   desc_it: Acquista Bitcoin con vaglia postali o assegni. Ottimo per coloro che non hanno un conto bancario.
+##   desc_pt_br: Compre Bitcoins através de ordens de pagamento ou cheque pessoal. 
+##   desc_de: Bitcoin mit Geldbestellungen oder persönlichen Schecks kaufen. Gut für die ohne einen Bankkonto.
+##   desc_zh: 对于那些没有银行账户的顾客，可以使用汇票或个人支票购买比特币。
+##   desc_ru: Купить биткоин денежным переводом или с помощью именного чека. 
+##   desc_uk: Купити біткоіни грошовим переказом або за допомогою іменного чека. 
 
 ## - name: Unichange.me
 ##   desc: Buy bitcoin with OKPay, Perfect Money, Litecoin, and more.  
@@ -2029,7 +2080,7 @@
 ##   po: okpay, perfectmoney
       
  - name: CryptoPay
-   desc: Bitcoin broker. Buy bitcoin with SEPA or bank transfers in the UK. 
+   desc: Bitcoin broker based in the United Kingdom. Purchase bitcoins with SEPA transfer.  
    url: https://cryptopay.me/
    icon: https://www.buybitcoinworldwide.com/img/buy/cryptopay.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch
@@ -2045,9 +2096,10 @@
    desc_bg: Биткойн брокер. Купете чрез SEPA или банков превод във Великобритания.
    desc_ru: Биткоин-брокер. Купить биткоин с помощью SEPA или банковским переводом в Великобритании.
    desc_uk: Купити біткоіни за допомогою SEPA-платежу або банківським переказом у Великобританії.
+   tags: [quickinfo, lowprivacy, avgspeed, avgfees, avgrep, eoueasy, avglimits]
    
  - name: CryptoPay
-   desc: Bitcoin broker. Buy bitcoin with SEPA or bank transfers in the UK. 
+   desc: CryptoPay is a Bitcoin broker based in the UK. Residents of the UK can purchase bitcoins in minutes using local bank transfer.  
    url: https://cryptopay.me/
    icon: https://www.buybitcoinworldwide.com/img/buy/cryptopay.png
    countries: gb 
@@ -2063,10 +2115,11 @@
    desc_de: Bitcoin Broker. Bitcoin mit SEPA und Banküberweisungen in Großbritannien kaufen.
    desc_bg: Биткойн брокер. Купете чрез SEPA или банков превод във Великобритания.
    desc_ru: Биткоин-брокер. Купить биткоин с помощью SEPA или банковским переводом в Великобритании.
-   desc_uk: Купити біткоіни за допомогою SEPA-платежу або банківським переказом у Великобританії.   
+   desc_uk: Купити біткоіни за допомогою SEPA-платежу або банківським переказом у Великобританії.     
+   tags: [quickinfo, lowprivacy, fast, avgfees, avgrep, eoueasy, avglimits]
    
  - name: Anycoin Direct
-   desc: Bitcoin broker. Buy bitcoin with SEPA, Interac Online, and many more payment methods. 
+   desc: Anycoin Direct is a Bitcoin broker based in the Netherlands. Customers can purchase bitcoin with SEPA, Interac Online, iDEAL and many more payment methods. 
    url: https://anycoindirect.eu/
    icon: https://www.buybitcoinworldwide.com/img/buy/anycoin.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, ca
@@ -2082,6 +2135,7 @@
    desc_bg: Биткойн брокер. Купете биткойн чрез SEPA, Interac Online и много други възможности за плащане.
    desc_ru: Биткоин-брокер. Купить биткоин с помощью SEPA, INTERAC Online или множеством других способов.
    desc_uk: Біткоіни-брокер. Купити біткоіни за допомогою SEPA, INTERAC Online або безліччю інших способів.
+   tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, highlimits]
 
 ## - name: SpectroCoin
 ##   desc: Bitcoin exchange, wallet and debit card. USD, EUR, GBP and other currencies supported. 
@@ -2110,7 +2164,7 @@
 ##   desc_uk: Купити біткоін швидко грошовим внеском або SEPA-платежем в ЄС. Збір - 2%.
    
  - name: Bitfinex
-   desc: Deposit funds with an international wire transfer and buy bitcoin on the exchange.
+   desc: Bitfinex has long been one of the largest USD Bitcoin exchanges. In August 2016, however, it was hacked and lost around 30% of its users funds. While Bitfinex can be helpful if buying large amounts of bitcoins, it is probably best to not use the exchange until it is able to compensate its users and figure out how it was hacked. 
    url: http://buybitcoinww.co/bitfinex_exchange
    icon: https://www.buybitcoinworldwide.com/img/buy/finex.png
    countries: at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, ie, it, lv, lt, lu, mt, nl, pl, pt, ro, sk, si, es, se, gb, us, jp, cn 
@@ -2130,9 +2184,13 @@
    desc_bg: Депозирайте средства чрез международен банков превод и купете биткойн на борсата.
    desc_ru: Пополнить счет международным банковским переводом и купить биткоины на бирже.
    desc_uk: Поповнити рахунок міжнародним банківським переказом і купити біткоіни на біржі.
+   tags: [quickinfo, lowprivacy, speedvaries, avgfees, lowtrust, eouhard, highlimits]
+   pros: <li>One of the best ways to buy large amounts of bitcoins</li>
+   cons: <li>Was recently hacked and has yet to figure out how leaving all of its users' funds at risk</li> 
+   desc_babt: Bitfinex allows customers to deposit large amounts of funds using SWIFT. 
 
  - name: Xapo
-   desc: Global Bitcoin platform. Buy bitcoin with Euros via international wire transfer.
+   desc: Xapo is a global Bitcoin platform. It allows users in nearly any country to purchase bitcoins via SWIFT transfer. 
    url: https://xapo.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/xapo.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, au, br, cl, co, mx, uy, cn, hk, tr, ar
@@ -2152,9 +2210,11 @@
    desc_bg: Международна биткойн платформа. Купете биткойн срещу евро чрез международен банков превод.
    desc_ru: Купить биткоины за ЕВРО с помощью международного банковского перевода.
    desc_uk: Купити біткоіни за ЄВРО за допомогою міжнародного банківського переказу.
+   tags: [quickinfo, lowprivacy, speedvaries, avgfees, trusted, eoueasy, highlimits]
+   desc_babt: Xapo accepts account deposits via international wire transfer. 
    
  - name: BTCe
-   desc: Bitcoin exchange supporting bank wires, SEPA, credit cards, webmoney.ru and many other options. 
+   desc: BTC-e is a Bitcoin exchange based on Bulgaria. While its owners are anonymous, it has been one of the most widely used Bitcoin exchanges throughout Bitcoin's history. It has never lost user funds like many other regulated exchanges, which makes it trustworthy in the eyes of some. But since it's not regulated, its owners could run away with customer funds at anytime. BTC-e appears to be trustworthy, but use with caution and don't leave funds on the exchange! <br><br> Users can deposit with bank transfer, SEPA, webmoney.ru, credit card, and many more options.  
    url: https://btc-e.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/btce.png
    countries: us, ru, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
@@ -2174,6 +2234,9 @@
    desc_bg: Биткойн платформа поддържаща банкови преводи, SEPA, кредитни карти, webmoney.ru.
    desc_ru: Биткоин-биржа, поддерживающая банковские переводы, SEPA, кредитные карты, Webmoney.ru.
    desc_uk: Біткоін-біржа, підтримуюча банківські перекази, SEPA, кредитні картки, Webmoney.ru.
+   tags: [quickinfo, highprivacy, speedvaries, lowfees, avgrep, eouhard, highlimits]
+   pros: <li>One of the oldest and longest running Bitcoin exchanges</li> <li>Wide range of payment options</li>
+   cons: <li>Owners are anonymous and BTC-e is not regulated</li>
  
  
 ## - name: Paxful
@@ -2185,7 +2248,7 @@
 ##   desc_paypal: Paxful helps match you with a seller who accepts PayPal for Bitcoin. It's best to make the exchange in person in order to reduce the risk of fraud. Only buy from sellers with excellent feedback and previous sales.  
    
  - name: HappyCoins
-   desc: Bitcoin broker. Buy with SEPA bank transfer, iDEAL, and other payment methods.
+   desc: HappyCoins is a Bitcoin exchange based in the Netherlands, but services customers in all of Europe. It offers a wide range of payment methods including many instant payment methods such as iDEAL, GiroPay, myBank, Sofort, and more. It also offers SEPA deposits for all EU residents. 
    url: https://www.happycoins.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/happy.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb     
@@ -2201,9 +2264,11 @@
    desc_bg: Биткойн брокер. Купете биткойн чрез SEPA банков превод, iDEAL и много други възможности за плащане.
    desc_ru: Биткоин-брокер. Купить биткоин с помощью SEPA-платежа, iDEAL и других способов оплаты.
    desc_uk: Біткоін-брокер. Купити біткоіни за допомогою SEPA-платежу, iDEAL та інших способів оплати.
+   tags: [quickinfo, lowprivacy, fast, avgfees, trusted, eoueasy, avglimits]
+   desc_babt: HappyCoins offers many bank-related instant payment methods such as iDEAL, GiroPay, myBank, Sofort, and SEPA. 
 
  - name: Mycelium Local Trader
-   desc: Buy from local traders through Mycelium Bitcoin wallet. Availability depends on location.
+   desc: Mycelium Local Trader helps you find local Bitcoin sellers. Once you locate a seller, you meet up in person and go through with the purchase. Mycelium charges absolutely no fees. While Mycelium Local Trader works great in highly populated areas, users in low population areas will have trouble finding sellers.
    url: http://buybitcoinww.co/mycelium_local_trader
    icon: https://www.buybitcoinworldwide.com/img/buy/mycelium.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
@@ -2227,9 +2292,12 @@
    desc_bg: Купете от местни търговци чрез Mycelium биткойн портфейл. 
    desc_ru: Купить у местных трейдеров через биткоин-кошелек Mycelium. 
    desc_uk: Купити у місцевих трейдерів через біткоін-гаманець Mycelium. 
+   tags: [quickinfo, highprivacy, fast, lowfees, trusted, eouavg, highlimits]
+   pros: <li>Easy and cheap way to buy bitcoins with cash</li><li>Private way to buy bitcoins, no personal information required</li>
+   cons: <li>Users in sparsely populated areas will have trouble finding sellers</li>
    
  - name: ShapeShift
-   desc: Buy bitcoin with Litecoin, Dogecoin, altcoins and other digital tokens.
+   desc: ShapeShift lets you buy bitcoin with Litecoin, Dogecoin, altcoins and other digital tokens. ShapeShift works in nearly every country but you will need another cryptocurrency in order to purchase bitcoins. Exchanges happen almost instantly because ShapeShift never actually controls your tokens but just exchanges them. 
    url: https://shapeshift.io/
    icon: https://www.buybitcoinworldwide.com/img/buy/shapeshift.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
@@ -2250,9 +2318,12 @@
    desc_bg: Купете биткойн чрез Litecoin, Dogecoin, altcoins и други дигитални валути.
    desc_ru: Купить биткоин за Litecoin, Dogecoin, altcoins и другие криптовалюты.
    desc_uk: Купити біткоіни за Litecoin, Dogecoin, altcoins та інші криптовалюти.
+   tags: [quickinfo, highprivacy, fast, avgfees, trusted, eoueasy, highlimits]
+   pros: <li>Easiest and fastest way to buy bitcoins with altcoins </li>
+   cons: <li>Need altcoins or other digital tokens to use</li>
    
  - name: bitcoin-otc
-   desc: Over-the-counter marketplace for P2P exchanging of bitcoin.
+   desc: Bitcoin-OTC is an over-the-counter marketplace for the P2P exchanging of bitcoin. It is almost like a Craigslist for Bitcoin. Users must create ads or locate other ads to find sellers of bitcoin. Bitcoin-OTC is somewhat complicated and hard to use, but may be the only option for users in some countries without an exchange.
    url: https://bitcoin-otc.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinotc.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo  
@@ -2274,6 +2345,9 @@
    desc_bg: Свободен пазар за размяна на биткойн между потребители.
    desc_ru: Платформа p2p-обмена биткоин.
    desc_uk: Платформа p2p-обміну біткоінами.
+   tags: [quickinfo, highprivacy, speedvaries, feesvary, trusted, eouhard, highlimits]
+   pros: <li>Can be a good way to find Bitcoin sellers if no other options exist</li>
+   cons: <li>Need to keep eye out for scams</li><li>Need to build trust and feedback for your account before using</li>
 
  - name: Local Bitcoins
    desc_neteller_short: Buy bitcoins with NETELLER online from other users; LocalBitcoins is used as escrow.
@@ -2290,6 +2364,16 @@
    desc_skrill: LocalBitcoins is an escrow service and will help connect you with users online who accept Skrill for bitcoin. Use caution when trading on LocalBitcoins. Check each seller's profile to verify a history of succesful trades. Trader's with negative feedback and problematic trading history should be avoided. 
    po: skrill
    hide: yes   
+
+ - name: ANXPRO
+   desc: ANXPRO is based in Hong Kong. It lets you buy bitcoins with cash, bank transfer, and credit card. 
+   url: http://anxpro.com/
+   icon: https://www.buybitcoinworldwide.com/img/buy/anxbtc.png
+   countries: hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
+   po: sepa
+   desc_es: Comprar Bitcoin con un depósito de efectivo, transferencia bancaria, SEPA y más.
+   desc_ar:  شراء بيتكوين بالإيداع النقدي، أو بحوالة مصرفية، أو SEPA، وغير ذلك من الطرق الكثيرة.
+   desc_fr: Achetez des bitcoins par dépôt d'espèces, virement bancaire, SEPA et bien plus.
    
 #####: All countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye
    

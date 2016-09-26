@@ -1,8 +1,8 @@
 ---
 layout: guidehelp
-title: "Buy Bitcoin with ACH Bank Transfer"
-seotitle: "Buy Bitcoin with ACH Bank Transfer"
-permalink: "/en/buy-bitcoin-ach-bank-transfer-united-states/"
+title: "Buy Bitcoin with ACH"
+seotitle: "5 Ways to Buy Bitcoin with ACH"
+permalink: "/buy-bitcoin-ach/"
 sitemap:
     priority: 0.7
 desc: Learn where to buy bitcoin with ACH bank transfer in the USA. Complete list of brokers & exchanges where you can buy bitcoin with ACH transfer.    
@@ -11,7 +11,9 @@ pmethod: ach
 author: jordantuwiner
 ---
 <div class="col-sm-12">
-<p>	The companies below let you <a href="/kb/how-to-buy-bitcoin/">buy bitcoin</a> via ACH bank transfer. Using ACH bank transfers will help you buy bitcoin online and in larger quantities than other methods. Buying bitcoin with ACH transfer also often comes with lower fees.</p>
+<p>	The companies below let you buy bitcoin via ACH bank transfer. Using ACH bank transfers will help you buy bitcoin online and in larger quantities than other methods. Buying bitcoin with ACH transfer also often comes with lower fees.</p>
+
+<p>ACH is a US transfer system. If you live outside the USA then <a href="/buy-bitcoin-bank-transfer-account/">use this page to find ways to buy bitcoins with a bank account or bank transfer</a>.</p>
 
 {% include country-disclosure.html %}
 </div>
@@ -19,27 +21,8 @@ author: jordantuwiner
 <div class="col-sm-12">
 	{% include country-loops.html %}
 	{% for name in site.data.buy %}
-	{% if name.po contains 'ach' %}
+	{% if name.po contains 'ach' or name.po contains 'usbt' %}
 	{% include buy-list-en.html %}
 	{% endif %}
 	{% endfor %}
-</div>
-
-<div class="col-sm-12 small-large-break">
-<h3>More Details</h3>
-</div>
-
-
-<div class="content-with-sidebar col-md-9">
-	{% include country-loops.html %}
-	{% for name in site.data.buy %}
-	{% if name.po contains 'usbt' %}
-	{% include buy-list-large.html %}
-	{% endif %}
-	{% endfor %}
-	<p>If you need bitcoin quick, see our guide: <a href="/en/buy-bitcoin-fast/">How to Buy Bitcoin Fast</a>. Or, check out more <a href="/en/payment-methods/">payment methods</a>.</p>
-	{% include share.html %}
-</div>
-<div class="sidebar-add col-md-3">
-	{% include sidebar.html %}
 </div>

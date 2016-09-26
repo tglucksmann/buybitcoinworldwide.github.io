@@ -12,11 +12,7 @@ author: jordantuwiner
 ---
 <div class="col-sm-12">
 
-	{% for post in site.data.paypal %}
-	{% if post.lang != page.lang %}
-	{% include languages.html %}
-	{% endif %}
-	{% endfor %}
+{% include languages.html %}
 
 <p>Viele Leute wollen Bitcoins mit PayPal kaufen, weil es online üblich ist so zu bezahlen. PayPal Zahlungen sind stornierbar, Bitcoin-Transaktionen jedoch nicht. Dies stellt ein Risiko dar für Händler und Börsen, die ihre Benutzer PayPal-Guthaben in Bitcoins konvertieren lassen.</p>
 

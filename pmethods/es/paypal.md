@@ -12,11 +12,7 @@ author: jordantuwiner
 ---
 <div class="col-sm-12">
 
-	{% for post in site.data.paypal %}
-	{% if post.lang != page.lang %}
-	{% include languages.html %}
-	{% endif %}
-	{% endfor %}
+{% include languages.html %}
 
 <p><img class="img-responsive halfimg-right" alt="buy bitcoin with paypal" src="/img/icons/sepa.png"> Muchas personas quieren comprar bitcoin con PayPal porque es una forma común de pagar en línea. </p>
 

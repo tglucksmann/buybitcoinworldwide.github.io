@@ -32,6 +32,7 @@ en:
   about_url: /en/about/
   change_lang: Language
   by: by
+  popular: Popular
   
 ##################### Spanish #####################
 es:   
@@ -98,7 +99,7 @@ pt:
   paymentmethods_url: /pt-br/formas-de-pagamento/
   about: Sobre
   about_url: /en/about/
-  change_lang: Language
+  change_lang: Languazhe
  
 ##################### Hebrew #####################
 he:
@@ -193,7 +194,7 @@ ru:
   paymentmethods_url: /ru/Способы-оплаты/
   about: О нас
   about_url: /en/about/
-  change_lang: Language 
+  change_lang: язык 
   
 ##################### Ukrainian #####################
 uk:
@@ -448,4 +449,31 @@ bg:
   paymentmethods_url: /bg/Начини-за-плащане/
   about: Относно
   about_url: /en/about/
-  change_lang: Език                  
+  change_lang: Език       
+
+pl:
+  buy: Kup bitcoiny
+  atms: ATM
+  exchanges: 
+  namerica:
+  samerica: 
+  asia: 
+  europe: 
+  site_title: Buy Bitcoin Worldwide
+  sitedesc: 
+  contribute: 
+  get_wallet: 
+  short_lang: 
+  language: polski
+  home_url: 
+  find_country: 
+  by_jordan:
+  disclaimer: 
+  disclaimer_url: /en/disclaimer/
+  contact: 
+  contact_url: /en/contact/
+  paymentmethods: 
+  paymentmethods_url: 
+  about: 
+  about_url: /en/about/
+  change_lang: język     
