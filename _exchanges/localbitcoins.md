@@ -6,7 +6,7 @@ exchange: localbitcoins
 desc: LocalBitcoins is a P2P Bitcoin exchange. Buyers and sellers agree on trade terms, and LocalBitcoins is used as escrow.
 thumb: localbitcoins.png
 lang: en
-seotitle: "LocalBitcoins Review: Fast, Private, and Easy"
+seotitle: "LocalBitcoins Review: Is it Safe?"
 website: localbitcoins.com
 website_url: http://buybitcoinww.co/local_bitcoins
 contribute: localbitcoins
@@ -46,7 +46,7 @@ The difference between Local Bitcoins and most exchanges is that [LocalBitcoins]
 LocalBitcoins users are free to accept any payment methods. The payment methods available to buyers will depend on what's available in your area. 
 
 ## Supported Countries
-[LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} is available in nearly every country. Liquidity will depend on the amount of buyers and sellers in your area. LocalBitcoins is not available in Germany or the state of New York. 
+[LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"} is available in nearly every country. Liquidity will depend on the amount of buyers and sellers in your area. LocalBitcoins is not available in Germany or the state of New York. LocalBitcoins [left New York](https://bitcoinmagazine.com/articles/bitquick-local-bitcoins-terminate-service-ny-due-bitlicense-compliance-costs-1439414074) due to the BitLicense. 
 
 ## Privacy
 LocalBitcoins is private and does not require I.D. verification or any personal information besides and email address to signup. While LocalBitcoins itself does not require personal details, some buyers or sellers may request identification before making a trade. 

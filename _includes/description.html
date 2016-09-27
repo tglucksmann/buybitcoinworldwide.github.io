@@ -1,5 +1,7 @@
 {% if page.lang == 'en' and page.pmethod == 'ccww' %}
 {{ name.desc_ccww }}
+{% elsif page.country and name.[page.country] %}
+{{ name.[page.country] }}
 {% elsif page.lang == 'en' and page.pmethod == 'cash' %}
 {{ name.desc_cdus }}
 {% elsif page.lang == 'en' and page.pmethod == 'ach' %}

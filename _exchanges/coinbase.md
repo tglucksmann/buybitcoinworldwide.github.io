@@ -6,7 +6,7 @@ exchange: coinbase
 thumb: coinbase.png
 lang: en
 cat: broker, popular
-seotitle: "Coinbase Review: Wallet, Exchange, & Vault Covered!"
+seotitle: "Coinbase Review: Is Coinbase Safe? (Yes)"
 website: coinbase.com
 website_url: http://buybitcoinww.co/buycoinbase
 twitter: coinbase

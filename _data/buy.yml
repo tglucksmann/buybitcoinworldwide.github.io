@@ -23,9 +23,7 @@
    desc_ccww_fr_short: Courtier bitcoin. Achetez vos bitcoins par carte de crédit en Europe. Facile, rapide, pratique.
    desc_babt: <a href="/exchanges/coinbase/">Coinbase</a> is the world's largest bitcoin broker. In the United States you can buy bitcoin with a connected bank account via ACH bank transfer. In Europe you can buy with your bank account via SEPA transfer. Purchases made with ACH take 5 days for the coins to be delivered, while SEPA purchases take less than two days. Coinbase charges a flat 1.49% fee on all transactions. Americans may add a Visa or Mastercard credit card to as a backup to unlock instant payments via bank transfer. 
    desc_babt_short: Buy bitcoins with ACH bank transfer or bank account via SEPA in Europe.
-   es: yes
    desc_es: Comprar Bitcoin con su cuenta bancaria o tarjeta de crédito. Fácil, rápido, aconsejable. 
-   ar: yes
    desc_ar:  شراء بيتكوين بحسابك المصرفي. سهلة وسريعة ومريحة. شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين Interac Online.
    desc_fr: Achetez des bitcoins avec votre compte en banque. Facile, rapide, pratique.
    desc_el: Αγοράστε bitcoin με τον τραπεζικό σας λογαριασμό. Εύκολα, γρήγορα, βολικά.
@@ -45,7 +43,7 @@
    desc: Technically, VirWoX isn't even a Bitcoin exchange. It mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can't buy Bitcoin with PayPal directly at VirWoX, but it's possible to first buy Second Life Lindens (SLL) and then trade your SLL for Bitcoin. This process works perfectly, but in the end will cost you about 10% in fees. <br><br> This workaround/hack has made VirWoX the easiest and most popular way to buy bitcoins with PayPal.  
    url: http://buybitcoinww.co/bitcoin_virwox
    icon: https://www.buybitcoinworldwide.com/img/buy/virwox.png
-   po: paypal, paypal1
+   po: paypal, paypal1, paysafecard
    desc_paypal: VirWoX stands for Virtual World Exchange, and mainly serves as a way for people to buy Second Life Lindens, a currency used in the virtual world Second Life. You can't buy Bitcoin with PayPal directly at VirWoX, but it's possible to first buy Second Life Lindens (SLL) and then trade your SLL for Bitcoin. This process works perfectly, but in the end will cost you about 7% in fees. 
    desc_fr: Bureau de change numérique. Le moyen le plus facile d’acheter des bitcoins avec PayPal.  
    desc_de: Digitaler Währungshandelsplatz. Der einfachste Weg um Bitcoins mit PayPal zu kaufen.
@@ -55,6 +53,7 @@
    desc_he: המרת מטבע דיגיטלי. הדרך הקלה ביותר לקנות ביטקוין באמצעות פייפאל.
    desc_pl: Wymiana cyfrowej waluty. Najprostszy sposób na kupienie bitconów poprzez PayPal. 
    desc_it: Lo scambio di valuta digitale. Il modo più semplice per acquistare Bitcoin con PayPal.
+   desc_paysafecard: VirWoX is well-known in Bitcoin as being one of the few ways to purchase bitcoins with PayPal. What do you is fund your VirWoX account with PayPal and purchase Second Life Lindens--a virtual currency used in the game Second Life. Then you trade the Second Life Lindens for bitcoins. <br><br> The same way bitcoins can't be purchased with PayPal directly, it's also not possible to directly purchase bitcoins with a paysafecard. The same workaround, however, that works with PayPal also works with paysafecard. You can fund your VirWoX account with paysafecard, buy Second Life Lindens, and then trade them for bitcoins. We'll show you step-by-step below how to do this. 
    internal_url: /exchanges/virwox/
    tags: [rec, review]
  
@@ -65,7 +64,6 @@
    countries: ch
    po: bt, sepa
    hide: yes
-   ar: yes
    desc_ar:  الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.
    desc_fr: Achetez avec un virement SEPA ou virement bancaire en Suisse. Rapide et pratique.
    desc_el: Αγοράστε με εμβάσματα SEPA ή τραπεζική μεταφορά στην Ελβετία. Γρήγορα και βολικά.
@@ -94,7 +92,6 @@
    desc_ccww_pl: Circle pozwala natychmiastowo kupować bitcoiny on-line za pomocą karty kredytowej lub debetowej bez dodatkowych opłat. W przypadku korzystania z karty kredytowej, należy uiścić opłatę w wysokości 3%. Circle jest obecnie dostępne tylko w Stanach Zjednoczonych. Zakup poprzez Circle jest jedynym sposobem na zakup bitcoinów kartą debetową bez opłat. Twój początkowy limit na zakupy to bitcoiny o równowartości 300 dolarów tygodniowo, chociaż ten limit może zostać podniesiony na Twoją prośbę.
    desc_babt: Circle lets US customers purchase bitcoins with a connected bank account. Initial bank verification may take 1-4 days. 
    desc_es: "Comprar Bitcoin de forma instantánea con una cuenta bancaria o tarjeta de crédito. Sin comisiones."
-   ar: yes
    desc_ar:  شراء بيتكوين عبر حساب مصرفي أو بطاقة الائتمان. بسرعة ويسر.
    desc_fr: Achetez des bitcoins avec un compte en banque ou par carte de crédit. Rapide et facile.
    desc_el: Αγοράστε bitcoin με τραπεζικό λογαριασμό ή πιστωτική κάρτα. Εύκολα και γρήγορα.
@@ -117,9 +114,7 @@
 ##   desc_ach: Celery is another Bitcoin broker and serves the U.S. and Canada. You can buy bitcoin with a connected bank account via ACH transfer. Celery charges a flat 1% fee on all transactions. Your coins will be delivered within 5 days. 
 ##   desc_achshort: Buy bitcoin with your bank account via ACH bank transfer. Easy and convenient. 
 ##   desc_usbankshort: Buy bitcoin with a connected U.S. bank account. Easy and convenient. 
-##   es: yes
 ##   desc_es: Comprar bitcoin con una cuenta conectada a un banco de EEUU o tarjeta de crédito/débito.   
-##   ar: yes
 ##   desc_ar:  شراء بيتكوين بحساب مصرفي أمريكي مربوط أو ببطاقة الائتمان / الخصم. شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين Interac Online. 
 ##   desc_fr: Achetez des bitcoins avec un compte en banque ou par carte de crédit, & Interac En Ligne.
 ##   desc_el: Αγοράστε bitcoin με συνδεδεμένο τραπεζικό λογαριασμό από τις ΗΠΑ ή χρεωστική/πιστωτική κάρτα.
@@ -139,9 +134,7 @@
 ##   countries: ca
 ##   hide: yes
 ##   po: io, bt 
-##   es: yes
 ##   desc_es: Comprar bitcoin con una cuenta conectada a un banco de EEUU o tarjeta de crédito/débito.   
-##   ar: yes
 ##   desc_ar:  شراء بيتكوين بحساب مصرفي أمريكي مربوط أو ببطاقة الائتمان / الخصم. شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين Interac Online. 
 ##   desc_fr: Achetez des bitcoins avec un compte en banque ou par carte de crédit, & Interac En Ligne.
 ##   desc_el: Αγοράστε bitcoin με συνδεδεμένο τραπεζικό λογαριασμό από τις ΗΠΑ ή χρεωστική/πιστωτική κάρτα.
@@ -299,10 +292,8 @@
    desc_achshort: Fund your Coinbase exchange account via ACH bank transfer.  
    desc_ach: Coinbase Exchange is only available in <a href="https://support.coinbase.com/customer/portal/articles/1826671-what-countries-us-states-are-supported-for-coinbase-exchange-">certrain U.S. States</a>. You can fund your account via ACH transfer.  
    desc_babt: US customers can fund their Coinbase Exchange trading accounts via ACH or bank wire. Residents of Europe and the UK can fund with SEPA transfer. 
-   es: yes
    name_es: Coinbase Exchange
    desc_es: Fondos con transferencia SEPA o transferencia bancaria ACH.
-   ar: yes
    desc_ar:  صرافة بيتكوين بالولايات المتحدة . التمويل عن طريق تحويل SEPA أو تحويل مصرفي بنظام المقاصة بين البنوك الأمريكية ACH
    desc_fr: Bourse d'échange de bitcoins basée aux États-Unis. Alimentez par virement SEPA ou ACH.
    desc_el: Ανταλλακτήριο bitcoin με έδρα στις ΗΠΑ. Χρηματοδότηση με έμβασμα SEPA ή τραπεζική μεταφορά ACH.
@@ -324,7 +315,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bitquick.png
    countries: us 
    po: fast, cdus, nobank, cash
-   tags: [quickinfo, rec, highprivacy, fast, avgfees, trusted, eouavg, avglimits]
+   internal_url: /exchanges/bitquick/
+   tags: [quickinfo, review, rec, highprivacy, fast, avgfees, trusted, eouavg, avglimits]
    desc_nobank: BitQuick provides escrow between buyers and sellers. Payments are made via cash deposit at bank locations across the U.S., and via SEPA transfer in the EU. Your coins will usually be delivered in under two hours if payment was made via cash deposit.  
    desc_fast: "BitQuick's goal is to make buying bitcoin fast and easy. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour. BitQuick can be used in the United States and Europe."
    desc_cdus: BitQuick provides escrow and connects you with sellers. You can buy bitcoin via cash deposit at a number of banks across the United States and Europe. Bitcoin purchases made with cash deposit are usually delivered within two hours, and in many cases in under an hour. 
@@ -351,9 +343,7 @@
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    po: sepa, cash, lowfees, sell
    tags: [quickinfo, rec, avgprivacy, avgspeed, highfees, trusted, eouhard, avglimits]
-   es: yes
    desc_es: Comprar bitcoin en Bitcoin.de a través de SEPA o transferencia bancaria. Comisiones varias.
-   ar: yes
    desc_ar:  شراء بيتكوين عبر الانترنت من المستخدمين الآخرين بالتحويلات المصرفية SEPA.
    desc_fr: Achetez des bitcoins à d'autres utilisateurs en ligne par virements SEPA.
    desc_el: Αγοράστε bitcoin διαδικτυακά από άλλους χρήστες με εμβάσματα SEPA.
@@ -372,7 +362,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bitx.png
    countries: id, ke, my, ng, za
    po: mpesa, bt, eft, sell
-   es: yes
    name_es: BitX
    desc_es: Intercambio de efectivo y corredores. Manera fácil de comprar Bitcoin en cinco países soportados.
    desc_fr: Bourse d'échange de bitcoins et courtier. Un moyen facile d'acheter des bitcoins dans 5 pays supportés.
@@ -402,7 +391,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bittylicious.png
    countries: gb
    po: bt, cc, babt, sell
-   ar: yes
    desc_ar:  شراء كميات صغيرة جدًا من بيتكوين عبر باركليز Pingit، أو عبر التحويل المصرفي أو ببطاقة الائتمان / الخصم.
    desc_sell: It's possible to sign up with Bittylicious and become a broker online. 
    desc_babt: UK residents can purchase bitcoins within 15 minutes via online bank transfer. 
@@ -413,7 +401,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/coinfloor.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb   
    po: sepa, swift, babt, sell
-   ar: yes
    desc_ar:  صرافة بيتكوين ووسطاؤه. الإيداع عن طريق التحويل المصرفي، أو SEPA، وغير ذلك الكثير.
    desc_fr: Bourse d'échange et courtier bitcoin. Faites des dépôts par virement bancaire, SEPA, et plus encore.
    desc_nl: Bitcoin exchange en dealer. Stort via bankoverschrijving, SEPA en meer.
@@ -434,7 +421,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bitbargain.png
    countries: gb 
    po: cash, sell
-   ar: yes
    desc_ar:  أسواق P2P لبيع بيتكوين وشرائه. طرق الدفع المتعددة المتاحة.
    desc_sell: Sell bitcoins online for cash deposit and bank transfer in the United Kingdom. 
    
@@ -444,7 +430,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/quickuk.png
    countries: gb 
    po: bt
-   ar: yes
    desc_ar:  وسيط بيتكوين. شراء بيتكوين في أقل من ساعة عن طريق التحويل المصرفي عبر الإنترنت.   
    
  - name: CryptoMate
@@ -453,7 +438,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/cryptomate.png
    countries: gb  
    po: bt         
-   ar: yes
    desc_ar:  وسيط بيتكوين. شراء بيتكوين بالتحويلات المصرفية عبر الإنترنت في المملكة المتحدة.
    
    
@@ -484,7 +468,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/paymium.png
    countries: fr
    po: bt, babt, sell    
-   ar: yes
    desc_ar:  صرافة بيتكوين. شراء بيتكوين بالتحويلات المصرفية في فرنسا. 
    desc_fr: Bourse d'échange de bitcoins. Acheter des bitcoins par virements bancaires en France.
    desc_el: Ανταλλακτήριο bitcoin. Αγοράστε bitcoin με τραπεζική μεταφορά στη Γαλλία.
@@ -512,7 +495,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bity.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, gb   
    po: sepa, sofort, bt, babt
-   ar: yes
    desc_ar:  الشراء بحوالة SEPA أو بحوالة مصرفية في سويسرا. عملية سريعة ومريحة.
    desc_fr: Inscription simple et rapide. Effectuez votre premier achat en quelques minutes.
    desc_el: Αγοράστε με εμβάσματα SEPA ή τραπεζική μεταφορά στην Ελβετία. Γρήγορα και βολικά.
@@ -533,10 +515,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/cavirtex.png
    countries: ca
    po: io, bt
-   es: yes
    name_es: Cavirtex
    desc_es: La manera más fácil de comprar Bitcoin en Canadá con un número de opciones de depósito. 
-   ar: yes
    desc_ar:  أسهل طرق شراء بيتكوين في كندا بعد د من خيارات الإيداع. تمويل الحساب بنظام Interac على الانترنت وبالعديد من خيارات الدفع الأخرى.
    desc_fr: Le moyen de plus facile d'acheter des Bitcoins au Canada, avec de nombreuses options de dépôt.
    desc_ru: Самый простой способ купить биткоин в Канаде несколькими способами вкладов.
@@ -548,10 +528,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/satoshicounter.png
    countries: ca
    po: cash
-   es: yes
    name_es: Satoshi Counter
    desc_es: Comprar en persona en Montreal u online en el resto de Canadá. Rápido, privado y conveniente.
-   ar: yes
    desc_ar:  الشراء بنفسك في مونتريال أو عبر الإنترنت في بقية نواحي كندا. بسرعة، وبخصوصية وبشكل مريح.
    desc_fr: Achetez en personne à Montréal ou en ligne dans le reste du Canada. Rapide, confidentiel et pratique.
    desc_ru: Купить биткоин лично в Монреале или онлайн в других регионах Канады. 
@@ -563,10 +541,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/quickbt.png
    countries: ca
    po: io
-   es: yes
    name_es: QuickBT
    desc_es: Comprar pequeñas cantidades de Bitcoin en minutos (hasta 0.2 BTC) con Interac Online.
-   ar: yes
    desc_ar:  شراء كميات صغيرة من بيتكوين في دقائق (حتى 0.2 بيتكوين) بنظام الدفع والسحب الإلكتروني الكندي Interac وذلك أون لاين.
    desc_fr: Achetez en quelques minutes des petites quantités de bitcoins (jusqu'à 0.2 BTC) avec Interac En Ligne.
    desc_ru: Купить небольшие суммы биткоин в считанные секунды с помощью INTERAC Online.
@@ -578,10 +554,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/quadrigacx.png
    countries: ca
    po: io
-   es: yes
    name_es: QuadrigaCX
    desc_es: Intercambio de Bitcoin. Cuenta de fondos con Interac Online y muchos otros métodos de pago.
-   ar: yes
    desc_ar:  صرافة بيتكوين . تمويل الحساب بنظام Interac على الانترنت وبالعديد من خيارات الدفع الأخرى.
    desc_fr: Bourse d'échange de bitcoins. Alimentez votre compte avec Interac® et bien d'autres moyens.
    desc_ru: Биткоин-биржа. Пополните счет с помощью INTERAC Online и другими способами оплаты.
@@ -593,10 +567,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/safello.png
    countries: se, es, pl, hu, be, nl, gb, it, ch, de, fr, at, bg, cy, hr, cz, dk, ee, fi, gr, ie, li, lt, lu, mc, mt, pt, ro, sm, sk
    po: sepa, swish, swift, bankgiro, babt
-   es: yes
    name_es: Safello
    desc_es: Comprar Bitcoin mediante SEPA, transferencia bancaria internacional, giro postal y más.
-   ar: yes
    desc_ar:  شراء بيتكوين بواسطة SEPA، سويش Swish، حوالة بنكية دولية، وBankgiro، وأكثر من ذلك.
    desc_fr: Achetez des bitcoins par SEPA, Swish, virement bancaire international, Bankgiro, et bien plus.
    desc_el: Αγοράστε bitcoin με SEPA, Swish, διεθνών εμβασμάτων, Bankgiro και άλλα.
@@ -615,10 +587,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/canadianbitcoins.png
    countries: ca
    po: io, cash, bt
-   es: yes
    name_es: Canadian Bitcoins
    desc_es: Comprar Bitcoin con efectivo en la oficnia, banca online e Interac Online.
-   ar: yes
    desc_ar:  شراء بيتكوين Interac نقدًا من خلال المكتب، ونقدًا بالبريد السريع، والخدمات المصرفية عبر الإنترنت، و Interac أون لاين.
    desc_fr: Achetez en espèces dans leurs bureaux, par courrier express, banque en ligne & Interac En Ligne.
    desc_ru: Купить биткоин за наличные в офисе, с помощью онлайн банкинга или через Interac Online.
@@ -630,10 +600,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/instabt.png
    countries: ca
    po: io
-   es: yes
    name_es: InstaBT
    desc_es: Comprar Bitcoin online en Canadá con Interac Online. Conveniente y rápido.
-   ar: yes
    desc_ar:  شراء بيتكوين عبر الانترنت في كندا باستخدام ينتراك أون لاين Interac Online. عملية مريحة وسريعة.
    desc_fr: Achetez des bitcoins en ligne au Canada avec Interac En Ligne. Pratique et rapide.
    desc_ru: Купить биткоин онлайн в Канаде с помощью INTERAC Online. Удобно и быстро.
@@ -647,10 +615,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinve.png
    po: cash, sell
    countries: ve
-   es: yes
    name_es: Bitcoin Venezuela
    desc_es: Encuentre un socio para comerciar en el grupo de Facebook de Bitcoin Venezuela.
-   ar: yes
    desc_ar:  البحث عن شريك تجاري في مجموعة (جروب) بيتكوين فنزويلا على الفيسبوك.
    desc_sell: Find a trade partner in the Bitcoin Venezuela Facebook group and sell bitcoins for cash.
    
@@ -660,10 +626,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/surbitcoin.png
    countries: ve
    po: bt, sell
-   es: yes
    name_es: SurBitcoin
    desc_es: Primer intercambio de Bitcoin en Venezuela. Comprar Bitcoin mediante transferencia bancaria.
-   ar: yes
    desc_ar:  أول صرافة بيتكوين في فنزويلا. شراء بيتكوين عن طريق التحويل المصرفي.
    desc_sell: Sell bitcoins on SurBitcoin, and then transfer the bolivars to your bank account.
 
@@ -675,10 +639,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/yaykuy.png
    countries: cl
    po: bt, sell
-   es: yes
    name_es: Yaykuy
    desc_es: Corredor de Bitcoin en Chile. Comprar mediante transferencia bancaria local.
-   ar: yes
    desc_ar:  وسيط بيتكوين. الشراء عن طريق التحويل المصرفي المحلي. الحصول على بيتكوين في غضون 24 ساعة. 
    desc_de: Broker. Kaufen über lokale Banküberweisungen. Bitcoin innerhalb von 24 Stunden erhalten.
    desc_sell: Sell bitcoins in Chile through local bank transfer. Get paid within 24 hours. 
@@ -691,7 +653,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/guaranibitcoin.png
    countries: py 
    po: bt, sell
-   es: yes
    name_es: GuaraniBitcoin
    desc_es: Primer intercambio de Bitcoin en Paraguay. Comprar Bitcoin mediante transferencia bancaria.
    desc_sell: First Bitcoin exchange in Paraguay. Sell bitcoins and get paid via national bank transfer. 
@@ -704,7 +665,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinperu.png
    countries: pe
    po: bt, sell
-   es: yes
    name_es: Bitcoin Peru
    desc_es: Corredor de Bitcoin en Perú. Comprar mediante transferencia bancaria local. 
    desc_sell: Bitcoin broker in Peru. Sell bitcoins to your bank account and get paid within 24 hours. 
@@ -715,7 +675,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/cambistabtc.png
    countries: pe 
    po: bt, sell
-   es: yes
    name_es: CambistaBitcoin
    desc_es: Corredor de Bitcoin en Perú. Comprar mediante transferencia bancaria local.    
    desc_sell: Bitcoin broker in Peru. Sell bitcoins online via bank transfer.  
@@ -728,7 +687,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/panamabtc.png
    countries: pa
    po: cash, sell
-   es: yes
    name_es: Panama Bitcoins
    desc_es: Panama Bitcoins le conecta con corredores de Bitcoin a lo largo del país.  
    desc_sell: Contact Panama Bitcoins to get connected with bitcoin brokers across the country. 
@@ -744,7 +702,6 @@
    po: bt, cc, sell
    name_he: bit2c
    desc_he: בורסת הביטקוין הגדולה בישראל! קנייה דרך העברה בנקאית או כרטיס אשראי.
-   ar: yes
    desc_ar:  أكبر صرافة بيتكوين في إسرائيل. الشراء بالتحويل المصرفي أو ببطاقة الائتمان.
    desc_ru: Купить биткоин банковским переводом или с помощью кредитной карты.
    desc_uk: Купити біткоіни банківським переказом або за допомогою кредитної картки.
@@ -759,7 +716,6 @@
    langs: en, he
    name_he: ביטס אוף גולד
    desc_he: קנה ביטקוין ישירות מBits of Gold דרך העברה בנקאית. ברוקר הביטקוין הגדול בישראל.
-   ar: yes
    desc_ar:  شراء بيتكوين مباشرة من Bits of Gold، أكبر وسيط بيتكوين في إسرائيل.
    desc_ru: Купить биткоин у Bit of Gold, крупнейшего биткоин-брокера в Израиле.
    desc_uk: Купити біткоіни у Bit of Gold, найбільшого біткоіни-брокера в Ізраїлі. 
@@ -773,7 +729,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/yellow.png
    countries: eg  
    po: cash
-   ar: yes
    desc_ar:  شراء قسائم بيتكوين في عدد من المواقع في جميع أنحاء الدولة.
    
 ##### Saudi Arabia ####################################################  
@@ -784,7 +739,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/lamassu.png
    countries: sa  
    po: cash, sell
-   ar: yes
    desc_ar:  شراء بيتكوين في Lamassu Bitcoin ATM في "جبيل"، المملكة العربية السعودية.
    desc_sell: Sell bitcoins at the Lamassu Bitcoin ATM in Jubail, Saudi Arabia. Fees range from 10-15%.  
    
@@ -796,7 +750,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/nouqood.png
    countries: tn  
    po: cash, bd, perfectmoney, sell
-   ar: yes
    desc_ar:  شراء بيتكوين عن طريق الإيداع المصرفي، باي بال Paypal، بيرفكت موني PerfectMoney، ونقدًا بشخصك.
    desc_fr: Achetez des bitcoins par dépôt bancaire, Paypal, PerfectMoney et en personne en espèces.
    desc_sell: Sell bitcoins in Tunisia via bank transfer, PayPal, cash in person, or PerfectMoney,
@@ -809,7 +762,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bitoasis.png
    countries: ae, qa, kw, bh
    po: bt, sell
-   ar: yes
    desc_ar:  شراء بيتكوين بسرعة بالدرهم الإماراتي عن طريق التحويلات المصرفية.
    desc_sell: Sell bitcoins via bank transfer in the United Arab Emirates, Qatar, Kuwait, and Bahrain.
    
@@ -821,7 +773,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bitfils.png
    countries: kw    
    po: cc, sell
-   ar: yes
    desc_ar:  شراء بيتكوين بسرعة عبر الانترنت في الكويت ببطاقة السحب الآلي.  
    desc_sell: Sell bitcoins in quickly in Kuwait, directly to your credit or debit card. 
    
@@ -829,14 +780,13 @@
 
  - name: Bitex.la
    desc: Bitcoin exchange with service in many South American countries. Deposit with cash or AstroPay.  
-   url: https://bitex.la/
+   url: https://bitex.la/exchange
    icon: https://www.buybitcoinworldwide.com/img/buy/bitexla.png
-   countries: ar, cl, bo, br, mx, es, pe, uy
+   countries: ar, cl, br, mx, es, pe, uy
    po: cash, astro, sell
    desc_astropay: Bitex.la is a Bitcoin exchange based in Buenos Aires, Argentina. Users in Brazil, Mexico, Argentina, Chile, Peru and Uruguay can fund their exchange account with AstroPay. The fee for funding with AstroPay is 2.5%, plus an additional 0.5% per trade made on the exchange. Deposits made via AstroPay will take 2-10 days to be credited to your account. After verifying your identity you can deposit up to $3,000 per month. Verifying further by providing a picture of a utility bill will let you buy up to $10,000 worth of bitcoin per month. 
    name_es: Bitex.la
    desc_es: Intercambio de Bitcoin con servicio en muchos países Sudamericanos.
-   ar: yes
    desc_ar:  صرافة بيتكوين مع الخدمة في العديد من بلدان أمريكا الجنوبية. الإيداع نقدا أو باستخدام AstroPay. 
    desc_fr:  Bourse d'échange de bitcoins dans de nombreux pays sud américains. Payez en espèces ou avec AstroPay.
    desc_pt_br: Conversão de Bitcoins em diversos países da América do Sul. Deposite em dinheiro ou através do AstroPay.
@@ -846,15 +796,13 @@
    desc_sell: Sell bitcoins in many South American countries. Get paid in cash in person or via bank deposit. 
       
  - name: Ripio
-   desc: Buy bitcoin at over 8,000 convenience stores across Argentina. Local, quick, secure. 
+   desc: Buy bitcoin at over 8,000 convenience stores across Argentina. Local, quick, secure.
    url: https://ripio.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/ripio.png
    countries: ar, br
    po: cash
-   es: yes
    name_es: Ripio
    desc_es: Comprar Bitcoin en más de 8.000 tiendas convenientes en Argentina. Local, rápido, seguro.
-   ar: yes
    desc_ar:  شراء بيتكوين في أكثر من 8000 متجر في جميع أنحاء الأرجنتين. محليًا، وسريعة وآمنة.
    desc_de: Bitcoin in über 8000 lokaler Läden in ganz Argentinien kaufen. Lokal, schnell, sicher.
 
@@ -867,10 +815,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/surbtc.png
    countries: cl 
    po: bt, sell
-   es: yes
    name_es: surBTC
    desc_es: Intercambio de Bitcoin. Deposite online mediante transferencia bancaria.
-   ar: yes
    desc_ar:  صرافة بيتكوين. الإيداع عبر الإنترنت من خلال التحويل المصرفي. تختلف الرسوم.
    desc_de: Bitcoin Börse. Geld online über Banküberweisungen einzahlen. Gebühr variiert.
    desc_sell: Sell bitcoins in Chile via online bank transfer. Fees vary. 
@@ -927,10 +873,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bitso.png
    countries: mx
    po: spei
-   es: yes
    name_es: Bitso
    desc_es: Intercambio de Bitcoin mexicano. Deposite localmente o con transferencia bancaria o SPEI.
-   ar: yes
    desc_ar:  صرافة بيتكوين المكسيكي. الإيداع محليا أو التحويل المصرفي أو SPEI.
 
  - name: Volabit
@@ -939,10 +883,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/volabit.png
    countries: mx
    po: cash, banamex, oxxo, bt
-   es: yes
    name_es: Volabit
    desc_es: Comprar Bitcoin en México con efectivo en 7-Eleven, Banamex, OXXO  o con una transferencia bancaria.
-   ar: yes
    desc_ar:  شراء بيتكوين في المكسيك نقدًا في 7-Eleven ، Banamex, OXXO، أو بالتحويل المصرفي.
    
  - name: meXBT
@@ -953,16 +895,15 @@
    po: bt, cash
    name_es: meXBT
    desc_es: Deposite con transferencia bancaria o localmente en más de 130.000 tiendas.
-   ar: yes
    desc_ar:  صرافة بيتكوين المكسيكي. الإيداع عن طريق التحويل المصرفي أو محليا في أكثر من 130،000 متجرًا.
    
 ##### Brazil ####################################################      
 
  - name: SatoshiTango
    desc: Bitcoin platform. Supports a growing number of countries in South America and Europe. 
-   url: https://www.satoshitango.com/
+   url: https://satoshitango.com/refintl-en-POSWMMS7
    icon: https://www.buybitcoinworldwide.com/img/buy/satoshitango.png
-   countries: br, tr, cl, co, pe, uy, ar
+   countries: br, tr, cl, co, pe, uy, ar, co, cr, ec, sv, gt, hn, ni, pa
    po: cash, bt
    desc_es: Plataforma de Bitcoin. Soporta un número creciente de países en Sudamérica y Europa.
    desc_ar:  منصة بيتكوين. تدعم عددًا متزايدًا من بلدان أمريكا الجنوبية وأوروبا.
@@ -980,10 +921,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/mercado.png
    countries: br
    po: bt
-   es: yes
    name_es: Mercado Bitcoin
    desc_es: Intercambio de Bitcoin. Comprar Bitcoin online en Brasil con transferencias bancarias.
-   ar: yes
    desc_ar:  صرافة بيتكوين. شراء بيتكوين عبر الانترنت في البرازيل بالتحويلات المصرفية. تختلف الرسوم.
    desc_fr: Bourse d'échange de bitcoins. Achetez des bitcoins en ligne au Brésil par virements bancaires. 
    desc_pt_br: Conversão de Bitcoins. Compre Bitcoins no Brasil através de transferência bancária. Taxas variáveis.  
@@ -997,10 +936,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/foxbit.png
    countries: br
    po: bt
-   es: yes
    name_es: FOXBIT
    desc_es: Intercambio de Bitcoin. Comprar Bitcoin online en Brasil con transferencias bancarias.
-   ar: yes
    desc_ar:  صرافة بيتكوين. شراء بيتكوين عبر الانترنت في البرازيل بالتحويلات المصرفية والودائع بلا رسوم.
    desc_fr: Bourse d'échange de bitcoins. Achetez des bitcoins en ligne au Brésil par virements bancaires.
    desc_pt_br: Conversão de Bitcoins. Compre Bitcoins online no Brasil por transferência bancária.
@@ -1014,10 +951,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bitinvest.png
    countries: br  
    po: bt
-   es: yes
    name_es: bitinvest
    desc_es: Intercambio de Bitcoin. Comprar Bitcoin online en Brasil con transferencias bancarias.
-   ar: yes
    desc_ar:  صرافة بيتكوين. شراء بيتكوين عبر الانترنت في البرازيل بالتحويلات المصرفية. رسوم 0.3٪.
    desc_fr: Bourse d'échange de bitcoins. Achetez des bitcoins en ligne au Brésil par virements bancaires.
    desc_pt_br: Conversão de Bitcoins. Compre Bitcoins online no Brasil por transferência bancária. Taxa de 0,3%.
@@ -1031,10 +966,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/flowbitcoin.png
    countries: br
    po: bt
-   es: yes
    name_es: FlowBTC
    desc_es: Intercambio de Bitcoin. Comprar Bitcoin online en Brasil con transferencias bancarias.
-   ar: yes
    desc_ar:  صرافة بيتكوين. الإيداع عبر الإنترنت من خلال التحويل المصرفي. تختلف الرسوم.
    desc_fr: Bourse d'échange de bitcoins. Faites des dépôts en ligne par virement bancaire. Commission variable.
    desc_pt_br: Conversão de Bitcoins. Depósito online por transferência bancária. Taxas variáveis.
@@ -1048,10 +981,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bitcointoyou.png
    countries: br
    po: bt
-   es: yes
    name_es: Bitcoin To You
    desc_es: Intercambio de Bitcoin. Comprar Bitcoin online en Brasil con transferencias bancarias.
-   ar: yes
    desc_ar:  صرافة بيتكوين. الإيداع عبر الإنترنت من خلال التحويل المصرفي. تختلف الرسوم.
    desc_fr: Bourse d'échange de bitcoins. Faites des dépôts en ligne par virement bancaire. Commission variable.
    desc_pt_br: Conversão de Bitcoins. Depósito online por transferência bancária. Taxas variáveis.
@@ -1067,7 +998,6 @@
    po: bt
    name_es: BitCambio
    desc_es: Corredor de Bitcoin. Comprar Bitcoin online en Brasil con transferencias bancarias.
-   ar: yes
    desc_ar:  صرافة بيتكوين. الإيداع عبر الإنترنت من خلال التحويل المصرفي. تختلف الرسوم.
    desc_fr: Bourse d'échange de bitcoins. Faites des dépôts en ligne par virement bancaire. Commission variable.
    desc_pt_br: Conversão de Bitcoins. Depósito online por transferência bancária. Taxas variáveis.
@@ -1081,10 +1011,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/basebit.png
    countries: br
    po: bt, cash
-   es: yes
    name_es: Basebit
    desc_es: Comprar bitcoin a través de depósito en efectivo o con transferencias bancarias. 
-   ar: yes
    desc_ar:  صرافة بيتكوين. الإيداع عبر الإنترنت من خلال التحويل المصرفي أو بالإيداع النقدي.
    desc_fr: Bourse d'échange de bitcoins. Faites des dépôts en ligne en espèces ou par virement bancaire.
    desc_pt_br: Conversão de Bitcoins. Depósito online por transferência bancária ou pagamento em dinheiro.
@@ -1341,7 +1269,6 @@
    url: http://btcmb.pt/
    icon: https://www.buybitcoinworldwide.com/img/buy/mb.png
    countries: pt 
-   es: yes
    name_es: BTCmb
    desc_es: Comprar bitcoin a través de depósito en efectivo o con transferencias bancarias.
    desc_pt_br: Casa de câmbio de moeda virtual Bitcoin. Compre por transferência bancária ou depósito em dinheiro. 
@@ -1678,7 +1605,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bitpesa.png
    countries: ke 
    po: mpesa
-   es: yes
    name_es: BitPesa
    desc_es: BitPesa es una compañía de envíos de Bitcoin pero también vende Bitcoin en Kenia.
    desc_fr: BitPesa est une société de transfert de Bitcoins qui vend également des Bitcoins au Kenya.
@@ -1700,10 +1626,8 @@
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
    po: sepa, lowfees, babt, sell
    tags: [quickinfo, lowprivacy, slow, avgfees, trusted, eouhard, highlimits]
-   es: yes
    name_es: Bitstamp
    desc_es: Comprar bitcoin en Bitstamp a través de SEPA o transferencia bancaria. Comisiones varias.
-   ar: yes
    desc_ar:  شراء بيتكوين على Bitstamp عبر SEPA أو حوالة مصرفية. تختلف الرسوم.
    desc_fr: Achetez des bitcoins sur Bitstamp avec un virement bancaire ou SEPA. Commission variable.
    desc_el: Αγοράστε bitcoin στο Bitstamp μέσω SEPA ή εμβάσματος. Κυμαινόμενο τέλος.
@@ -1727,10 +1651,8 @@
    tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
    pros: <li>High liquidity for large volume buyers in European markets</li>
    cons: <li>User-interface makes it difficult for first time buyers</li>
-   es: yes
    name_es: Kraken
    desc_es: El intercambio de Bitcoin soporta depósitos SEPA, transferencias bancarias, y SWIFT.
-   ar: yes
    desc_ar:  صرافة بيتكوين التي تدعم ودائع SEPA والتحويلات البنكية، والحوالات البنكية السريعة SWIFT، والإيداع المصرفي بالين الياباني JPY.
    desc_fr: Bourse d'échange de bitcoins acceptant dépôts SEPA, virements bancaires, SWIFT et dépôts bancaires JPY.
    desc_nl: Bitcoin exchange die SEPA storting, bankoverschrijvingen, SWIFT. 
@@ -1758,10 +1680,8 @@
    desc_nobank: <a href="/exchanges/wall-of-coins/">Wall of Coins</a> is a peer-to-peer Bitcoin exchange that offers a number of payment methods. Cash deposit, however, is the exchange's most common payment method. There are over 100,000 deposit locations available across the United States. Wall of Coins also supports Canada, Germany, Poland, Argentina, Latvia, Poland, and the Philippines. After a cash deposit is made you'll usually receive your bitcoins within 15 minutes. 
    desc_cdus: <a href="/exchanges/wall-of-coins/">Wall of Coins</a> is a peer-to-peer Bitcoin exchange that offers a number of payment methods. Cash deposit, however, is the exchange's most common payment method. There are over 100,000 deposit locations available across the United States. Wall of Coins also supports Canada, Germany, Poland, Argentina, Latvia, Poland, and the Philippines. After a cash deposit is made you'll usually receive your bitcoins within 15 minutes. 
    desc_cdus_short: Wall of Coins makes it easy and fast to buy bitcoins with cash. <a href="/exchanges/wall-of-coins/">Wall of Coins review</a>.
-   es: yes
    name_es: Wall of Coins
    desc_es: Comprar bitcoin a través de depósito en efectivo en numerosos bancos.
-   ar: yes
    desc_ar:  شراء بيتكوين عن طريق الإيداع النقدي في عدد من البنوك الأمريكية على الصعيد الوطني.
    desc_fr: Achetez des bitcoins par dépôt d’espèces dans un grand nombre de banques.
    desc_pt_br: Compre Bitcoins por depósito em dinheiro em um dos vários bancos espalhados. 
@@ -1789,7 +1709,6 @@
    desc_ccww: Changetip lets you buy up to $40 worth of bitcoin with a Visa or Mastercard credit/debit card. You'll need to connect a Facebook, Twitter, Reddit or GitHub account. It may take up to 24 hours to get your bitcoin with your first purchase. U.S. residents only. 
    name_es: Changetip
    desc_es: Comprar pequeñas cantidades de Bitcoin con una tarjeta de débito/crédito Visa o Mastercard.
-   ar: yes
    desc_ar:  شراء كميات صغيرة من بيتكوين ببطاقة الخصم / الائتمان الفيزا أو الماستر كارد.
    desc_fr: Achetez de petites quantités de bitcoins avec une carte de crédit/débit Visa ou Mastercard.  
    desc_el: Αγοράστε μικρό αριθμό bitcoin με χρεωστική/πιστωτική κάρτα Visa ή Mastercard.
@@ -1822,10 +1741,8 @@
    desc_ccww_de: CEX.io ermöglicht Ihnen Bitcoin mit einer Kredit- oder Debitkarte zu kaufen und Ihre Bitcoin werden sofort verfügbar sein. CEX.io arbeitet in den Vereinigten Staaten, Europa und in einigen Ländern der Südamerika.
    desc_ccww_pl: CEX.io pozwoli Ci kupić bitcoiny za pomocą karty kredytowej lub debetowej i będą one dostępne natychmiastowo. CEX.io działa w Stanach Zjednoczonych. Europie i niektórych krajach Południowej Ameryki. 
    desc_astropay: CEX.IO is a bitcoin exchange and broker based in London. Users in Brazil, Mexico, Argentina, Chile, Peru, Uruguay, China and Turkey can buy bitcoin with AstroPay at CEX.IO. A flat 2.5% fee is charged on all purchases, and users can buy up to $2,000 worth of bitcoins per day and up to $4,000 worth of bitcoins per month. 
-   es: yes
    name_es: CEX.io
    desc_es: Comprar Bitcoin a través de tarjeta de crédito, transferencia bancaria SEPA/ACH, o efectivo.
-   ar: yes
    desc_ar:  شراء بيتكوين عبر بطاقة الائتمان SEPA أو التحويل المصرفي ACH أو نقدًا، أو AstroPay.
    desc_fr: Achetez des bitcoins par carte de crédit, virement bancaire SEPA/ACH, espèces ou AstroPay.
    desc_el: Αγοράστε bitcoin με πιστωτική κάρτα, τραπεζική μεταφορά SEPA/ACH, μετρητά ή μέσω AstroPay.
@@ -1853,10 +1770,8 @@
    desc_cdus: LibertyX lets you buy bitcoin with cash at a number of retail stores across the United States. You'll have to verify your identity before buying, making LibertyX less private than some of the other options. You can buy up to $1000 worth of bitcoin and will be charged a 1% fee on all purchases. If you sign up with Facebook you can buy your first $1000 fee free. Your bitcoin should arrive a few minutes after your payment is made. 
    desc_cdus_short: Purchase bitcoins with cash at over 15,000 retail locations across the United States.
    desc_fast: LibertyX lets you buy bitcoin with cash at a number of stores across the United States. Bitcoin is usually delivered within an hour of payment, and sometimes within 15 minutes.
-   es: yes
    name_es: LibertyX
    desc_es: Comprar bitcoin con dinero en efectivo en numerosas tiendas minoristas en los EE.UU.
-   ar: yes
    desc_ar:  شراء بيتكوين نقدًا من عدد من متاجر البيع بالتجزئة المنتشرة في جميع أنحاء الولايات المتحدة.
    desc_fr: Achetez des bitcoins en espèces chez un grand nombre de commerçants aux États-Unis.
    desc_it: Acquista Bitcoin in contanti presso numerosi negozi al dettaglio presenti negli Stati Uniti d’America.
@@ -1876,7 +1791,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/ccoiner.png
    countries: gb, be, dk, fi, lu, nl, pl, sk, es, au, bg, cy, ee, fr, gr, hu, it, mt, nz, pt, si, se, at, ca, cz, de, ie, mc, nor, sm, ch, za
    po: bt, sepa, cc, babt, ccww, neteller
-   ar: yes
    desc_ar:  الشراء باستخدام التحويل المصرفي GBP أو بواسطة بطاقة الائتمان / الخصم.
    tags: [quickinfo, lowprivacy, avgspeed, avgfees, trusted, eoueasy, avglimits]
    desc_neteller: CoinCorner recently added support for NETELLER. It lets you use CoinCorner and fund your account without giving up your credit card details or extra personal information. 
@@ -1925,10 +1839,8 @@
 ##   desc_ccww_ru: При помощи Purse.io вы можете купить биткоины кредитной картой, но не напрямую. Purse.io связывает вас с покупателем, который хочет совершить покупку на Amazon. Вы используете свою кредитную или дебетовую карту, чтобы оплатить товары из желамого списка покупателя. Когда товар будет доставлен покупателю, вы получите эквивалент стоимости заказанного товара в биткоинах. Purse.io доступен в США, Канаде, Японии, Бразилии, Франции, Италии, Испании, Китае и Индии.
 ##   desc_ccww_es: Con Purse.io puede comprar bitcoin con una tarjeta de crédito pero no de manera directa. Purse.io se conecta con un comprador que quiere realizar una compra en Amazon. Su tu tarjeta de crédito o débito será utilizada para ordenar los artículos de la lista de deseos del comprador en Amazon. Cuando los artículos hayan sido entregados al comprador, le será entregado el equivalente en bitcoin del valor de la compra de los artículos que ordenó. Purse.io está disponible en los Estados Unidos, Canadá, Japón, Brasil, Francia, Italia, España, India y China.
 ##   desc_ccww_de: Mit Purse.io kaufen Sie Bitcoin mit einer Kreditkarte, aber nicht direkt. Purse.io verbindet Sie mit einem Käufer, der einen Kauf auf Amazon machen will. Verwenden Sie Ihre Kreditkarte oder Debitkarte, um Artikeln aus der Amazon Wunschzettel des Kunden zu bestellen. Wenn die Einzelteile an den Käufer geliefert wurden, werden Sie Bitcoin entsprechend des Artikelwerts, die Sie für den Käufer bestellt haben, erhalten. Purse.io ist in den Vereinigten Staaten, Kanada, Japan, Brasilien, Frankreich, Italien, Spanien, China und Indien verfügbar.
-   es: yes
    name_es: Purse.io
    desc_es: Comprar Bitcoin con una tarjeta de crédito o tarjetas regalo de Amazon. 
-   ar: yes
    desc_ar:  شراء بيتكوين باستخدام بطاقة ائتمان أو بطاقات هدايا موقع أمازون. تختلف الرسوم.
    desc_fr: Achetez instantanément des bitcoins par carte de crédit dans plus de 30 états des États-Unis.
    desc_pt_br: Compre Bitcoins usando seu cartão de crédito ou cupom do Amazon. Taxas variáveis.
@@ -1957,10 +1869,8 @@
    tags: [quickinfo, lowprivacy, fast, lowfees, trusted, eoueasy, lowlimits]
    desc_skrill: 
    desc_short_skrill: 
-   es: yes
    name_es: Cubits
    desc_es: Comprar Bitcoin en un número de países mediante SEPA, OKPAY, SOFORT y Skrill.
-   ar: yes
    desc_ar:  شراء بيتكوين في عدد من البلدان عبر SEPA وOKPAY وSOFORT وسكريل Skrill.
    desc_fr: Achetez des bitcoins dans un grand nombre de pays par SEPA, OKPAY, SOFORT et Skrill.
    desc_nl: Koop bitcoin in diverse landen via SEPA, OKPAY, SOFORT en Skrill.
@@ -2010,10 +1920,8 @@
 ##   desc_fast: Trucoin lets you buy bitcoin with a Visa or Mastercard CC in 30 U.S. states. Your bitcoin will be delivered instantly. Available in Alabama, Arizona, Arkansas, American Samoa, Connecticut, Washington D.C., Florida, Georgia, Idaho, Kansas, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Mississippi, Montana, Nebraska, New Jersey, New Mexico, North Dakota, Oregon, Rhode Island, South Carolina, South Dakota, Texas, Wake Island, West Virginia, and Wyoming.
 ##   desc_ccus: Trucoin lets you buy bitcoin with a Visa or Mastercard credit card in 30 U.S. states. Your bitcoin will be delivered instantly. Available in Alabama, Arizona, Arkansas, American Samoa, Connecticut, Washington D.C., Florida, Georgia, Idaho, Kansas, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Mississippi, Montana, Nebraska, New Jersey, New Mexico, North Dakota, Oregon, Rhode Island, South Carolina, South Dakota, Texas, Wake Island, West Virginia, and Wyoming.
 ##   desc_ccww: Trucoin lets you buy bitcoin with a Visa or Mastercard credit card in 30 U.S. states. Your bitcoin will be delivered instantly. Available in Alabama, Arizona, Arkansas, American Samoa, Connecticut, Washington D.C., Florida, Georgia, Idaho, Kansas, Kentucky, Maine, Massachusetts, Michigan, Minnesota, Mississippi, Montana, Nebraska, New Jersey, New Mexico, North Dakota, Oregon, Rhode Island, South Carolina, South Dakota, Texas, Wake Island, West Virginia, and Wyoming.
-##   es: yes
 ##   name_es: Trucoin
 ##   desc_es: Comprar Bitcoin con una tarjeta de crédito de forma instantánea en más de 30 estados de los EEUU.
-##   ar: yes
 ##   desc_ar:  شراء بيتكوين ببطاقة الائتمان على الفور في أكثر من 30 ولاية أمريكية.
 ##   desc_fr: Achetez instantanément des bitcoins par carte de crédit dans plus de 30 états des États-Unis.
 ##   desc_pt_br: Compre Bitcoins usando seu cartão de crédito em mais de 30 estados norte-americanos.
@@ -2038,10 +1946,8 @@
    tags: [quickinfo, review, lowprivacy, avgspeed, lowfees, trusted, eouhard, highlimits]
    pros: <li>OTC trading desk is one of the best ways to buy large amounts of bitcoins</li>
    cons: <li>Limited payment options</li> <li>User interface is hard for first time buyers </li> 
-   es: yes
    name_es: itBit
    desc_es: Deposite con transferencia ACH, SEPA o transferencia bancaria internacional. 
-   ar: yes
    desc_ar:  صرافة بيتكوين الموجدود بنيويورك . الإيداع بتحويل ACH، أو SEPA، أو التحويل البنكي الدولي.
    desc_fr: Faites des dépôts par virement ACH, SEPA ou international.
    desc_el: Ανταλλακτήριο Βitcoin με έδρα τη Νέα Υόρκη. Κατάθεση με μεταφορά ACH, SEPA ή διεθνές τραπεζικό έμβασμα.
@@ -2059,10 +1965,8 @@
 ##   countries: us
 ##   po: nobank, mo, pc
    desc_nobank: Expresscoin is a bitcoin broker geared towards those without a bank account. The company's only payment options at the moment are money order and personal check. 
-##   es: yes
 ##   name_es: expresscoin
 ##   desc_es: Comprar con giros postales o cheques personales. Ideal para los que no tienen una cuenta bancaria.  
-##   ar: yes
 ##   desc_ar:  شراء بيتكوين بالحوالات أو الشيكات الشخصية. جيد للذين لا يملكون حسابا مصرفيا. 
 ##   desc_fr: Acheter des bitcoins par mandats ou chèques personnels. 
 ##   desc_it: Acquista Bitcoin con vaglia postali o assegni. Ottimo per coloro che non hanno un conto bancario.
@@ -2085,7 +1989,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/cryptopay.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch
    po: sepa
-   ar: yes
    desc_ar:  وسيط بيتكوين. شراء بيتكوين بحوالة SEPA أو بحوالة بنكية في المملكة المتحدة.
    desc_fr: Courtier bitcoin. Achetez des bitcoins avec des virements SEPA ou bancaires dans le Royaume-Uni.
    desc_el: Μεσίτης bitcoin. Αγοράστε bitcoin με SEPA ή τραπεζική μεταφορά στο ΗΒ.
@@ -2105,7 +2008,6 @@
    countries: gb 
    hide: yes
    po: bt
-   ar: yes
    desc_ar:  وسيط بيتكوين. شراء بيتكوين بحوالة SEPA أو بحوالة بنكية في المملكة المتحدة.
    desc_fr: Courtier bitcoin. Achetez des bitcoins avec des virements SEPA ou bancaires dans le Royaume-Uni.
    desc_el: Μεσίτης bitcoin. Αγοράστε bitcoin με SEPA ή τραπεζική μεταφορά στο ΗΒ.
@@ -2124,7 +2026,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/anycoin.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, ca
    po: sepa, io, sofort, trustpay, giro, ideal
-   ar: yes
    desc_ar:  وسيط بيتكوين . شراء بيتكوين بـSEPA وInterac Online والعديد من وسائل الدفع الأخرى.
    desc_fr: "Achetez avec virements SEPA, Interac En Ligne et beaucoup d'autres options de paiement."
    desc_nl: Bitcoin dealer. Koop bitcoin met SEPA, Interac Online en vele andere betaalmethodes.
@@ -2169,10 +2070,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/finex.png
    countries: at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, ie, it, lv, lt, lu, mt, nl, pl, pt, ro, sk, si, es, se, gb, us, jp, cn 
    po: lowfees, swift, babt
-   es: yes
    name_es: Bitfinex
    desc_es: Deposite fondos con una transferencia bancaria internacional y compre bitcoin en la bolsa.
-   ar: yes
    desc_ar:  إيداع الأموال بحوالة مصرفية دولية وشراء بيتكوين في الصرافة.
    desc_fr: Déposez des fonds avec un virement bancaire et achetez des bitcoins sur la bourse d'échange.
    desc_el: Καταθέστε χρήματα με διεθνές τραπεζικό έμβασμα και αγοράστε bitcoin στο ανταλλακτήριο.
@@ -2195,10 +2094,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/xapo.png
    countries: us, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb, jp, au, br, cl, co, mx, uy, cn, hk, tr, ar
    po: swift, babt
-   es: yes
    name_es: Xapo
    desc_es: Plataforma global de Bitcoin. Comprar Bitcoin con euros mediante transferencia bancaria internacional.
-   ar: yes
    desc_ar:  منصة بيتكوين العالمية. شراء بيتكوين مع يورو عن طريق التحويل البنكي الدولي.
    desc_fr: Plateforme Bitcoin internationale. Achetez des bitcoins en Euro par virement international.
    desc_el: Παγκόσμια πλατφόρμα Βitcoin. Αγοράστε bitcoin με ευρώ μέσω διεθνούς τραπεζικού εμβάσματος.
@@ -2219,10 +2116,8 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/btce.png
    countries: us, ru, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
    po: sepa, lowfees, cc, wmru
-   es: yes
    name_es: BTCe
    desc_es: El intercambio de Bitcoins soporta transferencias bancarias, SEPA, y muchas otras opciones.
-   ar: yes
    desc_ar:  صرافة بيتكوين الداعم للتحويلات المصرفية، وSEPA، وبطاقات الائتمان، و webmoney.ru والعديد من الخيارات الأخرى.
    desc_fr: Bourse d'échange de bitcoins acceptant virements bancaires, SEPA, cartes de crédits, et bien d'autres.
    desc_el: Ανταλλακτήριο bitcoin που υποστηρίζει τραπεζικά εμβάσματα, SEPA, πιστωτικές κάρτες, webmoney.ru. 
@@ -2253,7 +2148,6 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/happy.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb     
    po: sepa, ideal, sofort, io, babt
-   ar: yes
    desc_ar:  وسيط بيتكوين. الشراء بتحويل بنكي SEPA، و iDEAL، وغيرها من طرق الدفع الأخرى.
    desc_fr: Courtier bitcoin. Achetez avec virements SEPA, iDEAL, et autres moyens de paiement.
    desc_nl: Bitcoin dealer. Koop met SEPA bankoverschrijving, iDEAL en andere betalingsmethodes. 
@@ -2301,12 +2195,10 @@
    url: https://shapeshift.io/
    icon: https://www.buybitcoinworldwide.com/img/buy/shapeshift.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo
-   es: yes
    name_es: ShapeShift
    desc_es: Comprar Bitcoin con Litecoin, Dogecoin, Altcoins y otras monedas digitales.
    name_he: ShapeShift
    desc_he: קנייה של ביטקוין עם לייטקוין, דוגקוין או כל סוג מטבע אחר.
-   ar: yes
    desc_ar:  شراء بيتكوين بـ Litecoin وDogecoin وكذلك ببطاقات الشراء الرقمية الأخرى.
    desc_fr: Achetez des bitcoins avec Litecoin, Dogecoin, altcoins et autres jetons numériques.
    desc_nl: Koop bitcoin met Litecoin, Dogecoin, altcoins en andere digitale betaalmiddelen.
@@ -2328,12 +2220,10 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bitcoinotc.png
    countries: ag, bs, bb, ca, cu, dm, do, gd, ht, jm, mx, kn, lc, vc, tt, us, al, ad, am, at, az, by, be, bg, hr, cy, cz, dk, ee, fi, fr, ge, de, gr, hu, is, ie, it, kz, lv, li, lt, lu, mk, mt, md, mc, me, nl, nor, pl, pt, ro, ru, sm, rs, sk, si, es, se, ch, tr, ua, gb, va, ar, bo, br, cl, co, ec, gy, py, pe, sr, uy, ve, bz, cr, sv, gt, hn, ni, pa, bh, eg, ir, iq, il, jo, kw, lb, om, qa, sa, sy, ae, af, bd, bt, bn, kh, cn, hk, in, id, jp, kg, la, my, mv, mn, mm, np, kp, pk, ph, sg, kr, lk, tw, tj, th, tl, tm, uz, vn, au, fj, ki, ws, pg, nz, sb, vu, to, fm, pw, mh, tv, nr, ng, ke, za, dz, ao, bj, bw, bf, bi, cv, cm, td, km, ci, dj, gq, er, et, ga, gm, gh, gn, gw, ls, lr, ly, mg, mw, ml, mr, ma, mz, na, ne, rw, sn, sc, sl, so, ss, sd, sz, tz, tg, tn, ug, zm, zw, cf, cg, cd, st, pr, ps, ye, mo  
    desc_paypal: It may be possible to buy bitcoin with PayPal using bitcoin-otc. However, this depends on the  order book and if someone is currently willing to sell their Bitcoin for PayPal. It may not be possible to use bitcoin-otc in some countries, and the amount of sellers who accept PayPal is very small. 
-   es: yes
    name_es: bitcoin-otc
    desc_es: Mercado OTC para intercambio P2P de Bitcoin. Comisiones varias. 
    name_he: bitcoin-otc
    desc_he: קנייה של ביטקוין דרך האינטרנט. בורסת ה-P2P עם אופציות תשלום שונות.
-   ar: yes
    desc_ar:  أسواق البيع المباشر لصرافة بيتكوين P2P.
    desc_fr: Place libre pour l'échange de bitcoins par P2P. Disponibilité suivant emplacement. 
    desc_nl: Over-de-toonbank marktplaats voor P2P uitwisseling van bitcoin. 
