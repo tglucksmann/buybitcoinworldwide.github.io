@@ -68,7 +68,7 @@ No customer funds were lost in the hack.
 
 ## Fees
 
-Buyers will be 2% for cash deposit purchases. This is somewhat high for cash purchases of bitcoin, but the speed and reliability of BitQuick makes this fee worth paying for some. 
+Buyers fees are 2% for cash deposit purchases. This is somewhat high for cash purchases of bitcoin, but the speed and reliability of BitQuick makes this fee worth paying for some. 
 
 If you plan on selling bitcoins, BitQuick is a great platform. You can often sell your coins for higher than market rate, and on top of that BitQuick does not charge sellers any fees. 
 
