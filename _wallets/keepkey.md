@@ -3,7 +3,7 @@ layout: wallet
 lang: en
 author: jordantuwiner
 permalink: "/wallets/keepkey/"
-seotitle: "KeepKey Review: Super Secure Bitcoin Hardware Wallet"
+seotitle: "KeepKey Review: Should You Get One?"
 title: "KeepKey"
 desc: KeepKey was released in September 2015 and is the second hardware Bitcoin wallet to offer a screen. 
 wallet: keepkey
