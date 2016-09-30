@@ -35,7 +35,7 @@ pic: keepkey.png
 
 ## Price 
 
-Costs $239 and can be [purchased on Amazon](http://buybitcoinww.co/KeepKey){:rel="nofollow"}. High price tag is due to its digital screen, metal body, and high level of security.  
+Costs $99 and can be [purchased on Amazon](http://buybitcoinww.co/KeepKey){:rel="nofollow"}. High price tag is due to its digital screen, metal body, and high level of security.  
 
 * Table of Contents
 {:toc}
