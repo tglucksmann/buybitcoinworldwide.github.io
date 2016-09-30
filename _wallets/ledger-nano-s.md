@@ -64,7 +64,7 @@ The second reason a screen on the Nano S or any hardware wallet is important is 
 
 Like the TREZOR, the S also has two physical buttons which add to its security. In order to confirm payment you need to physical press both buttons at the same time. This makes it so no hacker could hack into your device and confirm a payment. 
 
-![ledger nano s review](/img/nanos/recovery.png){: .img-responsive .kb-helper}
+![ledger nano s review](/img/nanos/buttons.png){: .img-responsive .kb-helper}
 
 <div class="caption-kb">A close up view of the Nano S's buttons.</div>
 
