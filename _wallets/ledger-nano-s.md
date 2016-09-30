@@ -23,21 +23,24 @@ released: August 2016
 price: 58€
 screen: yes
 pic: nanos.png
+pro1: Affordable hardware wallet with screen 58€ ($65)
+pro2: 
+con1: Lack of support for passphrases
 ---
 The Ledger Nano S is Ledger’s newest Bitcoin hardware wallet.  
 
 * Table of Contents
 {:toc}
 
-The Ledger Nano S is different than Ledger’s other two hardware wallets—the Ledger Nano and Ledger HW.1—because it has a screen.  
+The <a rel="nofollow" target="_blank" href="http://buybitcoinww.co/Ledger_Nano_S">Ledger Nano S</a> is different than Ledger’s other two hardware wallets—the Ledger Nano and Ledger HW.1—because it has a screen.  
 
-The Nano S’s screen means, like a KeepKey or TREZOR, it can be used even on a computer that is infected with malware.
+The Nano S’s screen means, like a [KeepKey](/wallets/keepkey/) or [TREZOR](/wallets/trezor/), it can be used even on a computer that is infected with malware.
 
 ## Price
 
 The Ledger Nano S is priced in euros at €58, which is about $65 USD.
 
-The S’s $65 USD price tag makes it the cheapest among the three hardware wallets with screens. While the S is $65, a TREZOR will set you back $109, and a KeepKey $99.  
+The S’s $65 USD price tag makes it the cheapest among the three hardware wallets with screens. While the S is $65, a [TREZOR](/wallets/trezor/) will set you back $109, and a [KeepKey](/wallets/keepkey/) $99.  
 
 The real question is: does the S’s lower price tag come with any security tradeoffs?
 
@@ -88,7 +91,7 @@ Once you do this you should now see a wallet interface in the Ledger Chrome app.
 
 ## Privacy
 
-The Ledger Nano S can actually be setup without even being plugged into a computer. You can completely setup the device from its screen, which means no wallet will be able to see your IP address upon setup (if you setup plugged into regular wallet outlet).  
+The <a rel="nofollow" target="_blank" href="http://buybitcoinww.co/Ledger_Nano_S">Ledger Nano S</a> can actually be setup without even being plugged into a computer. You can completely setup the device from its screen, which means no wallet will be able to see your IP address upon setup (if you setup plugged into regular wallet outlet).  
 
 Once setup, the best wallet option for privacy to use with Ledger is Electrum on desktop, or Mycelium on Android.  
 
