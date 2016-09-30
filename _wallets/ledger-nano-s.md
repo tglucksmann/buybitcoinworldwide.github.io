@@ -3,7 +3,7 @@ layout: wallet
 lang: en
 author: jordantuwiner
 permalink: "/wallets/ledger-nano-s/"
-seotitle: "Ledger Nano S Review"
+seotitle: "Ledger Nano S Review: Should You Buy One?"
 title: "Ledger Nano S"
 desc: The Ledger Nano S is Ledger's first USB hardware wallet with a screen.
 wallet: nanos
@@ -40,6 +40,8 @@ The Nano S’s screen means, like a [KeepKey](/wallets/keepkey/) or [TREZOR](/wa
 
 The Ledger Nano S is priced in euros at €58, which is about $65 USD.
 
+![ledger nano s review](/img/nanos/1.png){: .img-responsive .kb-helper}
+
 The S’s $65 USD price tag makes it the cheapest among the three hardware wallets with screens. While the S is $65, a [TREZOR](/wallets/trezor/) will set you back $109, and a [KeepKey](/wallets/keepkey/) $99.  
 
 The real question is: does the S’s lower price tag come with any security tradeoffs?
@@ -48,7 +50,11 @@ The real question is: does the S’s lower price tag come with any security trad
 
 Before jumping into the S’s security, it’s important to understand why a screen is so vital to hardware wallet security.
 
-The first reason a screen is important is because when you setup a hardware wallet, you will need to write down a 12 or 24 word seed. This seed is a backup of your wallet.  
+The first reason a screen is important is because when you setup a hardware wallet, you will need to write down a 24 word seed. This seed is a backup of your wallet.  
+
+![ledger nano s review](/img/nanos/recovery.png){: .img-responsive .kb-helper}
+
+<div class="caption-kb">The Ledger Nano S recovery sheet. Included in box.</div>
 
 Once your wallet has been setup and bitcoins are sent to your hardware wallet, anyone who has access to this seed can gain control of your bitcoins. So what does this have to do with a screen? Well, if a hardware wallet has no screen then it must use your computer’s display to show the 12/24 word seed. In the slight chance that some hacker could view or see your screen, the hacker would also have access to your seed and bitcoins.  
 
@@ -56,7 +62,12 @@ Since the Ledger Nano S and other hardware wallets have screens, they just displ
 
 The second reason a screen on the Nano S or any hardware wallet is important is because it acts as additional verification before sending payments. The screen makes it easy to confirm that the payment you’d like to send is for the correct amount and to the right address.  
 
-Like the TREZOR, the S also has two physical buttons which add to its security. In order to confirm payment you need to physical press both buttons at the same time. This makes it so no hacker could hack into your device and confirm a payment.  
+Like the TREZOR, the S also has two physical buttons which add to its security. In order to confirm payment you need to physical press both buttons at the same time. This makes it so no hacker could hack into your device and confirm a payment. 
+
+![ledger nano s review](/img/nanos/recovery.png){: .img-responsive .kb-helper}
+
+<div class="caption-kb">A close up view of the Nano S's buttons.</div>
+
 The Ledger Nano S also requires the user to create a PIN code on setup. The PIN code helps prevent the loss of bitcoins in the case that your Nano S is lost. A stranger would not be able to send bitcoins from your Nano S because he/she would not know your 4 digit pin code. After three incorrect guesses of the pin code the device wipes itself.  
 
 Let’s get back to the main purpose of a hardware wallet. It stores your keys in its offline, secure environment. Bitcoins and private keys stored on an online computer are easy target for hackers. When you use a hardware wallet, which stores your bitcoins offline, then your coins are stored offline and out of reach from hackers.  
