@@ -460,11 +460,9 @@ html, body {
 	width: 100%;
 }
 
-.wallet-list {
-	.buy-info-full  {
+.wallet-list .buy-info-full  {
     float: none !important;
     margin-right: 0 !important;
-}
 }
 
 .navbar-brand {
@@ -2082,9 +2080,9 @@ blockquote {
 }
 
 .wallet-article .ctitle {
-    font-size: 22px !important;
+    font-size: 27px !important;
     margin-bottom: 11px !important;
-    margin-top: -5px !important;
+    margin-top: 11px !important;
 }
 
 }
