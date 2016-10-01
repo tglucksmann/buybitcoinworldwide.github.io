@@ -459,6 +459,14 @@ html, body {
 	margin-bottom: 10px;
 	width: 100%;
 }
+
+.wallet-list {
+	.buy-info-full  {
+    float: none !important;
+    margin-right: 0 !important;
+}
+}
+
 .navbar-brand {
     letter-spacing: -2px;
     float: left;
