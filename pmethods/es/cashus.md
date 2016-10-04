@@ -1,5 +1,5 @@
 ---
-layout: help
+layout: guidehelp
 title: "Cómo Comprar Bitcoins con Efectivo"
 seotitle: "5 Formas de Comprar Bitcoins con Efectivo"
 permalink: "/es/comprar-bitcoin-con-efectivo/"
