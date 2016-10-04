@@ -390,7 +390,7 @@
   
  - name: Bittylicious
    desc: Buy bitcoin instantly via Barclays Pingit, instant UK bank transfer, or credit/debit card.
-   url: https://bittylicious.com/
+   url: http://buybitcoinww.co/bittylicious
    icon: https://www.buybitcoinworldwide.com/img/buy/bittylicious.png
    countries: gb
    po: bt, cc, babt, sell
