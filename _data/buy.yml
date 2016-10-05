@@ -633,6 +633,14 @@
    desc_es: Primer intercambio de Bitcoin en Venezuela. Comprar Bitcoin mediante transferencia bancaria.
    desc_ar:  أول صرافة بيتكوين في فنزويلا. شراء بيتكوين عن طريق التحويل المصرفي.
    desc_sell: Sell bitcoins on SurBitcoin, and then transfer the bolivars to your bank account.
+   
+ - name: CryptoBuyer
+   desc: Cryptobuyer lets you buy and sell bitcoins in Venezuela using National Bank Transfer 
+   url: https://cryptobuyer.io/
+   icon: https://www.buybitcoinworldwide.com/img/buy/cryptobuyer.png
+   countries: ve
+   po: bt
+   desc_es: Cryptobuyer le permite comprar y vender bitcoins en Venezuela usando transferencias bancarias, ofrecen tarjetas de débito recargables con Bitcoin y pago de servicios.
 
 ##### Chile ####################################################  
 
