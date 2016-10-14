@@ -579,6 +579,10 @@ html, body {
     font-weight: 400;
 }
 
+.footer-centered {
+	text-align: center;
+}
+
 .navbar-inverse .navbar-nav > li > a {
     color: #fff;
     font-weight: 400;
@@ -771,9 +775,8 @@ html, body {
 
 .footer-english .bottom-footer img {
     height: auto;
-    margin-top: -1px;
-    width: 27px;
-    margin-right: 5px;
+    margin: 30px 5px 5px;
+    width: 238px;
 }
 
 .arabic .footer h4 {
