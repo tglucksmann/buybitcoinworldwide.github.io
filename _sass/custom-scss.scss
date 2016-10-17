@@ -497,7 +497,7 @@ html, body {
 
 .navbar-brand {
     background-image: url("/img/logosmall.png");
-    background-position: 5% 58%;
+    background-position: 5% 43%;
     background-repeat: no-repeat;
     background-size: 49px auto;
     font-weight: 300;
@@ -2353,6 +2353,10 @@ blockquote {
     float: none !important;
     margin-bottom: 5px;
 }
+
+	.vs-compare {
+    width: 100% !important;
+    }
 
 }
 

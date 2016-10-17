@@ -77,12 +77,16 @@ For a while, the TREZOR was the only hardware wallet with a screen. Since a scre
 
 All three wallets are very easy to setup. 
 
+I have been able to set up all three in just a couple of minutes. All three wallets require very similar steps to setup, like writing down a backup of your recovery seed and setting a PIN code. 
+
 ## Size & Design
 
 ![trezor vs. ledger nano s vs. keepkey ](/img/wallets/tlk.jpg){: .img-responsive .kb-helper}
 
-As seen in the image above, the TREZOR is by far the mallest of the three devices. Each wallet does have some unique differences that are hard to see in the picture. 
+As seen in the image above, the TREZOR is by far the mallest of the three devices. Each wallet does have some unique differences that are hard to see in the picture. Also note that the Nano S can be folded into about the same size as the TREZOR, but to use it you must unfold it. 
 
 The TREZOR and Ledger Nano S both have two physical buttons, while the KeepKey has one. 
 
 The KeepKey's screen is much bigger than the other two wallets. As mentioned earlier, the KeepKey's larger screen means it can be securely recovered using a cipher which leaks less data.
+
+The TREZOR is made out of plastic, while the Ledger Nano S and KeepKey are made out of aluminum. Although aluminum sounds like it's nicer, the TREZOR's plastic can actually prove to be more drop resistant. 
