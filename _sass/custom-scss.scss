@@ -2361,7 +2361,7 @@ blockquote {
 }
 
 .vs-compare {
-    width: 60%;
+    width: 70%;
     min-width: 250px;
     border: 1px solid #ccc;
     
@@ -2371,6 +2371,32 @@ blockquote {
     
     th {
     	padding: 7px;
+	}
+}
+
+.software-table {
+	
+	width: 100%; 
+	text-align: center;
+	
+	th {
+	    background-image: linear-gradient(to bottom, #2579c6 0%, #0054a1 100%);
+	    background-repeat: repeat-x;
+	    border: medium none !important;
+	    color: white;
+	    text-align: center;
+	}
+	
+	tr:nth-child(2n+1) {
+    	background: #f2f1f1 none repeat scroll 0 0;
+	}
+	
+	td, th {
+		padding: 6px 5px;
+	}
+	
+	.fa {
+    	color: #1fa67a;
 	}
 }
 
