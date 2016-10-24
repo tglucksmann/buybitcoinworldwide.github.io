@@ -1679,7 +1679,7 @@
    desc_babt: Kraken is the world's largest euro-denominated Bitcoin exchange based on daily average trading volume. It supports bank transfer deposits from US, European, Canadian, British, and Japanese customers. Deposits can be made via international bank transfer, SEPA transfer, and Interac.
 
  - name: Wall of Coins
-   desc: Wall of Coins is an escrow service that makes it easy to buy bitcoins with cash deposit in the US, Canada, Germany, Poland, Argentina, and more. It offers low fees and is a more private way to purchase coins.  
+   desc: Wall of Coins is an escrow service that makes it easy to buy bitcoins with cash deposit in the US, UK, Canada, Australia, Germany, Poland, Argentina, Brazil, Latvia, Mexico, Phillipines, and Romania. It offers low fees and is a more private way to purchase coins.  
    tags: [quickinfo, rec, review, highprivacy, fast, lowfees, trusted, eoueasy, avglimits]
    url: http://buybitcoinww.co/Wall_of_Coins
    internal_url: /exchanges/wall-of-coins/
@@ -1687,7 +1687,7 @@
    countries: us, ca, de, ph, ar, pl, lv
    po: fast, cash, cdus, nobank, lowfees
    pros: <li>Easy and private way to purchase bitcoins</li>
-   cons: <li>Currently limited to seven countries</li>
+   cons: <li>Currently limited to 12 countries</li>
    desc_nobank: <a href="/exchanges/wall-of-coins/">Wall of Coins</a> is a peer-to-peer Bitcoin exchange that offers a number of payment methods. Cash deposit, however, is the exchange's most common payment method. There are over 100,000 deposit locations available across the United States. Wall of Coins also supports Canada, Germany, Poland, Argentina, Latvia, Poland, and the Philippines. After a cash deposit is made you'll usually receive your bitcoins within 15 minutes. 
    desc_cdus: <a href="/exchanges/wall-of-coins/">Wall of Coins</a> is a peer-to-peer Bitcoin exchange that offers a number of payment methods. Cash deposit, however, is the exchange's most common payment method. There are over 100,000 deposit locations available across the United States. Wall of Coins also supports Canada, Germany, Poland, Argentina, Latvia, Poland, and the Philippines. After a cash deposit is made you'll usually receive your bitcoins within 15 minutes. 
    desc_cdus_short: Wall of Coins makes it easy and fast to buy bitcoins with cash. <a href="/exchanges/wall-of-coins/">Wall of Coins review</a>.
