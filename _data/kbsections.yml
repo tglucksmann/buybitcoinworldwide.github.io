@@ -23,25 +23,10 @@
    url: /kb/category/wallets-storage/    
    short: walletsstorage
 
- - kb: Economics
-   icon: economics.png
-   url: /kb/category/economics/  
-   short: economics
-
  - kb: Bitcoin in Financial Crisis
    icon: financialcrisis.png
    url: /kb/category/bitcoin-in-financial-crisis/  
    short: fcrisis
-   
- - kb: Bitcoin vs. Traditional Finance
-   icon: tradtionalfinance.png
-   url: /kb/category/bitcoin-vs-traditional-finance/     
-   short: traditionalf
-   
- - kb: Privacy
-   icon: privacy.png
-   url: /kb/category/privacy/
-   short: privacy        
    
  - kb: Mining
    icon: mining.png
