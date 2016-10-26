@@ -177,7 +177,8 @@
    url: http://buybitcoinww.co/bitpanda
    icon: https://www.buybitcoinworldwide.com/img/buy/bitpanda.png
    countries: ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb 
-   tags: [quickinfo, rec, lowprivacy, fast, lowfees, trusted, eoueasy, highlimits]
+   tags: [quickinfo, review, rec, lowprivacy, fast, lowfees, trusted, eoueasy, highlimits]
+   internal_url: /exchanges/bitpanda/
    pros: <li>Some of the lowest fees for buying bitcoins with credit/debit card</li>
    cons: <li>Fees are not displayed publically on website but instead included in buy price</li>  
    po: sofort, giro, sepa, ccww, ccwwtop, giropay, babt, sell, neteller, skrill
@@ -1430,6 +1431,13 @@
    po: cash
 
 ##### India ####################################################      
+
+ - name: Zebpay
+   desc: Zebpay is a Bitcoin platform and broker based in India. It has Android and iPhone apps that make it easy to buy bitcoins with a connected Indian bank account. 
+   url: https://www.zebpay.com/
+   icon: https://www.buybitcoinworldwide.com/img/buy/zebpay.png
+   countries: in    
+   po: bt
    
  - name: Unocoin
    desc: Leading Indian Bitcoin platform. Buy bitcoin with any Indian bank account. 
@@ -1544,6 +1552,7 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/bitbaynet.png
    countries: pl
    po: bt, cash
+   desc_ccww_pl: BitBay jest wiodącą giełdą kryptowalut w Polsce. Udostępnia wiele zaawansowanych narzędzi do handlu Bitcoin i innymi altcoinami. To, co wyróżnia giełdę BitBay to możliwość szybkich wpłat i wypłat różnymi metodami. Poczta Polska, bankomaty czy karta do konta to najpopularniejsze z nich. Karty kredytowe i debetowe Visa i Mastercard umożliwiają szybkie wpłaty walut EUR i USD na konto BitBay. Prowizja wynosi 5%, ale nie mniej niż 10 EUR lub USD. Usługa jest dostępna tylko dla zweryfikowanych użytkowników giełdy. Wpłacone środki można wykorzystać na dalsze transakcje giełdowe.
 
  - name: Bitcurex
    desc: Largest Bitcoin exchange in Poland. Deposit via bank transfer or SEPA.     
