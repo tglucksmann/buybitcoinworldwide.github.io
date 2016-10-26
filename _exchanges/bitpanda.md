@@ -60,11 +60,11 @@ BitPanda has very low privacy since you must submit your ID before you can buy.
 
 BitPanda offers different levels of verification based on how much information you give them. 
 
-*Verified Email*: With a verified email you cannot buy bitcoins, but can sell up to 1,000 EUR worth of bitcoins per day, and up to 7,500 EUR per month. 
+**Verified Email**: With a verified email you cannot buy bitcoins, but can sell up to 1,000 EUR worth of bitcoins per day, and up to 7,500 EUR per month. 
 
-*Verified Phone Number*: With a verified mobile phone number you can buy bitcoins with any payment methods besides credit card. Using the other payment methods, you can buy up to 50 EUR per day. 
+**Verified Phone Number**: With a verified mobile phone number you can buy bitcoins with any payment methods besides credit card. Using the other payment methods, you can buy up to 50 EUR per day. 
 
-*Verified ID*: By verifying your ID you can buy bitcoins with a credit card, up to 350 EUR per day and up to 10,000 per month. For other payment methods, you can buy up to 5,000 EUR worth of bitcoins per day, and up to 75,000 EUR per month. 
+**Verified ID**: By verifying your ID you can buy bitcoins with a credit card, up to 350 EUR per day and up to 10,000 per month. For other payment methods, you can buy up to 5,000 EUR worth of bitcoins per day, and up to 75,000 EUR per month. 
 
 ## Speed
 
