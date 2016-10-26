@@ -1438,6 +1438,7 @@
    icon: https://www.buybitcoinworldwide.com/img/buy/zebpay.png
    countries: in    
    po: bt
+   tags: [quickinfo, rec, lowprivacy, avgspeed, lowfees, trusted, eoueasy, highlimits]
    
  - name: Unocoin
    desc: Leading Indian Bitcoin platform. Buy bitcoin with any Indian bank account. 
