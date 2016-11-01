@@ -83,7 +83,7 @@ This website exists to help you find the most convenient option for your locatio
 
 There are 3 standard ways to get Bitcoin:
 
-1.  [Purchase from a variety of exchanges](/find-exchange/) around the world. One of the most popular exchanges for North Americans and Europeans is [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"}, which makes the buying process simple for new users.
+1.  [Purchase from a variety of exchanges](/find-exchange/) around the world. One of the most popular exchanges for North Americans and Europeans is [Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"}, which makes the buying process simple for new users.
 
 2.  Buy directly from Bitcoin holders, aided by services like [LocalBitcoins](http://buybitcoinww.co/local_bitcoins){:rel="nofollow"}.
 

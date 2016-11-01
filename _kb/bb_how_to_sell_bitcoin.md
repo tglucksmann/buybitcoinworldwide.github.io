@@ -76,7 +76,7 @@ To view all the available sale venues in your location, obviously excluding the 
 
 Decentralised exchanges such as Mycelium Local Trader, [LocalBitcoins](/exchanges/localbitcoins/) and #Bitcoin-OTC are available (almost) globally. Additionally, [BitQuick](http://buybitcoinww.co/buybitquick){:rel="nofollow"} covers North America, Europe and several Asian nations. Volume on these exchanges is dependent upon the number of individuals in each region interested in trading Bitcoin. Buyers may be scarce in small countries and / or those with low levels of internet penetration.
 
-Larger exchanges, such as [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"}, span several countries or entire regions. Smaller, local exchanges exist in most nations with a significant Bitcoin user-base.
+Larger exchanges, such as [Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"}, span several countries or entire regions. Smaller, local exchanges exist in most nations with a significant Bitcoin user-base.
 
 Here are some specific recommendations for the English-speaking world:
 
@@ -90,19 +90,19 @@ All major decentralised services are available in the US, although LocalBitcoins
 
 ### Sell Bitcoins in Canada
 
-The big American exchanges, [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} and [Kraken](http://buybitcoinww.co/kraken_bitcoin){:rel="nofollow"}, are also available in Canada for purposes of selling Bitcoin for Canadian dollars. Canada has many of its own exchanges, large and small; [Quadriga CX](https://www.quadrigacx.com/) is recommended for its low fees and advanced trading platform.
+The big American exchanges, [Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"} and [Kraken](http://buybitcoinww.co/kraken_bitcoin){:rel="nofollow"}, are also available in Canada for purposes of selling Bitcoin for Canadian dollars. Canada has many of its own exchanges, large and small; [Quadriga CX](https://www.quadrigacx.com/) is recommended for its low fees and advanced trading platform.
 
 All major decentralised services are available in Canada.
 
 ### Sell Bitcoins in Europe
 
-[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"}, [Bitfinex](http://buybitcoinww.co/bitfinex_exchange), [Kraken](http://buybitcoinww.co/kraken_bitcoin) and [Bitstamp](http://buybitcoinww.co/buy_bitstamp){:rel="nofollow"} are some of the biggest exchanges servicing Europe.
+[Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"}, [Bitfinex](http://buybitcoinww.co/bitfinex_exchange), [Kraken](http://buybitcoinww.co/kraken_bitcoin) and [Bitstamp](http://buybitcoinww.co/buy_bitstamp){:rel="nofollow"} are some of the biggest exchanges servicing Europe.
 
 Note that LocalBitcoins is not available within Germany due to legal restrictions; [Bitcoin.de](http://buybitcoinww.co/Bitcoin_de){:rel="nofollow"} is recommended as an alternative.
 
 ### Sell Bitcoin in the UK
 
-UK-based Bitcoin sellers have extensive options when it comes to exchanges. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"},[Bitfinex](http://buybitcoinww.co/bitfinex_exchange), [Kraken](http://buybitcoinww.co/kraken_bitcoin){:rel="nofollow"} and [Bitstamp](http://buybitcoinww.co/buy_bitstamp){:rel="nofollow"} are all represented in the UK.
+UK-based Bitcoin sellers have extensive options when it comes to exchanges. [Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"},[Bitfinex](http://buybitcoinww.co/bitfinex_exchange), [Kraken](http://buybitcoinww.co/kraken_bitcoin){:rel="nofollow"} and [Bitstamp](http://buybitcoinww.co/buy_bitstamp){:rel="nofollow"} are all represented in the UK.
 
 The major decentralised exchanges are available in the United Kingdom, as well as the UK-only, peer-to-peer marketplace, [BitBargain](https://bitbargain.co.uk/).
 

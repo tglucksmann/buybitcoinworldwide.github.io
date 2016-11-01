@@ -8,7 +8,7 @@ lang: en
 cat: broker, popular
 seotitle: "Coinbase Review: Is Coinbase Safe? (Yes)"
 website: coinbase.com
-website_url: http://buybitcoinww.co/buycoinbase
+website_url: http://buybitcoinww.co/Buy_Coinbase
 twitter: coinbase
 twitter_url: https://twitter.com/coinbase
 facebook: Coinbase
@@ -36,7 +36,7 @@ fees_score: 8.5
 fees_width: 85
 aff: yes
 ---
-Is Coinbase safe? is a common question. Yes, Coinbase is a Bitcoin company based in San Francisco, and backed by trusted investors. [Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, wallet, and developer API. Here we'll review its brokerage, exchange, and [wallet](/exchanges/coinbase/#coinbase-wallet-review). 
+Is Coinbase safe? is a common question. Yes, Coinbase is a Bitcoin company based in San Francisco, and backed by trusted investors. [Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"} is the world's largest Bitcoin broker, and also offers an exchange, wallet, and developer API. Here we'll review its brokerage, exchange, and [wallet](/exchanges/coinbase/#coinbase-wallet-review). 
 
 ## Payment Methods Accepted
 
@@ -78,7 +78,7 @@ Users must provide full identity verification and many personal details.
 {:toc}
 
 ## Limits & Liquidity
-[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} offers very high limits. Limits depend on your account level, which is determined by how much information you have verified. Fully verified U.S. customers may buy up to $50,000 worth of bitcoin daily. 
+[Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"} offers very high limits. Limits depend on your account level, which is determined by how much information you have verified. Fully verified U.S. customers may buy up to $50,000 worth of bitcoin daily. 
 
 European customers may have a maximum of €30,000 euro in their account at any time. 
 
@@ -107,12 +107,12 @@ Coinbase charges a flat 1% fee on all purchases.
 Canadian customers must pay a $1 fee on any transfers of CAD to a bank account. European users buying with a 3D secure debit card will be charged a 3% fee instead of 1%. 
 
 ## Supported Countries
-[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} offers its brokerage services in the United States, United Kingdom, Canada, Singapore, and the following European countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Liechtenstein, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland.
+[Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"} offers its brokerage services in the United States, United Kingdom, Canada, Singapore, and the following European countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Finland, France, Greece, Hungary, Ireland, Italy, Latvia, Liechtenstein, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland.
 
 Coinbase plans to enter the Latin American market in 2016. 
 
 ## Customer Support
-[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} has a [knowledge base](https://support.coinbase.com/) and [email support](https://support.coinbase.com/customer/portal/emails/new). [Coinbase "Community"](https://community.coinbase.com/) can be used to ask questions and get support help. 
+[Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"} has a [knowledge base](https://support.coinbase.com/) and [email support](https://support.coinbase.com/customer/portal/emails/new). [Coinbase "Community"](https://community.coinbase.com/) can be used to ask questions and get support help. 
 
 ## Past Issues
 

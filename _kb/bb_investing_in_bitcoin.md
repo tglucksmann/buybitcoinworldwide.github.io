@@ -49,7 +49,7 @@ Global chaos is generally seen as beneficial to Bitcoin’s price since Bitcoin 
 ## How to Invest in Bitcoins and Where to Buy
 The [difficulty of buying bitcoins](/kb/how-to-buy-bitcoin/) depends on your country. Developed countries have more options and more liquidity. 
 
-[Coinbase](http://buybitcoinww.co/buycoinbase){:rel="nofollow"} is the world’s largest bitcoin broker and available in the United States, Canada, Singapore, and most of Europe. You can use our [country index](/country-index/) or our [exchange finder](/find-exchange/) tool to find a place to buy bitcoins in your country. 
+[Coinbase](http://buybitcoinww.co/Buy_Coinbase){:rel="nofollow"} is the world’s largest bitcoin broker and available in the United States, Canada, Singapore, and most of Europe. You can use our [country index](/country-index/) or our [exchange finder](/find-exchange/) tool to find a place to buy bitcoins in your country. 
 
 ## How to Secure Bitcoins
 As with anything valuable, [hackers, thieves, and scammers](/kb/avoid-bitcoin-scams/) will all be after your bitcoins, so securing your bitcoins is necessary. If you’re serious about investing in bitcoin and see yourself buying a significant amount, we recommend using Bitcoin wallets that were built with security in mind. 
