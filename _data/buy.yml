@@ -365,7 +365,7 @@
    desc: Bitcoin exchange and broker. Easy way to buy bitcoin in five supported countries. 
    url: http://buybitcoinww.co/bitx_co
    icon: https://www.buybitcoinworldwide.com/img/buy/bitx.png
-   countries: id, ke, my, ng, za
+   countries: id, my, ng, za, sg
    po: mpesa, bt, eft, sell
    name_es: BitX
    desc_es: Intercambio de efectivo y corredores. Manera fácil de comprar Bitcoin en cinco países soportados.
