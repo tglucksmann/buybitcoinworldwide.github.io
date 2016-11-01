@@ -12,10 +12,10 @@ categories:
 - buying
 weight: 8
 ---
-Bitcoin is [becoming attractive as a speculative investment](/kb/investing-in-bitcoin/) as more people begin to [doubt the existing financial system](/kb/category/bitcoin-vs-traditional-finance/) and fiat currencies. Because of this the question “how do I buy large amounts of bitcoin?” is popping up frequently. This post will show you how.
-
 * Table of Contents
 {:toc}
+
+Bitcoin is [becoming attractive as a speculative investment](/kb/investing-in-bitcoin/) as more people begin to [doubt the existing financial system](/kb/category/bitcoin-vs-traditional-finance/) and fiat currencies. Because of this the question “how do I buy large amounts of bitcoin?” is popping up frequently. This post will show you how.
 
 ## OTC Exchanges
 
