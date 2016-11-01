@@ -21,6 +21,10 @@ Bitcoin is [becoming attractive as a speculative investment](/kb/investing-in-bi
 
 [Over-the-counter](http://www.investopedia.com/terms/o/otc.asp) exchanges have helped increase liquidity. Large players now have more options to deal with large blocks of bitcoin, thanks to the companies discussed in depth below. For more information on Bitcoin OTC markets, check out [this explainer from Brave New Coin](http://bravenewcoin.com/news/how-to-buy-large-amounts-of-bitcoin-through-the-otc-market/).  
 
+## Cumberland Mining
+
+[Cumberland Mining](https://cumberlandmining.com/) is one of the leading OTC liquidity providers in the digital currency space. It is a subsidiary of DRW Trading, a prominent financial trading firm.  As one of the few institutional trading firms in the digital currency space, it helps provide global liquidity to the overall ecosystem through competitive markets/prices.
+
 ## Genesis
 
 ![genesis trading][1]{: .img-responsive .kb-helper}
