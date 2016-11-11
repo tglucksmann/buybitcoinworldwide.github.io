@@ -56,7 +56,7 @@ Frequently recommended to Western traders are Bitcoin exchanges such as [BitFine
 
 Bitcoin binary options, which effectively constitute bets on future price, are available from various brokers, such as [BTC Oracle](http://btcoracle.com/index.php). Binary options aren’t recommended for dedicated Bitcoin traders, who have better _options_ elsewhere.
 
-A final important point is that traders may speculate on Bitcoin’s price without ever touching Bitcoin. Online exchanges like [Plus500](http://buybitcoinww.co/plus500_BTCUSD){:rel="nofollow"} and [AvaTrade](http://buybitcoinww.co/AvaTrade_Bitcoin){:rel="nofollow"} allow for price speculation via fiat-only [Contracts for Difference](http://www.investopedia.com/terms/c/contractfordifferences.asp) (CFDs). Such exchanges additionally offer a variety of other markets to trade, such as Forex and commodities, although their costs are higher than those of Bitcoin exchanges.
+A final important point is that traders may speculate on Bitcoin’s price without ever touching Bitcoin. Online exchanges **(Your capital is at risk)** like [Plus500](http://buybitcoinww.co/plus500_BTCUSD){:rel="nofollow"} and [AvaTrade](http://buybitcoinww.co/AvaTrade_Bitcoin){:rel="nofollow"} allow for price speculation via fiat-only [Contracts for Difference](http://www.investopedia.com/terms/c/contractfordifferences.asp) (CFDs). Such exchanges additionally offer a variety of other markets to trade, such as Forex and commodities, although their costs are higher than those of Bitcoin exchanges.
 
 ## Fear and Greed
 
