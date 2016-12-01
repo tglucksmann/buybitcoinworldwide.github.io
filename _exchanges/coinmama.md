@@ -40,6 +40,12 @@ aff: yes
 
 CoinMama accepts Visa and Mastercard [credit and debit cards](/en/buy-bitcoin-credit-debit-card/) and [cash](/en/buy-bitcoins-with-cash/). It also allows customers to buy with Western Union. 
 
+## Buy
+
+You can buy bitcoins directly from CoinMama using the widget below. 
+
+<script id='mamacoin-script' data-affiliate-id='jordant' src='https://widget.coinmama.com/index.js'></script>
+
 ## Supported Countries
 
 Among bitcoin brokers that accept credit cards, CoinMama supports the widest range of countries. It supports most countries worldwide besides obviously sanctioned countries. It supports some [US states](https://www.buybitcoinworldwide.com/en/us/), including California, Texas, and Florida. 
