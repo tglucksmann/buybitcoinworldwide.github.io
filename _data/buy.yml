@@ -40,7 +40,7 @@
    cons: <li><a href="/buy-bitcoin-bank-transfer-account/">Purchases made with bank transfer</a> can take up to 5 days to complete</li>
    sg: Residents of Singapore can purchase bitcoins on Coinbase using three payment options - <a href="/en/buy-bitcoin-credit-debit-card/">credit card</a>, debit card, or bank transfer. <br><br> Once your Coinbase account is verified, you will be given the account information that will be used to make a bank transfer deposit. This is done through Xfers Transfers. Coinbase claims that deposits clear within a few minutes, and that there are no deposit fees. Once you deposit Coinbase charges 1.49% to purchase coins. <br> <br> If you are buying with a <a href="/en/buy-bitcoin-credit-debit-card/#coinbase-guide">credit card or debit card</a>, there is also a required identity verification. Fees for buying with a credit card or debit card are 3.99%. <br><br> If you purchase more than $100 USD (~136.24 SGD) worth of bitcoins through <a target="_blank" href="http://buybitcoinww.co/Buy_Coinbase">this link</a> then you get $10 USD (13.62 SGD) worth of bitcoins for free! 
    ca: Residents of Canada can use Coinbase to <a href="/en/buy-bitcoin-credit-debit-card/">purchase bitcoins with a credit card or debit card</a>. The fees are 3.99% per purchase, and your bitcoins are delivered instantly. <br><br> If you purchase more than $100 USD (~130 CAD) worth of bitcoins through <a target="_blank" href="http://buybitcoinww.co/Buy_Coinbase">this link</a> then you get $10 USD (~13 CAD) worth of bitcoins for free!
-   us: Coinbase is probably the fastest and easiest way to buy bitcoins in the USA. <br><br> If you need bitcoins fast, then <a href="/en/buy-bitcoin-credit-debit-card/#coinbase-guide">buying with a credit card or debit card</a> is a good option. Coinbase charges 3.99% fees for credit/debit card purchases but you can get your coins instantly. <br><br> Another payment option for US customers is using a connected bank account. The fees are less for this method--1.49%--but your coins are only delivered after five days. <br><br> If you want to buy with a connected bank account and don't want to wait five days, <a href="/exchanges/circle/">Circle</a> delivers coins purchased with a bank account instantly but has lower buy limits. <br><br> Get $10 of free bitcoin when you buy more than $100 worth through <a target="_blank" rel="nofollow" href="http://buybitcoinww.co/Buy_Coinbase">this link</a>.
+   us: Coinbase is probably the fastest and easiest way to buy bitcoins in the USA. <br><br> If you need bitcoins fast, then <a href="/en/buy-bitcoin-credit-debit-card/#coinbase-guide">buying with a credit card or debit card</a> is a good option. Coinbase charges 3.99% fees for credit/debit card purchases but you can get your coins instantly. <br><br> Another payment option for US customers is using a connected bank account. The fees are less for this method--1.49%--but your coins are only delivered after five days. <br><br> Get $10 of free bitcoin when you buy more than $100 worth through <a target="_blank" rel="nofollow" href="http://buybitcoinww.co/Buy_Coinbase">this link</a>.
    au: Residents of Australia can use Coinbase to <a href="/en/buy-bitcoin-credit-debit-card/">purchase bitcoins with a credit card or debit card</a>. The fees are 3.99% per purchase, and your bitcoins are delivered instantly. <br><br> If you purchase more than $100 USD (~130 AUD) worth of bitcoins through <a target="_blank" href="http://buybitcoinww.co/Buy_Coinbase">this link</a> then you get $10 USD (~13 AUD) worth of bitcoins for free!
 
  - name: VirWoX
@@ -76,37 +76,6 @@
    desc_pt_br: Compre Bitcoins na Suíça por transferência bancária ou SEPA. Rápido e fácil. 
    desc_de: Kaufen mit SEPA Überweisungen oder Banküberweisungen in der Schweiz.
    desc_bg: Купете чрез SEPA превод или банков превод в Швейцария. Бързо и удобно. 
-   
- - name: Circle
-   desc: Buy bitcoin with a connected bank account, credit card, or debit card in the United States and United Kingdom. 
-   url: http://buybitcoinww.co/Circle_Bitcoin
-   internal_url: /exchanges/circle/
-   icon: https://www.buybitcoinworldwide.com/img/buy/circle.png
-   tags: [quickinfo, rec, reccc, review, lowprivacy, fast, lowfees, trusted, eoueasy, lowlimits]
-   countries: us
-   pros: <li>Low fees for debit card purchases</li> <li>Instant delivery on credit card and debit card buys</li> 
-   cons: <li>Extremely low limits, just $300 per week</li>
-   po: ccus, usbt, fast, lowfees, ccww, ccwwtop, bt, cc, ach, babt, sell
-   desc_ach: Circle lets you connect a bank account and buy via ACH transfer. Circle doesn't officially charge a fee, but its exchange rate is usually 0.5% higher than Bitcoin exchanges. Circle charges no fees and delivery of your coins is instant! 
-   desc_achshort: Buy bitcoin with your bank account via ACH transfer. Limited to $300 per week. Circle charges no fees and delivery of your coins is instant! 
-   desc_usbankshort: Buy bitcoin with your bank account via ACH transfer. Limited to $300 per week.
-   desc_ccww: Circle lets you buy bitcoin online with a credit or debit card instantly. If you use a credit card you'll have to pay a 3% fee, while purchases made with a debit card come with absolutely no fees. Both credit card and debit purchases are delivered instantly to your Circle wallet. Circle is currently only available in the United States and UK. Purchasing through Circle is the only way to buy bitcoin with a debit card with no fees. Your initial buy limit is $300 of bitcoin per week although this limit can be raised if requested. <br><br> We have a <a href="/en/buy-bitcoin-credit-debit-card/#buy-bitcoin-instantly-with-credit-card-or-debit-card">step-by-step guide</a> that shows you how to purchase bitcoins on Circle. 
-   desc_ccww_pl: Circle pozwala natychmiastowo kupować bitcoiny on-line za pomocą karty kredytowej lub debetowej bez dodatkowych opłat. W przypadku korzystania z karty kredytowej, należy uiścić opłatę w wysokości 3%. Circle jest obecnie dostępne tylko w Stanach Zjednoczonych. Zakup poprzez Circle jest jedynym sposobem na zakup bitcoinów kartą debetową bez opłat. Twój początkowy limit na zakupy to bitcoiny o równowartości 300 dolarów tygodniowo, chociaż ten limit może zostać podniesiony na Twoją prośbę.
-   desc_babt: Circle lets US customers purchase bitcoins with a connected bank account. Initial bank verification may take 1-4 days. 
-   desc_es: "Comprar Bitcoin de forma instantánea con una cuenta bancaria o tarjeta de crédito. Sin comisiones."
-   desc_ar:  شراء بيتكوين عبر حساب مصرفي أو بطاقة الائتمان. بسرعة ويسر.
-   desc_fr: Achetez des bitcoins avec un compte en banque ou par carte de crédit. Rapide et facile.
-   desc_el: Αγοράστε bitcoin με τραπεζικό λογαριασμό ή πιστωτική κάρτα. Εύκολα και γρήγορα.
-   desc_nl: Koop bitcoin met een bankrekening of creditcard. Snel en gemakkelijk.
-   desc_it: Acquista Bitcoin con un conto bancario o una carta di credito. Facile e veloce.
-   desc_pt_br: Compre Bitcoins instantaneamente usando uma conta bancária ou cartão de crédito. 
-   desc_de: Kaufen Sie Bitcoin mit einem Bankkonto oder Kreditkarte. Schnell und einfach.
-   desc_zh: 通过银行账户或信用卡购买比特币。快捷又简单。
-   desc_bg: Купете биткойн с помощта на вашата банкова сметка. Лесно, бързо, удобно.
-   desc_ru: Купить биткоин мгновенно с помощью банковского счета или кредитной карты. Без процентных сборов.
-   desc_uk: Купить биткоин мгновенно с помощью банковского счета или кредитной карты. Без процентных сборов.
-   desc_sell: Sell bitcoins to your bank account or credit/debit card in the United States and United Kingdom. 
-   us: Circle is a popular way to purchase bitcoins in the United States. It allows customers to buy with a credit card (3% fees, instant delivery), debit card (no fees, instant), or a connected bank account. <br><br> If you decide to purchase with a credit/debit card, we <a href="/en/buy-bitcoin-credit-debit-card/#buy-bitcoin-instantly-with-credit-card-or-debit-card">have published a step-by-step guide</a> to make the process easier. 
 
 ## - name: Celery
 ##   desc: Bitcoin broker. Buy with your bank account via ACH bank transfer. 
