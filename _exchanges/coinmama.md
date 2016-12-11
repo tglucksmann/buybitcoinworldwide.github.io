@@ -20,10 +20,10 @@ con2:
 con3:
 summary: CoinMama is a bitcoin broker based in Israel. They specialize in selling bitcoins for credit card to nearly anyone in the world. 
 summarylong: CoinMama is a bitcoin broker based in Israel. They specialize in selling bitcoins for credit card to nearly anyone in the world. 
-privacy_score: 1
-privacy_width: 10
-limits_score: 9
-limits_width: 90
+privacy_score: 3
+privacy_width: 30
+limits_score: 10
+limits_width: 100
 speed_score: 9
 speed_width: 90
 reputation_score: 7
@@ -48,19 +48,21 @@ You can buy bitcoins directly from CoinMama using the widget below.
 
 ## Supported Countries
 
-Among bitcoin brokers that accept credit cards, CoinMama supports the widest range of countries. It supports most countries worldwide besides obviously sanctioned countries. It supports some [US states](https://www.buybitcoinworldwide.com/en/us/), including California, Texas, and Florida. 
+Among bitcoin brokers that accept credit cards, CoinMama supports the widest range of countries. It supports most countries worldwide besides obviously sanctioned countries. 
+
+It also supports some [US states](https://www.buybitcoinworldwide.com/en/us/): California, Colorado, Florida, Illinois, Indiana, Kansas, Massachusetts, Michigan, Montana, New Mexico, North Carolina, Pennsylvania, South Carolina, Tennessee, Texas. 
 
 ## Privacy
 
-CoinMama requires full identity verification before you can buy bitcoins. 
+CoinMama allows customers purchasing less than $150 worth of bitcoins to buy without uploading pictures of an ID. Any amount over $150 worth of bitcoins will require full identity verification. 
 
 ## Limits & Liquidity
 
-CoinMama offers some of the highest buying limits among brokers that accept credit cards. It allows up to $1,000 worth of BTC to be purchased per day, and up to $5,000 worth per month. 
+CoinMama offers some of the highest buying limits among brokers that accept credit cards. It allows up to $5,000 worth of BTC to be purchased per day, and up to $20,000 worth per month. 
 
 ## Speed
 
-Initial verification can take some time but after initial verification all purchases will have bitcoins delivered instantly. 
+Initial verification takes a couple hours during work hours, and no more than 24 hours. After initial verification all purchases will have bitcoins delivered instantly. 
 
 ## Reputation
 
