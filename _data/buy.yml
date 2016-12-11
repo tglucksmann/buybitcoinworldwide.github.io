@@ -331,13 +331,13 @@
    desc_sell: Sell bitcoins to your bank account in Europe via SEPA bank transfer. 
 
  - name: BitX
-   desc: BitX is a universal Bitcoin platform that provides secure exchanges where people can buy/sell Bitcoin.  
+   desc: BitX is a universal Bitcoin platform that provides secure exchanges where people can buy/sell Bitcoin. It offers 0% fees for market makers, meaning you can buy bitcoins with no fees if you have some patience.   
    url: http://buybitcoinww.co/bitx_co
    icon: https://www.buybitcoinworldwide.com/img/buy/bitx.png
    countries: id, my, ng, za, sg
    po: mpesa, bt, eft, sell
    name_es: BitX
-   tags: [quickinfo, rec, lowprivacy, slow, lowfees, trusted, eoueasy, highlimits]
+   tags: [quickinfo, rec, lowprivacy, fastspeed, lowfees, trusted, eoueasy, highlimits]
    desc_es: Intercambio de efectivo y corredores. Manera fácil de comprar Bitcoin en cinco países soportados.
    desc_fr: Bourse d'échange de bitcoins et courtier. Un moyen facile d'acheter des bitcoins dans 5 pays supportés.
    desc_zh: 比特币交易和代理人。在五个接受比特币的国家简单的购买比特币。
