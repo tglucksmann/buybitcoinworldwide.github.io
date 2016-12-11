@@ -171,7 +171,7 @@ Incorporating all the above strategies and tools into a coherent trading plan wi
 
 Once you’ve proven the viability of a particular plan, consider advancing to the next stage of Bitcoin trading: programming a trading bot which connects to your exchange’s API and faithfully carries out your plan whilst you soak up the rays on a tropical beach… Good luck, you’ll need it!
 
-<i>Plus500 UK Ltd is authorised and regulated by the Financial Conduct Authority (FRN 509909). Plus500 CY LTD is authorised and regulated by the Cyprus Securities and Exchange Commission (License No. 250/14). Plus500AU Pty Ltd, AFSL #417727 issued by the Australian Securities and Investments Commission is authorized to issue these products to Australian residents. You do not own or have any right to the underlying assets. Please consider our Disclosure documents available on our website.</i>
+_Plus500 UK Ltd is authorised and regulated by the Financial Conduct Authority (FRN 509909). Plus500 CY LTD is authorised and regulated by the Cyprus Securities and Exchange Commission (License No. 250/14). Plus500AU Pty Ltd, AFSL #417727 issued by the Australian Securities and Investments Commission is authorized to issue these products to Australian residents. You do not own or have any right to the underlying assets. Please consider our Disclosure documents available on our website._
 
 [1]: /img/trade/cycle.png
 [2]: /img/trade/stoptarget.png
