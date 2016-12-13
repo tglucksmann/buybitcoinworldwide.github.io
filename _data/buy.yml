@@ -1049,15 +1049,15 @@
    desc_zh: 中国比特币交易平台。交易费略不同。以美元和人民币交易。
    
  - name: Gatecoin
-   desc: Gatecoin is a Bitcoin exchange based in Hong Kong. Customers can deposit with SEPA transfer, SWIFT, and OKPAY. Gatecoin was recently hacked and lost user funds.
+   desc: Gatecoin is a regulated cryptocurrency and blockchain assets exchange based in Hong Kong. Buy bitcoin and ethereum tokens using HKD, EUR, USD and CNY. Invest in ICOs. Gatecoin relaunched after a hack in May 2016 with enhanced security and is repaying the stolen Ethereum tokens to affected clients.
    url: https://gatecoin.com/
    icon: https://www.buybitcoinworldwide.com/img/buy/gatecoin.png
    countries: cn, hk, ad, at, be, bg, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, ro, sm, sk, si, es, se, ch, gb
-   po: sepa, swift
-   desc_de: Bitcoin Börse in Hong Kong. Einzahlen mit SEPA Überweisung,SWIFT und OKPAY.
-   desc_zh: 香港比特币交易平台。通过国家环保总局转账、SWIFT和OKPAY交存。
-   desc_bg: Биткойн борса в Хонг Конг. Депозирайте чрез  SEPA превод, SWIFT и OKPAY.
-   tags: [quickinfo, lowprivacy, speedvaries, feesvary, lowtrust, eouavg, avglimits]
+   po: sepa, swift, cash deposit
+   desc_zh: Gatecoin是受监管的加密货币和区块链资产交易平台。买比特币, 以太币和加密令牌。以美元，欧元，港币和人民币交易。
+   desc_ja: Gatecoinは規制を受けたオンライン取引プラットフォームで、暗号通貨とブロックチェーン資産を取り扱っています。
+   desc_fr: Gatecoin est un échangeur régulé de crypto-monnaies et d'actifs liés à la Blockchain. Acheter et vendre des bitcoins et de l'éther aec USD, EUR, HKD et CNY.
+   tags: [quickinfo, lowprivacy, fastspeed, feesvary, avgtrust, eouavg, avglimits]
    
  - name: Yunbi
    desc: Small Bitcoin exchange in China. Fee varies. Trade in CNY. 
